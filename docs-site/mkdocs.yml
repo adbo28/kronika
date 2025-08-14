@@ -1,0 +1,27 @@
+site_name: Obecní kronika Stará Ves
+site_description: Historická kronika obce 1923-1991
+
+theme:
+  name: material
+  language: cs
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: cs
+  - meta
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+

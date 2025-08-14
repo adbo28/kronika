@@ -1,0 +1,575 @@
+---
+title: '1952'
+chapter_number: 131
+heading_level: 3
+nav_weight: 131
+---
+
+
+
+Na Nový rok na večer byla vánice s krupkami, 2. ledna padal sníh a 3. pršelo a 5. mnoho sněhu napad­
+lo a 12. ještě více. První týden ledna dostali navlékači lístky na mouku, margarín a mléko i ze řad sa­
+mozásobitelé přesto že přes 3 ha výměry korale k navleku nedostali. Ten čas se proslavil St. Marek
+článkem v Rozhlase v němž velebil dnešní poměry a haněl poměry první republiky a zároveň způsobil
+velký rozruch článek k jehož autorství se nikdo nechtěl přiznat ve Stráži Severu v němž psáno že ves­
+ničtí boháči: Jos. Soukup, Jos. Slavík a Marie Jandová brzdili sklizeň okopanin a Soukup že se vetřel
+do komunistické strany, aby ji narušoval a on byl za první republiky zakladatelem její zdejší organiza­
+ce a dávno li bylo od toho kdy se psalo v novinách „Není Soukup jako Soukup“, kdy ho stavěli jako
+vzor proti jeho jmenovci v Jilemnici a 10. byl obeslán na ONV k výslechu stran urážky předsedy vlády.
+8. ledna dostali: Jarosl. Večerník a Boh. Slavík nařízení přidati do týdne ještě 250 kg žita ježto jim
+úmrtím matek ubyl jeden člen rodiny ze zásobování od MNV ve Staré Vsi doporučeně poštou. Ten den
+večer rozpis dodávek na letošní rok kteří dělali: St. Marek a Jos. Šmíd a Jos. Soukup. Vlast. Albrecht,
+Bedř. Polouprutský jenž uposlechli pozvání k tomu, nebyly k ničemu připuštěni. Do té schůze přišli
+za předsedou Vodseďálkem dva tajní policisté a mluvili s ním ve vedlejší místnosti MNV.
+10. led. obeslán Jos. Soukup st. v případě té urážky předsedy vlády na ONV do Jilemnice k výsle­
+chu. 16. let likvidace dodávky mléka za loňský rok a za nesplněné plnění náhradní přičemž Karel
+Čermák se uvolil dodá ti 80 kg jetelového semínka. Velký výstup byl s: Vil. Polouprutským a Fr.
+Vodseďálkem, když jim Marek řekl „proč se více nepřičiní“, vstal Jaroslav Večerník a uchopiv kraj
+stolu řekl „a tohle říkáš ty, řekni tohle ještě jednou a já tě převrátím i s tím stolem.“
+18. led. večer měla být schůze skrz kontingent a zatím se již dopoledne musel podpisovat. 22. led­
+na začalo mrznout a mrzlo do konce měsíce a dále v unoru. Posledního ledna ve 4. hodiny ráno
+zatčen Oldř. Vodseďálek malíř č. 83 oněmi dvěma, kteří přišli 8. za předsedou na MV a kteří byli
+u předsedy jeho souseda přes noc, když byl předtím předseda Vodseďálek u jeho matky zjistit, kdy
+bude doma. Zdálo se lidem není li to v souvislosti s objevením tajné vysílačky v Pasekách o čemž
+sem pověst došla.
+
+
+1. unora se vydávali lístky a kdo nesplnil loňskou dodávku ve víc než v jednom produktu ten je
+nedostal což byli u nás: Jos. Janda, St. Kvarda, Boh. Večerník, F. Soukup, Jos. Vodseďálková, Žofie
+Albrechtová a Vladimír Šalda. 2. unora se vrátil z vězení kde jsi odpracovával stravné za těch dří­
+vějších 9 měsíců vězení 2. měsíce Jos. Janda. Dne 5. unora obesláni na M.N.V. co nepodepsali do­
+dávku a podepsal ji Ant. Štěpánek jenž se odvolával na nízkou dodávku svého souseda Fr. Zemana
+a bylo mu předsedou odpověděno že Zeman slíbil podepsati rozorání mezi H.U.P. (T). Antonín
+Štěpánek se ptal, jak to přijde že jeho soused Zeman má všechny dodávky menší než on a bylo mu
+předsedou odpověděno že Zeman slíbil podepsati HTUP = Hospodářskou technickou úpravu
+půdy, tedy rozorání mezí a na dotaz Jaroslava Večerníka jestli pro to opravdu je, Zeman odpověděl
+„ale nejsem, ale chci si u chlapů udělat dobré oko a myslím si že ostatní pro to nebudou a tak ten
+můj slib bude jako nic a takhle podlézavá byla i Marie Jandová.
+V tomto týdnu zmizel budovatelský štít ze školní budovy. Dne 8. unora si byla Marie Nováková
+č. 43 na M.N.V. skrze to že byla postižená tím zákazem dáváni koral k navleku těm jenž hospodaří
+na výměře přes 3 ha ale nic jí to neprospělo. Ten týden mrzlo a v sobotu 9. unora vánice jaká tu
+zimu ještě nebyla a 10. un. ohromně sněhu a stále padal. Na závody lýžařů do Vysokého tu přes ves
+přejel v autobuse ministr Harus. 9. unora se ženil Jiří Čermák s Martou Sieberovou z Jablonce což
+nechtěly úřady povolit že ženichova rodina jsou zavilí nepřátele režimu a že mají posud ve světnici
+obraz Švehly a že děvče z dělnické rodiny se mezi nimi ztratí což rozřešil MNV v Jablonci že se
+nemusí ztratit ale že je může získat pro socialismus, kolektivisaci a scelení pozemku což nevěsta
+slíbila. 11. unora foukanice dál a 14. v noci ze severovýchodně blýskalo. 12. unora vyšetřován Vít
+Martinec před stranou skrz pětistránkové anonimní udání a jeho kolaborantství za okupace dolože­
+né výpověďmi: předsedy Vodseďálka, Milosl. Vodseďálka ml. a Václ. Přibyla z Kořenova, Jos.
+Janouš ka, Bohusl. Nováka, Oldř. Nováka a jeden funkcionář strany z Jilemnice mu řekl „měli tě
+v roce 1945 odprásknout a byl by od tebe pokoj a jdi mě z očí, já tě nechci vidět!“ Bylo veřejným
+tajemstvím že mu to způsobila závist že se dostal na ONV kamž dopomohl i dceři Anně a že poma­
+hal švakrů Šmídovi k zapomenutí jeho nedodávky: mléka, obojího masa aj. (politický odpis) a jinak
+se jeho kolaborantství projevovalo hlavně chválou Němců. A 1. března při vydávání potravinových
+lístku k těm co minulý měsíc nedostali cukrové, přibyl Josef Šmíd.
+13. unora přišla zpráva že je slintavka v sousedních Roztokách: Hlouška, Babce a Pelce a naříze­
+na proto kontumace koček a když tam zanikla oznámeno 25. března že je ve Zlaté Olešnici u Jar.
+Dufka č. 110 a to jaro tu kočky hynuly na prašivinu. 14. ún večer měla sem zas přijet do č. 73 pro­
+dejna P.K.D s textilem a nádobím ale nedočekali se jí. Na první neměl skoro nikdo body ale to
+druhé všichni potřebovali jako sůl a oni se nám vymluvili že nemohli přijet kvůli slintavce jakoby
+jiné nejezdilo. Dne 16. ún. zemřel po dlouholeté nemoci 68 letý Oldř. Ducháček č. 14 bývalý hos­
+tinský načinář skoro kovář a dlouholetých hasičský velitel. Chalupu č. 11 po něm ujala vdova Bo­
+žena Ducháčková. Toho dne v sobotu večer v M.N.V. se schůze „Komunisté se radí s lidem“ hodně
+bouřlivá protože se někteří ptali kde jsou body za společný len 1950 a předseda obce doznal že je
+má uložené ale neukázal je. 19. un. hustě sněžilo, 20. začalo pršet a bylo tak až do 24. a 25. bylo
+teplo a tálo a potom padal sníh a mírně mrzlo až do 29. února. 20. ún. dodával Frant. Čermák na
+zabití krávu po dvou telatech již v listopadu inseminátor ohledával je li březí (a uznal že je a ona
+nebyla) a po tom ohledání u ní nastal částečný výhřez dělohy a hubla. Dne 1. března při vydávání
+potravinových lístku k těm co minulý měsíc cukroví nedostali přibyl Jos. Šmíd. Toho dne upadla
+Vlasta Vacátková v síni při nesení vody a zlámala si ruku. Ten čas již byli na bahnech bledule
+a 4. břez. přiletěli špačci. Toho dne večer měl výstup Fr. Liška s předsedou obce a S. Markem když
+předseda řekl že by se mělo zařídit, aby: Jos. Soukup a Vít Martinec přišli do koncentračního tábo­
+ra. Od začátku března trochu mrzlo že udělalo pouršek, 9. mrzlo mírněji ale prudký vítr když 8. byl
+největší dosud té zimi mráz. 7. března večer schůze na oslavu mezinárod. dne žen (8./III.) na níž
+
+
+zvání všichni kdož si přeji, aby mír byl zachován. Účast malá a nedostavil se také nikdo z rodiny
+předsedy obce ani on sám né. V té schůzi chválil St. Marek soudružku Marii Červinkovou že jako
+závazek k tomuto dni šla dobrovolně do továrny v čemž ho srazila Božena Lišková že ježto se má
+lidu říkat pravda, nemá říkat že dobrovolně. Toho dne se slavívaly narozeniny našeho prvního pre­
+sidenta Masaryka. 14. břez. odpoledne z vysocké nemocnice měl pohřeb 59 letý plukovník v. v.
+Jindř. Ulman syn hostinského Jana Ulmana ze dvorku ve Vysokém a jeho ženy Anny dcery Jos.
+Pátka ze Staré Vsi č. 45. Zesnulý se smutně proslavil v historii naší obce v době německé okupace.
+Tento týden poslala sběrna vajec v Rovensku sem zpět 4 vejce že jsou zkažená a ona zkažená neby­
+la. Kolem 20. března pořád mrzlo a ozimi, jenž vytáli byly velmi špatné a na těch, které byly pěkné,
+zas plíseň.
+Dne 22. břez. odpoledne začal po pěkných dnech padat sníh a přes noc foukanice a v neděli dne
+23. břez. povětří jaké tu zimu ještě nebylo.
+21. břez. dopoledne obesláni na M.N.V. ti co nesplnili loňskou dodávku a to byli v něčem všichni
+u čehož zde byly 4 úředníci a Jos. Janoušek. Jednalo se o to komu podle plnění dají šatenku, kdo
+bude platit pokutu a kdo konečně nedostane jedno ani druhé. Na šatenky došlo 27. ve čtvrtek při
+vydávání potravin. lístku a obdrželi je: Jos. Soukup, Karel Koldovský, Ant. Kobr, Ant. Štěpánek, Jos.
+Slavík, Boh. Novák, Jos. Večerník, St. Kobr, Frant. Kobr, Frant. Zeman, Boh. Slavík, Václ. Žitný,
+Jos. Polouprutský, Jos. Novák a předseda Vodseďálek což vyvolalo velké pobouření hlavně skrz:
+předsedu a Jos. Polouprutského.
+Stálé mrazy a ozimy jenž vytály byly buď velmi špatné samy sebou a nebo co byli do zimy pěkné
+teď byly špatné plísni.
+22. v sobotu odpoledne začal padat sníh a přes noc foukanice jaká letos ještě nebyla a co do té
+doby vytálo bylo následující týden pod sněhem do čehož začala v sobotu 29. břez. pršet což se
+31. března opakovalo a 1. dubna napadlo sněhu zas a foukanice. Ten čas rozpuštěn Jednotný svaz
+českých zemědělců (J.S.Č.Z) který pravda teď už byl k ničemu a jeho zdejší předseda Jos. Soukup
+ml. sbíral od členů legitimace, aby je odvedl.
+Toho roku od nás odveden k vojsku 22. břez. Jos. Polouprutský č. 19 a.
+Sbírka na bojující Koreu odbyta v neděli dopoledne dne 23. břez. třemi dvojicemi: Marie Kobro­
+vá a Anna Martincová, Dana Vodseďálková a Draha Večerníková, Frant. Nováková a Anna Čermá­
+ková (Čermáková chodila za Jindřišku Nesvadbovou která jíti odepřela) a sebralo se 1 725 Kčs.
+Nejvíce dali po 100 Kčs: Jos. Soukup a Ladisl. Kobr kdežto: Vladimír Koldovský a Vladimír Šalda
+nedali nic a leckde nechtěli dát nic a měli hubu, hlavně: St. Housa, Fr. Rezler a Jindř. Matura st. ale
+
+dali ženské.
+
+Dne 30. břez. v neděli dopoledne proveden soupis dobytka jehož shledáno 190 kusů z čehož 84
+krav a 15 telat: Vlast. Albrechtem a Jos. Polouprutským č. 19. Odpoledne t.d. na M.N.V. přípravná
+schůze JZD k valné hromadě kde Ladisl. Soukup přišel s tím že k traktoru minulý rok odvedenému
+se nepřidávalo ale přes to že prý se podílníkům jeho dělalo zadarmo, vydělal na sebe 20 000 Kčs.
+Odveden k vojsku Jaroslav Polouprutský č. 19 k radistům.
+31. břez. jenž byl prvním dnem plánovaného dubna se začalo s měřením tučnosti mléka podle
+kuliček. A první jenž vytahoval kuličku byl Jos. Soukup ml. Kuliček bylo 28 na měsíc a o 4. nedělích
+a z nich barevné jichž bylo více byly pro dny bez braní vzorku stříbrné na měření od č. 1 a zlaté od
+100 dolů k nižším.
+
+Dne 6. dubna v neděli odpoledne v místnosti MNV ve škole valná hromada JZD. Předseda zůstal
+dosavadní a jinak zvolení do výboru: Marie Kobrová č. 26, Václav Žitný, Jindř. Matura ml. Ant.
+Vacátko a učitel Hejral a když šli účastníci domů, vzpoměl truhlář Večerník jak o loňských Veliko­
+nocích prohlásil předseda MNV Vodseďálek „ve Staré Vsi musí být družstvo, kdyby se mělo jít přes
+mrtvoly.“
+
+
+Dne 7. dubna se rozpršelo, pršelo druhý den kdy večer první bouřka s velikým lijákem jenž velmi
+se sněhem zatočil a spral plíseň na žitech jíž vytálých; na Škaredou středu 9. dubna krásný den
+a rovněž na Zelený čtvrtek a na Velký pátek slunečno ale vítr jimž sníh velmi tál; lidé táhali pohra­
+báče a kře po žitech, aby odstranili píseň.
+Celé svátky velmi krásně, sníh tál a hned bylo sucho a žita potřebovala dešť; v ponděli většina
+zemědělců prováděla potah a Jos. Babec na svém pachtě od Žitného, maje uvláčeno na podzim, už
+sil.
+
+V úterý po svátcích se zavážela cesta kamením z hromady na Novákově, od pomníku po Du­
+cháčkův lom. Zúčastnění se mrzeli protože jiní již vláčeli a toto se mělo dělat před svátky a udělalo
+se to jen po kovárnu protože traktorista z Rokytnice druhý den nepřijel.
+16. dubna po poledni mírná bouřka ale nesprchlo a sněhu dál a žáry a čmeláci, motýli, svatoján­
+ské mušky a ještěrky už se objevily a 18. dubna přiletěly vlaštovky, volský potah v těch žárech léhal
+únavou, v chlebech dusno i v noci.
+20. dubna v neděli navečer se mračilo ale dešť nepřišel až v pondělí a spadlo pár kapek; 22. dubna
+kukala poprvé kukačka a hadi vylézali na výsluní; kolem 23. dubna začaly kvést třešně.
+24. večer se blýskalo a 25. dubna odpoledne začala zima, následující den poprchalo se sněhem
+a v neděli 27. dubna. popršelo pěkně.
+Dne 21. dubna v pondělí dostalo větší počet občanů poštou doporučeně výměry od M.N.V. o nu­
+cených pachtech na pozemcích dosud družstevně obdělávaných a namnoze vymrskaných z čehož
+druhý den o sběru mléka domluva předsedovi Vodseďálkovi hlavně ze strany dvou Večerníku
+a Bedř. Polouprutského ale předseda počínal si hrubě a na Jarosl. Večerníka dotaz „jak to má udělat
+s tak špatným potahem jaký letos má?“ odsekl tak se starej ať ti to udělají ostatní“. Na což Večerník
+řekl že považuje za ničemu toho, kdo za sebe nechává dělat a dodávat jiné a na toto přistoupil před­
+seda k Večerníkovi řka „ty hajzle jeden“ a Večerník mu dal facku k čemuž ještě kterási ženská
+vykřik la „jen mu dej více!“. Předseda ještě dopoledne telefonický zavolal tak zv. kriminálku ale ti
+Večerníka nezatkli a tak celou věc dostal vysocký S.N.B. jenž to vyšetřoval 25. dubna kterýžto den
+vyloučen Jar. Večerník z M.N.V. výrokem tajemníka St. Marka že „kdo fackuje předsedu přestává
+být členem MNV“, a odebral mu obecní kroniku, kterou mu zas za rok vrátili.
+Celá věc pošla z toho že JZD se nemohlo rozjet doopravdy, protože se společně pracovalo jen na
+opuštěných pozemcích a své nechtěl nikdo do společného dát a nakonec jich z něho většína vystou­
+pila a zůstal v něm jen Vodseďálek, jeho soused Janoušek a ostatní takoví, kterým zemědělství ne­
+bylo zaměstnáním hlavním, aby to za ně skuteční zemědělci udělali a Josef Šmíd rozvedený bez
+ženy jenž s tím také hnouti nemohl. Vodseďálek se ukvapil s ujímáním usedlosti č. 10 od otce,
+o kterou stál mladší bratr, ale že jsa truhlář, měl na domě hodně své práce zadarmo, měla ho žena
+k ujmutí, aby to zlepšené neměl druhý, a teď se s tím mrzeli a chtěli se od toho prostřednictvím JZD
+dostat do továrny a to tím více že zůstali hodně dlužni, jak otci tak třem sourozencům podíly. Když
+se začalo jednat o rozdělení těch opuštěných pozemku, domníval se Večerník, že mu přidělí 2 par­
+cely souseda Hrádeckého, které byly mezi jeho a o nichž dal majitel MNV vyrozumění, že je obdě­
+lávati nebude ale MNV to přidělil tak aby to měl každý co nejdál a co nejvíce nepřiléžité a tak zů­
+stala Hrádeckého pole neoseta a Večerník s Antonínem Štěpánkem dostali dohromady 2 kusy pole
+od chalupy č. 87 vysockého pekaře Adolfa Nováka na Novákově o výměře 1‚30 ha která nebyla
+13 let hnojená a dva další kusy od té samé chalupy při katastru obce Roztok za Vrchy dostali: Bed­
+řich Polouprutský a Fr. Chlum; zemědělci ze skupiny domů u Vodseďálků č. 53, 54, 77 a 78, pole
+opuštěné usedlosti č. 44 na Vojákově Stanislav Kobr a Stanislav Kvarda od č. 33 a Bohuslav Večerník
+ke svým 17 ha také ještě jednu parcelu od č. 33 a ostatní od č. 33 dostala Anna Bouzková, co bylo
+mezi jejím přičemž Fr. Čermák jenž měl najaté pole od předsedy, ničím jiným postižen nebyl a Hrá­
+deckého pole nebyla přidělena nikomu a nic na nich ten rok nerostlo, jen nekalá tráva.
+
+
+Ve věci té facky se nabízeli Večerníkovi za svědky všichni tehdy přítomní krom Fr. Zemana
+a omluvil se mu, aby to na něm nežádal, obchodník a sběrač mléka Kobr a potom za ním přišel na
+pole Jiří syn Fr. Čermáka s prosbou, aby na něm slíbené svědectví nežádal, že mu táta nadává že se
+bude předseda mstít a ovšemže mu Večerník vyhověl.
+Ten čas přestal Fr. Zeman donášet mléko do sběrny a začala chodit jeho žena protože mu bylo Fr.
+Chlumem vytknuto že dělá předsedovi špeha z čehož se mu dělají výhody a Zemanova žena šla tak
+daleko že ač byla kapitalistického smýšlení, v kanceláři MNV hladila prezidentovo poprsí tak, aby
+to předseda viděl.
+30. dubna se ženil 51 letý vdovec Jos. Polouprutský vulgo Krumeš se starou pannou a švadlenou
+Lenkou Nečáskovou z Roprachtic.
+Potravinové lístky tak zv. základní (na cukr) pro nesplněné 1/4 letní dodávky jich dostalo jen 25.
+Připomenout dlužnou že soud s Jos. Soukupem st pro urážky předsedy vlády, odbýval se v Jilemni­
+ci 3. dubna a odsouzen jmenovaný k 10 000 Kč pokuty.
+Dne 1. května celý den krásně; májový průvod o 82 osobách včetně dětí s vypůjčeným traktorem
+jenž přijel pozdě, 9 hasičů, 2 sokolky, 1 svazačka a ani předseda obce s ním nešel ale s továrnou kde
+byl urátným. Stále sucho a větry až v pondělí 5. květ. celý den pršelo z čehož navečer při velké žlu­
+tosti liják, následující den krásně a 7. pršelo s bouřkou a dál už stálé deštivo a zima. Tu dobu měla
+naše obec dodávat denně 387 l a dodávalo se až o 140 l méně.
+
+Dne 8. květ. soupis žit jenž se měla zaorat na něž přidělena nějaká pšenice kterou zasívali lidé
+nejvíce po 12. květnu čímž nejvíce postiženi oba Čermáci a Janda.
+8. květ také zamítnuta ONV většina odvolání proti nuceným pachtum aniž je předal KNV v Li­
+berci kamž přijíti měly.
+15. květ. poprvé vyvěšeni jako na pranýři ti co nesplnily 1/4 letní dodávku vajec u L. Kobra v síni na
+dveřích: Jos. Janoušek, Vl. Šalda, B. Novák, Jos. Slavík, Vl. Koldovský, K. Koldovský, B. Slavík, K. Čer­
+mák, F. Čermák, Jos. Šmíd, St. Kvarda, F. Vodseďálek, J. Vodseďálková, V. Žitný, A. Bouzková atd.
+Deštivo, zima, 17. květ. celý den padaly krupky a hrozně mokro bylo a Janda sázel St. Housovi
+brambory a v neděli 18. květ. ráno přimrazek, mnozý zasývaly tu náhradní pšenici a že zrovna ne­
+pršelo sázeli brambory a sucho na to nebylo.
+19. se celý den potrušoval sníh, 20. ráno mráz, kaluže a bláto zmrzlé a sníh se sypal jako v zimě
+a odpoledne tak až bílo zůstalo přes noc až žito a trávu povalilo a ovocné stromy lámalo že je mu­
+seli lidé oklepávat a jak to vypadalo sníh na zeleném a na kvetoucím šeříku a jabloně také právě
+kvetly, holičky zčernaly na třešních mrazem, rovněž jetel, pšenice, mrkev, mák, vše omrzlo a těch
+něco raných bramborů a listí na stromech včetně kopřiv a žita nemohlo potom sněhu vstát.
+22. květ. mráz větší než 20. a 23. opět ale na den tepleji a 24. mráz už nebyl ale studený vítr a přes
+noc 25. května popršelo a trousil se sníh.
+21. května na MNV se podepisovali dodávkové úkoly zemědělců jež 24 nepodepsalo pro jejich
+výši a pro nízkost těch samých u těch jenž je rozepisovali jako: předseda a Janoušek a jich oblíben­
+ců jako Fr. Zeman.
+Ten čas některý den hlásil Bouzkové zeť Albrecht předsedovi MNV uhynutí 4 slepic a ten na něj
+zařval „kdyby všecky scípli, dodávka vajec se splnit musí“. Jmenovaná A. Bouzková jedna z nej­
+lepších dělnic ve vysocké továrně měla dostat k 1. máji prémii 500 Kčs za 145 % práce ale prémie ta
+rozdělena mezi soudružky Danu Vodseďálkovou dceru předseda MNV a Marii Janouškovou
+z nichž první měla odpracováno na 135 % a druhá na 128 %.
+25. květ. zemřela 74 letá Anna Kobrová výměnkách na usedlosti č. 81, bytem v č. 98 rodem So­
+charová ze Semil.
+
+Připomenouti dlužno že soud s Jos. Soukupem st. pro urážku předsedy vlády odbýval se v Jilem­
+nici 8. dubna a odsouzen jmenovaný k 10 000 Kčs pokuty.
+
+
+Celý květen byl mokrý a studený a nejhorší snad byl poslední týden kdy až 25. kdy ještě někteří
+sázeli brambory že všecky ty dny pršet nepřestalo.
+28. května se odvezla helkovským traktorem na jatky do Jilemnice kráva Karla Čermáka jenž se
+vyplecila sklouznutím na hladké dlažbě a škoda byla tím větší že to byla kráva teprv po dvou tela­
+tech a dostal za ní 4 000 což byla asi 1/2 její ceny.
+30. května první den co nepršelo a druhý den překrásný a večer po velkém parnu bouřka s lijá­
+kem takže co se poudělalo na poli zas zmoklo a brambory ještě neměli mnozí v prvním týdnu
+června pro nečas dosázené.
+Svatodušní neděli 1. června odpoledne bouřka ale nepršelo. Ten den ráno byly po noci ve Vyso­
+kém na různých uratech a dveřích vyhlášky na stroji psané s prý poslední výstrahu různým komu­
+nistickým činovníkům jichž tam uvedeno několik a mezi nimi i od nás: St. Marek.
+Svatodušní pondělí které se co svátek slavit nesměla byl ráno liják, 4. června ve středu nepršelo
+ale zima, 5. přimrazek a ten den odpoledne tu přeletěla letadla jenž cosi napsalo kouřem po obloze
+a navečer veliká duha kolem slunce.
+
+V sobotu 7. června v č. 16 svatba Frant. Pacholíka z Roprachtic s Libuši dcerou Karla Koldovské­
+ho; pršelo a večer bouřka.
+8. nepršelo; někteří sázeli ale byla nouze o hlavatku na níž byly poukazy vydávané od H.D.
+v Hrabačově (Vysokém.)
+9. červ. dopoledne oblačna a navečer pršelo a 10. rovněž tak a tak dál i následující dny: 14. pršelo,
+15. mlha. Sem tam někdo sušil již seno ale hlavně začalo až po 15tém.
+10. června u okres. soudu v Jilemnici odsouzen Jaroslav Večerník ke 3 měsícům vězení za facku
+danou předsedovi obce Věncesl. Vodseďálkovi když Večerníkovu protižalobu na předsedu za uráž­
+ku ONV nedovolil podati. (podrobněji k tomuto z jiné kroniky: …soud s Jaroslavem Večerníkem
+pro násilí na veřejném činitelem v oboru jeho působnosti, proti čemuž vznesl obžalovaného obhájce
+dr. Zdeněk Kovář protest že to při sběru mléka nebyl obor jeho působnosti ale marně, zrovna jako
+marná byla obžalovaného protiobžaloba na předsedu pro urážku ONV ji nedovolil podati.
+Mimo té bezdůvodně dané facky se mu kladlo za přitěžující okolnost že je z příbuzenstva Josefa
+Zemana ze Stanového jenž byl do roku 1948 předsedou ONV a bylo čteno vysvědčení o něm vysta­
+vené tajemníkem Markem „zdá se rozvážný jest však povahy snadno vznětlivé.“
+(následuje doplňující text k témuž z jiné kromiky).
+Obžalovaný se hájil tím co na svou obhajobu uvedl už na SNB že předseda si nepředepsal žádnou
+dodávku žita, dodal 1 q a napsal se mezi ty, co splnili nad plán i že si nechal body za společný len za
+které se měli pořídit svazákům ty modré košile a on za ně dal do kanceláře dva ubrusy na stoly o nichž
+tvrdí že byly za ně ale ony byli z Rokytnice, kde byl nějaký čas vedoucím rekreace podniku Orbis kde
+to vše bylo po odsunutých Němcích a že příležitější pole nechal ladem a přidělil nepříležitá, ale stále
+byl okřikován, aby mlčel. Předseda se zas stavěl s tím že vypěstoval 3 prasata, jedno na dodávku, druhé
+na volný trh a třetí že si zabil, na což řekl Večerník že mu bylo lehko je vykrmit když mu všecko obilí
+zůstalo a na otázku proč vystoupil ze strany, odpověděl „pro ty věci“ mysle tím to, co už řekl, na což
+mu řekl soudce „a z toho viníte Stranu?“ A Večerník „ano“, „jak to?“ když je u vedení, nemá tohle trpět.
+Na otázku, proč předseda užil vůči obžalovanému tohoto celkem nic neznamenajícího slova
+„hajzle“ odpověděl, že ho tento nazval tulákem, čímž znevažuje všechny, kdož odešli ze zaměstnání
+z rodiště, což zas byla nepravda, protože předseda měl každého krom Janouška, Šmída a Zemana za
+kulaky a také to slovo měl pořád na jazyku a obžalovaný mu také tehdy při tom řekl „ty kulaku“!
+a ani zdaleka ho nenapadlo vytahovat se nad někoho. Vždyť za zaměstnáním musela ze vsi odejít
+většina obyvatel a také to tak před soudem řekl a obhájce si ho také zastal v tom že nebyli oprávně­
+ni vyloučit ho do soudu z MNV a tak byl odsouzen na 3 měsíce vězení nepodmíněně proti čemuž
+se jeho obhájce odvolal ke krajskému soudu.
+
+
+Tyto dny se zde opět objevili stopy černé zvěře a i někteří ji dvojici viděli (Vlast. Albrecht č. 65.)
+11. červ. nesla předsedova žena Božena Jos. Janouškovi nějaké potravinové lístky a že týž nebyl
+doma, vstrčila mu je pode dveře a ty prý se ztratili a měl skrz to vyšetřování Vilém Polouprutský
+jenž tu dobu šel kolem. Celá věc usnula ač to byl už druhý případ neb už minulý rok mu nějaké prý
+ukradla sousedka Lidmila Šaldova ze stolu.
+
+Kolem 12. června svízel se zelnou sadbou a náš předseda dělal v Hlavišťatech vysockem ká zání
+„jestli vědí že nesmí ji nechati do vesnic kde nemají zelí plánováno“ ač od toho byl přímo tam refe­
+rent Bedřich Ďoubalík a předsedova žena se pustila do Otakara Hajského ze Stanového, co prý vi
+tu hledáte?
+
+13. červ. večer ve škole schůze žen za účelem ustanovení ženského výboru do níž se dostavili tři
+ženské. Ten den provedly: Marie Kobrová č. 26 a Drahomíra Večerníková č. 20 soupis všech studní
+a jich čerpacího zařízení v obci pro případ pochodu vojska.
+15. června Také se jednalo o vzkříšení JZD k čemuž úvodem pravil tajemník Marek že všichni
+jednou umře me a nezřídivše JZD zanecháme the tak dětem starou bídu a Emil Nesvatba ze Třiče
+vyhrožoval že kdo se nedá, uřízne se mu proud elektriky, nesmí na veřejné komunikace, musí na
+nákup životních potřeb do okresního města, jeho děti nesmí na řemeslo nebo na studie a záložna
+mu nepůjčí.
+17. červ. byl Ladisl. Kobr ve Studenci pro 140 kop sadby bílého zelí ale přivezl jen 25 kop velmi
+ničemné pro Fr. Čermáka.
+18. června po velkém žáru liják s bouřkou z níž měli elektrikáři u transformátoru správu a polní
+cesty probrané.
+19. červ. měla být splněna dodávka vajec a tak zveřejněna jména těch kdož dodávali nejlépe: St.
+Marek, Jos. Babec, Lidm. Čermáková, Jos. Polouprutský, Vladisl. Vodseďálek, Fr. Zeman a Fr.
+Chlum a druhý den ti co nesplnily jenž nazváni škůdci pracujícího lidu: Jos. Slavík, Vlad. Kol­
+dovský, Vlad. Šalda, St. Kvarda, Jindř. Matura, Josefa Vodseďálková, Anna Bouzková, Fr. Vodse­
+ďálek.
+
+21. června první nařízení hledání mandelinky u nás a podruhé 20. července kdy snad nalezena
+v bramborách Jos. Janouška
+23. červen; pršelo a pršelo, 24. červ. zima až ruce zábly a v poledne kroupy padaly a pršelo dál
+a následující dny až do 28. trochu schlo.
+Žito ten rok kvetlo po 5 týdnů, žito, pšenice, jeřice vše povoleno, po přeháňkách lijáky a po nich
+dále nečas že brambory nebylo možno zruchat.
+29. června rozkvetl Jaroslavu Večerníkovi štěp jabloň a ještě první dny srpna měl 3 květy.
+To jaro bylo hodně hovorů o Anně Zemanové jenž v kanceláři MNV než na jednání s ní došlo,
+aby to přítomni: předseda a tajemník viděli; hladila oběma rukama poprsí presidenta Gottwalda
+celá ves věděla že není přítelkyní režimu který i její manžel naoko chválil pro cenu dobytka.
+Také jedna novota zde to jaro začala a sice pěstování ovcí již si jednu Jos. Babec č. 25 opatřil
+a kteráž jsouc sama svým řvaním velmi sousedy otravovala.
+První týden července žáry až 35°, sušilo se téměř bez obrácení až se hlava točila jak smahlo; po
+dva dny bouřka ale ani nestříklo.
+Dne 4. července urátil se po 5 nedělním pobytu v Anglii kde byl za nějakým sklářským obchod­
+ním jednáním zeť Frant. Vodseďálka č. 75, Jos. Babec z Jablonce nad Nisou.
+Při 7. červenci se dosušilo seno a přešlo se zrovna do jetelů; stále pěkně, sucho, horko, podjma (?)
+se držela při obzorů a i v údolích sucho mařilo: oves, brambory a zeleninu a louky vypalovalo.
+Také obrok se ten čas dodával a že už tu nebyl traktor, tak každý sám.
+Mnoho rozruchu vyvolalo odsouzení 10. července Oldřicha Vodseďálka č. 83 malíře na 25 let
+vězení kraj. soudem v Liberci pro napomáhání z domova uprchlému Jos. Zemanovi od Pece.
+
+
+12. července v sobotu po velkém žáru odpolednem bouřka, nepatrný celkem dešť, ale jetelové
+kůpy všecky rozházelo. Zas hledali mandelinku.
+13. července naše národní pouť při níž nic jen obvyklá československá bohoslužba.
+Jak byl náš obce předseda pro kolektiv, dokazuje nejlépe že ve dnech když byl co divák se ženou
+a sousedkou a Janouškovou u soudu s pomahači Jos. Zemana; jeho dcera Dana zakazovala F. Vod­
+seďálkovi jeti po cestě nad jejich dům k Jandové pazdarně, čehož ale napadaný nedbal.
+Sucho, Žito a ovsi podsichaly, natě vadly, na zelenině prašivina, oves snětivý, otava se ztrácela.
+V pondělí dne 14. července zemřel náhle ve Vysokém u pekaře Jos. Josífka (Pramen) 74 letý pekař
+a rodák z č. 19 Frant. Polouprutský chalupník č. 11 na Krumpešti jenž r. 1904 dům č. 98 dnes PKD
+(Božena Kobrová) vystavěl. Několikaletý velitel hasičů, účastník války 1911 – 18, funkcionář církve
+československé, vdovec. Pohřeb žehem. 18. července odpoledne začalo poprchávat a pro zimu přestalo
+a popršelo až večer ale slabě a v noci 19. na 20. července se to opakovalo a žáry dál a tvrdo na ruchání.
+18. podpisová akce pro JZD dům od domu již se zúčastnili dvojice z místních funkcionářů a od ji­
+nud přičemž Jaroslav Večerník s ohledem na svůj případ už nevzdoroval a podepsal, ale škrtl v tom
+formuláři slovo „dobrovolně“ a tu ten cizí to roztrhal a musel podepsat jiný bez škrtání a večer další
+schůze v níž zvolen nový výbor JZD s předsedou Josefem Soukupem mladším a největší pracovníci
+o věc nezvoleni ani do výboru, jako předseda MNV Janoušek a Šmíd potom ve Vysokém říkal, že ve
+Staré Vsi to teď má v rukou reakce…. Nakonec to podepsali také, ale s čím se před jedním rekreantům
+vytahoval Bedřich Polouprutský, že u něho byli 15 krát než podepsal, to ale pravda nebylo. 19. červen­
+ce se většinu dobral jetel jehož bylo pro sucho hodně méně než jiná léta za to ohnice bylo mnoho.
+21. července večer schůze v níž dáván dohromady už nový místní výbor ježto se předseda vzdával
+funkce a dány doň osoby zcela nové jako: Oldřich Novák, Petr Slavík, Anna Čermáková atd. ale před­
+seda a Janoušek v něm. V sobotu 26. července na sv. Annu což je výroční den mobilisace roku 1914
+našly se na bramborách Jos. Janouška larvy mandelinky. 28. července v poledne déšť a odpoledne liják
+jenž krom té bouřky byl bezmála jako minulý rok na večer před vysokou pouti. Co lidi promoklo
+a cesty probrané a druhý den dopoledne pršelo ale brambory asi ty pozdní snad zachráněný.
+V pondělí 14. července zemřel náhle v práci u pekaře Jozífka (Pramen) ve Vysokém 74 letý pekař
+Frant. Polouprutský po němž ujal chalupu č. 11 na Krumpešti dne 17. října téhož roku bratr Bed­
+řich Polouprutský č. 19 vyplativ podíly dvěma sestrám: Augustě Martincové vdově po pekaři v Lou­
+kově u Semil a Boženě Hlouškové ženě pekaře v Mukařově u Želez. Brodu a byl to první případ
+v naší vsi co podle nových zákonů nebyl při dědictví brán zřetel na potomky sourozenců zemře­
+lých; v tomto případě: bratra Bohumila Polouprutského sedláře na Smržovce a sester: Františky
+Liškové č. 17 a Lidmily Strnádkové v Roprachticích.
+19. července se většinou dobral jetel a 18. odpoledne již začalo poprchávat ale pro zimu přestalo
+a popršelo večer a druhý den v noci ale málo a žáry dál a tvrdo na ruchání.
+26. července zjištěna mandelinka v bramborách Jos. Janouška č. 9 jenž již 31. července žnul zele­
+né žito ač jiní měli zralé jako: Antonín Štěpánek a Vilem Polouprutský.
+28. července v poledne liják jenž se krom té bouřky rovnal tomu minulý rok před vysockou pouti
+a druhý den pršelo.
+Dne 5. srpna na večer zatmění měsíce a druhý den většinou začali žně, žár 34°; 7. navečer bouřka
+ale dešť se nám vyhnul a vše zas už schlo.
+8. srpnem počínaje zavedeny zas žňové hlídky vždy jeden hasič a dva občané; natě u bramboru,
+pozdní pšenice a mák schly, ale 15. srpna v noci přišel liják s hromobitím při němž na Vodseďálko­
+vě rozbilo trigonometr a celý následující den pršelo.
+V pátek 15. srpna večer schůze občanů na MNV již druhá po nesejití první 6. srpna kde mělo být
+jednáno o skupinách zemědělců na žně a kdo nepřijde že je škůdce národa na což odpovědělo ob­
+čanstvo tím že jestli minulá léta někteří žnuli ve skupinách, letos nikdo.
+
+
+V druhé části se opět jednalo o vzkříšení JZD k čemuž úvodem pravil tajemník Marek „že všich­
+ni jednou umřeme“ a nezřídivše JZD zanecháme dětem starou bídu a v pondělí 18. srpna po pod­
+pisové agitaci dům od domu, jíž se zúčastnily dvojice z místních funkcionářů a komunistů odjinud,
+večer další schůze, v níž zvolen nový výbor družstva s předsedou Jos. Soukupem ml. a největší
+pracovníci o věc: předseda MNV a Janoušek nezvoleni ani do výboru.
+Ježto: Vilém Polouprutský a Fr. Chlum při podpisové akci, jenž znamenala zároveň H.T.U., t. j.
+zrušení mezí, nepodepsali; dostali se do novin jako škůdci národa ale oni to nakonec podepsali
+také.
+
+14. srpna začal František Vodseďálek žnout oves.
+Dne 18. srpna odvezeno mnoho žita a 24. byl konec lhůty k dodání téhož do HD a mnozí ho měli
+velmi špatné jako: Frant. Vodseďálek, Jos. Šmíd a Jaroslav Večerník takže pro svoji potřebu ho nebo
+volný chléb kupovali a naproti tomu někteří jako: předseda Janoušek a jejich donášeči: Zeman,
+Šulc, Vitvar ani tíhu dodávek nepocítili.
+29. srpna sučastnili se agitace pro JZD ve Vysokém od nás: předseda Vodseďálek, tajemník Ma­
+rek a Janoušek.
+28. srpna první braní stájových uzorků mléka pro nízkou tučnost u předsedy Vodseďálka a Karla
+Koldovského
+
+Dne 1. září začalo pršet a byl nečas na celý podzim zajištěn a do 5. září měl být dodán oves a on
+byl ještě i s pšenici na poli a nečas tu a 5. večer bouřka.
+Dne 3. září zákaz setí žita až do úpravy honů a první chodění po polích skrze tu provedeno na
+Malé Straně 8. září a první žito zde ve vsi sil Josef Soukup 9. září už do vykázaného honu a někdo
+ho udal že předbíhá práci a seje neskupinově.
+11. září ve schůzi na MNV určeny hony na Hrubé Straně a které meze zůstanou a které se odstraní.
+15. září se trochu vyčasilo a dál zas pršelo a rostlo mnoho hub a byly tisíce myší.
+Na Hrubé Straně se silo první žito na poli Karla Koldovského u Trhovice a Anny Bouzkové hned
+pod ním ve Zdůlní společnou prací: Bedř. Polouprutského, Vlast. Albrechta, Fr. Čermáka, Jarosl.
+Večerníka a Lidmily Housové na hnůj Karla Koldovského a Lidmily Housové přičemž odstraněna
+jedna mez v roli a v neděli, aby bylo více zasetého, sili 21. Polouprutský a Večerník za Vrchy v oves­
+ném honu na svém a do té neděle nečas, na horách bílo a zde sněhové přeháňky a počínajíc pondě­
+lí začali lijáky.
+Předseda nejdříve na okres žaloval že se seje předčasně a teď když viděl že se asi nedoseje, žádal
+a Janoušek s ním, aby mu bylo dovoleno sít na svém a zdráhal se dát JZD vypadající naň částku žita
+k seti, že ho má jen 6 q ač mnozí věděli že mlátil staré žito přede žněmi a ledakdos neměl ani 6 kg.
+Poslední týden září ani obrok nedalo dělat jak lilo a také se nesilo.
+O staroveském posvícení 28. září celý den lilo; prováděli: tajemník Marek a Vladisl. Vodseďálek
+soupis obroka osobním obhadem a zjistili že ho má nejméně Jos. Janoušek a předseda MNV Vod­
+seďálek jim ukázal jen obrok na stodole né však na domě. Tentýž soudruh se počátkem roku doma­
+hal sběrny vajec kterou měl Ladisl. Kobr a potom zas usiloval o prodejnu pro vysockou továrnu
+v č. 1 což nepovoleno proto že to je v jiné obci.
+2. října si přivezl Bedř. Polouprutský z pole č. 33 len na své pole nad dům kde mu skoro shnil
+a jak ho tam složil, sousedka Marie Chlumová mu hned jednu otep uzala ale on zpravil o tom dětmi
+napadl ji ještě domů jdoucí, jak jí paličky z lochtuše čouhaly a řekli jí počet otýpek které tam složil
+a že tam ráno ten počet musí mít a měl.
+Ježto se soud Jarosl. Večerníka s předsedou Vodseďálkem v Liberci 19. září neskončil, bylo druhé
+stání 3. října kde Večerník že hrubě urazil zasloužilého člověka jenž z té naší obce chce něco udělat,
+odsouzen ku třem měsícům vězení podmínečně na tři roky a musel předsedu odprosit přičemž se
+tento dotazoval nemá li spojení se zelenou internacionálou která má nitky i u nás.
+
+
+Dále pršelo; lidé koupali i v dešti (stroji) v sobotu Fr. Knížek č. 74, v neděli 5. října a Anna
+Bouzková (Albrecht), v pondělí potom Václ. žitný a Fr. Čermák a jiní motykami a seti se již necha­
+lo a bylo zaseto jen na 2/3 a to ještě ne pořádně, místy po úhorech teprv nakvap popřipravených bez
+hnoje a bez hnojiv a pršelo dál a se sněhem.
+6. října zemřel Ant. Blažek č. 30 ve staří 79 let jenž se sem k Julii dceři Frant. Šmída r. 1929 co
+vdovec z Horní Branné přiženil.
+7. října přišel Vilém Polouprutský o krávu když o nějaký den dříve musel dát pryč chybnou krá­
+vu Václ. žitný a 11. toho měsíce přišel o krávu při teleti Frant. Kobr č. 26.
+A pršelo dál se sněhem a lidé kopali a co bramboru zůstalo v blátě a při 17. mnoho lidi dokopalo
+a 19. první den celý hezký avšak k ránu mráz a 20. rovněž krásně. Ten den vozil Jar. Večerník Fr. Zema­
+novi s pole tuřín přes řiště Ant. Štěpánka a Štěpánková žena Božena na místo jízdy prostřela len když
+už se vrátit nebylo možné a když Zemanka ho na tom místě přeložila Štěpánková jí začala nadávat
+a shádali se dohromady i Zeman se Štěpánkem a zrovna k tomu domů přijedší Štěpánkův syn Frantík.
+21. října zas už pršelo až do 26. a jezdilo se v tom s brambory na dodávku a 23. října se dodávala
+drůbež.
+
+26. října nepršelo a 27. lilo dál, dopoledne na západě duha; klidilo se zelí a třeba že bylo ničemné
+nebylo ho možné odvézt pro bláto.
+28. října na den svobody celý den neobyčejné teplo jako v letě a druhý den pršelo dál.
+1. listopadu někdo šel na hřbitov a někdo až na dušičky v neděli kdy to bylo úřední a kdy se do­
+poledne rozpršelo a odpoledne to přešlo ve sníh až bílo zůstalo a pršelo až do 5. listopadu.
+Dne 3. listopadu zemřela stará panna 73 letá Pavla Svárovská po níž ujaly sestry: Marie Svárov­
+ská a Lidmila Vodseďálková č. 75 chalupu č. 23.
+4. listopadu zjištěna v domě č. 77 u Ant. Kobra Ant. Vitvara u dobytka slintavka kterouž dostal
+10. listopadu Jos. Soukup a 14. jeho bratr Frant. Soukup. Kobrovi prý jí přinesl jeho švakr Petr
+Hrubý z Jeseného.
+5. listopadu zase jednou celý den nepršelo kteréhož dnes se dodavalo zelí do H. D. ve Vysokém
+kdež se na obecní váze velmi špatně seřízené vážilo. Cena byla podle tříd které byly tři a za nejlepší
+byly 3 Kčs za 1 kg. Skoro nikdo nesplnil předepsanou dodávku avšak většina přidávala ještě nalo­
+žené které bylo za 9 Kčs kg a počítám 1 kg za 3 kg a to přijímalo PKD.
+6. listopadu opět pršelo a ráno následující den se začal sypat sníh a hrnul se celý den a 8. byl ješ­
+tě hůře a v neděli 9. stejně a mrzlo přitom: Josef Janda, St. Kvarda Karel Čermák měli ještě zeli na
+poli a poslední ještě trochu bramborů.
+V pondělí 10. listop. opět velká foukanice a až 13. bylo mírněji ale mrzlo a ač bylo do půl lýtek
+sněhu kopal Karel Čermák motykou brambory a Jos. Slavík klidil zelí.
+12. listopadu ustanovena protislintavková komise: Bedř. Polouprutský, Bohuslav Večerník Jos.
+Šmíd a 11. listop. zde provedeno očkování dobytka mimo uzavřenou skupinu u Vodseďálků od­
+kudž ani s mlékem nesměli chodit na dodávku a sice chodili tu dvě dvojice vždy jeden zdejší (Bedř.
+Polouprutský a Jarosl. Večerník) a jeden z okresu od zvěrolékaře.
+Do slintavkou postižených míst nikdo od jinud nesměl a z nich zas nikam, takže Ladisl. Soukup,
+zaměstnaný v HD v Hrabačově, nemohl domů ale jiní to tak nedodržovali; tak Františka Kobrová
+chodila po Vysokém a v noci k matce do Helkovic a Ant. Vitvar jednal zrovna tak ale byl velmi
+potrestán. Nechal přes noc nějakého málo kalého mladíka Vika z Vysokého a ten mu ráno než ode­
+šel ukradl 5 000 Kčs a co si na něm vzít nebylo.
+17. listopadu sníh už nepadl zato druhý den do něho lilo takže 20. byl již skoro stálý; 21. neprše­
+lo až zas 22. přes noc. Někteří ruchaly a Karel Čermák dokopal v neděli 23. brambory.
+19. listop. přišel Jos. Soukup následkem slintavky o větší tele a Ant. Kobr dne 23. prosince když
+už byla dávno zaniklá, o krávu.
+
+
+Ten čas odešli ze zemědělské práce do jiné na zimu jsouce z JZD propuštěni: Jindřich Matura ml.
+a Lad. Jandura do Navarova ku dříví, Vlast. Albrecht a Jiří Čermák do HD a Drahomíra Večerníko­
+vá do Vysocké továrny (Kapnar. 14) ale s Jiřím Čermákem byla velká táhanice protože on chtěl
+propuštění nadobro.
+Dne 25. listopadu byl poslední den kdy nechalo ruchat a že byli úvozy plné sněhu, vezl Bedř.
+Polouprutský ruchadlo na saních a to se ale stejně přeruchával sníh. Mimo toho měli jít z naše JZD
+tři na zimu na práci do Mostu a tak to postihlo ty co žádali do HD a Petra Slavíka č. 45 ale u pro­
+hlídky v Jilemnici neuznáni: Jiří Čermák a Petr Slavík způsobilými k tomu a Albrechta od toho
+uchránilo, že tchýně Anna Bouzková byla zaměstnána ve vysocké továrně co výborná dělnice a žena
+že by nezastala při děcku obstarat dobytek kdyby nepřišel na noc domů.
+26. listop. bylo umrzlé a druhý den navečer se rozpršelo že do rána sníh stál ale že mrzlo dál bylo
+vše jako sklenice že lidé padali a celý den lilo až do rána 29. kdy mrzlo až byla okna do vrchu zamr­
+zla a v neděli 30. se zas už sypal sníh.
+29. list. chodil Jarosl. Večerník s okres. Staveb. referentem a zdejším družstevním instruktorem
+Emilem Nesvadbou ze Třiče po chlévech a stodolách vhodných pro družstevní účele. Večerník ten
+čas zastupoval předsedu družstva Jos. Soukupa ml. jenž byl postižen slintavkou dobytka.
+V pondělí dne 1. prosince přeuzal vedení obce a MNV nový předseda Vladislav Vodseďálek
+č. 42. Ten den večer výborová schůze JZD na MNV kterou svolal ještě místopředseda Večerník
+ale řídil ji již zase Soukup a jednalo se v ní o společné stáje a o urácení traktoru. Vrácení traktoru
+vzato na vědomí a že za jakýsi malý kravín by se hodil nedodělaný chléb pod sálem dolní hospo­
+dy číslo 73 a také takový nesmysly jako společná stáj pro koně v chlévě neobydleného čísla 24.
+30. listop. se sypal opět sníh, 3. prosince zas velký mráz a 7. prosince větší a následující tři dny
+mrzlo při mlze z čehož jinovatka, 11. ráno se blýskalo po čemž do rána sněhová vánice a trochu
+mírnější mráz a 14. prosince mírná obleva.
+1. prosince Prvního prosince převzal vedení obce a MNV nový předseda Vladislav Vodseďá­
+lek 42.
+7. prosince vybírali: Bohusl. Večerník a Jos. Šmíd za to protislintavkové očkování.
+14. prosince chodily dvojice pro podpisy pro III. typ JZD a společné ustájení což se skončilo výstu­
+pem u Jos. Slavíka a Viléma Polouprutského a Fr. Zeman nepodepsal a on byl první jenž to sliboval.
+15. pros. a ještě druhý den se sníh zrovna hrnul, 17. ráno neobyčejné červeno a pak žluto a po­
+tom se do večera zas sypalo, což se 21. opakovalo.
+19. pros večer ve výborové schůzi JZD předal místopředseda Večerník družstevní pečeť opět
+předsedovi Soukupovi a jednáno o Bohuslavu Novákovi jehož naurhuje KSČ co vesnického boháče
+a reakcionáře z JZD vyloučit a usneseno ponechati tu věc členské schůzi ať se proti němu členové
+kteří to ve schůzi strany navrhli, vystoupí sami s dokázanými věcmi.
+Ta členská schůze byla večer 22. pros. za přítomnosti některých lidi z ONV a snad by se byli No­
+vákova případu vyhnuli ač na pořadu byl, jak se do toho nikomu nechtělo ale on se po tom sháněl
+sám a tak mu vytkli že byl vykořisťovatel (že faktořil a měl čeledína a že byl v únoru 1948 předsedou
+zdejšího národně socialistické organizace a že štval proti dnešnímu režimu a byl ve spojení s Jos.
+Zemanem ze Stanového, což vše naň vysypali: bývalý předseda MNV Vodseďálek a předseda KSČ
+ve Staré Vsi Janoušek. Novák se bránil, že faktořili i jiní i zde na schůzi přítomní a on sám že navlé­
+kačům nejlépe platil; čeledína že měl proto že se zaměstnával faktorstvím a ten čeledín že byl jako
+člen rodiny a že to byl skoro hospodář a předsedou národní organizace že nebyl nýbrž důvěrníkem
+a předsedou že byl otec bývalého předsedy MNV což musí tento sám dosvědčiti, kterýž na to odpo­
+věděl, že má dnes o svém otci jiné mínění než míval dříve; co se týče čeledína, zastal se ho Josef
+Slavík „že to bylo v době kdy to bylo dovoleno a já jsem ho měl sám na což byl napaden tajemníkem
+Markem“ Novák mu dal aspoň najíst ale ty né čemuž se napadaný bránil „to neříkám že se u mě měl
+
+
+jako u Nováka ale hlad neměl a co jsem jedl já jedl i on“. Co se týče příslušnosti k některé politické
+straně zastal se ho Fr. Čermák „že přeci jsou některé strany u nás povoleny a to bych já např. musel
+být potrestán také protože jsem byl členem agrární strany což tenkrát u zemědělců doba nesla sama
+sebou“ a Jar. Večerník se tázal jak by dali dohromady JZD v takových vesnicích kde jsou samí sed­
+láci kolem 15 ha, kteří by to byli bez čeledína nezastali a tak ta věc zatím pousnula.
+21. prosince se celý den sypal sníh a na Štědrý den byla poleva až jel sníh se střech a že byl při­
+mrzlý a zledovatělý trhal krytinu a žlábky a celé svátky a konec roku byl mlhavý jen na Štěpána
+odpoledne slunečno.
+Poslední den roku přivezen zpět náš traktor beze všeho příslušenství jako závaží apod. a uložen
+ve stodole č. 35 Boh. Večerníka.
+
+Ten den zde byla naposledy pro mléko z Malé Skály a druhý den se začalo dodávat do Kruhu
+u Jilemnice ale do Vysokého ho St. Kvarda vozil.
+Byl to rok velmi nepravý a nejvíce se zkusilo u bramborů a podzimní orby; co to bylo v gumové
+obuvi omrzlých noh a omrzlých rukou a když brambory byly samé bláto až nešly z pytlů a vysypané
+stály jako zeď jsouce hlínou slepeny.
+(Dodatek z jiné kroniky k roku 1952)
+Ježto se soud Jaroslava Večerníka s předsedou Vodseďálkem v Liberci 19. září neskončil bylo
+druhé stání 3. října a Večerník se bránil u toho že ho Vodseďálek pojmenoval hajzlem ale soud se
+mu vysvětlil, to že žádná urážka není, to že si normálně u Jičína, známí mezi sebou na potkání ří­
+kají, ale Večerníkovi řekl „vy jste urazil, vy jste hrubě urazil zasloužilého člověka, který z té vaší
+zaostalé obce chce něco udělat a jako napravení té hrubé urážky požadoval soud vstup do JZD
+a odprošení uraženého žalobce, slyše že provinilec v JZD je, ptal se, „kde je záruka, že se provinilec
+vyje že z něho při první přednosti zas nevystoupí?“ a z té příčiny muselo být ještě jedno stání, na
+které se musel dostavit předseda staroveského JZD Josef Soukup a Večerník musel mu před soud
+podat ruku na slib, že opravdu členem JZD zůstane, ale do odprošení se mu nechtělo a tak začal,
+nastavuje Vodseďálkovi ruku, „tak co, budeme se zlobyt?“ na což ho soudce okřikl „tohle není žád­
+né odprošení!“ ale Vodseďálek asi nechtěl věc hnáti tak do krajnosti a proto odpověděl „nemusíme“
+a podal mu ruku a tak z toho byly tři měsíce podmíněně na tři roky a mimo toho tam bylo k jeho
+horšímu sděleno, že se s tím ještě mezi sobě rovnými pyšní a nechává se od nich oslavovat, což
+pošlo z toho že potom činu naň na vysockém náměstí křičel Stanislav Čivrný „seš chlapík!“ a Milo­
+slav Vodseďálek Kvasnička „křičel přes celé náměstí nazdar bojovníku za práva selského lidu“ a ta­
+kových projevů bylo více a to všecko se doneslo předsedovi jenž to hlásil na ONV.
+
+
+Jaroslav Večerník
