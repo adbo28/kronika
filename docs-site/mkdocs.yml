@@ -12,6 +12,7 @@ theme:
   - navigation.top
   - search.highlight
   - search.share
+  - toc.integrate
 plugins:
 - search:
     lang: en
