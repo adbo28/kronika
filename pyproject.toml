@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "mkdocs-material>=9.6.16",
+    "mkdocs-material[recommended]>=9.6.16",
     "pymupdf4llm>=0.0.27",
     "pyyaml>=6.0.2",
 ]
