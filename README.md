@@ -23,6 +23,19 @@ cd docs-site
 uv run mkdocs serve
 ```
 
+## 🔧 Scripts
+
+1. md_create - convert pdf to one large md file. Fix smaller things like page breaks and soft hyphens.
+2. md_process - read the large md file and build indexes. The script builds three (TODO) indexes - by address number, by name and by year. The script uses regex and other rules to process the input document, but it also supports a pattern file that allows specific places in the initial document to be black- or white-listed. It generates extracted_patterns.txt which is mainly intended for human control and index.json which is used for further processing.
+3. md_split - TODO
+
+Helper scripts
+
+* name_to_base_form - creates name_nase_form.jsonl based on extracted_patterns.txt. Using AI, it tries to group names by base form (e.g. Adama Noska --> Adam Nosek) so that we can build an index by names. The jsonl file is supposed to be used as a translation dict. It condenced the total 18k names to 8671 values and 6027 values in base form.
+* build_vocab - generates word_counts.json
+* generate_nav - TODO
+
+
 ## 🔧 Workflow
 
 ```bash

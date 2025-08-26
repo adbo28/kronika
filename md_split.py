@@ -1,11 +1,9 @@
 import pathlib
-import pymupdf4llm
 import yaml
 import re
 
-INPUT_FILE = "..\\inputs\\Kronika-Stara-Ves-1923-1991-epdf.pdf"
+INPUT_MD_FILE = "./data/output.md"
 OUTPUT_DIR = "output_chapters"
-MAIN_OUTPUT_FILE = "output.md"
 
 
 def extract_heading_info(line):
@@ -55,24 +53,21 @@ def clean_title(title):
 
 
 def main():
+    # Kontrola existence vstupního souboru
+    input_path = pathlib.Path(INPUT_MD_FILE)
+    if not input_path.exists():
+        print(f"❌ Chyba: Soubor {INPUT_MD_FILE} neexistuje!")
+        print("Nejprve spusťte pdf_to_md.py pro vytvoření markdown souboru.")
+        return
+    
     # Vytvoř výstupní adresář
     output_path = pathlib.Path(OUTPUT_DIR)
     output_path.mkdir(exist_ok=True)
     
-    # Převeď PDF na markdown (bez page_chunks)
-    print("Převádím PDF na markdown...")
-    md_text = pymupdf4llm.to_markdown(INPUT_FILE, 
-#        pages=[0,1,2,3,4,5,6],  # pro testování
-        margins=[1,1,1,50.0],
-        page_chunks=False,  # Chceme jeden velký text
-        ignore_images=True,
-        show_progress=True,
-    )
-    
-    # ulož hlavní výstupní soubor
-    pathlib.Path(MAIN_OUTPUT_FILE).write_bytes(md_text.encode())        
-
-    print(f"Převedeno, celková délka: {len(md_text)} znaků")
+    # Načti markdown obsah
+    print(f"Načítám {INPUT_MD_FILE}...")
+    md_text = input_path.read_text(encoding='utf-8')
+    print(f"Načteno: {len(md_text)} znaků")
     
     # Rozdělení na řádky a zpracování po řádkách
     lines = md_text.split('\n')
