@@ -18,10 +18,10 @@ uv run py md_process.py
 
 uv run py md_split.py
 
-uv run py generate_nav.py
-
 REM Kopírování souborů
 copy ".\output\chapters\*.md" "docs-site\docs\chapters\" > NUL
 copy ".\output\indexes\*.md" "docs-site\docs\indexes\" > NUL
+
+uv run py generate_nav.py
 
 echo Hotovo!

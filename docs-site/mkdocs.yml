@@ -25,4 +25,161 @@ markdown_extensions:
 - admonition
 - pymdownx.details
 - pymdownx.superfences
-nav: []
+nav:
+- Úvod: index.md
+- KRONIKA STARÁ VES: chapters/chapter_001.md
+- 1923–1953, 1979–1991: chapters/chapter_002.md
+- Obec Stará Ves: chapters/chapter_003.md
+- Z minulostí obce:
+  - Z minulostí obce: chapters/chapter_004.md
+  - Vrchnost do r. 1620: chapters/chapter_005.md
+  - Regista: chapters/chapter_006.md
+  - Historie Hradu Navarova: chapters/chapter_007.md
+  - Doba od r. <a id="1620-806bea">1620</a> do r. 1634: chapters/chapter_008.md
+  - Doba od r. 1634: chapters/chapter_009.md
+  - Protireformace od r. 1648: chapters/chapter_010.md
+  - Památnosti: chapters/chapter_011.md
+  - Od roku 1700: chapters/chapter_012.md
+  - Od roku 1800: chapters/chapter_013.md
+  - Sedláci v Staré Vsi r. 1842: chapters/chapter_014.md
+  - Roku 1912: chapters/chapter_015.md
+  - Válka světová: chapters/chapter_016.md
+  - Z roku 1915: chapters/chapter_017.md
+  - R. 1917: chapters/chapter_018.md
+  - R. 1918: chapters/chapter_019.md
+- Dne 28. října byla prohlášena Československá republika:
+  - Dne 28. října byla prohlášena Československá republika: chapters/chapter_020.md
+  - R. 1919: chapters/chapter_021.md
+  - R. 1920: chapters/chapter_022.md
+  - R. 1921: chapters/chapter_023.md
+  - Oběti <a id="válka-bfccd5">Války</a> ze Staré Vsi r. <a id="1914-07a4e2">1914</a> – 1918: chapters/chapter_024.md
+  - Legionáři ze Staré Vsi: chapters/chapter_025.md
+  - Rok 1922: chapters/chapter_026.md
+  - Rok 1923: chapters/chapter_027.md
+  - Patricijská jména z okolí: chapters/chapter_028.md
+  - Regista: chapters/chapter_029.md
+  - Z dějin městečka Vysokého: chapters/chapter_030.md
+  - Rok <a id="1923-414e77">1923</a> (pokračování): chapters/chapter_031.md
+  - 1923 (pokračování): chapters/chapter_032.md
+  - Z Dějin národa českého: chapters/chapter_033.md
+  - Rok 1924: chapters/chapter_034.md
+  - Některá památnější úmrtí od roku 1881: chapters/chapter_035.md
+  - Různé: chapters/chapter_036.md
+  - Rok 1924: chapters/chapter_037.md
+  - Památka: chapters/chapter_038.md
+  - '1925': chapters/chapter_039.md
+  - '1926': chapters/chapter_040.md
+  - Rok 1927: chapters/chapter_041.md
+  - '1928': chapters/chapter_042.md
+  - '1929': chapters/chapter_043.md
+  - '1930': chapters/chapter_044.md
+  - '1931': chapters/chapter_045.md
+  - '1932': chapters/chapter_046.md
+  - '1933': chapters/chapter_047.md
+  - '1934': chapters/chapter_048.md
+- Dějiny školy staroveské: chapters/chapter_049.md
+- Dějiny čísel starovesských:
+  - Dějiny čísel starovesských: chapters/chapter_050.md
+  - Č 1: chapters/chapter_051.md
+  - Č. 2 U Holánku: chapters/chapter_052.md
+  - Č. 3 U Syrovátku: chapters/chapter_053.md
+  - Č. 4 U Hýrku: chapters/chapter_054.md
+  - Č. 5 U Roztomilejch: chapters/chapter_055.md
+  - Č.7 U Chalupenských: chapters/chapter_056.md
+  - Č. 6 U Klikorku: chapters/chapter_057.md
+  - Č. 8 V Janoušově chalupě: chapters/chapter_058.md
+  - Č. 9 U Hajnů: chapters/chapter_059.md
+  - Č. 10 U Staru.: chapters/chapter_060.md
+  - Č. 11 Na Krumpešti: chapters/chapter_061.md
+  - Č. 12 Na Pustině: chapters/chapter_062.md
+  - Č. 13 U Pátku: chapters/chapter_063.md
+  - Č. 14 U Ducháčku: chapters/chapter_064.md
+  - Č. 15 U Přidanu: chapters/chapter_065.md
+  - Č. 16 U Javůrku: chapters/chapter_066.md
+  - Č. 17 U Koucku: chapters/chapter_067.md
+  - Č. 18. U Petrušku: chapters/chapter_068.md
+  - Č. 19 U Berku: chapters/chapter_069.md
+  - Č. 20. U Vršťalu: chapters/chapter_070.md
+  - Č. 21 U Housičku: chapters/chapter_071.md
+  - Č. 22 U Čermáku: chapters/chapter_072.md
+  - Č. 23 U Boudalováku: chapters/chapter_073.md
+  - Č. 24 Na Kosnici: chapters/chapter_074.md
+  - Č. 25 V Pazderně: chapters/chapter_075.md
+  - Č. 26 V dolením Krčovi: chapters/chapter_076.md
+  - Č. 27 Na Prutě: chapters/chapter_077.md
+  - Č. 27 V Hořením Krčoví: chapters/chapter_078.md
+  - Č. 28 U Končalu: chapters/chapter_079.md
+  - Č. 29 V Potocích: chapters/chapter_080.md
+  - Č. 30 U Zámečniku: chapters/chapter_081.md
+  - Č. 31 U Blažku: chapters/chapter_082.md
+  - Č. 32 U Duštů: chapters/chapter_083.md
+  - Č. 33 U Nováku: chapters/chapter_084.md
+  - Č. 34 U Vitošů: chapters/chapter_085.md
+  - Č. 35 U Marků: chapters/chapter_086.md
+  - Č. 36 U Petrů: chapters/chapter_087.md
+  - Č. 37 U Peloušů: chapters/chapter_088.md
+  - Č. 38 Na Podrybníku: chapters/chapter_089.md
+  - Č. 53 U Woceďalku: chapters/chapter_090.md
+  - Č. 39 U Smětalů: chapters/chapter_091.md
+  - Č. 40 V dolením Mlýně: chapters/chapter_092.md
+  - Č. 40 V Hořením Mlýně: chapters/chapter_093.md
+  - Č. 42 U Starých Smětalu: chapters/chapter_094.md
+  - Č. 43 U Zadních Vojáku: chapters/chapter_095.md
+  - Č. 44 U Březáku: chapters/chapter_096.md
+  - Č. 45 U Hořeních Vojáku: chapters/chapter_097.md
+  - Č. 46 U Předních Vojáku: chapters/chapter_098.md
+  - Č. 47 U Kucheláku: chapters/chapter_099.md
+  - Č. 48 U Vlášku: chapters/chapter_100.md
+  - Č. 49 <a id="ve-staré-ae70e1">Ve Staré</a> Škole: chapters/chapter_101.md
+  - Č. 50 U Procházku: chapters/chapter_102.md
+  - Č. 51 U Klepaču: chapters/chapter_103.md
+  - Č. 52 U Adámku: chapters/chapter_104.md
+  - Č. 53 U Voceďálku: chapters/chapter_105.md
+  - Č. 54 Na Skále: chapters/chapter_106.md
+  - Č. 55 U Prutských: chapters/chapter_107.md
+  - Č. 56 U Lukšu: chapters/chapter_108.md
+  - Č. 57 U Holinku: chapters/chapter_109.md
+  - Rod Čermákův: chapters/chapter_110.md
+  - Rod Hevákův: chapters/chapter_111.md
+  - Rod Hladíkův: chapters/chapter_112.md
+- Rok <a id="1935-8d55a2">1935</a> – 1991:
+  - Rok <a id="1935-8d55a2">1935</a> – 1991: chapters/chapter_113.md
+  - '1935': chapters/chapter_114.md
+  - '1936': chapters/chapter_115.md
+  - '1937': chapters/chapter_116.md
+  - '1938': chapters/chapter_117.md
+  - '1939': chapters/chapter_118.md
+  - '1940': chapters/chapter_119.md
+  - '1941': chapters/chapter_120.md
+  - '1942': chapters/chapter_121.md
+  - '1943': chapters/chapter_122.md
+  - '1944': chapters/chapter_123.md
+  - Rok 1945: chapters/chapter_124.md
+  - '1946': chapters/chapter_125.md
+  - '1947': chapters/chapter_126.md
+  - '1948': chapters/chapter_127.md
+  - '1949': chapters/chapter_128.md
+  - '1950': chapters/chapter_129.md
+  - Rok 1951: chapters/chapter_130.md
+  - '1952': chapters/chapter_131.md
+  - '1953': chapters/chapter_132.md
+  - Rok 1979: chapters/chapter_133.md
+  - Rok 1980: chapters/chapter_134.md
+  - Rok 1981: chapters/chapter_135.md
+  - Dodatky k roku 1981: chapters/chapter_136.md
+  - Rok 1982: chapters/chapter_137.md
+  - Rok 1983: chapters/chapter_138.md
+  - Rok 1984: chapters/chapter_139.md
+  - Rok 1985: chapters/chapter_140.md
+  - Rok 1986: chapters/chapter_141.md
+  - Rok 1987: chapters/chapter_142.md
+  - Rok 1988: chapters/chapter_143.md
+  - Rok 1989: chapters/chapter_144.md
+  - Rok 1990: chapters/chapter_145.md
+  - Rok 1991: chapters/chapter_146.md
+- Obsah: chapters/chapter_147.md
+- Indexy:
+  - Address_number: indexes/address_number.md
+  - Event: indexes/event.md
+  - Name: indexes/name.md
+  - Year: indexes/year.md

@@ -177,6 +177,11 @@ def check_address_numbers(
         return None
 
     cur_num = re.findall(r'\d+', text_sequence)[0]
+
+    # kontrola rozsahu 1-299
+    if not (0 < int(cur_num) < 300):
+        return None
+
     return ("ADDRESS_NUMBER", cur_num, text_sequence)
 
 

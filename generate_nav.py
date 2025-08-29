@@ -101,7 +101,7 @@ def generate_nav_yaml(nav_structure):
     """Vygeneruje YAML strukturu pro MkDocs navigaci"""
     nav = []
 
-    # nav.append({"Úvod": "index.md"})
+    nav.append({"Úvod": "index.md"})
     
     for item in nav_structure:
         if item['children']:
@@ -163,14 +163,7 @@ def main():
     
     new_nav = generate_nav_yaml(nav_structure)
     
-    # Debug: zobraz strukturu
-    print("\nVygenerovaná navigace:")
-    print(yaml.dump(new_nav, default_flow_style=False, allow_unicode=True))
-    
     update_mkdocs_yml(new_nav)
     
-    print("\nHotovo! Restartuj MkDocs server.")
-
-
 if __name__ == "__main__":
     main()
