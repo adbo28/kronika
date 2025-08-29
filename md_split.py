@@ -70,7 +70,7 @@ def add_index_links_to_content(content: str, entities: List[Dict], chapter_num: 
                 if chapter_num not in entity['chapters']:
                     entity['chapters'].append(chapter_num)
 
-            index_link = f"/indexes/{entity_type}#{anchor_id}"
+            index_link = f"/kronika/indexes/{entity_type}#{anchor_id}"
             return f' <a id="{anchor_id}" href="{index_link}">{anchor_content}</a> '
         else:
             print(f"[WARN] Anchor ID {anchor_id} nenalezen v indexu")   
