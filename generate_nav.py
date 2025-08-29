@@ -2,7 +2,8 @@ import pathlib
 import yaml
 import re
 
-CHAPTERS_DIR = "docs-site/docs"
+CHAPTERS_DIR = "docs-site/docs/chapters"
+INDEXES_DIR = "docs-site/docs/indexes"
 MKDOCS_YML = "docs-site/mkdocs.yml"
 
 
@@ -77,10 +78,30 @@ def build_navigation():
     return nav_structure
 
 
+def find_index_files():
+    """Najde všechny index soubory"""
+    indexes_path = pathlib.Path(INDEXES_DIR)
+    if not indexes_path.exists():
+        return []
+    
+    index_files = []
+    for file in sorted(indexes_path.glob("*.md")):
+        # Vytvoř pěkný název z názvu souboru
+        name = file.stem
+        
+        index_files.append({
+            'title': name.capitalize(),
+            'file': f"indexes/{file.name}"
+        })
+    
+    return index_files
+
+
 def generate_nav_yaml(nav_structure):
     """Vygeneruje YAML strukturu pro MkDocs navigaci"""
     nav = []
-    nav.append({"Úvod": "index.md"})
+
+    # nav.append({"Úvod": "index.md"})
     
     for item in nav_structure:
         if item['children']:
@@ -88,21 +109,29 @@ def generate_nav_yaml(nav_structure):
             children_list = []
             
             # Hlavní sekce jako první položka
-            children_list.append({item['title']: item['file']})
+            children_list.append({item['title']: f"chapters/{item['file']}"})
             
             # Pak všechny podkapitoly
             for child in item['children']:
-                children_list.append({child['title']: child['file']})
+                children_list.append({child['title']: f"chapters/{child['file']}"})
             
             # Použij název hlavní sekce pro celou skupinu
             nav.append({item['title']: children_list})
             
         else:
             # Samostatná sekce bez podkapitol
-            nav.append({item['title']: item['file']})
+            nav.append({item['title']: f"chapters/{item['file']}"})
+    
+    # Přidej sekci Indexy
+    index_files = find_index_files()
+    if index_files:
+        indexes_section = []
+        for index_file in index_files:
+            indexes_section.append({index_file['title']: index_file['file']})
+        
+        nav.append({"Indexy": indexes_section})
     
     return nav
-
 
 
 def update_mkdocs_yml(new_nav):

@@ -1,214 +1,20 @@
-import pathlib, re, json, csv
-from dataclasses import dataclass
-from typing import List, Tuple
+import json
+import re
+import hashlib
+import pathlib
+from typing import List, Tuple, Dict, Optional, Any, Set
 
+
+# Configuration
 INPUT_MD_FILE = "./data/kronika.md"
+FILE_ENRICHED = "./data/kronika_plus.md"
 OUTPUT_FILE = "./data/index_data.jsonl"
-RULES_FILE = "./data/pattern_rules.csv"
-CONTEXT_LENGTH = 50
 
-# Blacklist pro názvy (jen jednoslovné výrazy)
-NAME_BLACKLIST = set(['dne', 'ten', 'státní', 'když', 'rok', 'první', 'jeho', 'byl', 'tak', 'potom', 'při', 'toho', 'kčs', 'také', 'zemřel', \
-                      'vysokém', 'staré', 'vsi', 'vysokého', 'semil', 'praze', 'semilech', 'jilemnici', 'jilemnice', 'ale', 'stanového', 'vrchy', \
-                      'bylo', 'roztokách', 'sklenařic', 'staré', 'vsi', 'tento', 'třiče', 've', 'staré', 'vsi', 'vysoké', 'stará', 'ves', 'poslední', 'roprachtic', \
-                      'jablonci', 'roku', 'roprachticích', 'jablonce', 'jednání', 'jičína', 'končinách', 'malé', 'straně', 'vrších', 'helkovicích', \
-                      'koncem', 'prahy', 'sklenařicích', 'liberci', 'nár', 'roztok', 'státního', 'tehdy', 'trhovice', 'měl', 'před', 'tyto', 'jesenném', \
-                      'kopci', 'kostnici', 'národní', 'německu', 'pro', 'stanovém', 'svatodušní', 'jeseném', 'ještě', 'lidé', 'nejvíce', 'rokytnice', \
-                      'ruprechticích', 'velkou', 'štědrý', 'celý', 'dle', 'jičíně', 'koupil', 'starou' ,'ves', 'třiči', 'velký', 'jiz', 'mimo', 'pohřeb', \
-                      'toto', 'usnesení', 'večer', 'dcery', 'helkovic', 'jak', 'jednou', 'ježto', 'německa', 'ona', 'stále', 'brambory', 'byla', 'byli', \
-                      'dnes', 'dolenci', 'dále', 'mezi', 'návštěva', 'rovněž', 'boží', 'druhý'])
+MAX_WINDOW_SIZE = 5 # kolik slov může mít jedna entita
 
-@dataclass
-class PatternMatch:
-    words: str
-    pattern_type: str
-    words_in_context: str
-    line_number: int
-
-@dataclass
-class ContextRule:
-    pattern_type: str
-    action: str  # 'whitelist' nebo 'blacklist'
-    pattern: str
-    before: str
-    after: str
-    reason: str
-
-
-def load_context_rules() -> List[ContextRule]:
-    """Načte pravidla pro whitelist/blacklist z CSV souboru"""
-    rules = []
-    rules_path = pathlib.Path(RULES_FILE)
-    
-    if not rules_path.exists():
-        print(f"Soubor s pravidly {RULES_FILE} neexistuje, pokračuji bez pravidel")
-        return rules
-    
-    try:
-        with open(RULES_FILE, 'r', encoding='utf-8') as f:
-            # Použij pipe delimiter a trim whitespace
-            reader = csv.DictReader(f, delimiter='|')
-            for row in reader:
-
-                # Trim všechny hodnoty
-                trimmed_row = {k.strip(): (v.strip() if v is not None else '') for k, v in row.items()}
-                
-                # Přeskoč komentáře a prázdné řádky
-                if (not trimmed_row.get('TYPE') or 
-                    trimmed_row.get('TYPE').startswith('#')):
-                    continue
-                
-                rule = ContextRule(
-                    pattern_type=trimmed_row.get('TYPE', '').upper(),
-                    action=trimmed_row.get('ACTION', '').lower(),
-                    pattern=trimmed_row.get('PATTERN', ''),
-                    before=trimmed_row.get('BEFORE', ''),
-                    after=trimmed_row.get('AFTER', ''),
-                    reason=trimmed_row.get('REASON', '')
-                )
-                
-                if rule.pattern_type and rule.action and rule.pattern:
-                    rules.append(rule)
-                    
-        print(f"Načteno {len(rules)} pravidel z {RULES_FILE}")
-    except Exception as e:
-        print(f"Chyba při načítání pravidel: {e}")
-    
-    return rules
-
-
-def apply_context_rules(matches: List[Tuple], text: str, rules: List[ContextRule]) -> List[Tuple]:
-    """Aplikuje whitelist/blacklist pravidla na nalezené matches"""
-    if not rules:
-        return matches
-    
-    filtered_matches = []
-    
-    for match_data in matches:
-        words, value, start, end, pattern_type = match_data[:5]
-        
-        # Získej kontext kolem matche
-        context_start = max(0, start - 100)  # širší kontext pro pravidla
-        context_end = min(len(text), end + 100)
-        before_text = text[context_start:start].lower()
-        after_text = text[end:context_end].lower()
-        
-        # Zkontroluj pravidla
-        should_include = True
-        applied_rule = None
-        
-        for rule in rules:
-            if rule.pattern_type != pattern_type:
-                continue
-                
-            # Zkontroluj jestli pattern matchuje
-            if rule.pattern.lower() not in value.lower():
-                continue
-                
-            # Zkontroluj kontext před
-            if rule.before and rule.before != '*':
-                if rule.before.lower() not in before_text:
-                    continue
-                    
-            # Zkontroluj kontext po
-            if rule.after and rule.after != '*':
-                if rule.after.lower() not in after_text:
-                    continue
-            
-            # Pravidlo matchuje
-            applied_rule = rule
-            if rule.action == 'blacklist':
-                should_include = False
-            elif rule.action == 'whitelist':
-                should_include = True
-            break  # první matchující pravidlo vyhrává
-        
-        if should_include:
-            filtered_matches.append(match_data)
-        elif applied_rule:
-            print(f"Blacklisted: {pattern_type} '{value}' - {applied_rule.reason}")
-    
-    return filtered_matches
-
+CONTEXT_SIZE_BLOCKS = 10 # počet bloků před a za entitou pro kontext
 
 ###########################################################
-
-def extract_address_numbers(text: str) -> List[Tuple[str, str, int, int]]:
-   """Extrahuje čísla adres ve formátu č. 999 včetně seznamů"""
-   matches = []
-   
-   # Pattern pro č. následované seznamem čísel: "č. 10, 33, 58 a 27"
-   pattern = r'\b[čćĆČcC]\.?\s*(\d+(?:\s*[,]\s*\d+)*(?:\s+a\s+\d+)?)\b'
-   
-   for match in re.finditer(pattern, text):
-       full_match = match.group(0)
-       numbers_part = match.group(1)
-       start_pos = match.start()
-       end_pos = match.end()
-       
-       # Extrahuj jednotlivá čísla ze seznamu
-       # Nejdřív nahraď "a" čárkou pro sjednocení
-       normalized = re.sub(r'\s+a\s+', ', ', numbers_part)
-       # Pak extrahuj všechna čísla
-       individual_numbers = re.findall(r'\d+', normalized)
-       
-       # Přidej každé číslo jako samostatný match
-       for number in individual_numbers:
-           if 1 <= len(number) <= 4:  # ověř délku čísla (1-4 číslice)
-               matches.append((full_match, number, start_pos, end_pos))
-   
-   return matches
-
-
-# ---------------------------------------------------------
-
-def extract_years(text: str) -> List[Tuple[str, str, int, int]]:
-    """
-    Extrahuje roky v různých formátech.
-    - Samostatná 3–4ciferná čísla (500–2000), s vyloučením jednotek.
-    - Vylučuje části tisícových formátů s mezerami („9 876“, „12 345“).
-    - Formát „14 [16/6] 68“: rok = <první dvě číslice><poslední dvě číslice> -> 1468.
-      Např. „19 [20/2] 21“ -> 1921.
-    Vrací list tuple: (plný_záchyt, rok_jako_string, start, end).
-    """
-    matches: List[Tuple[str, str, int, int]] = []
-
-    # Jednotky/etikety, které nesmí následovat po čísle (aby to nebyl rok)
-    unit_after = r'(?:kg|K\.|K\b|zl\.|Kčs?|osob|l|sáh(?:u|ů|y)?|obyvatel(?:ů|é|e)?|m|km|kop|%|str\.|stran)'
-
-    # --- Pattern 1: samostatné roky (3–4 číslice) bez jednotek ---
-    pattern1 = rf'\b(\d{{3,4}})(?!\s*(?:{unit_after})\b)'
-    for m in re.finditer(pattern1, text, flags=re.IGNORECASE):
-        year = int(m.group(1))
-        if 500 <= year <= 2000:
-            start = m.start()
-            end = m.end()
-
-            # Neber druhou/prostřední část tisícovky s mezerou: "... 9 876"
-            before = text[max(0, start - 12):start]
-            if re.search(r'\d+\s+$', before):
-                continue
-
-            # Neber první část "123 456": za rokem by následovala mezera a tři číslice
-            after = text[end:end + 6]
-            if re.match(r'^\s+\d{3}\b', after):
-                continue
-
-            matches.append((m.group(0), m.group(1), start, end))
-
-    # --- Pattern 2: "14 [16/6] 68" -> spoj první dvě a poslední dvě číslice ---
-    pattern2 = r'\b(\d{2})\s*\[\s*\d{1,2}\s*/\s*\d{1,2}\s*\]\s*(\d{2})\b'
-    for m in re.finditer(pattern2, text):
-        prefix2 = m.group(1)   # první dvě číslice (např. "14", "19")
-        suffix2 = m.group(2)   # poslední dvě číslice (např. "68", "21")
-        full_year = int(prefix2 + suffix2)  # např. "14" + "68" -> 1468
-
-        if 500 <= full_year <= 2000:
-            matches.append((m.group(0), str(full_year), m.start(), m.end()))
-
-    return matches
-
-# ---------------------------------------------------------
 
 def get_base_forms(file_path):
    """
@@ -225,147 +31,416 @@ def get_base_forms(file_path):
    
    return result
 
+# Načti základní formy jmen z externího souboru
+event_base_forms = get_base_forms('./data/event_base_form.jsonl')
+name_base_forms = get_base_forms('./data/name_base_form.jsonl')
 
-def extract_names(text: str) -> List[Tuple[str, str, int, int]]:
-    """Extrahuje jména podle definovaných pravidel"""
-    matches = []
+def check_event_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
+    """
+    Kontrola, zda textová sekvence odpovídá nějaké události.
+    Vrací název události nebo None.
+    """
     
-    base_forms = get_base_forms('./data/name_base_form.jsonl')
+    # Zkontroluj case-insensitive match
+    base = event_base_forms.get(text_sequence.lower())
+    if base:
+        return("EVENT", base, text_sequence)
+    
+    return None
 
-    # Pattern pro jména:
-    # - Začíná velkým písmenem
-    # - Může obsahovat zkratku s tečkou (F., Frant.)
-    # - Může obsahovat "z" pro šlechtické názvy
-    # - Slova oddělená mezerami
+# ---------------------------------------------------------
+
+def load_word_list(filename: str) -> Set[str]:
+    """Načte seznam slov ze souboru (jedno slovo na řádek)"""
+    with open(filename, 'r', encoding='utf-8') as f:
+        return {line.strip().lower() for line in f if line.strip()}
+
+names_with_dots = load_word_list('./data/names_with_dots.txt')
+names_word_blacklist = load_word_list('./data/name_blacklist_words.txt')
+
+
+def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
+    """
+    Kontrola, zda textová sekvence odpovídá nějakému jménu.
+    Vrací tuple ("NAME", base_form, původní_text) nebo None.
+    """
     
-    # Složitější pattern který pokrývá různé případy
-    pattern = r'\b(?:[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]*\.?\s+)*[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]*(?:\s+z\s+[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ][a-záčďéěíňóřšťúůýž]*)?'
+    text = text_sequence.strip()
+    if not text:
+        return None
     
-    for match in re.finditer(pattern, text):
-        name_candidate = match.group(0).strip()
+    # Rozdělí na slova
+    words = text.split()
+    
+    if len(words) < 2: # jméno musí mít alespoň 2 slova
+        return None
+
+    for i, word in enumerate(words):
+        # Odstranění trailing interpunkce z posledního slova
+        clean_word = word
+        if i == len(words) - 1:  # poslední slovo
+            # Odstraň trailing interpunkci definovanou v TRAILING_PUNCT
+            clean_word = re.sub(TRAILING_PUNCT + r'$', '', word)
         
-        # Filtruj podle blacklistu
-        words_in_name = name_candidate.split()
-        if any(word.lower().rstrip('.') in NAME_BLACKLIST for word in words_in_name):
-            continue
+        # Kontrola formátu slova: začíná velkým písmenem, zbytek malá písmena
+        if not clean_word:
+            return None
             
-        # Základní validace - alespoň jedno slovo musí být delší než 2 znaky
-        if any(len(word.rstrip('.')) > 2 for word in words_in_name):
-            name_value = base_forms.get(name_candidate, name_candidate)
-            matches.append((name_candidate, name_value, match.start(), match.end()))
+        if not clean_word[0].isupper():
+            return None
+            
+        if not clean_word[1:].islower():
+            return None
+        
+        # Kontrola, že obsahuje pouze písmena (+ případně tečku na konci)
+        base_letters = clean_word.rstrip('.')
+        if not re.match(r'^[A-Za-záčďéěíňóřšťúůýžÁČĎÉĚÍŇÓŘŠŤÚŮÝŽäöüÄÖÜ]+$', base_letters):
+            return None
+        
+        # Kontrola tečky u ne-posledních slov
+        if i < len(words) - 1 and word.endswith('.'):
+            # Ne-poslední slovo končí tečkou - musí být v seznamu povolených
+            if clean_word.lower() not in names_with_dots:
+                return None
+
+        # Blacklist kontrola
+        if clean_word.rstrip('.').lower() in names_word_blacklist:\
+            return None
     
-    return matches
+    # Validace: alespoň jedno slovo > 2 znaky
+    if not any(len(word) > 2 for word in words):
+        return None
+    
+    # Získat base form (nebo ponechat původní)
+    clean_text = re.sub(TRAILING_PUNCT + r'$', '', text)
+    base_form = name_base_forms.get(clean_text, clean_text)
+
+    return ("NAME", base_form, text)
 
 
 # ---------------------------------------------------------
 
-def extract_events(text: str) -> List[Tuple[str, str, int, int]]:
-    """Extrahuje události podle definovaných pravidel"""
-    matches = []
-    base_forms = get_base_forms('./data/event_base_form.jsonl')
+TRAILING_PUNCT = r'[.,;:)\]_]*'   # allow multiple, e.g. ")." or ")_" etc.
 
-    # Match word characters (handles Czech diacritics)
-    pattern = r'\b\w+\b'
-    
-    for match in re.finditer(pattern, text):
-        word = match.group(0).lower()  # Consider case normalization
 
-        if word in base_forms.keys():
-            event_value = base_forms[word]
-            matches.append((word, event_value, match.start(), match.end()))
-    
-    return matches
+def has_address_prefix(blocks: List[Tuple[str, Any]], i_start: int) -> bool:
+    """
+    Scan backwards from i_start and check whether the first non-whitespace,
+    non-number, non-connector block is a valid address prefix ("č", "č.", "c", "c.").
+    """
+    j = i_start - 1
+    while j >= 0:
+        prev_text, prev_is_ws = blocks[j]
+        text = prev_text.strip()
+
+        if prev_is_ws or not text:
+            j -= 1
+            continue
+
+        # skip numbers with optional punctuation (e.g. "7,", "8")
+        if re.fullmatch(r'\d{1,4}[,]?', text):
+            j -= 1
+            continue
+
+        # skip the connector "a"
+        if text.lower() == "a":
+            j -= 1
+            continue
+
+        # check for prefix
+        if re.fullmatch(r'[cčCČ]\.?', text):
+            return True
+
+        # any other content means no valid prefix
+        return False
+
+    return False
+
+
+def check_address_numbers(
+    text_sequence: str,
+    blocks: List[Tuple[str, Any]],
+    i_start: int,
+    i_end: int
+) -> Optional[Tuple[str, str, str]]:
+    """
+    Ověří, zda sekvence bloků [i_start:i_end] představuje validní adresní číslo.
+    Rozpozná pouze čísla, která jsou součástí sekvence za prefixem "č.", "č", "c.", "c.".
+    """
+
+    # číslo musí být samotné 1–4 číslice, volitelně s čárkou nebo tečkou nebo závorkou na konci
+    if not re.fullmatch(rf'\d{{1,4}}{TRAILING_PUNCT}?$', text_sequence):
+        return None
+
+    # kontrola prefixu
+    if not has_address_prefix(blocks, i_start):
+        return None
+
+    cur_num = re.findall(r'\d+', text_sequence)[0]
+    return ("ADDRESS_NUMBER", cur_num, text_sequence)
+
+
+# ---------------------------------------------------------
+
+def check_years(
+    text_sequence: str,
+    blocks: List[Tuple[str, Any]],
+    i_start: int,
+    i_end: int
+) -> Optional[Tuple[str, str, str]]:
+    """
+    Ověří, zda sekvence bloků [i_start:i_end] představuje validní rok.
+    Vrací tuple ("YEAR", rok_jako_string, původní_text_bloku) nebo None.
+    """
+
+    # jednotky zakazující interpretaci čísla jako rok
+    unit_after = r'(?:kg|Kčs?|K|zl|osob|l|sáh(?:u|ů|y)?|obyvatel(?:ů|é|e)?|m|km|a|ha|kop|%|str|stran)'
+
+    # --- Pattern 1: samostatné roky 3–4 číslice (s volitelnou koncovou interpunkcí) ---
+    m1 = re.fullmatch(rf'(\d{{3,4}}){TRAILING_PUNCT}', text_sequence)
+    if m1:
+        year = int(m1.group(1))
+        if 500 <= year <= 2000:
+            # --- kontrola fragmentace ---
+            if i_start > 0:
+                prev_text, prev_is_ws = blocks[i_start - 1]
+                if not prev_is_ws and prev_text and prev_text[-1].isdigit():
+                    return None
+            if i_end + 1 < len(blocks):
+                next_text, next_is_ws = blocks[i_end + 1]
+                if not next_is_ws and re.match(r'^\d{3}\b', next_text):
+                    return None
+
+            # --- kontrola zakázaných jednotek za číslem ---
+            if not re.search(r'[.,;:)\]_]$', text_sequence):  # skip unit-check if ended by punct
+                j = i_end + 1
+                while j < len(blocks):
+                    block_text, is_ws = blocks[j]
+                    if is_ws:
+                        j += 1
+                        continue
+                    # jednotka s volitelnou interpunkcí za ní
+                    if re.match(rf'^{unit_after}{TRAILING_PUNCT}$', block_text, flags=re.IGNORECASE):
+                        return None
+                    break  # stop after first content block
+
+            return ("YEAR", str(year), text_sequence)
+
+    # --- Pattern 2: speciální formát "14 [16/6] 68" -> 1468 ---
+    m2 = re.fullmatch(r'(\d{2})\s\[\s\d{1,2}\s/\s\d{1,2}\s\]\s(\d{2})', text_sequence)
+    if m2:
+        full_year = int(m2.group(1) + m2.group(2))
+        if 500 <= full_year <= 2000:
+            return ("YEAR", str(full_year), text_sequence)
+
+    return None
 
 
 ###########################################################
 
-def get_context(text: str, start_pos: int, end_pos: int, context_length: int) -> str:
-    """Získá kontext kolem nalezeného patternu"""
-    before_start = max(0, start_pos - context_length)
-    after_end = min(len(text), end_pos + context_length)
+def create_slug(text: str) -> str:
+    """Vytvoří URL-friendly slug z textu s hash suffixem proti kolizím"""
+    # Spočítej hash z původního textu
+    text_hash = hashlib.md5(text.encode('utf-8')).hexdigest()[:6]
     
-    context = text[before_start:after_end]
-    # Označit nalezený pattern v kontextu
-    pattern_in_context = text[start_pos:end_pos]
-    context_before = text[before_start:start_pos]
-    context_after = text[end_pos:after_end]
+    # Převeď na malá písmena a nahraď mezery pomlčkami
+    slug = text.lower().replace(' ', '-')
+    # Odstraň speciální znaky kromě pomlček a písmen
+    slug = re.sub(r'[^\w\-]', '', slug)
     
-    return f"{context_before}>>>{pattern_in_context}<<<{context_after}"
+    # Přidej hash suffix
+    return f"{slug}-{text_hash}"
 
 
-def find_line_number(text: str, position: int) -> int:
-    """Najde číslo řádku pro danou pozici v textu"""
-    return text[:position].count('\n') + 1
+def tokenize_to_blocks(text: str) -> List[Tuple[str, bool]]:
+    """
+    Rozdělí text na bloky - střídavě whitespace a content bloky.
+    Vrací seznam tupelů (block_text, is_whitespace)
+    """
+    blocks = []
+    i = 0
+    
+    while i < len(text):
+        if text[i].isspace():
+            # Whitespace block
+            start = i
+            while i < len(text) and text[i].isspace():
+                i += 1
+            blocks.append((text[start:i], True))
+        else:
+            # Content block
+            start = i
+            while i < len(text) and not text[i].isspace():
+                i += 1
+            blocks.append((text[start:i], False))
+    
+    return blocks
 
 
-def handle_pattern(words: str, pattern_type: str, words_in_context: str, line_number: int, value: str, output_file):
-    """Handler pro zpracování nalezeného patternu - generuje JSONL"""
-    # Odstraň všechny line breaky z řetězců
-    clean_words = words.replace('\n', ' ').replace('\r', '')
-    clean_context = words_in_context.replace('\n', ' ').replace('\r', '')
-    clean_value = value.replace('\n', ' ').replace('\r', '')
+def is_boundary(block: str, is_whitespace: bool) -> bool:
+    """
+    Detekuje konec odstavce/kapitoly pro reset sliding window.
+    Paragraph: double newlines
+    Chapter: # headers (markdown)
+    """
+    if not is_whitespace:
+        # Check for markdown headers
+        return block.startswith('#')
+    else:
+        # Check for paragraph break (double newlines)
+        return '\n\n' in block
     
-    # Vytvoř JSON objekt
-    entry = {
-        "type": pattern_type,
-        "value": clean_value,
-        "line": line_number,
-        "full_match": clean_words,
-        "context": clean_context
-    }
-    
-    # Zapiš jako JSONL řádek
-    output_file.write(json.dumps(entry, ensure_ascii=False) + '\n')
+    return False
 
 
-def process_text(text: str, output_file) -> int:
-    """Zpracuje text a najde všechny patterny"""
-    total_matches = 0
-    
-    # Načti pravidla pro kontext
-    rules = load_context_rules()
-    
-    # Najdi všechny patterny
-    address_matches = extract_address_numbers(text)
-    year_matches = extract_years(text)
-    name_matches = extract_names(text)
-    event_matches = extract_events(text)
-    
-    # Převeď na jednotný formát s typem
-    all_matches = []
-    
-    for words, value, start, end in address_matches:
-        all_matches.append((words, value, start, end, "ADDRESS"))
-    
-    for words, value, start, end in year_matches:
-        all_matches.append((words, value, start, end, "YEAR"))
-    
-    for words, value, start, end in name_matches:
-        all_matches.append((words, value, start, end, "NAME"))
+def check_entity_match(content_blocks: List[str], 
+                       window_size: int, 
+                       blocks: List[Tuple[str, Any]],
+                       i_start: int,
+                       i_end: int) -> Optional[Tuple[str, str, str]]:
+    """
+    Zkontroluje, jestli sekvence content_blocks odpovídá nějaké entitě.
+    Vrací (pattern_type, value, full_match) nebo None
+    """
 
-    for words, value, start, end in event_matches:
-        all_matches.append((words, value, start, end, "EVENT"))
+    if window_size == 0:
+        return None
+        
+    # Spojit bloky pro analýzu
+    text_sequence = ' '.join(content_blocks[:window_size])
 
-    # Aplikuj context rules
-    filtered_matches = apply_context_rules(all_matches, text, rules)
-    
-    # Připrav finální data pro řazení
-    final_matches = []
-    for words, value, start, end, pattern_type in filtered_matches:
-        context = get_context(text, start, end, CONTEXT_LENGTH)
-        line_num = find_line_number(text, start)
-        final_matches.append((pattern_type, value, start, words, pattern_type, context, line_num, value))
-    
-    # Seřaď podle typu (první) a hodnoty (druhé)
-    final_matches.sort(key=lambda x: (x[0], x[1]))
-    
-    # Zpracuj všechny nálezy
-    for type_sort, value_sort, position, words, pattern_type, context, line_num, value in final_matches:
-        handle_pattern(words, pattern_type, context, line_num, value, output_file)
-        total_matches += 1
+    event_match = check_event_match(text_sequence)
+    if event_match:
+        return event_match
+    year_match = check_years(text_sequence, blocks, i_start, i_end)
+    if year_match:
+        return year_match
+    name_match = check_name_match(text_sequence)
+    if name_match:
+        return name_match
+    address_match = check_address_numbers(text_sequence, blocks, i_start, i_end)
+    if address_match:
+        return address_match
+
+    return None
 
 
-###########################################################
+def fill_content_window(blocks: List[Tuple[str, bool]], start_pos: int, max_size: int) -> Tuple[List[str], List[int]]:
+    """
+    Pokud je na start_pos whitespace blok, vrátí jen tento jediný blok.
+    Pokud je na start_pos content blok, naplní content_window od start_pos dopředu až do max_size content bloků.
+    Zastaví se na boundary nebo konci bloků.
+    Vrací (content_window, content_positions)
+    """
+    content_window = []
+    content_positions = []
+    
+    if blocks[start_pos][1]:
+        # Whitespace blok - vrať jen tento jeden blok
+        return [blocks[start_pos][0]], [start_pos]
+
+    pos = start_pos
+    while pos < len(blocks) and len(content_window) < max_size:
+        block_text, is_whitespace = blocks[pos]
+        
+        if is_whitespace:
+            # Zkontroluj boundary - pokud ano, zastav plnění
+            if is_boundary(block_text, True):
+                break
+        else:
+            # Content blok - přidej do okna
+            content_window.append(block_text)
+            content_positions.append(pos)
+            
+            # Zkontroluj boundary - pokud ano, zastav plnění
+            if is_boundary(block_text, False):
+                break
+                
+        pos += 1
+    
+    return content_window, content_positions
+
+
+    
+def process_document(text: str) -> Tuple[str, List[Dict]]:
+    """
+    Hlavní funkce pro zpracování dokumentu.
+    Vrací (enriched_text, entities_list)
+    """
+    blocks = tokenize_to_blocks(text)
+    enriched_blocks = []
+    entities = []
+
+    i = 0
+    while i < len(blocks):
+        # Naplň plovoucí okno od pozice i
+        content_window, content_positions = fill_content_window(blocks, i, MAX_WINDOW_SIZE)
+
+        # Pokud okno neobsahuje žádné content bloky, pokračuj na další blok
+        if not content_window:
+            if len(enriched_blocks) <= i:
+                enriched_blocks.append(blocks[i][0])
+            i += 1
+            continue
+
+        # Zkus najít match - od nejdelší sekvence
+        match_found = False
+        for window_size in range(len(content_window), 0, -1):
+            # vždy použít přesné start/end indexy z content_positions
+            start_pos = content_positions[0]
+            end_pos = content_positions[window_size - 1]
+
+            match_result = check_entity_match(
+                content_window,
+                window_size,
+                blocks,
+                start_pos,
+                end_pos
+            )
+
+            if match_result:
+                pattern_type, value, full_match = match_result
+
+                # Vytvoř anchor ID
+                anchor_id = create_slug(value)
+
+                # Přidej bloky mezi posledním zpracovaným a začátkem match
+                for j in range(len(enriched_blocks), start_pos):
+                    enriched_blocks.append(blocks[j][0])
+
+                # Wrap matchované bloky do anchoru
+                enriched_blocks.append(f'<a id="{anchor_id}">')
+                for j in range(start_pos, end_pos + 1):
+                    enriched_blocks.append(blocks[j][0])
+                enriched_blocks.append('</a>')
+
+                # Připrav kontext (před a za entitou)
+                context_start = max(0, start_pos - CONTEXT_SIZE_BLOCKS)
+                context_end = min(len(blocks) - 1, end_pos + CONTEXT_SIZE_BLOCKS)
+                context = ''.join([b[0] for b in blocks[context_start:context_end]]).strip()
+
+                # Zaznamenej entitu
+                entity = {
+                    "type": pattern_type,
+                    "value": value,
+                    "anchor_id": anchor_id,
+                    "full_match": full_match,
+                    "context": context  # Kontext není potřeba podle požadavků
+                }
+                entities.append(entity)
+
+                # Pokračuj za matchem (žádný blok se nepřekrývá)
+                i = end_pos + 1
+                match_found = True
+                break
+
+        if not match_found:
+            # Žádný match - zkopíruj první blok z okna a pokračuj
+            enriched_blocks.append(blocks[i][0])
+            i += 1
+
+    return ''.join(enriched_blocks), entities
+
 
 def main():
     # Kontrola existence vstupního souboru
@@ -374,44 +449,36 @@ def main():
         print(f"❌ Chyba: Soubor {INPUT_MD_FILE} neexistuje!")
         return
     
-    # Vytvoř ukázkový soubor s pravidly pokud neexistuje
-    rules_path = pathlib.Path(RULES_FILE)
-    if not rules_path.exists():
-        print(f"Vytvářím ukázkový soubor s pravidly: {RULES_FILE}")
-        with open(RULES_FILE, 'w', encoding='utf-8') as f:
-            f.write("TYPE    | ACTION    | PATTERN | BEFORE | AFTER    | REASON\n")
-            # f.write("YEAR    | blacklist | 1500    | platil | Kč       | money amount\n")
-            # f.write("NAME    | whitelist | Josef   |        | Janda    | force person name\n")
-            # f.write("ADDRESS | blacklist | 123     | str.   |          | page number\n")
-            f.write("# Komentáře začínající # jsou ignorovány\n")
-    
     print(f"Načítám {INPUT_MD_FILE}...")
     text = input_path.read_text(encoding='utf-8')
     print(f"Načteno: {len(text)} znaků")
     
-    print("Hledám patterny...")
+    print("Zpracovávám dokument...")
+    enriched_text, entities = process_document(text)
     
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as output_file:
-        total_matches = process_text(text, output_file)
+    # Ulož obohacený dokument
+    enriched_path = pathlib.Path(FILE_ENRICHED)
+    enriched_path.write_text(enriched_text, encoding='utf-8')
     
-    print(f"✅ Hotovo! Nalezeno {total_matches} patternů")
-    print(f"Výsledky uloženy do: {OUTPUT_FILE}")
-    print(f"Pravidla pro úpravy: {RULES_FILE}")
+    # Ulož entity do JSONL
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        for entity in entities:
+            f.write(json.dumps(entity, ensure_ascii=False) + '\n')
+    
+    print(f"✅ Hotovo! Nalezeno {len(entities)} entit")
+    print(f"Obohacený dokument: {FILE_ENRICHED}")
+    print(f"Index entit: {OUTPUT_FILE}")
     
     # Zobraz statistiky
-    print("\nStatistiky:")
-    with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
-        content = f.read()
-        address_count = content.count("ADDRESS")
-        year_count = content.count("YEAR") 
-        name_count = content.count("NAME")
-        event_count = content.count("EVENT")
+    if entities:
+        print("\nStatistiky:")
+        type_counts = {}
+        for entity in entities:
+            entity_type = entity['type']
+            type_counts[entity_type] = type_counts.get(entity_type, 0) + 1
         
-        print(f"  Adresy: {address_count}")
-        print(f"  Roky: {year_count}")
-        print(f"  Jména: {name_count}")
-        print(f"  Události: {event_count}")
-
+        for entity_type, count in type_counts.items():
+            print(f"  {entity_type}: {count}")
 
 
 if __name__ == "__main__":
