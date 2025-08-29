@@ -1,5 +1,6 @@
 site_name: Obecní kronika Stará Ves
 site_description: Historická kronika obce 1923-1991
+site_url: https://adbo28.github.io/kronika/
 theme:
   name: material
   language: cs
