@@ -6,6 +6,13 @@ CHAPTERS_DIR = "docs-site/docs/chapters"
 INDEXES_DIR = "docs-site/docs/indexes"
 MKDOCS_YML = "docs-site/mkdocs.yml"
 
+labels_czech = {
+    'address_number': 'Čísla popisná', 
+    'event': 'Klíčová slova', 
+    'name': 'Jména', 
+    'year': 'Roky'
+} # keep synced with md_split.py
+
 
 def extract_frontmatter(md_file):
     """Extrahuje frontmatter z MD souboru"""
@@ -88,9 +95,10 @@ def find_index_files():
     for file in sorted(indexes_path.glob("*.md")):
         # Vytvoř pěkný název z názvu souboru
         name = file.stem
-        
+        title = labels_czech.get(name, name)
+
         index_files.append({
-            'title': name.capitalize(),
+            'title': title,
             'file': f"indexes/{file.name}"
         })
     

@@ -3,13 +3,43 @@ import yaml
 import re
 import json
 from collections import defaultdict
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 INPUT_MD_FILE = "./data/kronika_plus.md"
 INDEX_DATA_FILE = "./data/index_data.jsonl"
+STRUCTURE_CONFIG_FILE = "./data/chapter_mapping.jsonl"
 OUTPUT_DIR = "./output/chapters"
 INDEXES_DIR = "./output/indexes"
 GLOBAL_INDEX_FILE = "./data/global_index.json"
+
+labels_czech = {
+    'address_number': 'Čísla popisná', 
+    'event': 'Klíčová slova', 
+    'name': 'Jména', 
+    'year': 'Roky'
+} # keep synced with generate_nav.py
+
+
+def load_structure_mapping(jsonl_file: str) -> List[Dict]:
+    """Load structure mapping from JSONL file"""
+    config_path = pathlib.Path(jsonl_file)
+    if not config_path.exists():
+        print(f"❌ Chyba: Konfigurační soubor {jsonl_file} neexistuje!")
+        return []
+    
+    mappings = []
+    with open(jsonl_file, 'r', encoding='utf-8') as f:
+        for line_num, line in enumerate(f, 1):
+            if line.strip():
+                try:
+                    mapping = json.loads(line)
+                    mappings.append(mapping)
+                except json.JSONDecodeError as e:
+                    print(f"❌ Chyba na řádku {line_num}: {e}")
+                    return []
+    
+    print(f"Načteno {len(mappings)} konfigurací z {jsonl_file}")
+    return mappings
 
 
 def load_index_data() -> List[Dict]:
@@ -47,6 +77,46 @@ def clean_title(title):
     title = re.sub(r'\*(.*?)\*', r'\1', title)
     title = title.strip()
     return title
+
+
+def parse_all_sections(md_text: str) -> Dict[str, Dict]:
+    """Parse all sections from markdown and return indexed by title"""
+    lines = md_text.split('\n')
+    sections = {}
+    current_title = None
+    current_level = None
+    current_content = []
+    
+    for line in lines:
+        title, level = extract_heading_info(line)
+        
+        if title and level:  # Found a heading
+            # Save previous section
+            if current_title is not None:
+                sections[current_title] = {
+                    'level': current_level,
+                    'content': current_content.copy(),
+                    'found': False  # Track if this section was used
+                }
+            
+            # Start new section
+            current_title = title
+            current_level = level
+            current_content = []
+        else:
+            # Add line to current section content
+            current_content.append(line)
+    
+    # Save last section (skip "Obsah" chapter)
+    if current_title is not None and current_title != "Obsah":
+        sections[current_title] = {
+            'level': current_level,
+            'content': current_content.copy(),
+            'found': False
+        }
+    
+    print(f"Nalezeno {len(sections)} původních sekcí")
+    return sections
 
 
 def add_index_links_to_content(content: str, entities: List[Dict], chapter_num: int) -> str:
@@ -126,10 +196,12 @@ def create_index_files(entities: List[Dict], chapters_info: List[Dict]):
         
         sorted_values = sorted(values_dict.keys())
         
+        czech_label = labels_czech.get(entity_type.lower(), entity_type.title())
+        print(f"Vytvářím index pro {czech_label}[{entity_type.title()}] ({len(sorted_values)} položek)")
         content_lines = [
-            f"# {entity_type.title()} Index",
+            f"# {czech_label}",
             "",
-            f"Celkem {len(sorted_values)} různých {type_name}.",
+            f"Celkem {len(sorted_values)} různých položek.",
             ""
         ]
         
@@ -205,7 +277,116 @@ def create_global_index(entities: List[Dict], chapters_info: List[Dict]):
     print(f"Vytvořen globální index: {GLOBAL_INDEX_FILE}")
 
 
+def process_with_configuration(original_sections: Dict[str, Dict], 
+                             structure_mappings: List[Dict], 
+                             entities: List[Dict]) -> List[tuple]:
+    """Process sections according to configuration"""
+    chapters = []
+    chapters_info = []
+    chapter_counter = 1
+    current_content_buffer = []
+    current_title = None
+    current_level = None
+    
+    def save_current_chapter():
+        nonlocal chapter_counter, current_content_buffer, current_title, current_level
+        if current_title and current_level is not None:
+            filename, content = create_chapter_file(
+                current_content_buffer, current_title, chapter_counter, 
+                current_level, entities
+            )
+            chapters.append((filename, content))
+            chapters_info.append({
+                'number': chapter_counter,
+                'title': current_title,
+                'level': current_level
+            })
+            print(f"Kapitola {chapter_counter}: {current_title} (úroveň {current_level})")
+            chapter_counter += 1
+            current_content_buffer = []
+            current_title = None
+            current_level = None
+    
+    print("Zpracovávám podle konfigurace...")
+    
+    for mapping in structure_mappings:
+        original_title = mapping.get('original_title')
+        new_title = mapping.get('new_title')
+        new_level = mapping.get('new_level')
+        
+        if original_title:  # Existing section to map
+            if original_title in original_sections:
+                section = original_sections[original_title]
+                section['found'] = True  # Mark as used
+                
+                if new_title and new_level is not None:
+                    # Save any previous chapter first
+                    save_current_chapter()
+                    
+                    # Start new chapter
+                    current_title = new_title
+                    current_level = new_level
+                    current_content_buffer = section['content'].copy()
+                
+
+                elif new_title is None:
+                    # Append to current buffer (consolidation)
+                    if section['content']:
+                        if current_content_buffer:
+                            current_content_buffer.append("")
+                            current_content_buffer.append("---")  
+                            current_content_buffer.append("")
+                        
+                        # Add original title as level 4 heading
+                        current_content_buffer.append(f"#### {original_title}")
+                        current_content_buffer.append("")
+                        current_content_buffer.extend(section['content'])
+
+                else:
+                    print(f"❌ CHYBA: Neplatná kombinace pro '{original_title}': new_title={new_title}, new_level={new_level}")
+            else:
+                print(f"❌ CHYBA: Původní sekce '{original_title}' nebyla nalezena!")
+                
+        elif new_title and new_level is not None:  # New section to insert
+            # Save any previous chapter first
+            save_current_chapter()
+            
+            # Start new section (initially empty)
+            current_title = new_title
+            current_level = new_level
+            current_content_buffer = []
+        else:
+            print(f"❌ CHYBA: Neplatné mapování: original_title={original_title}, new_title={new_title}, new_level={new_level}")
+    
+    # Save final buffered content
+    save_current_chapter()
+    
+    return chapters, chapters_info
+
+
+def validate_all_content_used(original_sections: Dict[str, Dict]):
+    """Check that all original sections were used"""
+    unused_sections = [title for title, section in original_sections.items() 
+                      if not section['found']]
+    
+    if unused_sections:
+        print(f"\n❌ CHYBA: Následující {len(unused_sections)} původních sekcí nebyly použity:")
+        for title in unused_sections:
+            level = original_sections[title]['level']
+            print(f"   [Úroveň {level}] {title}")
+        print("\nTyto sekce se ztratí! Přidejte je do konfiguračního souboru.")
+        return False
+    else:
+        print(f"✅ Všech {len(original_sections)} původních sekcí bylo použito")
+        return True
+
+
 def main():
+    # Load configuration
+    structure_mappings = load_structure_mapping(STRUCTURE_CONFIG_FILE)
+    if not structure_mappings:
+        return
+    
     # Načti index data
     entities = load_index_data()
     if not entities:
@@ -226,82 +407,28 @@ def main():
     md_text = input_path.read_text(encoding='utf-8')
     print(f"Načteno: {len(md_text)} znaků")
     
-    lines = md_text.split('\n')
+    # Parse all original sections
+    original_sections = parse_all_sections(md_text)
     
-    chapters = []
-    chapters_info = []
-    current_chapter_lines = []
-    current_title = "ÚVOD"
-    current_level = 1
-    chapter_counter = 1
+    # Process according to configuration
+    chapters, chapters_info = process_with_configuration(
+        original_sections, structure_mappings, entities
+    )
     
-    print("Zpracovávám kapitoly...")
-    
-    for _, line in enumerate(lines):
-        title, level = extract_heading_info(line)
-        
-        if title and level:  # Našli jsme nadpis
-            # Uložit předchozí kapitolu (pokud má obsah)
-            if current_chapter_lines:
-                filename, content = create_chapter_file(
-                    current_chapter_lines, 
-                    current_title, 
-                    chapter_counter, 
-                    current_level,
-                    entities
-                )
-                chapters.append((filename, content))
-                
-                chapters_info.append({
-                    'number': chapter_counter,
-                    'title': current_title,
-                    'level': current_level
-                })
-                
-                print(f"Kapitola {chapter_counter}: {current_title} (úroveň {current_level})")
-                chapter_counter += 1
-            
-            # Začít novou kapitolu
-            current_title = title
-            current_level = level
-            current_chapter_lines = []
-            
-        else:
-            # Přidat řádek do aktuální kapitoly
-            current_chapter_lines.append(line)
-    
-    # Uložit poslední kapitolu
-    if current_chapter_lines:
-        filename, content = create_chapter_file(
-            current_chapter_lines, 
-            current_title, 
-            chapter_counter, 
-            current_level,
-            entities
-        )
-        chapters.append((filename, content))
-        
-        chapters_info.append({
-            'number': chapter_counter,
-            'title': current_title,
-            'level': current_level
-        })
-        
-        print(f"Kapitola {chapter_counter}: {current_title} (úroveň {current_level})")
-    
-    # Pokud nebyl nalezen žádný nadpis, vytvoř jednu kapitolu
-    if not chapters and lines:
-        filename, content = create_chapter_file(lines, "ÚVOD", 1, 1)
-        chapters.append((filename, content))
-        chapters_info.append({'number': 1, 'title': 'ÚVOD', 'level': 1})
-        print("Vytvořena kapitola ÚVOD")
+    # Validate all content was used
+    if not validate_all_content_used(original_sections):
+        print("\n⚠️  Varování: Některé původní sekce nebyly použity!")
+        user_input = input("Pokračovat přesto? (y/N): ")
+        if user_input.lower() != 'y':
+            print("Ukončeno uživatelem.")
+            return
     
     # Ulož všechny kapitoly
     print(f"\nUkládám {len(chapters)} kapitol...")
     for filename, content in chapters:
         file_path = output_path / filename
         file_path.write_text(content, encoding='utf-8')
-        print(f"Uloženo: {filename}")
+        print(f"Uloženo: {filename}", end=', ')
     
     # Vytvoř indexy
     print(f"\nVytvářím indexy...")
