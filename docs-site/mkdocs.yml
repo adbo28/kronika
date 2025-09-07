@@ -12,10 +12,8 @@ theme:
   - search.highlight
   - navigation.top
   - search.highlight
-# extra_css:
-#  - search/style.css
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js
+- https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js
 plugins:
 - search:
     lang: en
@@ -29,7 +27,6 @@ markdown_extensions:
 - pymdownx.details
 - pymdownx.superfences
 nav:
-- Vyhledávání: search/index.md
 - Úvod: index.md
 - KRONIKA STARÁ VES: chapters/chapter_001.md
 - Základní informace o obci:

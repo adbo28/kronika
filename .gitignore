@@ -10,7 +10,10 @@ wheels/
 .venv
 
 # MkDocs build output
-docs-site/
+docs-site/*
+!docs-site/docs/
+docs-site/docs/*
+!docs-site/docs/search/
 output/
 
 data/
