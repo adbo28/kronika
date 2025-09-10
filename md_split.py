@@ -67,6 +67,7 @@ def extract_heading_info(line):
         title = match.group(2).strip()
         title = clean_title(title)
         level = len(hashes)
+
         return title, level
     return None, None
 
@@ -93,6 +94,10 @@ def parse_all_sections(md_text: str) -> Dict[str, Dict]:
         if title and level:  # Found a heading
             # Save previous section
             if current_title is not None:
+                count = len([s for s in sections.keys() if s == current_title])
+                if count > 0:
+                    current_title = f"{current_title}_{count+1}"
+
                 sections[current_title] = {
                     'level': current_level,
                     'content': current_content.copy(),
@@ -107,8 +112,8 @@ def parse_all_sections(md_text: str) -> Dict[str, Dict]:
             # Add line to current section content
             current_content.append(line)
     
-    # Save last section (skip "Obsah" chapter)
-    if current_title is not None and current_title != "Obsah":
+    # Save last section
+    if current_title is not None:
         sections[current_title] = {
             'level': current_level,
             'content': current_content.copy(),
@@ -128,7 +133,7 @@ def add_index_links_to_content(content: str, entities: List[Dict], chapter_num: 
     def replace_anchor(match):
         anchor_id = match.group(1)
         anchor_content = match.group(2)
-        
+
         if anchor_id in anchor_to_entity:
             entity = anchor_to_entity[anchor_id]
             entity_type = entity['type'].lower()
@@ -141,6 +146,7 @@ def add_index_links_to_content(content: str, entities: List[Dict], chapter_num: 
                     entity['chapters'].append(chapter_num)
 
             index_link = f"/kronika/indexes/{entity_type}#{anchor_id}"
+
             return f' <a id="{anchor_id}" href="{index_link}">{anchor_content}</a> '
         else:
             print(f"[WARN] Anchor ID {anchor_id} nenalezen v indexu")   
@@ -261,12 +267,16 @@ def create_global_index(entities: List[Dict], chapters_info: List[Dict]):
         global_index["entities"][entity_type] = {}
         
         for value, occurrences in values_dict.items():
+            chapters_list = list({ch for occ in occurrences for ch in occ.get('chapters', []) if occ.get('chapters')})
+            contexts_list = [occ.get('context', '') for occ in occurrences if occ.get('context')]
+            if not chapters_list and contexts_list:
+                print(f"❌ ERROR: Entity '{value}' in type '{entity_type}' has empty chapters but {len(contexts_list)} contexts")
             global_index["entities"][entity_type][value] = {
                 "total_count": len(occurrences),
                 "anchor_id": occurrences[0]['anchor_id'],
                 "full_matches": list(set([occ.get('full_match', value) for occ in occurrences])), # TODO potřebujeme to vůbec?
-                "chapters": list({ch for occ in occurrences for ch in occ.get('chapters', []) if occ.get('chapters')}),
-                "contexts": [occ.get('context', '') for occ in occurrences if occ.get('context')]
+                "chapters": chapters_list,
+                "contexts": contexts_list
             }
     
     # Ulož globální index
@@ -301,11 +311,14 @@ def process_with_configuration(original_sections: Dict[str, Dict],
                 'title': current_title,
                 'level': current_level
             })
-            print(f"Kapitola {chapter_counter}: {current_title} (úroveň {current_level})")
+            # print(f"Kapitola {chapter_counter}: {current_title} (úroveň {current_level})")
             chapter_counter += 1
             current_content_buffer = []
             current_title = None
             current_level = None
+        else:
+            if current_content_buffer:
+                print(f"❌ CHYBA: Nelze uložit kapitolu bez názvu nebo úrovně! Titulek: {current_title}")
     
     print("Zpracovávám podle konfigurace...")
     
@@ -328,7 +341,6 @@ def process_with_configuration(original_sections: Dict[str, Dict],
                     current_level = new_level
                     current_content_buffer = section['content'].copy()
                 
-
                 elif new_title is None:
                     # Append to current buffer (consolidation)
                     if section['content']:
@@ -366,19 +378,21 @@ def process_with_configuration(original_sections: Dict[str, Dict],
 
 def validate_all_content_used(original_sections: Dict[str, Dict]):
     """Check that all original sections were used"""
-    unused_sections = [title for title, section in original_sections.items() 
+    unused_sections = [title for title, section in original_sections.items()
                       if not section['found']]
-    
+
     if unused_sections:
-        print(f"\n❌ CHYBA: Následující {len(unused_sections)} původních sekcí nebyly použity:")
+        print(f"\n❌ ERROR: The following {len(unused_sections)} original sections were not used and will be dropped:")
         for title in unused_sections:
             level = original_sections[title]['level']
-            print(f"   [Úroveň {level}] {title}")
-        print("\nTyto sekce se ztratí! Přidejte je do konfiguračního souboru.")
-        return False
+            suggested_mapping = f'{{"original_title": "{title}", "new_title": "TODO", "new_level": "TODO"}}'
+            print(f"   [Level {level}] {title}")
+            print(f"   Suggested mapping to add to chapter_mapping.jsonl: {suggested_mapping}")
+        print("\nThese sections will be lost! Add the suggested mappings to the configuration file.")
     else:
-        print(f"✅ Všech {len(original_sections)} původních sekcí bylo použito")
-        return True
+        print(f"✅✅ Všechny {len(original_sections)} původní sekce byly použity")
+
+    return True
 
 
 def main():
@@ -417,11 +431,7 @@ def main():
     
     # Validate all content was used
     if not validate_all_content_used(original_sections):
-        print("\n⚠️  Varování: Některé původní sekce nebyly použity!")
-        user_input = input("Pokračovat přesto? (y/N): ")
-        if user_input.lower() != 'y':
-            print("Ukončeno uživatelem.")
-            return
+        return
     
     # Ulož všechny kapitoly
     print(f"\nUkládám {len(chapters)} kapitol...")

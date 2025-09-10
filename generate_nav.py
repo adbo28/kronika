@@ -55,6 +55,10 @@ def build_navigation():
     current_parent = None
     
     for chapter in chapters:
+
+        if type(chapter['level']) is not int:
+            print(f"⚠️ Varování: Kapitola '{chapter['title']}' má neplatný heading_level '{chapter['level']}'.")
+
         if chapter['level'] <= 2:  # Úroveň 1 nebo 2 = hlavní sekce
             # Nová hlavní sekce
             section = {

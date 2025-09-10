@@ -57,6 +57,21 @@ def fix_page_breaks(text):
     return '\n'.join(fixed_lines)
 
 
+def apply_specific_fixes(text):
+    """Provede specifické opravy textu podle potřeby"""
+    # Příklad: Oprava konkrétního špatného řetězce
+
+    CHAPTER_OBSAH = "## **Obsah**"
+    if CHAPTER_OBSAH in text:
+        text = text[:text.find(CHAPTER_OBSAH)]
+    else:
+        print("⚠️ Kapitola 'Obsah' nenalezena.")
+
+    text = text.replace("_Ediční poznámka:_","## Ediční poznámka")
+
+    return text
+
+
 def main():
     # Převeď PDF na markdown (bez page_chunks)
     print("Převádím PDF na markdown...")
@@ -69,16 +84,19 @@ def main():
         show_progress=True,
     )
     
-    print("Opravujem soft hyphens...")
+    print("Opravuji soft hyphens...")
     md_text = fix_soft_hyphens(md_text)
     
-    print("Opravujem page breaks...")
+    print("Opravuji page breaks...")
     md_text = fix_page_breaks(md_text)
     
+    print("Aplikuji specifické opravy...")
+    md_text = apply_specific_fixes(md_text)
+
     # ulož hlavní výstupní soubor
     pathlib.Path(MAIN_OUTPUT_FILE).write_bytes(md_text.encode())        
 
-    print(f"✅ Převedeno a opraveno! Celková délka: {len(md_text)} znaků")
+    print(f"✅ Převedeno a opraveno!")
     print(f"Výstupní soubor: {MAIN_OUTPUT_FILE}")
 
 

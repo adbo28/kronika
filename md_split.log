@@ -1,0 +1,266 @@
+2025-09-07 22:08:01,809 - INFO - Načteno 170 konfigurací z ./data/chapter_mapping.jsonl
+2025-09-07 22:08:01,915 - INFO - Načteno 14683 entit z indexu
+2025-09-07 22:08:01,915 - INFO - Načítám ./data/kronika_plus.md...
+2025-09-07 22:08:01,969 - INFO - Načteno: 1629484 znaků
+2025-09-07 22:08:01,973 - INFO -   -> Found heading (L1): KRONIKA STARÁ VES
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L2): 1923–1953, 1979–1991
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L2): Obec Stará Ves
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L2): Z minulostí obce
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Vrchnost do r. 1620
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Regista
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Historie Hradu Navarova
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Doba od r. <a id="1620-806bea">1620</a> do r. 1634
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Doba od r. 1634
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Protireformace od r. 1648
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Památnosti
+2025-09-07 22:08:01,974 - INFO -   -> Found heading (L3): Od roku 1700
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): Od roku 1800
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): Sedláci v Staré Vsi r. 1842
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): Roku 1912
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): Válka světová
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): Z roku 1915
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): R. 1917
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): R. 1918
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L2): Dne 28. října byla prohlášena Československá republika
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): R. 1919
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): R. 1920
+2025-09-07 22:08:01,975 - INFO -   -> Found heading (L3): R. 1921
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Oběti <a id="válka-bfccd5">Války</a> ze Staré Vsi r. <a id="1914-07a4e2">1914</a> – 1918
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Legionáři ze Staré Vsi
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Rok 1922
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Rok 1923
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Patricijská jména z okolí
+2025-09-07 22:08:01,976 - WARNING - Duplicate title found: 'Regista'. Renaming to 'Regista_2'
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Regista_2
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Z dějin městečka Vysokého
+2025-09-07 22:08:01,976 - INFO -   -> Found heading (L3): Rok <a id="1923-414e77">1923</a> (pokračování)
+2025-09-07 22:08:01,977 - INFO -   -> Found heading (L3): 1923 (pokračování)
+2025-09-07 22:08:01,977 - INFO -   -> Found heading (L3): Z Dějin národa českého
+2025-09-07 22:08:01,977 - INFO -   -> Found heading (L3): Rok 1924
+2025-09-07 22:08:01,977 - INFO -   -> Found heading (L3): Některá památnější úmrtí od roku 1881
+2025-09-07 22:08:01,978 - INFO -   -> Found heading (L3): Různé
+2025-09-07 22:08:01,978 - WARNING - Duplicate title found: 'Rok 1924'. Renaming to 'Rok 1924_2'
+2025-09-07 22:08:01,978 - INFO -   -> Found heading (L3): Rok 1924_2
+2025-09-07 22:08:01,978 - INFO -   -> Found heading (L3): Památka
+2025-09-07 22:08:01,978 - INFO -   -> Found heading (L3): 1925
+2025-09-07 22:08:01,978 - INFO -   -> Found heading (L3): 1926
+2025-09-07 22:08:01,978 - INFO -   -> Found heading (L3): Rok 1927
+2025-09-07 22:08:01,979 - INFO -   -> Found heading (L3): 1928
+2025-09-07 22:08:01,979 - INFO -   -> Found heading (L3): 1929
+2025-09-07 22:08:01,979 - INFO -   -> Found heading (L3): 1930
+2025-09-07 22:08:01,979 - INFO -   -> Found heading (L3): 1931
+2025-09-07 22:08:01,979 - INFO -   -> Found heading (L3): 1932
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): 1933
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): 1934
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L2): Dějiny školy staroveské
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L2): Dějiny čísel starovesských
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): Č 1
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): Č. 2 U Holánku
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): Č. 3 U Syrovátku
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): Č. 4 U Hýrku
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): Č. 5 U Roztomilejch
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): Č.7 U Chalupenských
+2025-09-07 22:08:01,980 - INFO -   -> Found heading (L3): Č. 6 U Klikorku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 8 V Janoušově chalupě
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 9 U Hajnů
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 10 U Staru.
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 11 Na Krumpešti
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 12 Na Pustině
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 13 U Pátku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 14 U Ducháčku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 15 U Přidanu
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 16 U Javůrku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 17 U Koucku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 18. U Petrušku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 19 U Berku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 20. U Vršťalu
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 21 U Housičku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 22 U Čermáku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 23 U Boudalováku
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 24 Na Kosnici
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 25 V Pazderně
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 26 V dolením Krčovi
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 27 Na Prutě
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 27 V Hořením Krčoví
+2025-09-07 22:08:01,981 - INFO -   -> Found heading (L3): Č. 28 U Končalu
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 29 V Potocích
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 30 U Zámečniku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 31 U Blažku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 32 U Duštů
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 33 U Nováku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 34 U Vitošů
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 35 U Marků
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 36 U Petrů
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 37 U Peloušů
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 38 Na Podrybníku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 53 U Woceďalku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 39 U Smětalů
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 40 V dolením Mlýně
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 40 V Hořením Mlýně
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 42 U Starých Smětalu
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 43 U Zadních Vojáku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 44 U Březáku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 45 U Hořeních Vojáku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 46 U Předních Vojáku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 47 U Kucheláku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 48 U Vlášku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 49 Ve Staré Škole
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 50 U Procházku
+2025-09-07 22:08:01,982 - INFO -   -> Found heading (L3): Č. 51 U Klepaču
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Č. 52 U Adámku
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Č. 53 U Voceďálku
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Č. 54 Na Skále
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Č. 55 U Prutských
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Č. 56 U Lukšu
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Č. 57 U Holinku
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Rod Čermákův
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Rod Hevákův
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): Rod Hladíkův
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L2): Rok <a id="1935-8d55a2">1935</a> – 1991
+2025-09-07 22:08:01,984 - INFO -   -> Found heading (L3): 1935
+2025-09-07 22:08:01,985 - INFO -   -> Found heading (L3): 1936
+2025-09-07 22:08:01,985 - INFO -   -> Found heading (L3): 1937
+2025-09-07 22:08:01,985 - INFO -   -> Found heading (L3): 1938
+2025-09-07 22:08:01,985 - INFO -   -> Found heading (L3): 1939
+2025-09-07 22:08:01,985 - INFO -   -> Found heading (L3): 1940
+2025-09-07 22:08:01,985 - INFO -   -> Found heading (L3): 1941
+2025-09-07 22:08:01,986 - INFO -   -> Found heading (L3): 1942
+2025-09-07 22:08:01,986 - INFO -   -> Found heading (L3): 1943
+2025-09-07 22:08:01,986 - INFO -   -> Found heading (L3): 1944
+2025-09-07 22:08:01,986 - INFO -   -> Found heading (L3): Rok 1945
+2025-09-07 22:08:01,987 - INFO -   -> Found heading (L3): 1946
+2025-09-07 22:08:01,987 - INFO -   -> Found heading (L3): 1947
+2025-09-07 22:08:01,987 - INFO -   -> Found heading (L3): 1948
+2025-09-07 22:08:01,987 - INFO -   -> Found heading (L3): 1949
+2025-09-07 22:08:01,988 - INFO -   -> Found heading (L3): 1950
+2025-09-07 22:08:01,988 - INFO -   -> Found heading (L3): Rok 1951
+2025-09-07 22:08:01,988 - INFO -   -> Found heading (L3): 1952
+2025-09-07 22:08:01,988 - INFO -   -> Found heading (L3): 1953
+2025-09-07 22:08:01,989 - INFO -   -> Found heading (L3): Rok 1979
+2025-09-07 22:08:01,989 - INFO -   -> Found heading (L3): Rok 1980
+2025-09-07 22:08:01,989 - INFO -   -> Found heading (L3): Rok 1981
+2025-09-07 22:08:01,989 - INFO -   -> Found heading (L3): Dodatky k roku 1981
+2025-09-07 22:08:01,989 - INFO -   -> Found heading (L3): Rok 1982
+2025-09-07 22:08:01,989 - INFO -   -> Found heading (L3): Rok 1983
+2025-09-07 22:08:01,990 - INFO -   -> Found heading (L3): Rok 1984
+2025-09-07 22:08:01,990 - INFO -   -> Found heading (L3): Rok 1985
+2025-09-07 22:08:01,990 - INFO -   -> Found heading (L3): Rok 1986
+2025-09-07 22:08:01,990 - INFO -   -> Found heading (L3): Rok 1987
+2025-09-07 22:08:01,990 - INFO -   -> Found heading (L3): Rok 1988
+2025-09-07 22:08:01,991 - INFO -   -> Found heading (L3): Rok 1989
+2025-09-07 22:08:01,991 - INFO -   -> Found heading (L3): Rok 1990
+2025-09-07 22:08:01,991 - INFO -   -> Found heading (L3): Rok 1991
+2025-09-07 22:08:01,991 - INFO -   -> Found heading (L2): Obsah
+2025-09-07 22:08:01,991 - INFO - Nalezeno 146 původních sekcí
+2025-09-07 22:08:01,991 - INFO - Zpracovávám podle konfigurace...
+2025-09-07 22:08:01,993 - INFO - Kapitola 1: KRONIKA STARÁ VES (úroveň 1)
+2025-09-07 22:08:01,995 - INFO - Kapitola 2: Základní informace o obci (úroveň 2)
+2025-09-07 22:08:01,996 - INFO - Kapitola 3: Obec Stará Ves (úroveň 3)
+2025-09-07 22:08:01,997 - INFO - Kapitola 4: Památnosti a významná místa (úroveň 3)
+2025-09-07 22:08:01,999 - INFO - Kapitola 5: Rané dějiny (do 1700) (úroveň 2)
+2025-09-07 22:08:02,001 - INFO - Kapitola 6: Vrchnost do roku 1620 (úroveň 3)
+2025-09-07 22:08:02,002 - INFO - Kapitola 7: Historie Hradu Navarova (úroveň 3)
+2025-09-07 22:08:02,003 - INFO - Kapitola 8: Doba od r. <a id="1620-806bea">1620</a> do r. 1634 (úroveň 3)
+2025-09-07 22:08:02,005 - INFO - Kapitola 9: Doba od roku 1634 (úroveň 3)
+2025-09-07 22:08:02,007 - INFO - Kapitola 10: Protireformace od roku 1648 (úroveň 3)
+2025-09-07 22:08:02,009 - INFO - Kapitola 11: 18. a 19. století (1700–1914) (úroveň 2)
+2025-09-07 22:08:02,010 - INFO - Kapitola 12: Od roku 1700 (úroveň 3)
+2025-09-07 22:08:02,011 - INFO - Kapitola 13: Od roku 1800 (úroveň 3)
+2025-09-07 22:08:02,014 - INFO - Kapitola 14: Sedláci v Staré Vsi roku 1842 (úroveň 3)
+2025-09-07 22:08:02,016 - INFO - Kapitola 15: Roku 1912 (úroveň 3)
+2025-09-07 22:08:02,018 - INFO - Kapitola 16: Některá památnější úmrtí od roku 1881 (úroveň 3)
+2025-09-07 22:08:02,019 - INFO - Kapitola 17: První světová válka (1914–1918) (úroveň 2)
+2025-09-07 22:08:02,021 - INFO - Kapitola 18: Válka světová (úroveň 3)
+2025-09-07 22:08:02,023 - INFO - Kapitola 19: Průběh války (1915–1918) (úroveň 3)
+2025-09-07 22:08:02,024 - INFO - Kapitola 20: Oběti <a id="válka-bfccd5">Války</a> ze Staré Vsi r. <a id="1914-07a4e2">1914</a> – 1918 (úroveň 3)
+2025-09-07 22:08:02,026 - INFO - Kapitola 21: Legionáři ze Staré Vsi (úroveň 3)
+2025-09-07 22:08:02,027 - INFO - Kapitola 22: Meziválečné období (1918–1938) (úroveň 2)
+2025-09-07 22:08:02,029 - INFO - Kapitola 23: Vznik Československé republiky (1918–1922) (úroveň 3)
+2025-09-07 22:08:02,032 - INFO - Kapitola 24: Roky 1923–1927 (úroveň 3)
+2025-09-07 22:08:02,035 - INFO - Kapitola 25: Roky 1928–1934 (úroveň 3)
+2025-09-07 22:08:02,036 - INFO - Kapitola 26: Válečné a poválečné období (1935–1953) (úroveň 2)
+2025-09-07 22:08:02,039 - INFO - Kapitola 27: Předválečné roky (1935–1938) (úroveň 3)
+2025-09-07 22:08:02,044 - INFO - Kapitola 28: Druhá světová válka (1939–1945) (úroveň 3)
+2025-09-07 22:08:02,049 - INFO - Kapitola 29: Poválečné roky (1946–1953) (úroveň 3)
+2025-09-07 22:08:02,050 - INFO - Kapitola 30: Novější dějiny (1979–1991) (úroveň 2)
+2025-09-07 22:08:02,057 - INFO - Kapitola 31: Osmdesátá léta (1979–1989) (úroveň 3)
+2025-09-07 22:08:02,059 - INFO - Kapitola 32: Sametová revoluce a její následky (1989–1991) (úroveň 3)
+2025-09-07 22:08:02,060 - INFO - Kapitola 33: Dějiny školy staroveské (úroveň 2)
+2025-09-07 22:08:02,061 - INFO - Kapitola 34: Historie domů a jejich obyvatel (úroveň 2)
+2025-09-07 22:08:02,063 - INFO - Kapitola 35: Domy č. 1–20 (úroveň 3)
+2025-09-07 22:08:02,066 - INFO - Kapitola 36: Domy č. 21–40 (úroveň 3)
+2025-09-07 22:08:02,068 - INFO - Kapitola 37: Domy č. 41–57 (úroveň 3)
+2025-09-07 22:08:02,069 - INFO - Kapitola 38: Rody a genealogie (úroveň 3)
+2025-09-07 22:08:02,071 - INFO - Kapitola 39: Okolní obce a regiony (úroveň 2)
+2025-09-07 22:08:02,073 - INFO - Kapitola 40: Z dějin městečka Vysokého (úroveň 3)
+2025-09-07 22:08:02,074 - INFO - Kapitola 41: Patricijská jména z okolí (úroveň 3)
+2025-09-07 22:08:02,076 - INFO - Kapitola 42: Z Dějin národa českého (úroveň 3)
+2025-09-07 22:08:02,077 - INFO - Kapitola 43: Přílohy (úroveň 2)
+2025-09-07 22:08:02,078 - INFO - Kapitola 44: Regista (úroveň 3)
+2025-09-07 22:08:02,080 - INFO - Kapitola 45: Různé (úroveň 3)
+2025-09-07 22:08:02,080 - INFO - All 146 original sections were used
+2025-09-07 22:08:02,080 - INFO - Ukládám 45 kapitol...
+2025-09-07 22:08:02,080 - INFO - Uloženo: chapter_001.md
+2025-09-07 22:08:02,082 - INFO - Uloženo: chapter_002.md
+2025-09-07 22:08:02,082 - INFO - Uloženo: chapter_003.md
+2025-09-07 22:08:02,083 - INFO - Uloženo: chapter_004.md
+2025-09-07 22:08:02,083 - INFO - Uloženo: chapter_005.md
+2025-09-07 22:08:02,083 - INFO - Uloženo: chapter_006.md
+2025-09-07 22:08:02,083 - INFO - Uloženo: chapter_007.md
+2025-09-07 22:08:02,084 - INFO - Uloženo: chapter_008.md
+2025-09-07 22:08:02,084 - INFO - Uloženo: chapter_009.md
+2025-09-07 22:08:02,085 - INFO - Uloženo: chapter_010.md
+2025-09-07 22:08:02,085 - INFO - Uloženo: chapter_011.md
+2025-09-07 22:08:02,086 - INFO - Uloženo: chapter_012.md
+2025-09-07 22:08:02,086 - INFO - Uloženo: chapter_013.md
+2025-09-07 22:08:02,086 - INFO - Uloženo: chapter_014.md
+2025-09-07 22:08:02,087 - INFO - Uloženo: chapter_015.md
+2025-09-07 22:08:02,088 - INFO - Uloženo: chapter_016.md
+2025-09-07 22:08:02,088 - INFO - Uloženo: chapter_017.md
+2025-09-07 22:08:02,089 - INFO - Uloženo: chapter_018.md
+2025-09-07 22:08:02,089 - INFO - Uloženo: chapter_019.md
+2025-09-07 22:08:02,090 - INFO - Uloženo: chapter_020.md
+2025-09-07 22:08:02,090 - INFO - Uloženo: chapter_021.md
+2025-09-07 22:08:02,091 - INFO - Uloženo: chapter_022.md
+2025-09-07 22:08:02,091 - INFO - Uloženo: chapter_023.md
+2025-09-07 22:08:02,092 - INFO - Uloženo: chapter_024.md
+2025-09-07 22:08:02,093 - INFO - Uloženo: chapter_025.md
+2025-09-07 22:08:02,093 - INFO - Uloženo: chapter_026.md
+2025-09-07 22:08:02,094 - INFO - Uloženo: chapter_027.md
+2025-09-07 22:08:02,096 - INFO - Uloženo: chapter_028.md
+2025-09-07 22:08:02,097 - INFO - Uloženo: chapter_029.md
+2025-09-07 22:08:02,098 - INFO - Uloženo: chapter_030.md
+2025-09-07 22:08:02,099 - INFO - Uloženo: chapter_031.md
+2025-09-07 22:08:02,100 - INFO - Uloženo: chapter_032.md
+2025-09-07 22:08:02,101 - INFO - Uloženo: chapter_033.md
+2025-09-07 22:08:02,101 - INFO - Uloženo: chapter_034.md
+2025-09-07 22:08:02,103 - INFO - Uloženo: chapter_035.md
+2025-09-07 22:08:02,103 - INFO - Uloženo: chapter_036.md
+2025-09-07 22:08:02,104 - INFO - Uloženo: chapter_037.md
+2025-09-07 22:08:02,104 - INFO - Uloženo: chapter_038.md
+2025-09-07 22:08:02,105 - INFO - Uloženo: chapter_039.md
+2025-09-07 22:08:02,106 - INFO - Uloženo: chapter_040.md
+2025-09-07 22:08:02,106 - INFO - Uloženo: chapter_041.md
+2025-09-07 22:08:02,107 - INFO - Uloženo: chapter_042.md
+2025-09-07 22:08:02,107 - INFO - Uloženo: chapter_043.md
+2025-09-07 22:08:02,107 - INFO - Uloženo: chapter_044.md
+2025-09-07 22:08:02,108 - INFO - Uloženo: chapter_045.md
+2025-09-07 22:08:02,108 - INFO - Vytvářím indexy...
+2025-09-07 22:08:02,113 - INFO - Vytvářím index pro Jména[Name] (2173 položek)
+2025-09-07 22:08:02,129 - INFO - Vytvořen index: name.md
+2025-09-07 22:08:02,130 - INFO - Vytvářím index pro Roky[Year] (385 položek)
+2025-09-07 22:08:02,134 - INFO - Vytvořen index: year.md
+2025-09-07 22:08:02,134 - INFO - Vytvářím index pro Čísla popisná[Address_Number] (126 položek)
+2025-09-07 22:08:02,138 - INFO - Vytvořen index: address_number.md
+2025-09-07 22:08:02,138 - INFO - Vytvářím index pro Klíčová slova[Event] (24 položek)
+2025-09-07 22:08:02,140 - INFO - Vytvořen index: event.md
+2025-09-07 22:08:02,148 - ERROR - Entity 'Historie Hradu' in type 'NAME' has empty chapters but 1 contexts
+2025-09-07 22:08:02,148 - ERROR - Entity 'Oběti Války' in type 'NAME' has empty chapters but 1 contexts
+2025-09-07 22:08:02,148 - ERROR - Entity 'Starých Smětalu' in type 'NAME' has empty chapters but 1 contexts
+2025-09-07 22:08:02,148 - ERROR - Entity 'Marie Soukupová' in type 'NAME' has empty chapters but 1 contexts
+2025-09-07 22:08:02,148 - ERROR - Entity 'Anežka Kvardová' in type 'NAME' has empty chapters but 1 contexts
+2025-09-07 22:08:02,149 - ERROR - Entity '1971' in type 'YEAR' has empty chapters but 1 contexts
+2025-09-07 22:08:02,149 - ERROR - Entity '1955' in type 'YEAR' has empty chapters but 2 contexts
+2025-09-07 22:08:02,149 - ERROR - Entity '1970' in type 'YEAR' has empty chapters but 4 contexts
+2025-09-07 22:08:02,209 - INFO - Vytvořen globální index: ./data/global_index.json
+2025-09-07 22:08:02,211 - INFO - ✅ Hotovo! Vytvořeno 45 kapitol v ./output/chapters/

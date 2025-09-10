@@ -12,6 +12,7 @@ mkdir "output\indexes"
 mkdir "docs-site\docs\chapters"
 mkdir "docs-site\docs\indexes"
 
+REM commented during development to speed up the cycle
 REM uv run py md_create.py
 
 uv run py md_process.py
