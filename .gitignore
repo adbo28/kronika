@@ -19,3 +19,6 @@ output/
 data/
 
 .env
+a.py
+b.py
+names.txt

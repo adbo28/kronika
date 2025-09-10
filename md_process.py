@@ -56,7 +56,8 @@ def load_word_list(filename: str) -> Set[str]:
         return {line.strip().lower() for line in f if line.strip()}
 
 names_with_dots = load_word_list('./data/names_with_dots.txt')
-names_word_blacklist = load_word_list('./data/name_blacklist_words.txt')
+# TODO smazat names_word_blacklist = load_word_list('./data/name_blacklist_words.txt')
+first_names = load_word_list('./data/first_names.txt')
 
 
 def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
@@ -84,11 +85,9 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
         
         # Kontrola formátu slova: začíná velkým písmenem, zbytek malá písmena
         if not clean_word:
-            return None
-            
+            return None            
         if not clean_word[0].isupper():
             return None
-            
         if not clean_word[1:].islower():
             return None
         
@@ -104,8 +103,9 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
                 return None
 
         # Blacklist kontrola
-        if clean_word.rstrip('.').lower() in names_word_blacklist:\
-            return None
+        # TODO smazat
+        # if clean_word.rstrip('.').lower() in names_word_blacklist:\
+        #     return None
     
     # Validace: alespoň jedno slovo > 2 znaky
     if not any(len(word) > 2 for word in words):
@@ -114,6 +114,16 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
     # Získat base form (nebo ponechat původní)
     clean_text = re.sub(TRAILING_PUNCT + r'$', '', text)
     base_form = name_base_forms.get(clean_text, clean_text)
+
+    # Kontrola, že base_form má alespoň 2 slova
+    if len(base_form.split()) < 2:
+        return None
+
+    # Kontrola, že všechna slova kromě posledního v base_form jsou ve first_names
+    base_words = base_form.split()
+    for word in base_words[:-1]:  # všechna slova kromě posledního
+        if word.lower() not in first_names:
+            return None
 
     return ("NAME", base_form, text)
 
