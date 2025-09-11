@@ -87,4 +87,5 @@ nav:
 - Indexy:
   - Čísla popisná: indexes/address_number.md
   - Klíčová slova: indexes/event.md
+  - Jména: indexes/name.md
   - Roky: indexes/year.md

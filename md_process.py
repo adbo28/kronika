@@ -16,6 +16,7 @@ CONTEXT_SIZE_BLOCKS = 10 # počet bloků před a za entitou pro kontext
 
 ###########################################################
 
+
 def get_base_forms(file_path):
    """
    Read a JSONL file and return a dictionary mapping original_name to base_form.
@@ -56,7 +57,6 @@ def load_word_list(filename: str) -> Set[str]:
         return {line.strip().lower() for line in f if line.strip()}
 
 names_with_dots = load_word_list('./data/names_with_dots.txt')
-# TODO smazat names_word_blacklist = load_word_list('./data/name_blacklist_words.txt')
 first_names = load_word_list('./data/first_names.txt')
 
 
@@ -69,7 +69,7 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
     text = text_sequence.strip()
     if not text:
         return None
-    
+
     # Rozdělí na slova
     words = text.split()
     
@@ -95,22 +95,22 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
         base_letters = clean_word.rstrip('.')
         if not re.match(r'^[A-Za-záčďéěíňóřšťúůýžÁČĎÉĚÍŇÓŘŠŤÚŮÝŽäöüÄÖÜ]+$', base_letters):
             return None
-        
-        # Kontrola tečky u ne-posledních slov
-        if i < len(words) - 1 and word.endswith('.'):
-            # Ne-poslední slovo končí tečkou - musí být v seznamu povolených
-            if clean_word.lower() not in names_with_dots:
-                return None
 
-        # Blacklist kontrola
-        # TODO smazat
-        # if clean_word.rstrip('.').lower() in names_word_blacklist:\
-        #     return None
-    
+        # Kontrola tečky u ne-posledních slov
+        if i < len(words) - 1:
+            if word.endswith('.'):
+                # Ne-poslední slovo končí tečkou - musí být v seznamu povolených
+                if clean_word.lower() not in names_with_dots:
+                    return None
+            else:
+                # Ne-poslední slovo bez tečky - musí být v seznamu first_names
+                if clean_word.lower() not in first_names:
+                    return None
+
     # Validace: alespoň jedno slovo > 2 znaky
     if not any(len(word) > 2 for word in words):
         return None
-    
+
     # Získat base form (nebo ponechat původní)
     clean_text = re.sub(TRAILING_PUNCT + r'$', '', text)
     base_form = name_base_forms.get(clean_text, clean_text)
@@ -118,12 +118,6 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
     # Kontrola, že base_form má alespoň 2 slova
     if len(base_form.split()) < 2:
         return None
-
-    # Kontrola, že všechna slova kromě posledního v base_form jsou ve first_names
-    base_words = base_form.split()
-    for word in base_words[:-1]:  # všechna slova kromě posledního
-        if word.lower() not in first_names:
-            return None
 
     return ("NAME", base_form, text)
 
@@ -308,6 +302,24 @@ def is_boundary(block: str, is_whitespace: bool) -> bool:
     return False
 
 
+BW_LIST_FILE = './data/bw_list.jsonl'
+
+def load_bw_list():
+    """Load the blacklist/whitelist from JSONL file into global variable"""
+    bw_list = {}
+    with open(BW_LIST_FILE, 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.strip():
+                entry = json.loads(line)
+                bw_list[entry['value']] = entry
+
+    return bw_list
+
+
+# Global variable to store the blacklist/whitelist
+BW_LIST = load_bw_list()
+
+
 def check_entity_match(content_blocks: List[str], 
                        window_size: int, 
                        blocks: List[Tuple[str, Any]],
@@ -324,6 +336,14 @@ def check_entity_match(content_blocks: List[str],
     # Spojit bloky pro analýzu
     text_sequence = ' '.join(content_blocks[:window_size])
 
+    # Kontrola proti blacklist/whitelist
+    if text_sequence in BW_LIST:
+        entry = BW_LIST[text_sequence]
+        if not entry['valid']:
+            return None
+        return (entry['type'], entry.get('base_form', entry['value']), text_sequence)
+
+    # Pokud není v BW_LIST, pokračuj standardními kontrolami
     event_match = check_event_match(text_sequence)
     if event_match:
         return event_match

@@ -12,6 +12,10 @@ def fix_soft_hyphens(text):
     text = re.sub(r'­\s+', '', text)
     return text
 
+def escape_leading_numbers(markdown_text):
+    """Escapuje tečky za čísly na začátku řádků v markdownu, aby nebyly považovány za číslované seznamy."""
+    return re.sub(r'^(\d+)\.', r'\1\\.', markdown_text, flags=re.MULTILINE)
+
 
 def fix_page_breaks(text):
     """Spojí text přes page breaks pokud je to bezpečné"""
@@ -90,6 +94,9 @@ def main():
     print("Opravuji page breaks...")
     md_text = fix_page_breaks(md_text)
     
+    print("Escapuji tečky za čísly na začátku řádků...")
+    md_text = escape_leading_numbers(md_text)
+
     print("Aplikuji specifické opravy...")
     md_text = apply_specific_fixes(md_text)
 

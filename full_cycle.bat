@@ -23,6 +23,6 @@ REM Kopírování souborů
 copy ".\output\chapters\*.md" "docs-site\docs\chapters\" > NUL
 copy ".\output\indexes\*.md" "docs-site\docs\indexes\" > NUL
 
-uv run py generate_nav.py
+uv run py md_generate_nav.py
 
 echo Hotovo!

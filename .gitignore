@@ -16,9 +16,8 @@ docs-site/docs/*
 !docs-site/docs/search/
 output/
 
-data/
+data/_*
+
+_*.py
 
 .env
-a.py
-b.py
-names.txt
