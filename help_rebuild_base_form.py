@@ -5,7 +5,7 @@ INPUT_FILE = "./data/name_base_form.jsonl"
 
 def process_jsonl_file():
     seen_lines = set()
-    unique_entries = []
+    all_entries = []
     duplicates_count = 0
     identical_names_count = 0
     
@@ -23,26 +23,30 @@ def process_jsonl_file():
                 seen_lines.add(line)
                 try:
                     entry = json.loads(line)
-                    # Skip if original_name equals base_form
-                    if entry['original_name'] == entry['base_form']:
-                        print(f"Identical names at line {line_num}: {entry['original_name']}")
-                        identical_names_count += 1
-                    else:
-                        unique_entries.append((entry, line))
+                    all_entries.append((entry, line))
                 except json.JSONDecodeError as e:
                     print(f"Invalid JSON at line {line_num}: {e}")
     
     # Sort by original_name
-    unique_entries.sort(key=lambda x: x[0]['original_name'])
+    all_entries.sort(key=lambda x: x[0]['original_name'])
     
-    # Write back to same file
-    with open(INPUT_FILE, 'w', encoding='utf-8') as f:
-        for entry, original_line in unique_entries:
-            f.write(original_line + '\n')
-    
-    print(f"Processed: {len(unique_entries)} unique entries")
-    print(f"Removed: {duplicates_count} duplicates, {identical_names_count} identical names")
-    print(f"File updated: {INPUT_FILE}")
+    print(f"Processed: {len(all_entries)} unique entries")
+    print(f"To be removed: {duplicates_count} duplicates, {identical_names_count} identical names")
+
+    # Prompt user for confirmation before writing
+    print(f"\nReady to update {INPUT_FILE} with {len(all_entries)} entries.")
+    user_input = input("Do you want to proceed? (y/N): ").strip().lower()
+
+    if user_input in ['y', 'yes']:
+        # Write back to same file
+        with open(INPUT_FILE, 'w', encoding='utf-8') as f:
+            for entry, original_line in all_entries:
+                f.write(original_line + '\n')
+        print(f"File updated: {INPUT_FILE}")
+    else:
+        print("No changes made to file.")
+
+
 
 if __name__ == "__main__":
     process_jsonl_file()

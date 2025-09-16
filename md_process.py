@@ -134,10 +134,10 @@ def has_address_prefix(blocks: List[Tuple[str, Any]], i_start: int) -> bool:
     """
     j = i_start - 1
     while j >= 0:
-        prev_text, prev_is_ws = blocks[j]
+        prev_text, block_type = blocks[j]
         text = prev_text.strip()
 
-        if prev_is_ws or not text:
+        if block_type == BLOCK_TYPE_WHITESPACE or not text:
             j -= 1
             continue
 
@@ -212,20 +212,20 @@ def check_years(
         if 500 <= year <= 2000:
             # --- kontrola fragmentace ---
             if i_start > 0:
-                prev_text, prev_is_ws = blocks[i_start - 1]
-                if not prev_is_ws and prev_text and prev_text[-1].isdigit():
+                prev_text, block_type = blocks[i_start - 1]
+                if block_type != BLOCK_TYPE_WHITESPACE and prev_text and prev_text[-1].isdigit():
                     return None
             if i_end + 1 < len(blocks):
-                next_text, next_is_ws = blocks[i_end + 1]
-                if not next_is_ws and re.match(r'^\d{3}\b', next_text):
+                next_text, block_type = blocks[i_end + 1]
+                if block_type != BLOCK_TYPE_WHITESPACE and re.match(r'^\d{3}\b', next_text):
                     return None
 
             # --- kontrola zakázaných jednotek za číslem ---
             if not re.search(r'[.,;:)\]_]$', text_sequence):  # skip unit-check if ended by punct
                 j = i_end + 1
                 while j < len(blocks):
-                    block_text, is_ws = blocks[j]
-                    if is_ws:
+                    block_text, block_type = blocks[j]
+                    if block_type == BLOCK_TYPE_WHITESPACE:
                         j += 1
                         continue
                     # jednotka s volitelnou interpunkcí za ní
@@ -261,29 +261,78 @@ def create_slug(text: str) -> str:
     return f"{slug}-{text_hash}"
 
 
-def tokenize_to_blocks(text: str) -> List[Tuple[str, bool]]:
+###########################################################
+
+BLOCK_TYPE_WHITESPACE = 1
+BLOCK_TYPE_CONTENT = 2
+BLOCK_TYPE_TITLE = 3
+
+def tokenize_to_blocks(text: str) -> List[Tuple[str, int]]:
     """
-    Rozdělí text na bloky - střídavě whitespace a content bloky.
-    Vrací seznam tupelů (block_text, is_whitespace)
+    Rozdělí text na bloky - střídavě whitespace, content a title bloky.
+    Title blok začína novým řádkem následovaným volitelným whitespace a #.
+    Vrací seznam tupelů (block_text, block_type)
+    block_type: "whitespace", "content", "title"
     """
     blocks = []
     i = 0
+    title_line_active = False
+    current_block_start = 0
+    current_block_type = None
     
     while i < len(text):
-        if text[i].isspace():
-            # Whitespace block
-            start = i
-            while i < len(text) and text[i].isspace():
-                i += 1
-            blocks.append((text[start:i], True))
+        if text[i] == '\n':
+            # Save current block if we have one
+            if current_block_type is not None and i > current_block_start:
+                blocks.append((text[current_block_start:i], current_block_type))
+            
+            # Check if next line starts with title pattern (optional whitespace + #)
+            peek_pos = i + 1
+            while peek_pos < len(text) and text[peek_pos] in ' \t':
+                peek_pos += 1
+            
+            if peek_pos < len(text) and text[peek_pos] == '#':
+                # Next line is title
+                title_line_active = True
+                current_block_start = i + 1  # Start after newline
+                current_block_type = BLOCK_TYPE_TITLE
+            else:
+                # Next line is not title
+                title_line_active = False
+                current_block_start = i
+                current_block_type = BLOCK_TYPE_WHITESPACE  # Newline starts as whitespace
+            
+            i += 1
+            
+        elif title_line_active:
+            # In title mode - just advance, everything goes into title block
+            i += 1
+            
         else:
-            # Content block
-            start = i
-            while i < len(text) and not text[i].isspace():
+            # Normal whitespace/content processing
+            if text[i].isspace():
+                # If we're not in whitespace block, save current and start whitespace
+                if current_block_type != BLOCK_TYPE_WHITESPACE:
+                    if current_block_type is not None and i > current_block_start:
+                        blocks.append((text[current_block_start:i], current_block_type))
+                    current_block_start = i
+                    current_block_type = BLOCK_TYPE_WHITESPACE
                 i += 1
-            blocks.append((text[start:i], False))
+            else:
+                # If we're not in content block, save current and start content
+                if current_block_type != BLOCK_TYPE_CONTENT:
+                    if current_block_type is not None and i > current_block_start:
+                        blocks.append((text[current_block_start:i], current_block_type))
+                    current_block_start = i
+                    current_block_type = BLOCK_TYPE_CONTENT
+                i += 1
+    
+    # Save final block if we have one
+    if current_block_type is not None and i > current_block_start:
+        blocks.append((text[current_block_start:i], current_block_type))
     
     return blocks
+
 
 
 def is_boundary(block: str, is_whitespace: bool) -> bool:
@@ -360,9 +409,10 @@ def check_entity_match(content_blocks: List[str],
     return None
 
 
-def fill_content_window(blocks: List[Tuple[str, bool]], start_pos: int, max_size: int) -> Tuple[List[str], List[int]]:
+def fill_content_window(blocks: List[Tuple[str, int]], start_pos: int, max_size: int) -> Tuple[List[str], List[int]]:
     """
     Pokud je na start_pos whitespace blok, vrátí jen tento jediný blok.
+    Pokud je na start_pos title blok, vrátí jen tento jediný blok.
     Pokud je na start_pos content blok, naplní content_window od start_pos dopředu až do max_size content bloků.
     Zastaví se na boundary nebo konci bloků.
     Vrací (content_window, content_positions)
@@ -370,20 +420,26 @@ def fill_content_window(blocks: List[Tuple[str, bool]], start_pos: int, max_size
     content_window = []
     content_positions = []
     
-    if blocks[start_pos][1]:
+    if blocks[start_pos][1] == BLOCK_TYPE_WHITESPACE:
         # Whitespace blok - vrať jen tento jeden blok
+        return [blocks[start_pos][0]], [start_pos]
+    
+    if blocks[start_pos][1] == BLOCK_TYPE_TITLE:
+        # Title blok - vrať jen tento jeden blok
         return [blocks[start_pos][0]], [start_pos]
 
     pos = start_pos
     while pos < len(blocks) and len(content_window) < max_size:
-        block_text, is_whitespace = blocks[pos]
+        block_text, block_type = blocks[pos]
         
-        if is_whitespace:
+        if block_type == BLOCK_TYPE_WHITESPACE:
             # Zkontroluj boundary - pokud ano, zastav plnění
             if is_boundary(block_text, True):
                 break
-        else:
-            # Content blok - přidej do okna
+        elif block_type == BLOCK_TYPE_TITLE:
+            # Title blok - zastav plnění (nepřekračuj title boundaries)
+            break
+        else:  # block_type == BLOCK_TYPE_CONTENT
             content_window.append(block_text)
             content_positions.append(pos)
             
