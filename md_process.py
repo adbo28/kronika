@@ -66,12 +66,11 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
     Vrací tuple ("NAME", base_form, původní_text) nebo None.
     """
     
-    text = text_sequence.strip()
-    if not text:
+    if not text_sequence:
         return None
 
     # Rozdělí na slova
-    words = text.split()
+    words = text_sequence.split()
     
     if len(words) < 2: # jméno musí mít alespoň 2 slova
         return None
@@ -112,14 +111,14 @@ def check_name_match(text_sequence: str) -> Optional[Tuple[str, str, str]]:
         return None
 
     # Získat base form (nebo ponechat původní)
-    clean_text = re.sub(TRAILING_PUNCT + r'$', '', text)
+    clean_text = re.sub(TRAILING_PUNCT + r'$', '', text_sequence)
     base_form = name_base_forms.get(clean_text, clean_text)
 
     # Kontrola, že base_form má alespoň 2 slova
     if len(base_form.split()) < 2:
         return None
 
-    return ("NAME", base_form, text)
+    return ("NAME", base_form, text_sequence)
 
 
 # ---------------------------------------------------------
@@ -392,21 +391,28 @@ def check_entity_match(content_blocks: List[str],
             return None
         return (entry['type'], entry.get('base_form', entry['value']), text_sequence)
 
-    # Pokud není v BW_LIST, pokračuj standardními kontrolami
-    event_match = check_event_match(text_sequence)
-    if event_match:
-        return event_match
-    year_match = check_years(text_sequence, blocks, i_start, i_end)
-    if year_match:
-        return year_match
-    name_match = check_name_match(text_sequence)
-    if name_match:
-        return name_match
-    address_match = check_address_numbers(text_sequence, blocks, i_start, i_end)
-    if address_match:
-        return address_match
+    # Standardní kontroly na entity
+    match = check_event_match(text_sequence)
+    if not match:
+        match = check_years(text_sequence, blocks, i_start, i_end)
+    if not match:
+        match = check_name_match(text_sequence)
+    if not match:
+        match = check_address_numbers(text_sequence, blocks, i_start, i_end)
+    if not match:
+        return None
 
-    return None
+    # Kontrola proti blacklist/whitelist pro případy, kdy value neodpovídá text_seq 
+    # (například text_seq = "St. Vsi:" a value je "ST. Vsi")
+    pattern_type, value, full_match = match
+    if value != text_sequence:
+        if value in BW_LIST:
+            entry = BW_LIST[value]
+            if not entry['valid']:
+                return None
+            return (entry['type'], entry.get('base_form', entry['value']), text_sequence)
+
+    return (pattern_type, value, full_match)
 
 
 def fill_content_window(blocks: List[Tuple[str, int]], start_pos: int, max_size: int) -> Tuple[List[str], List[int]]:

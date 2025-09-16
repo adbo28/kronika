@@ -806,7 +806,6 @@
 {"type": "ADDRESS_NUMBER", "value": "65", "anchor_id": "65-fc490c", "full_match": "65.", "context": "č. 28.\nJosef Bouzek č. 65.\nOde dne 22. srpna"}
 {"type": "NAME", "value": "Josef Čermák", "anchor_id": "josef-čermák-dac615", "full_match": "Jos. Čermákovi", "context": "Lidem mnoho obilí zrostlo. Vzláště Jos. Čermákovi č. 93 mnoho pšenice"}
 {"type": "ADDRESS_NUMBER", "value": "93", "anchor_id": "93-98dce8", "full_match": "93", "context": "zrostlo. Vzláště Jos. Čermákovi č. 93 mnoho pšenice nad Borovím."}
-{"type": "NAME", "value": "St Vsi", "anchor_id": "st-vsi-a6576d", "full_match": "St Vsi:", "context": "byli odvedeni k vojsku ze St Vsi: Ladislav Novák č. 94"}
 {"type": "NAME", "value": "Ladislav Novák", "anchor_id": "ladislav-novák-29358c", "full_match": "Ladislav Novák", "context": "k vojsku ze St Vsi: Ladislav Novák č. 94\nFrant. Wečerník"}
 {"type": "ADDRESS_NUMBER", "value": "94", "anchor_id": "94-f4b9ec", "full_match": "94", "context": "St Vsi: Ladislav Novák č. 94\nFrant. Wečerník č. 29"}
 {"type": "NAME", "value": "František Wečerník", "anchor_id": "františek-wečerník-d9150d", "full_match": "Frant. Wečerník", "context": "Vsi: Ladislav Novák č. 94\nFrant. Wečerník č. 29\n\n\nPetr"}
@@ -2957,7 +2956,8 @@
 {"type": "NAME", "value": "Josef Hladík", "anchor_id": "josef-hladík-ab82c6", "full_match": "Jos. Hladík", "context": "č. 80\n\n\n\n**Porota:**\n\nJos. Hladík\nKar. Koldovský\nJos. Janda"}
 {"type": "NAME", "value": "Karel Koldovský", "anchor_id": "karel-koldovský-1a1a51", "full_match": "Kar. Koldovský", "context": "**Porota:**\n\nJos. Hladík\nKar. Koldovský\nJos. Janda\n\nFr. Albrecht"}
 {"type": "NAME", "value": "Josef Janda", "anchor_id": "josef-janda-e4c793", "full_match": "Jos. Janda", "context": "Jos. Hladík\nKar. Koldovský\nJos. Janda\n\nFr. Albrecht\n\nFr."}
-{"type": "NAME", "value": "Fr. Albrecht Fr. Soukup", "anchor_id": "fr-albrecht-fr-soukup-3571c6", "full_match": "Fr. Albrecht Fr. Soukup", "context": "Kar. Koldovský\nJos. Janda\n\nFr. Albrecht\n\nFr. Soukup\nB. Housová č. 75"}
+{"type": "NAME", "value": "František Albrecht", "anchor_id": "františek-albrecht-240899", "full_match": "Fr. Albrecht", "context": "Kar. Koldovský\nJos. Janda\n\nFr. Albrecht\n\nFr. Soukup\nB. Housová"}
+{"type": "NAME", "value": "František Soukup", "anchor_id": "františek-soukup-2e6a7b", "full_match": "Fr. Soukup", "context": "Jos. Janda\n\nFr. Albrecht\n\nFr. Soukup\nB. Housová č. 75"}
 {"type": "ADDRESS_NUMBER", "value": "75", "anchor_id": "75-d09bf4", "full_match": "75", "context": "Fr. Soukup\nB. Housová č. 75\nJulie Šmídová č. 30"}
 {"type": "NAME", "value": "Julie Šmídová", "anchor_id": "julie-šmídová-b743aa", "full_match": "Julie Šmídová", "context": "Soukup\nB. Housová č. 75\nJulie Šmídová č. 30\n\nBožena Ducháčková"}
 {"type": "ADDRESS_NUMBER", "value": "30", "anchor_id": "30-34173c", "full_match": "30", "context": "č. 75\nJulie Šmídová č. 30\n\nBožena Ducháčková č. 14"}
@@ -3489,7 +3489,6 @@
 {"type": "NAME", "value": "Bohuslav Novák", "anchor_id": "bohuslav-novák-3f87fc", "full_match": "Bohusl. Nováka", "context": "vůz: vozataj Jaroslav Novák. Koně Bohusl. Nováka a Otakara Nováka a"}
 {"type": "NAME", "value": "Otakar Novák", "anchor_id": "otakar-novák-3f8684", "full_match": "Otakara Nováka", "context": "Novák. Koně Bohusl. Nováka a Otakara Nováka a vůz Ot. Nováka."}
 {"type": "NAME", "value": "Otakar Novák", "anchor_id": "otakar-novák-3f8684", "full_match": "Ot. Nováka.", "context": "a Otakara Nováka a vůz Ot. Nováka.\n\nDne 27. prosince bylo"}
-{"type": "NAME", "value": "St. Vsi", "anchor_id": "st-vsi-4e29b8", "full_match": "St. Vsi:", "context": "Dne 27. prosince bylo ve St. Vsi: 100 koz, 99 krav,"}
 {"type": "NAME", "value": "Otakar Novák", "anchor_id": "otakar-novák-3f8684", "full_match": "Ot. Novák,", "context": "navleku koral t. r. byli: Ot. Novák, Jos. Liška, Fr. Polouprutský,"}
 {"type": "NAME", "value": "Josef Liška", "anchor_id": "josef-liška-f30842", "full_match": "Jos. Liška,", "context": "t. r. byli: Ot. Novák, Jos. Liška, Fr. Polouprutský, K. Polák,"}
 {"type": "NAME", "value": "František Polouprutský", "anchor_id": "františek-polouprutský-e22834", "full_match": "Fr. Polouprutský,", "context": "byli: Ot. Novák, Jos. Liška, Fr. Polouprutský, K. Polák, B. Novák,"}
@@ -3727,7 +3726,6 @@
 {"type": "YEAR", "value": "1980", "anchor_id": "1980-f80bf0", "full_match": "1980", "context": "dne 4. měsíce ledna r. 1980\n\n\n_(v rukopisu je"}
 {"type": "YEAR", "value": "1980", "anchor_id": "1980-f80bf0", "full_match": "1980)_", "context": "zápisu, proto_\n_je zde letopočet 1980)_\n\n\nJarosl. Večerník, kronikář"}
 {"type": "NAME", "value": "Jaroslav Večerník", "anchor_id": "jaroslav-večerník-b04539", "full_match": "Jarosl. Večerník,", "context": "_je zde letopočet 1980)_\n\n\nJarosl. Večerník, kronikář obce St. Vsi."}
-{"type": "NAME", "value": "St. Vsi", "anchor_id": "st-vsi-4e29b8", "full_match": "St. Vsi.", "context": "Jarosl. Večerník, kronikář obce St. Vsi.\n### **1930**\n\n\nDne 7."}
 {"type": "YEAR", "value": "1930", "anchor_id": "1930-29530d", "full_match": "1930", "context": "### **1930**\n\n\nDne 7. ledna 1930 měla na obecním úřadě"}
 {"type": "NAME", "value": "Anna Kobrová", "anchor_id": "anna-kobrová-51c1f5", "full_match": "Anna Kobrová", "context": "měla na obecním úřadě výslech Anna Kobrová z příčiny že vysockému"}
 {"type": "NAME", "value": "Jan Kurka", "anchor_id": "jan-kurka-d7e4d8", "full_match": "Janu Kurkovi", "context": "svého syna Josefa zaplatila faráři Janu Kurkovi 450 K ač skutečně"}
@@ -5332,7 +5330,6 @@
 {"type": "ADDRESS_NUMBER", "value": "53", "anchor_id": "53-d82c8d", "full_match": "53", "context": "za Josefa Čermáka z č. 53 ve Sklenařicích, Žofie za"}
 {"type": "NAME", "value": "František Kopal", "anchor_id": "františek-kopal-61e42c", "full_match": "Fr. Kopala", "context": "53 ve Sklenařicích, Žofie za Fr. Kopala z č. 86 nádeníka"}
 {"type": "ADDRESS_NUMBER", "value": "86", "anchor_id": "86-93db85", "full_match": "86", "context": "za Fr. Kopala z č. 86 nádeníka u dráhy v"}
-{"type": "NAME", "value": "Anna Oprava", "anchor_id": "anna-oprava-2870d3", "full_match": "Anna Oprava", "context": "dráhy v Grünthale. Anežka a Anna\n\n\nOprava podle staré gruntovní knihy"}
 {"type": "YEAR", "value": "1700", "anchor_id": "1700-01e00f", "full_match": "1700", "context": "staré gruntovní knihy z r. 1700\nVácl. Blažek jinak Večernik"}
 {"type": "NAME", "value": "Václav Blažek", "anchor_id": "václav-blažek-ebbe6f", "full_match": "Václ. Blažek", "context": "gruntovní knihy z r. 1700\nVácl. Blažek jinak Večernik r. 1714"}
 {"type": "YEAR", "value": "1714", "anchor_id": "1714-798ed7", "full_match": "1714", "context": "Václ. Blažek jinak Večernik r. 1714 po něm syn Václ."}
@@ -5813,7 +5810,6 @@
 {"type": "NAME", "value": "František Slavík", "anchor_id": "františek-slavík-c9ac8f", "full_match": "Franc Slavík", "context": "92.\nŘíkali mu Váha.\n\nFranc Slavík poštmistr koupil tu živnost"}
 {"type": "NAME", "value": "Josef Slavík", "anchor_id": "josef-slavík-76a4f4", "full_match": "Josef Slavík", "context": "Takových strýcu je jistě málo.\nJosef Slavík veliký kořala jenž se"}
 {"type": "YEAR", "value": "1907", "anchor_id": "1907-77369e", "full_match": "1907", "context": "znovu zadlužil a stavení r. 1907 v pondělí po Sv."}
-{"type": "NAME", "value": "Sv. Trojice", "anchor_id": "sv-trojice-19a230", "full_match": "Sv. Trojici", "context": "r. 1907 v pondělí po Sv. Trojici zapálil.\nShořela též společná"}
 {"type": "ADDRESS_NUMBER", "value": "81", "anchor_id": "81-43ec51", "full_match": "81.", "context": "též společná stodola a č. 81. Vlastně z ní oheň"}
 {"type": "EVENT", "value": "oheň", "anchor_id": "oheň-92b25a", "full_match": "oheň", "context": "č. 81. Vlastně z ní oheň vyšel. Josefu Kobrovi č."}
 {"type": "NAME", "value": "Josef Kobr", "anchor_id": "josef-kobr-b58788", "full_match": "Josefu Kobrovi", "context": "Vlastně z ní oheň vyšel. Josefu Kobrovi č. 81 shořelo všecko"}
@@ -9100,7 +9096,6 @@
 {"type": "NAME", "value": "Adolf Hitler", "anchor_id": "adolf-hitler-540dea", "full_match": "Adolf Hitler", "context": "pacholátka_\n\n\n_Pohřební ústav Německa: Adolf Hitler a spol._\nA bylo"}
 {"type": "NAME", "value": "Ludmila Hnyak", "anchor_id": "ludmila-hnyak-baf203", "full_match": "Ludmila Hnyková", "context": "na zdejší škole naposled učila Ludmila Hnyková rozená Hladíková z Vysokého"}
 {"type": "NAME", "value": "Jan Mecnar", "anchor_id": "jan-mecnar-623ea5", "full_match": "Jan Mecnar.", "context": "a ježto zdejší definitivní učitel Jan Mecnar. dostal místo v německé"}
-{"type": "NAME", "value": "St. Paky", "anchor_id": "st-paky-68b8c3", "full_match": "St. Paky,", "context": "v německé vsi Mostku u St. Paky, učil zde\nzeť bývalého"}
 {"type": "NAME", "value": "Karel Hušek", "anchor_id": "karel-hušek-371b00", "full_match": "Karel Hušek", "context": "učil zde\nzeť bývalého starosty Karel Hušek\nDne 28. května vydávány"}
 {"type": "EVENT", "value": "vězení", "anchor_id": "vězení-9eb76f", "full_match": "vězení", "context": "29. května urátil se z vězení z Vysokého Bohusl Chlum,"}
 {"type": "NAME", "value": "Bohuslav Chlum", "anchor_id": "bohuslav-chlum-8a2bc1", "full_match": "Bohusl Chlum,", "context": "se z vězení z Vysokého Bohusl Chlum, propuštěný se svolením staroveského"}
@@ -10296,7 +10291,6 @@
 {"type": "NAME", "value": "František Polouprutský", "anchor_id": "františek-polouprutský-e22834", "full_match": "Fr. Polouprutský", "context": "a č. 11 jehož majitel Fr. Polouprutský vypomáhal v kuchyni v"}
 {"type": "NAME", "value": "Stanislav Štěpánek", "anchor_id": "stanislav-štěpánek-9c0727", "full_match": "Stanislav Štěpánek", "context": "odvod a odveden ze dvou Stanislav Štěpánek truhlářský dělník z č."}
 {"type": "ADDRESS_NUMBER", "value": "22", "anchor_id": "22-b6d767", "full_match": "22", "context": "Štěpánek truhlářský dělník z č. 22 a nastoupil k vojsku"}
-{"type": "NAME", "value": "Lipt. Sv. Mikuláš", "anchor_id": "lipt-sv-mikuláš-f0d1a6", "full_match": "Lipt. Sv. Mikuláše.", "context": "k vojsku 1. října do Lipt. Sv. Mikuláše.\n10\\. dubna odpoledne v"}
 {"type": "NAME", "value": "Jaroslav Polouprutský", "anchor_id": "jaroslav-polouprutský-2606ab", "full_match": "Jaroslav Polouprutský", "context": "nemocnici ve Vrchlabí 68 letý Jaroslav Polouprutský výminkář na teď prázdném"}
 {"type": "ADDRESS_NUMBER", "value": "91", "anchor_id": "91-54229a", "full_match": "91,", "context": "na teď prázdném domku č. 91, vdovec bezprstý u obou"}
 {"type": "NAME", "value": "Anna Špidlenová", "anchor_id": "anna-špidlenová-005b91", "full_match": "Anny Špidlenové", "context": "rukou, flašinetář bytem u dcery Anny Špidlenové v Heřmanových Sejfech.\n1\\."}
@@ -11211,7 +11205,6 @@
 {"type": "ADDRESS_NUMBER", "value": "64", "anchor_id": "64-ea5d2f", "full_match": "64", "context": "Jan Červinka nájemce domku č. 64 pro těžkou a dlouhou"}
 {"type": "YEAR", "value": "1914", "anchor_id": "1914-07a4e2", "full_match": "1914", "context": "pol. myslivců v Tridentu a 1914 narukoval k 36. pěš."}
 {"type": "ADDRESS_NUMBER", "value": "36", "anchor_id": "36-19ca14", "full_match": "36", "context": "k 36. pěš. pluků č. 36 u Ml. Boleslavi jenž"}
-{"type": "NAME", "value": "Mladá Boleslav", "anchor_id": "mladá-boleslav-28fc73", "full_match": "Ml. Boleslavi", "context": "pěš. pluků č. 36 u Ml. Boleslavi jenž přešel celý k"}
 {"type": "YEAR", "value": "1915", "anchor_id": "1915-b432f3", "full_match": "1915", "context": "11. zeměbraneckého od něhož přišel 1915 v srpnu u Lucku"}
 {"type": "YEAR", "value": "1917", "anchor_id": "1917-cb79f8", "full_match": "1917", "context": "krátkém pobytu v kyjevské pevnosti. 1917 z Dárnice do Simbirska"}
 {"type": "YEAR", "value": "1920", "anchor_id": "1920-44968a", "full_match": "1920", "context": "Novorosijsk, Simferopol na Krýmu a 1920\nse urátil domů.\n\nV"}

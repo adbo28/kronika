@@ -881,7 +881,7 @@ Dne 15. srpna zvolení do obec. honeb. výboru: <a id="čeněk-slavík-dec961">�
 <a id="vilém-polouprutský-877f7e">Vil. Polouprutský</a> č. <a id="28-33e75f">28.</a>
 <a id="josef-bouzek-3e34d8">Josef Bouzek</a> č. <a id="65-fc490c">65.</a>
 Ode dne 22. srpna do 30. srpna v jedné túře pršelo. Lidem mnoho obilí zrostlo. Vzláště <a id="josef-čermák-dac615">Jos. Čermákovi</a> č. <a id="93-98dce8">93</a> mnoho pšenice nad Borovím.
-Dne 2. září byli odvedeni k vojsku ze <a id="st-vsi-a6576d">St Vsi:</a> <a id="ladislav-novák-29358c">Ladislav Novák</a> č. <a id="94-f4b9ec">94</a>
+Dne 2. září byli odvedeni k vojsku ze St Vsi: <a id="ladislav-novák-29358c">Ladislav Novák</a> č. <a id="94-f4b9ec">94</a>
 <a id="františek-wečerník-d9150d">Frant. Wečerník</a> č. <a id="29-6ea9ab">29</a>
 
 
@@ -2866,9 +2866,9 @@ Zvoleni jsou: Porota:
 <a id="karel-koldovský-1a1a51">Kar. Koldovský</a>
 <a id="josef-janda-e4c793">Jos. Janda</a>
 
-<a id="fr-albrecht-fr-soukup-3571c6">Fr. Albrecht
+<a id="františek-albrecht-240899">Fr. Albrecht</a>
 
-Fr. Soukup</a>
+<a id="františek-soukup-2e6a7b">Fr. Soukup</a>
 B. Housová č. <a id="75-d09bf4">75</a>
 <a id="julie-šmídová-b743aa">Julie Šmídová</a> č. <a id="30-34173c">30</a>
 
@@ -3207,7 +3207,7 @@ Liška</a> z Roprachtic a poslední tajemník dr. <a id="josef-dufek-b76f6a">Jos
 Zemaník.</a> Lhotka – <a id="čeněk-morávek-877544">Čeněk Morávek.</a> Olešnice <a id="josef-marousek-fb142a">Jos. Marousek.</a>
 <a id="válka-bfccd5">Válečná</a> vozba selská v naší obci byla ustanovena: I. vůz: vozataj <a id="josef-kobr-b58788">Jos. Kobr</a> ml. koně <a id="josef-vodseďálek-970bd1">Jos. Vodseďálka</a> aJos. Bouzka a vůz <a id="josef-vodseďálek-970bd1">Jos. Vodseďálka.</a> II. vůz: vozataj <a id="jaroslav-novák-0c031a">Jaroslav Novák.</a> Koně <a id="bohuslav-novák-3f87fc">Bohusl. Nováka</a> a <a id="otakar-novák-3f8684">Otakara Nováka</a> a vůz <a id="otakar-novák-3f8684">Ot. Nováka.</a>
 
-Dne 27. prosince bylo ve <a id="st-vsi-4e29b8">St. Vsi:</a> 100 koz, 99 krav, 37 volů, 21 jalovic, 21 telat, 20 prasat, 11 koní,
+Dne 27. prosince bylo ve St. Vsi: 100 koz, 99 krav, 37 volů, 21 jalovic, 21 telat, 20 prasat, 11 koní,
 8 býku a 35 psů.
 Počet narozených t. r. byl 8 a zemřelých 9.
 
@@ -3378,7 +3378,7 @@ _(v rukopisu je „8“ přepsaná z jiného čísla, což je nečitelné, zřej
 _je zde letopočet <a id="1980-f80bf0">1980)_</a>
 
 
-<a id="jaroslav-večerník-b04539">Jarosl. Večerník,</a> kronikář obce <a id="st-vsi-4e29b8">St. Vsi.</a>
+<a id="jaroslav-večerník-b04539">Jarosl. Večerník,</a> kronikář obce St. Vsi.
 ### **1930**
 
 
@@ -4441,10 +4441,10 @@ pamětníka takové. Jeho žena Eleonora dcera <a id="adam-novák-904301">Adama 
 Syn <a id="josef-housa-783a9f">Josef Housa</a> jenž byl 12 let starostem N13. 12. <a id="1823-14cfdb">1823</a> zemřel 9. 1. <a id="1897-af3303">1897.</a> Živnost ujal r. <a id="1857-a3545b">1857</a> dobře hospodařil ale přeci přivedl se do dluhů. Nejvíce ho stál syn Josef v č. <a id="14-aab323">14,</a> dluhů měli 1 400 zl.
 Žena Marie dcera <a id="josef-vedral-1750a7">Josefa Vedrala</a> z Haratic. Syn Antonín když měl býti za dva roky stavitelem a otce též mnoho stál, zemřel. Syn františek. Za dcerou Marie chodil franc Svárovský č. <a id="23-37693c">23</a> a <a id="antonín-wečerník-1265a6">Antonín Wečerník</a> od ševců. Svárovský si vzal jinou a Wečerníkovi nechtěl otec dáti že prý jsou to zlí lidé a že
 by ji utloukl. I proudali ji za Žantu č. <a id="93-98dce8">93</a> jenž ji stejně tloukl. Wečernik je potom pod Čermákovou stodolou potkal a nafackoval ji i Žantovi.
-Syn <a id="františek-housa-f31931">František Housa</a> kulhavý. Faktor koralář. Žena Anna rozená Jančurová z Ruprechtic jenž měla 10 zl. věna. Syn františek v č. <a id="75-d09bf4">75</a> dcery Jindřiška proudaná za <a id="josef-čermák-dac615">Josefa Čermáka</a> z č. <a id="53-d82c8d">53</a> ve Sklenařicích, Žofie za <a id="františek-kopal-61e42c">Fr. Kopala</a> z č. <a id="86-93db85">86</a> nádeníka u dráhy v Grünthale. Anežka a <a id="anna-oprava-2870d3">Anna
+Syn <a id="františek-housa-f31931">František Housa</a> kulhavý. Faktor koralář. Žena Anna rozená Jančurová z Ruprechtic jenž měla 10 zl. věna. Syn františek v č. <a id="75-d09bf4">75</a> dcery Jindřiška proudaná za <a id="josef-čermák-dac615">Josefa Čermáka</a> z č. <a id="53-d82c8d">53</a> ve Sklenařicích, Žofie za <a id="františek-kopal-61e42c">Fr. Kopala</a> z č. <a id="86-93db85">86</a> nádeníka u dráhy v Grünthale. Anežka a Anna
 
 
-Oprava</a> podle staré gruntovní knihy z r. <a id="1700-01e00f">1700</a>
+Oprava podle staré gruntovní knihy z r. <a id="1700-01e00f">1700</a>
 <a id="václav-blažek-ebbe6f">Václ. Blažek</a> jinak Večernik r. <a id="1714-798ed7">1714</a> po něm syn <a id="václav-večerník-a9ecb2">Václ. Večerník</a> jinak Blažek r. 1735 a po něm syn
 Adam r. <a id="1776-7dd024">1776</a> od něhož koupil <a id="jan-housa-86f4c1">Jan Housa.</a>
 
@@ -4705,7 +4705,7 @@ Slavík neutrácel a do hospody nechodil a přece pro dluhy přišel o živnost 
 Říkali mu Váha.
 
 <a id="františek-slavík-c9ac8f">Franc Slavík</a> poštmistr koupil tu živnost ve dražbě za 2 400 zl. Dluhy zaplatil a postoupil to synovci Josefovi. Takových strýcu je jistě málo.
-<a id="josef-slavík-76a4f4">Josef Slavík</a> veliký kořala jenž se znovu zadlužil a stavení r. <a id="1907-77369e">1907</a> v pondělí po <a id="sv-trojice-19a230">Sv. Trojici</a> zapálil.
+<a id="josef-slavík-76a4f4">Josef Slavík</a> veliký kořala jenž se znovu zadlužil a stavení r. <a id="1907-77369e">1907</a> v pondělí po Sv. Trojici zapálil.
 Shořela též společná stodola a č. <a id="81-43ec51">81.</a> Vlastně z ní <a id="oheň-92b25a">oheň</a> vyšel. <a id="josef-kobr-b58788">Josefu Kobrovi</a> č. <a id="81-43ec51">81</a> shořelo všecko nářadí. Tak zahynulo toto staré a velmi rozsáhlé stavení jenž vypadalo s č. <a id="81-43ec51">81</a> jedno jako druhé.
 Pozemky koupili: Hladík č. <a id="35-1c383c">35,</a> Novák č. <a id="87-c7e124">87,</a> Zákoutský č. <a id="58-66f041">58.</a>
 Slavíková žena Emilie dcera Jarolíma Hladíka č. <a id="35-1c383c">35.</a> Syn Josef, Václav a dcera Pavla.
@@ -6980,7 +6980,7 @@ _Pohřební ústav Německa: <a id="adolf-hitler-540dea">Adolf Hitler</a> a spol
 A bylo takových parte více, zas na jiné způsoby.
 
 
-Dne 26. května na zdejší škole naposled učila <a id="ludmila-hnyak-baf203">Ludmila Hnyková</a> rozená Hladíková z Vysokého a ježto zdejší definitivní učitel <a id="jan-mecnar-623ea5">Jan Mecnar.</a> dostal místo v německé vsi Mostku u <a id="st-paky-68b8c3">St. Paky,</a> učil zde
+Dne 26. května na zdejší škole naposled učila <a id="ludmila-hnyak-baf203">Ludmila Hnyková</a> rozená Hladíková z Vysokého a ježto zdejší definitivní učitel <a id="jan-mecnar-623ea5">Jan Mecnar.</a> dostal místo v německé vsi Mostku u St. Paky, učil zde
 zeť bývalého starosty <a id="karel-hušek-371b00">Karel Hušek</a>
 Dne 28. května vydávány první zcela české potravinové lístky.
 Dne 29. května urátil se z <a id="vězení-9eb76f">vězení</a> z Vysokého <a id="bohuslav-chlum-8a2bc1">Bohusl Chlum,</a> propuštěný se svolením staroveského Národního výboru na intervenci hlavně Chlumova nájemníka poručíka Janouška a jiných rozumných občanů, kteří z udavače dělali záchranu obce, s výhradou svobody až do řádného soudu a hned druhý den ráno 30. května byla na vyhlášce na stodole č. <a id="15-9bf31c">15</a> přeškrtána jména členů Národního výboru: místopředsedy (bývalého starosty) Nováka, učitele Huška a <a id="josef-soukup-006cf6">Jos. Soukupa</a> a u jména <a id="stanislav-marka-17131f">St
@@ -7710,7 +7710,7 @@ několik let v Americe odkudž si přinesl obdiv pro vše americké ať to bylo 
 30\. března ruchal poprvé <a id="josef-soukup-006cf6">Jos. Soukup</a> ml. pole od chalupy č. <a id="56-9f6140">56</a> které koupil od <a id="vladimír-kolodovský-be36a6">Vladimíra Kolodovského</a> vrchního berního tajemníka v Praze jenž ho koupil minulý rok pro vysázení lesem.
 1\. dubna přibyla zde zas dvě čísla k prázdným a sice č. <a id="21-3c59dc">21</a> odkudž se odstěhovala výminkářka
 <a id="barbora-housová-0f42dd">Barbora Housová</a> do starobynce do Rokytnice a č. <a id="11-6512bd">11</a> jehož majitel <a id="františek-polouprutský-e22834">Fr. Polouprutský</a> vypomáhal v kuchyni v nějakém hotelu svého synovce Martince z Loukova ve Špindlerově mlýně.
-5\. dubna odvod a odveden ze dvou <a id="stanislav-štěpánek-9c0727">Stanislav Štěpánek</a> truhlářský dělník z č. <a id="22-b6d767">22</a> a nastoupil k vojsku 1. října do <a id="lipt-sv-mikuláš-f0d1a6">Lipt. Sv. Mikuláše.</a>
+5\. dubna odvod a odveden ze dvou <a id="stanislav-štěpánek-9c0727">Stanislav Štěpánek</a> truhlářský dělník z č. <a id="22-b6d767">22</a> a nastoupil k vojsku 1. října do Lipt. Sv. Mikuláše.
 10\. dubna odpoledne v dešti první duha letos, ale potom stále sucho a větry a 25. dubna ráno silný přimrazek a teprve 8. května tu trochu zkropilo prach.
 30\. dubna zemřel v nemocnici ve Vrchlabí 68 letý <a id="jaroslav-polouprutský-2606ab">Jaroslav Polouprutský</a> výminkář na teď prázdném domku č. <a id="91-54229a">91,</a> vdovec bezprstý u obou rukou, flašinetář bytem u dcery <a id="anna-špidlenová-005b91">Anny Špidlenové</a> v Heřmanových Sejfech.
 1\. května se staroveští sůčastnili oslav ve Vysokém průvodem v jehož cele nesl prapor <a id="josef-soukup-006cf6">Josef Soukup</a> st ve stejnokroji desátníka ruské legie a třemi ozdobenými vozi.
@@ -8314,7 +8314,7 @@ zamlouval Hnyk jenž zavedl kázeň.
 Stará Ves se dostala minulým rokem na V. místo v budování na okrese.
 Na Velikonoční neděli dopoledne 25. března slavnostní schůze MNV při níž zavěšen na školu čestný budovatelský odznak (štít) který přebrala naše obec od Helkovic.
 27\. března se oběsil 66 letý <a id="jan-červinka-32fdac">Jan Červinka</a> nájemce domku č. <a id="64-ea5d2f">64</a> pro těžkou a dlouhou nemoc.
-Zesnulý byl z Bratrouchova a co vojín sloužil u 11. praporu pol. myslivců v Tridentu a <a id="1914-07a4e2">1914</a> narukoval k 36. pěš. pluků č. <a id="36-19ca14">36</a> u <a id="mladá-boleslav-28fc73">Ml. Boleslavi</a> jenž přešel celý k Rusům ale to už Červinka u něho nebyl ale u jičínského 11. zeměbraneckého od něhož přišel <a id="1915-b432f3">1915</a> v srpnu u Lucku do zajetí do
+Zesnulý byl z Bratrouchova a co vojín sloužil u 11. praporu pol. myslivců v Tridentu a <a id="1914-07a4e2">1914</a> narukoval k 36. pěš. pluků č. <a id="36-19ca14">36</a> u Ml. Boleslavi jenž přešel celý k Rusům ale to už Červinka u něho nebyl ale u jičínského 11. zeměbraneckého od něhož přišel <a id="1915-b432f3">1915</a> v srpnu u Lucku do zajetí do
 Dárnice u Kyjeva po krátkém pobytu v kyjevské pevnosti. <a id="1917-cb79f8">1917</a> z Dárnice do Simbirska a odtud přišel do Rybušky k sedlákům na práci na 6 volů k orání (gubernie Níž. Novgorod) a odtud do
 Toparny na stavbu průplavu odkudž odjel po agitaci pro čs legie do Rostova na Donu a zmeškáním vlaku na cestě šel sloužit ke kozáku na pole od čehož ho sebrali rudí i s koňmi k trénu s nimiž do Charkova kdež zařazen k 1. baterii. Dále Bachmač, Novorosijsk, Simferopol na Krýmu a <a id="1920-44968a">1920</a>
 se urátil domů.
