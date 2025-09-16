@@ -2,7 +2,7 @@ import pathlib
 import yaml
 import re
 import json
-from collections import defaultdict
+from collections import defaultdict, Counter
 from typing import Dict, List, Optional
 
 INPUT_MD_FILE = "./data/kronika_plus.md"
@@ -140,10 +140,8 @@ def add_index_links_to_content(content: str, entities: List[Dict], chapter_num: 
 
             # Přidej číslo kapitoly do entity
             if 'chapters' not in entity:
-                entity['chapters'] = [chapter_num]
-            else:
-                if chapter_num not in entity['chapters']:
-                    entity['chapters'].append(chapter_num)
+                entity['chapters'] = []
+            entity['chapters'].append(chapter_num)
 
             index_link = f"/kronika/indexes/{entity_type}#{anchor_id}"
 
@@ -219,6 +217,12 @@ def create_index_files(entities: List[Dict], chapters_info: List[Dict]):
             occurrences = values_dict[value]
             anchor_id = occurrences[0]['anchor_id']  # Použij anchor_id z entity dat
             
+            # TODO DEBUG
+            if occurrences[0]['anchor_id'] == "adam-lukáš-a76467":
+                print(f'XXDEBUG: {value}')
+                print(f'XX>>> {occurrences}')
+
+
             content_lines.append(f"<a id='{anchor_id}'></a>")
             content_lines.append(f"## {value}")            
             # content_lines.append(f"## {value}")
@@ -226,17 +230,23 @@ def create_index_files(entities: List[Dict], chapters_info: List[Dict]):
             content_lines.append(f"Nalezeno {len(occurrences)}x:")
             content_lines.append("")
             
-            # Najdi kapitoly pro každý výskyt
-            occurrence_chapters = set()
+            # Shromáždi všechny kapitoly a spočítej výskyty
+            all_chapters = []
             for occurrence in occurrences:
                 if 'chapters' in occurrence and occurrence['chapters']:
-                    occurrence_chapters.update(occurrence['chapters'])
+                    all_chapters.extend(occurrence['chapters'])
 
-            # Přidej odkazy na kapitoly
-            for chapter_num in sorted(occurrence_chapters):
+            # Spočítej výskyty per kapitola
+            from collections import Counter
+            chapter_counts = Counter(all_chapters)
+
+            # Přidej odkazy na kapitoly s počty
+            for chapter_num in sorted(chapter_counts.keys()):
+                count = chapter_counts[chapter_num]
                 chapter_info = next(ch for ch in chapters_info if ch['number'] == chapter_num)
                 chapter_title = re.sub(r'<[^>]+>', '', chapter_info['title']) # strip html tags
-                link = f"- [Kapitola {chapter_num}: {chapter_title}](../chapters/chapter_{chapter_num:03d}.md#{anchor_id})"
+                suffix = f" ({count}x)" if count > 1 else ""
+                link = f"- [Kapitola {chapter_num}: {chapter_title}](../chapters/chapter_{chapter_num:03d}.md#{anchor_id}){suffix}"
                 content_lines.append(link)
             
             content_lines.append("")
@@ -271,7 +281,19 @@ def create_global_index(entities: List[Dict], chapters_info: List[Dict]):
         global_index["entities"][entity_type] = {}
         
         for value, occurrences in values_dict.items():
-            chapters_list = list({ch for occ in occurrences for ch in occ.get('chapters', []) if occ.get('chapters')})
+
+            # TODO DEBUG
+            if occurrences[0]['anchor_id'] == "adam-lukáš-a76467":
+                print(f'DEBUG: {value}')
+                print(f'>>> {occurrences}')
+
+            # Shromáždi všechny kapitoly ze všech výskytů
+            all_chapters = []
+            for occ in occurrences:
+                if occ.get('chapters'):
+                    all_chapters.extend(occ['chapters'])
+            chapters_list = sorted(list(set(all_chapters))) if all_chapters else []
+
             contexts_list = [occ.get('context', '') for occ in occurrences if occ.get('context')]
             if not chapters_list and contexts_list:
                 print(f"❌ ERROR: Entity '{value}' in type '{entity_type}' has empty chapters but {len(contexts_list)} contexts")
