@@ -8,7 +8,7 @@ MKDOCS_YML = "docs-site/mkdocs.yml"
 
 labels_czech = {
     'address_number': 'Čísla popisná', 
-    'event': 'Klíčová slova', 
+    'event': 'Témata', 
     'name': 'Jména', 
     'year': 'Roky'
 } # keep synced with md_split.py
@@ -44,7 +44,8 @@ def build_navigation():
                 'file': file.name,
                 'title': frontmatter.get('title', file.stem),
                 'level': frontmatter.get('heading_level', 1),
-                'chapter_number': frontmatter.get('chapter_number', 999)
+                'chapter_number': frontmatter.get('chapter_number', 999),
+                'is_placeholder': frontmatter.get('is_placeholder', False)
             })
     
     # Seřaď podle chapter_number
@@ -64,6 +65,7 @@ def build_navigation():
             section = {
                 'title': chapter['title'],
                 'file': chapter['file'],
+                'is_placeholder': chapter['is_placeholder'],
                 'children': []
             }
             nav_structure.append(section)
@@ -74,13 +76,15 @@ def build_navigation():
             if current_parent:
                 current_parent['children'].append({
                     'title': chapter['title'],
-                    'file': chapter['file']
+                    'file': chapter['file'],
+                    'is_placeholder': chapter['is_placeholder'],
                 })
             else:
                 # Fallback - pokud není parent, vytvoř jako hlavní sekci
                 section = {
                     'title': chapter['title'],
                     'file': chapter['file'],
+                    'is_placeholder': chapter['is_placeholder'],
                     'children': []
                 }
                 nav_structure.append(section)
@@ -120,12 +124,14 @@ def generate_nav_yaml(nav_structure):
             # Sekce s podkapitolami
             children_list = []
             
-            # Hlavní sekce jako první položka
-            children_list.append({item['title']: f"chapters/{item['file']}"})
+            # # Hlavní sekce jako první položka
+            if not item['is_placeholder']:
+                children_list.append({item['title']: f"chapters/{item['file']}"})
             
             # Pak všechny podkapitoly
             for child in item['children']:
-                children_list.append({child['title']: f"chapters/{child['file']}"})
+                if not child['is_placeholder']:
+                    children_list.append({child['title']: f"chapters/{child['file']}"})
             
             # Použij název hlavní sekce pro celou skupinu
             nav.append({item['title']: children_list})

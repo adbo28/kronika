@@ -159,11 +159,15 @@ def add_index_links_to_content(content: str, entities: List[Dict], chapter_num: 
 
 def create_chapter_file(content_lines: List[str], title: str, chapter_num: int, level: int, entities: List[Dict]):
     """Vytvoří markdown soubor s YAML frontmatter"""
+
+    is_placeholder = not content_lines or all(line.strip() == "" for line in content_lines)
+
     frontmatter = {
         'title': title,
         'chapter_number': chapter_num,
         'heading_level': level,
         'nav_weight': chapter_num,
+        'is_placeholder': is_placeholder,
     }
     
     yaml_header = yaml.dump(frontmatter, 
