@@ -217,12 +217,6 @@ def create_index_files(entities: List[Dict], chapters_info: List[Dict]):
             occurrences = values_dict[value]
             anchor_id = occurrences[0]['anchor_id']  # Použij anchor_id z entity dat
             
-            # TODO DEBUG
-            if occurrences[0]['anchor_id'] == "adam-lukáš-a76467":
-                print(f'XXDEBUG: {value}')
-                print(f'XX>>> {occurrences}')
-
-
             content_lines.append(f"<a id='{anchor_id}'></a>")
             content_lines.append(f"## {value}")            
             # content_lines.append(f"## {value}")
@@ -281,11 +275,6 @@ def create_global_index(entities: List[Dict], chapters_info: List[Dict]):
         global_index["entities"][entity_type] = {}
         
         for value, occurrences in values_dict.items():
-
-            # TODO DEBUG
-            if occurrences[0]['anchor_id'] == "adam-lukáš-a76467":
-                print(f'DEBUG: {value}')
-                print(f'>>> {occurrences}')
 
             # Shromáždi všechny kapitoly ze všech výskytů
             all_chapters = []
