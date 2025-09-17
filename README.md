@@ -38,7 +38,6 @@ The processing pipeline consumes and generates several data files located in the
 -   `chapter_mapping.jsonl`: A manually created file that defines the chapter structure of the chronicle.
 -   `event_base_form.jsonl`, `name_base_form.jsonl`: Contain mappings from original names and events to their base forms. These are used to normalize data for indexing.
 -   `first_names.txt`, `names_with_dots.txt`: Lists of names used to improve name recognition accuracy.
--   `pattern_rules.csv`: A set of rules to fine-tune entity recognition.
 -   `bw_list.jsonl`: A blacklist/whitelist for entity recognition.
 
 ### Generated Data
