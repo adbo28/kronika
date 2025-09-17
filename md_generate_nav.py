@@ -118,6 +118,7 @@ def generate_nav_yaml(nav_structure):
     nav = []
 
     nav.append({"Úvod": "index.md"})
+    nav.append({"O projektu": "about.md"})
     
     for item in nav_structure:
         if item['children']:

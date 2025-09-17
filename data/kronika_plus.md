@@ -1,11 +1,3 @@
-# **KRONIKA STARÁ VES**
-## **1923–1953, 1979–1991**
-
-<a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> 19 [13/11] 21
-
-
-_Jaroslav Večerník (7. 9. <a id="1904-c91591">1904</a> – 6. 1. <a id="1992-d5c186">1992)_</a>
-
 ## **Obec Stará Ves**
 
 Na potoku starovesském který pod Helkovicemi u tak zv Šachovce do potoku Vošmendy se vlévá v širokém svahovytém údolí v nadmořské výši 407 – 678 m rozložena jest obec Stará Ves. Že tato

@@ -65,6 +65,12 @@ def apply_specific_fixes(text):
     """Provede specifické opravy textu podle potřeby"""
     # Příklad: Oprava konkrétního špatného řetězce
 
+    CHAPTER_ZACATEK = "## **Obec Stará Ves**" 
+    if CHAPTER_ZACATEK in text:
+        text = text[text.find(CHAPTER_ZACATEK):]
+    else:
+        print("⚠️ Kapitola 'Obec Stará Ves' nenalezena.")
+
     CHAPTER_OBSAH = "## **Obsah**"
     if CHAPTER_OBSAH in text:
         text = text[:text.find(CHAPTER_OBSAH)]
