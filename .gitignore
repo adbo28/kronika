@@ -21,3 +21,4 @@ data/_*
 _*.py
 
 .env
+CLAUDE.md
