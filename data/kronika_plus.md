@@ -7,40 +7,31 @@ Obec přísluší okresnímu hejtmanství Jilemnice, Berní úřad Vysoké n/J. 
 Podle náboženského vyznání je čechoslováku 235. Náležejí farnímu úřadu v Držkově biskupství
 Turnov. Římských katolíků 73 a náležejí farnímu úřadu ve Vysokém n/J. biskupství Litoměřice.
 Ostatní bez vyznání.
-Spolky v obci jsou: Hasičský založený r. <a id="1904-c91591">1904.</a> Hospodářský založen r. <a id="1901-d54e99">1901.</a> Čtenářskoochotnický spolek Snaha založen r. <a id="1897-af3303">1897</a> znovu 1919 a Spořitelní a záložní spolek r. <a id="1910-ab7314">1910.</a> Družstvo Pecnářské r. <a id="1910-ab7314">1910.</a> Obecní správa jest: <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> č. <a id="20-98f137">20</a> starosta
+Spolky v obci jsou: Hasičský založený r. <a id="1904-c91591">1904.</a> Hospodářský založen r. <a id="1901-d54e99">1901.</a> Čtenářskoochotnický spolek Snaha založen r. <a id="1897-af3303">1897</a> znovu 1919 a Spořitelní a záložní spolek r. <a id="1910-ab7314">1910.</a> Družstvo Pecnářské r. <a id="1910-ab7314">1910.</a> Obecní správa jest: 
 
+<a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> č. <a id="20-98f137">20</a> starosta
 <a id="václav-večerník-a9ecb2">Václav Večerník</a> č. <a id="39-d67d8a">39</a> rádní
-
 <a id="jan-petruška-364a5c">Jan Petruška</a> č. <a id="18-6f4922">18</a> náměstek
 <a id="františek-polouprutský-e22834">Frant. Polouprutský</a> č. <a id="11-6512bd">11</a> rádní
 <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a> výbor
 <a id="františek-zeman-4b3842">Frant. Zeman</a> č. <a id="84-68d30a">84</a>
 <a id="františek-šalda-5244f5">Frant. Šalda</a> č. <a id="72-32bb90">72</a>
-
 <a id="josef-bouzek-3e34d8">Josef Bouzek</a> č. <a id="65-fc490c">65</a>
 <a id="karel-koldovský-1a1a51">Karel Koldovský</a> č. <a id="16-c74d97">16</a>
 <a id="kamil-vodseďálek-ea8e1f">Kamil Vodseďálek</a> č. <a id="62-44f683">62</a>
-
 <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> č. <a id="14-aab323">14</a>
-
 <a id="antonín-koldovský-88b47c">Antonín Koldovský</a> č. <a id="1-c4ca42">1</a>
-
 
 Podle sčítání lidu r. 19 [16/2] 21 má obec obyvatel: mužů 177, žen 200, úhrn 377.
 
+Obec Stará Ves ač hluboko v horách položena jest obcí téměř čistě rolnickou (ve znaku má snop)obyvatelstvo zabývá se tedy většinou zemědělstvím. Dále jest zde navlek skleněných koral jež se sem dovážejí většinou ze Zásady. Jistá část obyvatelstva jest zaměstnána v tkalcovně firmě Kramář a spol ve Vysokém n/J. R. <a id="1922-333222">1922</a> zvlášť se zde mnoho koral navléklo. A mnoho se od navleku platilo. Jen v č. <a id="27-02e74f">27</a> a <a id="82-9778d5">82</a> se tehdy nenavlékalo. 
 
-Obec Stará Ves ač hluboko v horách položena jest obcí téměř čistě rolnickou (ve znaku má snop)
-Obyvatelstvo zabývá se tedy většinou zemědělstvím. Dále jest zde navlek skleněných koral jež se sem dovážejí většinou ze Zásady. Jistá část obyvatelstva jest zaměstnána v tkalcovně firmě Kramář
-a spol ve Vysokém n/J.
-R. <a id="1922-333222">1922</a> zvlášť se zde mnoho koral navléklo. A mnoho se od navleku platilo. Jen v č. <a id="27-02e74f">27</a> a <a id="82-9778d5">82</a> se tehdy nenavlékalo. Tehdy byli faktoři: <a id="bohumil-bouzek-c31e9c">Bohumil Bouzek</a> č. <a id="65-fc490c">65</a>
-
+Tehdy byli faktoři: 
+<a id="bohumil-bouzek-c31e9c">Bohumil Bouzek</a> č. <a id="65-fc490c">65</a>
 <a id="františek-polouprutský-e22834">František Polouprutský</a> č. <a id="11-6512bd">11</a>
 <a id="stanislav-housa-13ffe2">Sta nislav Housa</a> č. <a id="21-3c59dc">21</a>
-
 <a id="otakar-novák-3f8684">Otakar Novák</a> č. <a id="44-f71771">44</a>
-
 <a id="josef-liška-f30842">Josef Liška</a> č. <a id="66-3295c7">66</a>
-
 Milolav Vodseďálek č. <a id="10-d3d944">10</a>
 <a id="stanislav-čivrný-11bde7">Stanislav Čivrný</a> č. <a id="64-ea5d2f">64</a>
 <a id="františek-housa-f31931">František Housa</a> č. <a id="75-d09bf4">75</a>
@@ -62,16 +53,13 @@ Tehdy byli prý takové mrazi že medvěd přišel se k jeho milíři ohřáti a
 Medvěd přišel podruhé zas a přicházel i častěji a pomalu krotl takže za nějaký čas mohl ho Havlata dovésti do Turnova a odtud až do Prahy ke knížeti. Tento Pavlata zemřel maje věku stopatnácti let a jest to on jehož má Vysoké neprávem ve znaku. Obyvatelstvo této osady živilo se asi (mnoho
 ho jistě nebylo) bídným rolnictvím a později pálením dřevěného uhlí v milířích aneb bylo zaměstnáno v hutích v Roprachticích, Navarově, Svárově, Havírně, Držkově, Sklenařicích, Hamrech a Stanově, (Pec) (Bramberk u Pece spravně Branntberg=vypálený kopec). Tedy kopec z něhož byl les spálen v huti. Rovněž jmeno staroveského druhého potoka Vošmenda správně Waschmehlt = Praní
 rudy. Také v Helkovicích bylo cos takového: Šachovec = Šachtovec = šachta. V těchto místech dobývalo se železo, měď, stříbro (Stříbrník pod Lhotkou.) a zlato (Zlatník potok ve Zlaté Olešnici).
-V těchto dobách bylo okolí nynější Staré Vsi, Stanova (nesprávně Stan nový od hlídky na zemské stezce [nynější stanovská trhovice]) Pasek a jiných okolních míst porostlé ohromným pralesem
+V těchto dobách bylo okolí nynější Staré Vsi, Stanova (nesprávně Stannový od hlídky na zemské stezce [nynější stanovská trhovice]) Pasek a jiných okolních míst porostlé ohromným pralesem
 pohraničním.
 Prvotní slovanské obyvatelstvo našeho okolí bylo pohanské. Prvou rozšiřovatelkou křesťanství byla tu kněžna Přibislava, sestra sv. Václava, provdaná za knížete Charvatu v severovýchodních
 Čechách usedlých, ku které se matka její Drahomíra po zavraždění sv. Václava utekla. Křesťanství šířilo se ze vnitřku Čech až ke hranicím, čemuž však pohané všemožně se bránili. Dle zprávi kronikáře <a id="václav-hájek-7aa796">Václava Hájka</a> z Libočan pohané horští r. <a id="973-ca7591">973</a> po řece Jizeře táhli proti svým pokřestěným
 sousedům, byli však kdesi u Mladé Boleslavě poraženi.
 R. <a id="1110-2cbca4">1110</a> vtrhli do Čech Poláci ale museli před přesilou Čechu ustoupiti a ustupovali naším okolím kde byla zemská stezka Čechové však je dohonili mezi Starou Vsí a Ruprechticemi na tak zv Humberku (dnes Humburk) kdež se Poláci opevnili. Čechové ač byli po pochodu dali se do nich a následkem unavení jsou poraženi. Poláci však proto stejně odtáhli domů.
-Asi v letech <a id="1360-fb508e">1360</a> uvedli sem páni z Waldsteina držitelé blízkého hradu Nistějky. (ve staré češtině kamna do nichž se přikládalo ze síně) německé skláře a sklenáře kteří založili v samém vrchu osadu
-
-
-svou jenž nazvána po povýšení na městečko Hochstadt. Kostelík vysocký jest vystavěn ovšem ze dřeva r. <a id="1380-ea8fcd">1380.</a> prý z kaple. Z těchto sklenářů jednoho známe jmenem Mikuláše Guaissara jenž se
+Asi v letech <a id="1360-fb508e">1360</a> uvedli sem páni z Waldsteina držitelé blízkého hradu Nistějky. (ve staré češtině kamna do nichž se přikládalo ze síně) německé skláře a sklenáře kteří založili v samém vrchu osadu svou jenž nazvána po povýšení na městečko Hochstadt. Kostelík vysocký jest vystavěn ovšem ze dřeva r. <a id="1380-ea8fcd">1380.</a> prý z kaple. Z těchto sklenářů jednoho známe jmenem Mikuláše Guaissara jenž se
 zavazuje smlouvou ze dne 15.listopadu r. <a id="1377-f52378">1377</a> že dodá <a id="hanušovi-hlovovskému-c23e14">Hanušovi Hlovovskému</a> z Hlohova (Prus.
 Slezsko) 3 200 skel kulatých do oken, vůz středopostní a vůz o letnicích. Toto německé městečko jsouc podporováno pány z Waldsteina kteří měli ovšem ze sklářství zisk šířilo se na úkor staré osady dolu a zaujalo časem celé místo jenž nazváno Hlavišťata a na Starověstě. Ta stará osada nazvána
 pak na rozdíl od nové jenž byla již městem Stará Ves.
@@ -95,10 +83,7 @@ Jindřich pán na Nistějce. Psal se také tak sedaje od r. <a id="1402-28fc27">
 Učení Husovo způsobilo v Čechách pronikavé změny. Husitství zapouštělo v lidu pevné kořeny zejmena tam, kde vrchnosti byly téhož vyznání. Od r. <a id="1422-0ed942">1422</a> vyskytuje se Václav či Vaněk z Jenštejna
 pán na Nistějce rovněž horlivý účastník strany podobojí který tu ještě r. <a id="1439-540ae6">1439</a> seděl. Tehdy vtrhli
 Husité do blízkého Boskova (Bozkov) vyplenili kostel katolický, pak zapálili a kněze v nečistotě utopili. Také hrádek boskovský byl jimi zpustošen. Farní osada boskovská již zápisem cís. Sigmunda
-z r. <a id="1436-eaa32c">1436.</a> byla přidělena straně podobojí. V husitských <a id="válka-bfccd5">válkách</a> navraceje se Žižka z jedné výpravi
-
-
-za cís. Sigmundem na Moravu tahl přes Krkonoše. Tehdy vzal zkázu onen klášter v Jablonci n/J.
+z r. <a id="1436-eaa32c">1436.</a> byla přidělena straně podobojí. V husitských <a id="válka-bfccd5">válkách</a> navraceje se Žižka z jedné výpravi za cís. Sigmundem na Moravu tahl přes Krkonoše. Tehdy vzal zkázu onen klášter v Jablonci n/J.
 a klášter panen řádu cisterciánského v Jilemnici a též z části zaniklo i zdejší rudařství. Nástupcem
 Vaňka z Jenštejna byl syn Mikuláš který byl r. <a id="1452-6786f3">1452</a> při volbě Jiřího z Poděbrad za správce zemského. (Jiří z Poděbrad a z Kunštátu byl též r. <a id="1441-b197ff">1441</a> zvolen za hejtmana kraje Boleslavského.) Když r. <a id="1459-1abb1e">1459</a> bezdětek zemřel připadla Nistějka s vesnicemi králi Jiřímu který ji daroval Hanušovi z Hryzela. Proti darování vystoupil Arnošt nedílný bratr zemřelého. Spor ten zastával Jiřík z Křenice ale
 není známo jak pochodili. R. <a id="1511-ebb710">1511</a> připomíná se Nistějka co opuštěná a Vysoké s vesnicemi jako část panství Semilského dostala se koupí dne 15 [24/9] 14 panu <a id="jan-svojanovský-95c15a">Janu Svojanovskému</a> z Bozkovic (na
@@ -190,15 +175,12 @@ v tom statku do <a id="smrt-a332b5">smrti</a> v ničem jim neubližuje dochovati
 
 **Jirzik <a id="matěj-voják-e123ee">Matieje Vojáka</a> z Staré Wsi č. 260**
 Letha <a id="1616-962e56">1616</a> v sobotu den památný Hromnic <a id="matěj-voják-e123ee">Matěj Voják</a> jinak Poledník z Staré Wsi předstoupivše před regista oznamuje pro velikou nestatečnost a nemožnost svou že statku svého déle opatrovati
-nemůže a že jej Jiřiku synu svému za s [m] 85 kop gr. pouští.
+nemůže a že jej Jiřiku synu svému za sumu [m] 85 kop gr. pouští.
 
 
 **Jirzik Lusstinczu z Starý Wsi. č. 297**
 Leta <a id="1620-806bea">1620</a> v středu den památný Simona a <a id="judy-matěj-luštinců-8f2d7d">Judy Matěj Luštinců</a> z Staré Wsi předstoupivše k registum žádal za poznamenání že jest Jiřikovi synu svému půl živnosti své prodal a nemaje toliko toho jediného syna avšak možnost s Jiřikem vyhražuje sobě, aby mocným hospodářem s manželkou
-svou do <a id="smrt-a332b5">smrtí</a> zůstával za sumu 12 1/2 kopy gr. Na to zavdati 5 kop. Na roky dopláceti 1 kopu do
-
-
-vyplnění. Přidano mu jakékoliv věci hospodářské se nalézající. Těch spolu užívati mají. A kdyby
+svou do <a id="smrt-a332b5">smrtí</a> zůstával za sumu 12 1/2 kopy gr. Na to zavdati 5 kop. Na roky dopláceti 1 kopu do vyplnění. Přidano mu jakékoliv věci hospodářské se nalézající. Těch spolu užívati mají. A kdyby
 Pán Bůh téhož Matěje Luštince z tohoto světa pojíti ráčil a manželka po něm zůstala tedy ten Jiřik matku má <a id="smrt-a332b5">smrti</a> dochovati a ji v ničem neubližovati. Mezi tím kdyby týž Jiřik otci svému neb matce
 nějaké příkoři činil takový zápis moc bude míti proměniti a v nic obrátiti. V týž den položil zavdavku 5 kop gr. Přijal <a id="matěj-luštinec-eba31a">Matěj Luštinec.</a> Leta <a id="1622-c7af09">1622</a> v soudě položil 2 kopy gr. Zůstává 3 kopy gr. Puštěno otci jeho. Vice což vydal otci svému doložil za tu polovici gruntu 2 kopy 30 gr. Ma tu polovici zaplacenou.
 
@@ -222,10 +204,7 @@ Leta <a id="1627-97d014">1627</a> v sobotu po sv Michalu archandělu <a id="jan-
 mu zůstal 68 kop gr. Že pak týž <a id="jan-oplt-c66b91">Jan Oplt</a> nedodavší mu vostatní díl sumy <a id="matěj-patočka-8377b4">Matěj Patočka</a> vobrátil se do Pelhřimova a syna svého kterýž nešťastnou náhodou spravuje co zapotřeby bylo při mlejně od
 kola palečného jest zasmrcen. Kterouž příčinou nemoha toho mlejnku spravovati podle dobrovolné smlouvy prodal jej Krištofovi Knopovi ze vsi Wolešnice se vším příslušenstvím k němu náležejícím se všemi svršky a přidavky. Totiž žita na jednom korci, Pšenice polovic, Ječmene po dvou čtvrtcích, Pohanky po dvou čtvrtcích, Lnu po pěti čtvrtcích, Sena polovic, Zelí všecko, Mrkve tři
 záhony, Hnuj všecek, Dva pytlíky, Tři voštoudy, Sochor železný, Sekyru tesačku, Kleště do kamen,
-Zděř do kamenů, Motyka jedna, Vidly železný k peci, Mědenec v kamnech, Vanu přesejpku, dvě čtvrtcí, záměru jednu, díž 1, stůl jeden, řešeta čtyry, zámku zapadilých pět, Vysutý jeden, Slepice
-
-
-dvě a kohouta, Cepi dva, Konve dvě. za sumu 75 kop gr. Zavdavku má složiti při zápisu 10 kop.
+Zděř do kamenů, Motyka jedna, Vidly železný k peci, Mědenec v kamnech, Vanu přesejpku, dvě čtvrtcí, záměru jednu, díž 1, stůl jeden, řešeta čtyry, zámku zapadilých pět, Vysutý jeden, Slepice dvě a kohouta, Cepi dva, Konve dvě. za sumu 75 kop gr. Zavdavku má složiti při zápisu 10 kop.
 V novém letě <a id="1628-efb76c">1628</a> 30 kop gr. Ročně platiti za grunt po 5 kopách. A poněvadž týž grunt laciněji <a id="jan-oplt-c66b91">Jan
 Oplt</a> kupujícímu Krištofu Knopovi prodal o s [m] 45 kop gr. s tý sumi <a id="matěj-patočka-8377b4">Matěj Patočka</a> jakožto z lásky zeťovský jakž mu vyjíti mělo a on <a id="jan-oplt-c66b91">Jan Oplt</a> vedle koupě sumi z toho gruntu mlejnku dokládati
 68 kop gr. ročně měl sráží, abi on tchán jeho neškodoval 23 kop gr. Tak že tu bylo dobrati <a id="matěj-patočka-8377b4">Matěji
@@ -261,11 +240,10 @@ Tento zápis byl asi přehozen ze scházejícího konce.
 **Č. 14 <a id="krisstof-czermak-14142d">Krisstof Czermak</a> Rybnice.**
 **Č. 264 <a id="adam-polouprutský-d232a4">Adam Polauprutský</a> r. <a id="1619-d1dc3a">1619</a> Vysoké.**
 **Václav Makovec r. <a id="1610-a14ac5">1610</a> Přikré.**
-
 **Jakub Krumess r. <a id="1610-a14ac5">1610</a> Heratice.**
-
-
 **Urban Patoczka z Vysokýho. 116**
+
+
 Letha <a id="1611-7a6a74">1611</a> v pátek po památce všech svatých koupil svrchu psaný Urban jednu louku za sumu
 10 kop 30 gr. Viz A 173.
 
@@ -287,9 +265,8 @@ Dne 14 [5/6] 37 koupil od <a id="jiří-ušák-0d898f">Jiřího Ušáka</a> z Lo
 nedílně. Tito přistoupili r. 14 [28/11] 65 k pověstné Jednotě Zelenohorské.
 Po porážce Lužičanů dne 14 [6/6] 68 přišla řada na pány Zajíce. Hned roku příštího obstoupili královští všechny hrady jejích v Boleslavsku. Kost, Navarov, Hrubou Skálu a Trosky. Najednou slezské vojsko vytáhlo jím sice k Navarovu na pomoc ale na planý poplach r. 14 [30/8] 69 dalo se u Kopaně na
 útěk. Jen malá hrsta <a id="oldřich-zajíc-39d5c4">Oldřicha Zajíce</a> z Hazmburka pronikla k Turnovu a uchýlila se do hradu Trosek. Po dobiti tohoto odebral se Oldřich do Svídnice a vzeti hradu Kosti předešel Jan uzavřenim příměří. Oldřich zemřel r. 1473 a jeho bratr Jan tak se s <a id="válka-bfccd5">válkou</a> zavedl že musel statky své prodati.
-Dne 24. května <a id="1474-7d6044">1474</a> prodal Hostinný za 1 500 kop gr. a Navarov se dvorem poplužním, wes Lánov s hamry a vsi Jesenný a Stanov za 500 kop gr. panu Alšovi ze Sanova (u Rakovnika). (Jan Zajíc
+Dne 24. května <a id="1474-7d6044">1474</a> prodal Hostinný za 1 500 kop gr. a Navarov se dvorem poplužním, wes Lánov s hamry a vsi Jesenný a Stanov za 500 kop gr. panu Alšovi ze Sanova (u Rakovnika). (Jan Zajíc - 14 [15/5] 95.)
 
-- 14 [15/5] 95.)
 Proti prodeji panství Hostinného podaly sestry Salomena a Anna odpor hlásice se ku čtvrtému dílu zboží a dědin a v jich asi jmenu zmocnil se <a id="vilém-krušina-60b0df">Vilém Krušina</a> z Lichtenburka syn Hynka druhdy pana na Hostinném Navarova a postoupil pak další práva synu svému Haimanovi a s tim započal Aleš soud. V něm Haiman prohral ale ačkoliv mu nařízeno Navarov neopustil ještě ani
 r. <a id="1488-8a146f">1488.</a> Pan Aleš pro svou nepokojnou povahu měl stále nějaké rozepře pro dluhy prodal Navarov
 <a id="1488-8a146f">1488</a> panu <a id="jiří-štosa-06b6f5">Jiřiku Štosovi</a> z Kunic ale kvůli bratřím Kdulincům z Ostromíře a na Smrkovicích koupě zrušena poněvadž tito si stěžovali že jím koupi tou učiněna škoda. Na to r. <a id="1489-1baff7">1489</a> prodal p Aleš Navarov bývalému rožmberskému úředníku Rackovi Cukroví z Tamfeldu.
@@ -320,10 +297,7 @@ nekatolický obraceti na svou víru. Všecky bohoslužebné řády nekatolické 
 znovu obnovovány r. <a id="1623-fc5285">1623</a> až <a id="1624-932796">1624.</a>
 Podobně Albrecht z Waldštějna, nový pán Semil, působením svého komisaře ve věcech duchovních <a id="jan-ctibor-kotva-89c506">Jana Ctibora Kotvi</a> z Freifeldu vydal dne 6. května r. <a id="1624-932796">1624</a> z Freidlandu manifest jimž ze svých panství všecky nekatolické kněze vypověděl. Všude nebylo však možno manifestu tomu vyhověti.
 Právě krajina podkrkonošská poskytovala dosti dlouho útočiště kněžím nekatolickým. Lesy krkonošské tehdáž mnohem dále zasahovaly do Čech nežli nyní, takže rozptýlené v nich osady byly takřka od ostatního světa odloučeny. I šlechta buď jim přímo přála, nebo aspoň pobytu jejich nečinila překážek. Fary v té době byly bez farářů pro nedostatek kněží katolických. Lid poddaný v té
-době žil jak ovce bez pastýře. Křty a sňatky byly odkládány na dobu pozdější, pohřby konaly se bez
-
-
-výkropu, pouze za přítomnosti sousedův, kteří se nad hrobem pomodlili a zesnulého uložili v lůno země.
+době žil jak ovce bez pastýře. Křty a sňatky byly odkládány na dobu pozdější, pohřby konaly se bez výkropu, pouze za přítomnosti sousedův, kteří se nad hrobem pomodlili a zesnulého uložili v lůno země.
 
 Mnozí obyvatelé nechtíce přijati víru katolickou a bojíce se proto nátiskův a pronásledování, utíkali do ciziny nebo do lesů, kdež domnívali se býti jisti před pronásledováním. Cizina ráda vítala lidi doma odkopávané. Mezi jinými uvádí se z okolí Žitavě r. <a id="1622-c7af09">1622</a> farář loukovský <a id="daniel-vendelín-addb36">Daniel Vendelín.</a>
 
@@ -338,9 +312,7 @@ k pranýři snesli a je spálili, což se také dne 28. února <a id="1628-efb76
 
 
 Nechceš-li ty se škvařiti bludné knihy hleď spáliti
-dokaváď tobě čas slouží
-
-bys nespad v pekelnou louži.
+dokaváď tobě čas slouží bys nespad v pekelnou louži.
 
 
 _(konec strany, dole kulaté razítko Obecní úřad Stará Ves)_
@@ -378,10 +350,7 @@ Woják</a> a poněvadž nekatolík nesměl býti po katolicku pochován pohřbil
 V kraji boleslavském počala činnost komise 15. února r. <a id="1652-207f88">1652.</a> Tu dle zpráv komisařů bylo ještě
 37 368 nekatolických poddaných, z nichž 10 817 osob uprchlo před komisí do ciziny.
 Na panstvích semilském, rohozeckém a maloskalském byli 4 <a id="694-548731">694</a> nekatolíci, z nichž uteklo 2 838 osob. Na Semilsku zavinil to hejtman panství <a id="hans-hendrych-hubryk-fb2559">Hans Hendrych Hubryk</a> z Hendrschtorfu. Před příchodem missionářu a reformační komise svolal rychtáře a konšely ze všech 33 vesnic panství a dal
-je zavříti. Jakmile se to rozhlásilo uprchlo téměř všechno ostatní obyvatelstvo v počtu 1 300 lidí do lesů a ciziny. Někteří vrátili se potom dobrovolně, jiní byli od vojáků schytáni, nazpět přivedeni
-
-
-a zavřeni. Avšak přílišný útěk z pohraničí a žaloby kurfirsta saského že ani jeho poddaní se neušetřují byly příčinou že dne 6. dubna <a id="1652-207f88">1652</a> vydána zvláštní resoluce, aby reformační komise v místech pohraničních vykonávala úkol svůj bez vojska a bez exekuce jen po dobrém. Následkem toho mnozí,
+je zavříti. Jakmile se to rozhlásilo uprchlo téměř všechno ostatní obyvatelstvo v počtu 1 300 lidí do lesů a ciziny. Někteří vrátili se potom dobrovolně, jiní byli od vojáků schytáni, nazpět přivedeni a zavřeni. Avšak přílišný útěk z pohraničí a žaloby kurfirsta saského že ani jeho poddaní se neušetřují byly příčinou že dne 6. dubna <a id="1652-207f88">1652</a> vydána zvláštní resoluce, aby reformační komise v místech pohraničních vykonávala úkol svůj bez vojska a bez exekuce jen po dobrém. Následkem toho mnozí,
 kdož před příchodem komise prchli, vraceli se domů, avšak ještě dlouho pracováno, než víru katolickou přijali. Např. do vsi Olešnice vrátilo se 12 sedláku jimž vrchnost navarovská grunty znova prodala a je na 10 let ode všech daní vrchnostenských osvobodila.
 V Semilech reformaci katolickou prováděl jezuita <a id="pavel-štefanides-66b1c5">Pavel Štefanides</a> z Jičína, jehož horlivým společníkem byl pater <a id="jan-spansberger-25b9b1">Jan Spansberger.</a> Ti v l. <a id="1646-e4873a">1646</a> – 60 bez pomoci vojenské v okolí 11 464 osoby ku katolictví přivedli. Vzláště františkáni z Turnova později po mnohá desetiletí navštěvovali zdejší
 okolí, aby víra katolická zapustila v lidu kořeny a nebyla jen na oko.
@@ -510,7 +479,9 @@ R. <a id="1848-7385db">1848</a> měla naše obec 732 obyvatelů.
 R. <a id="1850-8c3039">1850</a> zemřeli na <a id="cholera-c8c074">choleru</a> <a id="jan-večerník-a27252">Jan Večerník</a> č. <a id="61-7f39f8">61,</a> <a id="josef-večerník-1fdbf4">Josef Večerník</a> č. <a id="39-d67d8a">39</a> a <a id="jan-karlas-761508">Jan Karlas</a> č. <a id="91-54229a">91</a>
 R. <a id="1858-d7fd11">1858</a> zakoupila obec č. <a id="49-f457c5">49</a> od <a id="antonín-slavík-4fc746">Antonína Slavíka</a> za 700 zl. pro školu.
 R. <a id="1866-19de10">1866</a> byla <a id="válka-bfccd5">válka</a> PruskoRakouská.
-R. <a id="1868-c164bb">1868</a> byla doba metingu. Pronásledování české národnosti. Ve Stanově byli největší rebelové v okolí. Odepřeli placení daní a měli tam po dvakráte vojsko na exekuci. I. setnina 8 dní II. Prapor
+R. <a id="1868-c164bb">1868</a> byla doba metingu. 
+
+Pronásledování české národnosti. Ve Stanově byli největší rebelové v okolí. Odepřeli placení daní a měli tam po dvakráte vojsko na exekuci. I. setnina 8 dní II. Prapor
 čtyři neděle. Byli to husaři. Konečně však raději zaplatili neb s vojáky nebylo k vydržení. Předáci v tomto hnutí byli: <a id="čeněk-zeman-36a1be">Čeněk Zeman</a> č. <a id="1-c4ca42">1</a> Stanov. <a id="františek-žanta-8689ca">Franc Žanta</a> č. <a id="6-167909">6,</a> <a id="antonín-zeman-f920a3">Antonín Zeman</a> č. <a id="9-45c48c">9.</a> všichni ze Stanova. (První jest můj praděd) a <a id="josef-slavík-76a4f4">Josef Slavík</a> ze Staré Vsi č. <a id="60-072b03">60.</a>
 Též zpívali zakázané písně k vůli čemuž byl <a id="trest-cff246">trestán</a> <a id="vězení-9eb76f">vězením</a> <a id="františek-bouzek-9063aa">Franc Bouzek</a> č. <a id="65-fc490c">65.</a> Podávám zde tři verše písně _Nešťastný týden_, jíž on hrál.
 
@@ -681,28 +652,29 @@ Dne 26. července t. r. byl ve Staré Vsi na pozemku č. <a id="16-c74d97">16</a
 
 
 **Obec zástupitelstvo r. 1918**
+
 <a id="václav-večerník-a9ecb2">Václav Wečerník</a> č. <a id="39-d67d8a">39</a> starosta
 
 <a id="františek-kvarda-1ed026">Frant. Kvarda</a> č. <a id="73-d2ddea">73</a> rádní
 
 <a id="josef-hladík-ab82c6">Josef Hladik</a> č. <a id="35-1c383c">35</a> rádni
+
 <a id="antonín-wečernik-749c86">Anton Wečernik</a> č. <a id="76-fbd793">76</a> výbor
-
-
 
 <a id="václav-novák-4fa2e7">Václav Novák</a> č. <a id="44-f71771">44</a>
 
 <a id="františek-housa-f31931">Frant. Housa</a> č. <a id="21-3c59dc">21</a>
+
 <a id="čeněk-slavík-dec961">Čeněk Slavík</a> č. <a id="85-3ef815">85</a>
 
 <a id="františek-liška-568223">Frant. Liška</a> č. <a id="17-70efdf">17</a>
 
-
-
 <a id="josef-liška-f30842">Josef Liška</a> č. <a id="66-3295c7">66</a>
+
 <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="15-9bf31c">15</a>
 
 <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek</a> č. <a id="34-e36985">34</a>
+
 <a id="hynek-hlava-f5824b">Hynek Hlava</a> č. <a id="47-67c6a1">47</a>
 
 ### **Válka světová**
@@ -710,37 +682,46 @@ Dne 26. července t. r. byl ve Staré Vsi na pozemku č. <a id="16-c74d97">16</a
 Dne 26. července r. <a id="1914-07a4e2">1914</a> vypovědělo Rakousko Srbskému carovi válku. Vpoledne byla na lomenici č. <a id="62-44f683">62</a> přilepená mobilizační svolávací vyhláška mužstva do 37 let.
 Druhého dne odpoledne odešli tito každý kus svému regimentu. Od nás většinou do Jičína. Kteří tehdy odešli na vojnu byly tito:
 
-
-
 <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> rolník č. <a id="20-98f137">20.</a>
 
 <a id="františek-zeman-4b3842">Frant. Zeman</a> rolník č. <a id="84-68d30a">84.</a>
 
 <a id="josef-hladík-ab82c6">Josef Hladík</a> rolník č. <a id="35-1c383c">35.</a>
+
 <a id="františek-svatý-74869a">Frant. Svatý</a> mlynář č. <a id="40-d64592">40.</a>
+
 <a id="vilém-polouprutský-877f7e">Vilém Polouprutský</a> č. <a id="28-33e75f">28.</a>
+
 <a id="františek-housa-f31931">Fr. Housa</a> rolník č. <a id="75-d09bf4">75.</a>
 
 <a id="jindřich-matura-619517">Jindřich Matura</a> č. <a id="78-35f4a8">78.</a>
+
 <a id="bohumil-polouprutský-01dde9">Bohumil Polouprutský</a> č. <a id="25-8e296a">25.</a>
+
 <a id="františek-soukup-2e6a7b">Frant. Soukup</a> rolník č. <a id="53-d82c8d">53.</a>
+
 <a id="františek-šmíd-dd68ce">Frant. Šmíd</a> rolník č. <a id="46-d9d4f4">46.</a>
 
 <a id="ladislav-vodseďálek-0b8509">Ladislav Vodseďálek</a> č. <a id="9-45c48c">9.</a>
 
-
-
 <a id="josef-janda-e4c793">Josef Janda</a> rolník č. <a id="80-f033ab">80.</a>
+
 <a id="františek-polouprutský-e22834">Fr. Polouprutský</a> pekař č. <a id="11-6512bd">11.</a>
+
 <a id="josef-přibyl-cb43e9">Josef Přibyl</a> truhlář č. <a id="60-072b03">60.</a>
+
 <a id="františek-novák-8834ba">Frant. Novák</a> dělník č. <a id="6-167909">6</a>
 
 <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> č. <a id="19-1f0e3d">19.</a>
 
 <a id="josef-kopal-5f96ff">Josef Kopal</a> dělník č. <a id="86-93db85">86.</a>
+
 <a id="karel-polák-578412">Karel Polák</a> pekař č. <a id="32-6364d3">32</a>
+
 <a id="josef-hladík-ab82c6">Josef Hladík</a> dělník č. <a id="52-9a1158">52.</a>
+
 <a id="josef-novák-475dbc">Josef Novák</a> mlynářský č. <a id="57-72b32a">57.</a>
+
 <a id="františek-leden-083d14">Frant. Leden</a> soustružník č. <a id="31-c16a53">31.</a>
 
 
@@ -749,17 +730,16 @@ Nevrátili se z nich tito: <a id="františek-svatý-74869a">Frant. Svatý,</a> <
 Hned druhého dne bylo v krámech všecko dražší a byl nedostatek soli. Vysocký farář <a id="josef-böhm-ee9c4d">Josef Böhm</a> kázal že Svatá <a id="válka-bfccd5">válka</a> začala. Ve čtrnácti dnech na to byla povolána druhá výzva do 42 let.
 Byli to:
 
-
-
 <a id="antonín-koldovský-88b47c">Antonin Koldovský</a> č. <a id="1-c4ca42">1.</a>
+
 <a id="jaroslav-hevák-256fac">Jaroslav Hevák</a> č. <a id="82-9778d5">82.</a>
 
 <a id="františek-novák-8834ba">Frant. Novák</a> dělník č. <a id="37-a5bfc9">37.</a>
 
-
-
 <a id="josef-liška-f30842">Josef Liška</a> švec č. <a id="66-3295c7">66.</a>
+
 <a id="antonín-šalda-285cda">Anton Šalda</a> č. <a id="72-32bb90">72.</a>
+
 <a id="jaroslav-šalda-951cc7">Jaroslav Šalda</a> č. <a id="72-32bb90">72</a>
 
 
@@ -779,6 +759,7 @@ R. <a id="1916-65fc52">1916</a> na podzim vzal ve Vysokém erár 2 zvony na pře
 V listopadu t. r. byly udány: <a id="marie-večerníková-2ba7ee">Marie Večerníková</a> č. <a id="20-98f137">20.</a> <a id="anežka-večerníková-d65e62">Anežka Večerníková</a> č. <a id="39-d67d8a">39</a> a <a id="františka-lišková-754c1b">Františka Lišková</a> č. <a id="17-70efdf">17</a> u c k okresního soudu od neznámého udáváče pro předražování másla. Když se odvolávali že berou co jim obchodnice dává byla i ona předvolaná před soud. Dostalo se to až ku krajskému soudu v Jičíně ale <a id="trest-cff246">trestány</a> nebyly.
 Mezitím se do <a id="válka-bfccd5">války</a> přidalo co spojenec Rakouska Bulharsko.
 O měsíci listopadu t. r. zemřel J. V. císař <a id="františek-josef-a3a7cc">Franz Josef</a> I. a nastoupil po něm Karel I.
+
 R. <a id="1916-65fc52">1916</a> byli nové žluté desetihaléře a železné dvacetihaléře.
 ### **Z roku 1915**
 
@@ -832,38 +813,49 @@ Dne 15. dubna <a id="1920-44968a">1920</a> byla veliká povodeň. Vlastně ledna
 Dne 17. března byl v naší vsi výkup bramborů a obilí pro erár <a id="františek-janda-fdc7e0">Frant. Janda</a> č. <a id="80-f033ab">80</a> byl pochválen že ten rok nejvíce dodal.
 Dne 27. března jsme poprvé vyjeli na pole.
 Dne 30. března sázel již <a id="václav-novák-4fa2e7">Václav Novák</a> č. <a id="44-f71771">44</a> brambory.
-Dne 2. dubna na Bílou sobotu odpoledne chtěli si na otce přijíti všecky báby z baráku poněvadž nepřišel příděl a oni byly as 2 dny bez chleba. Chtěla je védsti <a id="anna-polouprutská-141d72">Anna Polouprutská</a> č. <a id="11-6512bd">11.</a> Že když
+Dne 2. dubna na Bílou sobotu odpoledne chtěli si na otce přijíti všecky báby z baráku poněvadž nepřišel příděl a oni byly as 2 dny bez chleba. Chtěla je védsti <a id="anna-polouprutská-141d72">Anna Polouprutská</a> č. <a id="11-6512bd">11.</a> Že když nemají co jisti že se najedí u nás. Jakoby táta za to mohl. K tomu mají aprovisační komisi jenž se má starati o včasné dovezení mouky.
+V té komisi byli: 
+<a id="františek-šalda-5244f5">Fr. Šalda</a> č. <a id="72-32bb90">72</a> předseda
 
-
-nemají co jisti že se najedí u nás. Jakoby táta za to mohl. K tomu mají aprovisační komisi jenž se má starati o včasné dovezení mouky.
-V té komisi byli: <a id="františek-šalda-5244f5">Fr. Šalda</a> č. <a id="72-32bb90">72</a> předseda
 <a id="františek-polouprutský-e22834">Fr. Polouprutský</a> č. <a id="11-6512bd">11</a> vyd. listky
+
 <a id="josef-bouzek-3e34d8">Jos. Bouzek</a> č. <a id="65-fc490c">65</a> člen
+
 <a id="vilém-polouprutský-877f7e">Vilém Polouprutský</a> č. <a id="28-33e75f">28.</a>
+
 <a id="antonín-koldovský-88b47c">Ant. Koldovský</a> č. <a id="1-c4ca42">1</a> rozdělovač.
+
 On je popích pan Koldovský nemohla dočkati brzy li složí otec rychtářství. Ale <a id="antonie-nováková-73c8c7">Ant. Nováková</a> se s tím předem pochlubila. Otec se sebral a tomu revolučnímu výboru vynadal. Tak se již neodvážili.
+
 V poledne na to přivezli příděl 300 kg žitné mouky.
 Dne 9. dubna bylo v Jilemnici veliké vzbouření kvůli nepřivezení mouky na chléb. Hejtmana přinutili by se dobrovolně vzdal úřadu. On to slíbil, má to však učiniti.
-Dne 4. června zde byli nějací panáci ze Semil vybízejíce na upisování životní státní prémiové půjčky. Upsali na to: <a id="čeněk-housa-4a3288">Čeněk Housa</a> č. <a id="27-02e74f">27</a> 6000 K.
+Dne 4. června zde byli nějací panáci ze Semil vybízejíce na upisování životní státní prémiové půjčky. 
+
+Upsali na to: 
+
+<a id="čeněk-housa-4a3288">Čeněk Housa</a> č. <a id="27-02e74f">27</a> 6000 K.
 
 <a id="štěpán-hrádecký-fbe6f4">Štěpán Hrádecký</a> č. <a id="98-ed3d2c">98</a> 1000 K.
+
 <a id="josef-čermák-dac615">Jos. Čermák</a> č. <a id="93-98dce8">93</a> 2000 K.
+
 <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="15-9bf31c">15</a> 1000 K.
 
 <a id="karel-koldovský-1a1a51">Karel Koldovský</a> č. <a id="16-c74d97">16</a> 600 K.
+
 Dne 7. června ráno byl veliký mráz. V Semilech při Jizeře omrzly brambory. Dne 20. června stálo ve Věstníku pro zásobování lidu, o zabavení rostlin olejnatých. Mezitím i ohnice. Tak hloupé nebylo ani Rakousko.
 Dne 19. července vykradli neznámí <a id="zloděj-f8d6af">zlodějové</a> v Ruprechticích kostel. Vzali nějaká mešní roucha a kalichy.
 Dne 20. července přijelo do Tanvaldu vojsko kvůli Němcům kteří stávkovali a chtěli ….(německy, jiný rukopis, jedno slovo, nečitelné).
-Dne 29. července byl odhad majetků. Naše usedlost obhádnuta za 20 908 K.
-Čermákova č. <a id="93-98dce8">93</a> za 60 000 K.
+Dne 29. července byl odhad majetků. Naše usedlost obhádnuta za 20 908 K. Čermákova č. <a id="93-98dce8">93</a> za 60 000 K. Housová č. <a id="27-02e74f">27</a> za 161 000 K. Polouprutská č. <a id="19-1f0e3d">19</a> za 30 000 K.
 
-Housová č. <a id="27-02e74f">27</a> za 161 000 K.
+Obhájci byli: 
 
-Polouprutská č. <a id="19-1f0e3d">19</a> za 30 000 K.
-Obhájci byli: asistent z Berního referátu Beneš.
+asistent z Berního referátu Beneš.
+
 učitel <a id="josef-dlabola-756ebb">Josef Dlabola</a>
 
 <a id="václav-večerník-a9ecb2">Václav Večerník</a> č. <a id="39-d67d8a">39</a>
+
 <a id="františek-šalda-5244f5">Frant. Šalda</a> č. <a id="72-32bb90">72.</a>
 
 Dne 8. srpna ve Vysokém pouť. Ale mimo dvou perníkářských bud tam vysočtí páni nic nepustili. Přijel totiž do Vysokého velký pán. Bývalý ministr. předseda dr Karel kramář (vysocký rodák) a ten je nervósní.
@@ -873,19 +865,25 @@ Dne 15. srpna zvolení do obec. honeb. výboru: <a id="čeněk-slavík-dec961">�
 <a id="vilém-polouprutský-877f7e">Vil. Polouprutský</a> č. <a id="28-33e75f">28.</a>
 <a id="josef-bouzek-3e34d8">Josef Bouzek</a> č. <a id="65-fc490c">65.</a>
 Ode dne 22. srpna do 30. srpna v jedné túře pršelo. Lidem mnoho obilí zrostlo. Vzláště <a id="josef-čermák-dac615">Jos. Čermákovi</a> č. <a id="93-98dce8">93</a> mnoho pšenice nad Borovím.
-Dne 2. září byli odvedeni k vojsku ze St Vsi: <a id="ladislav-novák-29358c">Ladislav Novák</a> č. <a id="94-f4b9ec">94</a>
-<a id="františek-wečerník-d9150d">Frant. Wečerník</a> č. <a id="29-6ea9ab">29</a>
 
+Dne 2. září byli odvedeni k vojsku ze St Vsi: 
+
+<a id="ladislav-novák-29358c">Ladislav Novák</a> č. <a id="94-f4b9ec">94</a>
+
+<a id="františek-wečerník-d9150d">Frant. Wečerník</a> č. <a id="29-6ea9ab">29</a>
 
 <a id="petr-slavík-6944fb">Petr Slavík</a> č. <a id="85-3ef815">85</a>
 
 <a id="václav-ducháček-76ebe6">Václav Ducháček</a> č. <a id="49-f457c5">49</a>
 
 <a id="antonín-soukup-d875d1">Ant. Soukup</a> č. <a id="53-d82c8d">53</a>
+
 <a id="karel-čermák-e55a29">Karel Čermák</a> č. <a id="15-9bf31c">15</a>
+
 <a id="ludvík-čermák-cd0ab4">Ludvík Čermák</a> č. <a id="71-e2c420">71.</a>
 
 V tomto roce šla po číslech poprvé <a id="pavla-hýrková-d9ebf7">Pavla Hyrková</a> dříve majitelka č. <a id="4-a87ff6">4.</a> U nás byla 8 dní. U Soukupa č. <a id="53-d82c8d">53</a> pět dní. U Housů č. <a id="27-02e74f">27</a> byla 23 dní u Wečerníka č. <a id="39-d67d8a">39</a> sedm dní.
+
 Dne 1. září <a id="zloděj-f8d6af">zloději</a> a vrah Novotný z Benecká se dostal do č. <a id="57-72b32a">57</a> a ukradl jim hodně peněz a několikery hodinky. Potom ho chytili v Kuchelně při krádeží četníci. Mezi jiným se přiznal na krádež ve
 Staré Vsi a že jej tam poslal Matura. Dne 10. listopadu přišel pro Maturu ze Semil četník a odvedl ho ku krajskému soudu. Nedokázalo se však naň nic.
 ### **R. 1921**
@@ -925,7 +923,11 @@ Dne 4. září zemřel bývalý starosta, zakladatel hasičského sboru, vyznava
 <a id="františek-janda-fdc7e0">Frant. Janda</a> č. <a id="80-f033ab">80.</a>
 Dne 25. září sloužil držkovský čs farář Uher na louce za Krumpešti mši posvícenskou. Zároveň pohřeb <a id="josef-duchacek-aff848">Jos. Duchacka</a> šenkýře č. <a id="14-aab323">14.</a>
 Dne 27. října byla mobilisace zálohy narozených od r. <a id="1895-059fdc">1895.</a> Mělo se k válce s Maďarskem kamž přiletěl v aeroplánů bývalý císař Karel. Jenže jeho vojsko tam poraženo a on zajat a zavezen na ostrov Madeiru kdež r. <a id="1922-333222">1922</a> v dubnu zemřel.
-Ze Staré Vsi tehdy narukovali: <a id="karel-čermák-e55a29">Karel Čermák</a> č. <a id="15-9bf31c">15</a>
+
+Ze Staré Vsi tehdy narukovali: 
+
+<a id="karel-čermák-e55a29">Karel Čermák</a> č. <a id="15-9bf31c">15</a>
+
 <a id="petr-slavík-6944fb">Petr Slavík</a> č. <a id="85-3ef815">85</a>
 
 <a id="václav-novák-4fa2e7">Václav Novák</a> č. <a id="57-72b32a">57</a>
@@ -933,9 +935,13 @@ Ze Staré Vsi tehdy narukovali: <a id="karel-čermák-e55a29">Karel Čermák</a>
 <a id="otakar-novák-3f8684">Otakar Novák</a> č. <a id="44-f71771">44</a>
 
 <a id="antonín-soukup-d875d1">Anton Soukup</a> č. <a id="53-d82c8d">53</a>
+
 <a id="františek-hloušek-828a1b">Frant. Hloušek</a> č. <a id="95-812b4b">95</a>
+
 <a id="bohumil-čivrný-c42765">Bohumil Čivrný</a> č. <a id="64-ea5d2f">64.</a>
+
 Dne 5. listopadu zatkli četníci Aloise Nováka č. <a id="45-6c8349">45.</a> Byla u něj <a id="krádež-687541">kradená</a> bavlna z továrny Brunovi v Hamře. On jí od dělníků kupoval a pletl z ní punčochy. Přišli pro něho 4 jako pro Babinského.
+
 Dne 18. prosince bylo mnoho ledu a strašlivé povětří že museli lidé střechy držeti.
 ### **Oběti Války ze Staré Vsi r. 1914 – 1918**
 
@@ -979,13 +985,9 @@ Zde vyrážím otisk razítka nového tohoto úřadu jenž stálo 40 K.
 <a id="josef-housa-783a9f">Josef Housa</a> č. <a id="26-4e732c">26</a>
 <a id="antonín-koldovský-88b47c">Anton Koldovský</a> č. <a id="16-c74d97">16</a>
 <a id="františek-vedral-3a5d14">Franc Vedral</a> č. <a id="84-68d30a">84</a>
-
 <a id="františek-janda-fdc7e0">Frant. Janda</a> č. <a id="80-f033ab">80</a>
-
 <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> č. <a id="79-d1fe17">79</a>
-
 <a id="františek-kvarda-1ed026">Frant. Kvarda</a> č. <a id="73-d2ddea">73</a>
-
 <a id="václav-večerník-a9ecb2">Václav Wečerník</a> č. <a id="39-d67d8a">39</a>
 <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> č. <a id="20-98f137">20</a>
 
@@ -1000,7 +1002,6 @@ Zde vyrážím otisk razítka nového tohoto úřadu jenž stálo 40 K.
 <a id="adam-novák-904301">Adam Novák</a> č. <a id="76-fbd793">76</a>
 <a id="františek-čermák-1668f0">Franc Čermák</a> č. <a id="18-6f4922">18</a>
 <a id="josef-šmíd-ec9534">Josef Šmíd</a> č. <a id="40-d64592">40</a>
-
 <a id="františek-marek-77c61f">Franc Marek</a> č. <a id="73-d2ddea">73</a>
 <a id="václav-šmíd-197ae8">Václav Šmíd</a> č. <a id="41-3416a7">41</a>
 
@@ -1018,18 +1019,14 @@ Dne 4. dubna byli za naši ves odvedeni k vojsku: <a id="petr-čermák-cfae4d">P
 Dne 8. dubna zemřel <a id="jan-doležal-77d939">Jan Doležal</a> římskokatolický farář ve Zlaté Olešnici. Byl zpočátku při církve československé ale potom s ohledu chlebových její velký protivník. Otrávil prý se.
 Dne 11. dubna zastřelil otec na silnici psa <a id="františek-haas-01af4c">Frant. Haase</a> z Vysokého jenž byl podezřelý ze vztekliny.
 Dne 12. dubna <a id="1922-333222">1922</a> začali se stavěním sloupu pro elektrické vedení po vrších. Direkttion Vysoké – Spálov. Vysočtí svítili elektrikou již minulý rok a nyní toho vedení z Paničkovi továrny v Tanvaldě použili k vrtání při stavbě elektrárny pod Spalovem a jezu na Jizeře. Chtějí zavésti elektrický pohon a svícení v celé republice. To bude státi ohromný náklad a kdo to dá „sedláci“. A když chtějí
-svítit musejí to zaplatit ještě jednou. Ta Vysocká elektrika
+svítit musejí to zaplatit ještě jednou. Ta Vysocká elektrika někdy svítí někdy bliká.
 
-někdy svítí někdy bliká.
 Dne 27. dubna jsme poprvé vyjeli na pole.
 Dne 30. dubna v neděli přišel strašlivý liják s bouřkou a kroupami. Voda mnoho hliny na polí na polech sebrala. Nejvíc Vodseďálkovi č. <a id="9-45c48c">9.</a>
 Dne 6. května byl strašný mráz.
 Dne 13. května zemřeli: <a id="františek-housa-f31931">Frant. Housa</a> sedlák č. <a id="65-fc490c">65</a> a <a id="34-e36985">34</a> faktor koralář a <a id="františek-liška-568223">Frant. Liška</a> krejčí č. <a id="17-70efdf">17.</a>
 Housu kopl kůň a přirazil mu několik žeber a Liška zemřel na rakovinu žaludku. Pohřeb měli slavný obá najednou odpoledne 15. května. Když s Housem odjeli měl <a id="josef-novák-475dbc">Josef Novák</a> č. <a id="55-b53b3a">55</a> od vdovy
-nakázáno aby zamkl dům a pohlídal u něho. Když chtěl zamykati sliší ze síně: Nezamíkej, jsem tu
-
-
-a byl to jako hlas nebožtíka Housi. On mysle že někdo ještě ve stavení zůstal, ptá se kdo tam? ale žádná odpověď. Celý dům prošel ale nikde nikdo. Novák jest člověk věrohodný.
+nakázáno aby zamkl dům a pohlídal u něho. Když chtěl zamykati sliší ze síně: Nezamíkej, jsem tu a byl to jako hlas nebožtíka Housi. On mysle že někdo ještě ve stavení zůstal, ptá se kdo tam? ale žádná odpověď. Celý dům prošel ale nikde nikdo. Novák jest člověk věrohodný.
 Dne 25. května <a id="1922-333222">1922</a> jsme dokončili jarní práci.
 Dne 14. ho června Ruprechtická pouti přišel konečně dlouho čekáný dešť. Tráva na lukách jest již všecka vysmahlá, oves sežloutlý a jetele žádné.
 R. <a id="1922-333222">1922</a> vybízel vysocký farář Böhm své ovečky by něčím přispěli na muziku o Božím Těle. <a id="marie-palasová-c5b9aa">Marie
@@ -1059,9 +1056,7 @@ Konali ji <a id="jaroslav-ducháček-aa2e60">Jaroslav Ducháček</a> č. <a id="
 
 
 Dne 5. ledna poranil v Praze anarchista Šoupal ministra financí dra Aloise Rašína jenž zranění podlehl.
-15\. ledna koupil <a id="jan-šulc-fc9b24">Jan Šulc</a> z Vrchoviny u Nové Paky od Barušky Housové č. <a id="75-d09bf4">75</a> 1/8 usedlosti č. <a id="54-a684ec">54</a>
-
-za 21 200 K.
+15\. ledna koupil <a id="jan-šulc-fc9b24">Jan Šulc</a> z Vrchoviny u Nové Paky od Barušky Housové č. <a id="75-d09bf4">75</a> 1/8 usedlosti č. <a id="54-a684ec">54</a> za 21 200 K.
 
 16\. ledna byla ohromná sněhová vánice. 27. ledna zemřel po těžké nemoci <a id="josef-novák-475dbc">Josef Novák</a> podomní obchodník č. <a id="94-f4b9ec">94.</a>
 
@@ -1213,25 +1208,35 @@ Dne 31. srpna byla v č. <a id="14-aab323">14</a> schůze všech voličů všech
 1\. <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> rolník č. <a id="20-98f137">20.</a>
 
 2\. <a id="františek-polouprutský-e22834">František Polouprutský</a> faktor skla č. <a id="11-6512bd">11</a>
+
 3\. <a id="otakar-novák-3f8684">Otakar Novák</a> rolník č. <a id="44-f71771">44.</a>
 
 4\. <a id="václav-večerník-a9ecb2">Václav Wečerník</a> č. <a id="39-d67d8a">39.</a>
 
 5\. <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> hostinský č. <a id="14-aab323">14.</a>
+
 6\. <a id="františek-albrecht-240899">František Albrecht</a> mlynář č. <a id="40-d64592">40.</a>
+
 7\. <a id="miloslav-vodseďálek-3a0430">Miloslav Wodseďálek</a> zahradník č. <a id="10-d3d944">10</a>
 
 8\. <a id="josef-bouzek-3e34d8">Josef Bouzek</a> rolník č. <a id="65-fc490c">65</a>
 
 9\. <a id="kamil-vodseďálek-ea8e1f">Kamil Wodseďálek</a> zedník č. <a id="62-44f683">62.</a>
+
 10\. <a id="františek-šalda-5244f5">František Šalda</a> rolník č. <a id="72-32bb90">72.</a>
 
 11\. <a id="jan-petruška-364a5c">Jan Petruška</a> stavbvedoucí č. <a id="18-6f4922">18.</a>
+
 12\. <a id="josef-hladík-ab82c6">Josef Hladík</a> rolník č. <a id="35-1c383c">35.</a>
+
 13\. <a id="melichar-honák-8f3468">Melichar Honák</a> chalupník č. <a id="12-c20ad4">12.</a>
+
 14\. <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> rolník č. <a id="19-1f0e3d">19.</a>
+
 15\. <a id="františek-wodseďálek-8b11ec">František Wodseďálek</a> hos. pomocník č. <a id="23-37693c">23.</a>
+
 16\. <a id="antonín-štěpánek-f387a6">Antonín Štěpánek</a> rolník č. <a id="22-b6d767">22</a>
+
 17\. <a id="antonín-vitvar-7b08af">Antonín Vitvar</a> rolník č. <a id="77-28dd2c">77</a>
 
 18\. <a id="karel-polák-578412">Karel Polák</a> chalupník č. <a id="32-6364d3">32.</a>
@@ -1257,6 +1262,7 @@ Dne 2. října přišla bouřka a po ní liják a 13. října bylo krásně ale 
 
 
 Dne 17. října v neděli večír ve schůzi ob. výboru zvoleni do místní finanční komise
+
 <a id="václav-večerník-a9ecb2">Václav Wečerník</a> č. <a id="39-d67d8a">39</a>
 
 <a id="františek-albrecht-240899">Frant. Albrecht</a> č. <a id="40-d64592">40</a>
@@ -1266,49 +1272,65 @@ Dne 17. října v neděli večír ve schůzi ob. výboru zvoleni do místní fin
 <a id="josef-wodseďálek-a251ca">Jos. Wodseďálek</a> č. <a id="9-45c48c">9</a>
 
 <a id="oldřich-vodseďálek-62507c">Oldřich Wodseďálek</a> č. <a id="83-fe9fc2">83</a>
+
 <a id="josef-čermák-dac615">Jos. Čermák</a> č. <a id="95-812b4b">95.</a>
+
 a usneseno věnovati na stavbu pomníku <a id="jan-amos-7d3cd8">Jana Amose</a> Komenského v Amsterodámu 20 K a Okr.
 péči o mládež 50 Kč.
 Dne 17. t. m. jsme sklidili dumlíky. Přišel déšť se sněhem. Bylo ještě veliké množství bramborů ko pati a ve Vysokém, Tříči, Sklenařicích a Pasekách měli ovsi a otavi na mnoze státi. Tak <a id="josef-patočka-a97815">Josef Patočka</a> jinak Tomášů největší sedlák ze Sklenařic sklidil pouze 14. mandel nezrostlého ovsa. Též
 mnoho šešele bylo státi i položeného a zrostlého. U nás měli však oves stati jen Bratři Housové č. <a id="27-02e74f">27.</a> Jinak měli: Wečerník č. <a id="20-98f137">20</a> směsku v panákach, Čermák č. <a id="93-98dce8">93</a> směsku v kůpách a pšenici v panákach. <a id="josef-janda-e4c793">Josef Janda</a> č. <a id="80-f033ab">80</a> oves v mandelích. Bouzek č. <a id="65-fc490c">65</a> oves položený na zemi. Polouprutský č. <a id="28-33e75f">28</a>
 směsku v kůpách. Polouprutský č. <a id="19-1f0e3d">19</a> šešel (jetel na semínko) státi. Kvarda č. <a id="73-d2ddea">73.</a> Hladík č. <a id="35-1c383c">35</a> Slavík zrovna tak. Novák č. <a id="44-f71771">44</a> jiřici v panákach. Koldovský č. <a id="16-c74d97">16</a> otavu státi.
 Dne 19. října jsme sklidili z Kopce směsku, mokrou a přes týden jsme ji měli rozestavenu na mlatě a vrata zotvíraná, aby ji profoukalo.
+
 Dne 26. října ráno byl nalezen kříž pod Hainovi jenž svého času vystavěti dal <a id="josef-pátek-88aa34">Josef Pátek</a> č. <a id="45-6c8349">45</a> i s kamenem převrácený a kříž železný přeražený a také socha sv. Jana z Pomuku za Vysokým převalena. Tohle druhé nic není, ale kříži měl dáti každý pokoj.
+
 Dne 27. t. m. byl po dlouhé době krásný den a teplo jako v letě a na den Svobody 28. října jsme dokončili polní práci.
+
 Dne 1. listopadu na den všech svatých ve Vysokém byla čsl mše a po ní průvod na hřbitov. Předtím byl průvod katolický z 15ti hudebníky. Farář Böhm povídal že je zvědav kolik jich s tím kacířem
 (čsl. farář) půjde. Myslel že hudba strhne i všechny čechoslováky do jeho průvodu a zatím jich šlo i s hudebníky 30 a čsl. průvod byl ve čtyřstupu od chrámu až na hřbitov a hudba když odbyla řin (?)
 průvod šla hráti československému.
-Toho dne jsme zasazovali nový žentour nákladem 2 175 K od firmy <a id="josef-ripl-b33e43">Jos. Ripl</a> Jilemnice. Mimo nás mají tento rok nové žentoury tito sedláci: <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> č. <a id="19-1f0e3d">19</a>
+Toho dne jsme zasazovali nový žentour nákladem 2 175 K od firmy <a id="josef-ripl-b33e43">Jos. Ripl</a> Jilemnice. Mimo nás mají tento rok nové žentoury tito sedláci: 
+
+<a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> č. <a id="19-1f0e3d">19</a>
 
 <a id="antonín-štěpánek-f387a6">Antonín Štěpánek</a> č. <a id="22-b6d767">22</a>
+
 <a id="otakar-novák-3f8684">Otakar Novák</a> č. <a id="44-f71771">44</a>
 
 a minulý rok měl nový žentour <a id="františek-zeman-4b3842">František Zeman</a> č. <a id="84-68d30a">84</a> a v roce <a id="1921-9f6992">1921</a> <a id="josef-vodseďálek-970bd1">Josef Wodseďálek</a> č. <a id="54-a684ec">54</a> a <a id="josef-hladík-ab82c6">Josef
 Hladík</a> č. <a id="35-1c383c">35.</a>
 
-Dne 2. listopadu zde byl od Berní správy vykonávatel zabavení pro nezaplacené daně za r. <a id="1922-333222">1922</a> u těchto sedláků: <a id="františek-housa-f31931">František Housa</a> č. <a id="26-4e732c">26</a>
+Dne 2. listopadu zde byl od Berní správy vykonávatel zabavení pro nezaplacené daně za r. <a id="1922-333222">1922</a> u těchto sedláků: 
 
+<a id="františek-housa-f31931">František Housa</a> č. <a id="26-4e732c">26</a>
 
 <a id="františek-lánský-5e9337">Frant. Lánský</a> č. <a id="42-a1d0c6">42</a> faktor koral. <a id="stanislav-hous-6f656b">Stanislav Housa</a> č. <a id="74-ad61ab">74</a>
 
 odhad 3 000 K <a id="pavla-maturová-763770">Pavlína Maturová</a> č. <a id="78-35f4a8">78.</a> 803 K kůň
 
 <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> č. <a id="19-1f0e3d">19</a> vůl odhad 1500 K.
+
 <a id="karel-koldovský-1a1a51">Kar Koldovský</a> č. <a id="16-c74d97">16</a> 566 K jalovice
+
 <a id="josef-bouzek-3e34d8">Josef Bouzek</a> č. <a id="65-fc490c">65</a> <a id="1-c4ca42">1</a> 859 K kráva a jalovice
+
 <a id="vilém-polouprutský-877f7e">Vil Polouprutský</a> č. <a id="28-33e75f">28</a> <a id="267-eda80a">267</a> K kráva za 1 500 kg.
+
 Dne 4. listopadu vysekávali bratři Čeněk a <a id="josef-housa-783a9f">Josef Housa</a> č. <a id="27-02e74f">27</a> dvacetři let starého vola jehož museli poraziti poněvadž onemocněl následkem nažrání mokrého ovsa. Maso z něho ač dlouho vařené bylo
-tvrdé k nerozkousání. Ještě jim však mnoho masa zůstalo neb mnozí členové Spolku pro ochranu
-
-
-majitele padlého dobytka pro maso nepřišli, jako <a id="josef-wodseďálek-a251ca">Jos. Wodseďálek</a> č. <a id="9-45c48c">9</a> a <a id="josef-wodseďálek-a251ca">Jos. Wodseďálek</a> č. <a id="59-093f65">59</a> z čehož se zase mnoho členů od spolku odtrhlo. Tak učinili <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> č. <a id="22-b6d767">22.</a> <a id="josef-palas-0107c1">Jos. Palas</a> č. <a id="33-182be0">33</a> a <a id="josef-hladík-ab82c6">Jos. Hladík</a>
+tvrdé k nerozkousání. Ještě jim však mnoho masa zůstalo neb mnozí členové Spolku pro ochranu majitele padlého dobytka pro maso nepřišli, jako <a id="josef-wodseďálek-a251ca">Jos. Wodseďálek</a> č. <a id="9-45c48c">9</a> a <a id="josef-wodseďálek-a251ca">Jos. Wodseďálek</a> č. <a id="59-093f65">59</a> z čehož se zase mnoho členů od spolku odtrhlo. Tak učinili <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> č. <a id="22-b6d767">22.</a> <a id="josef-palas-0107c1">Jos. Palas</a> č. <a id="33-182be0">33</a> a <a id="josef-hladík-ab82c6">Jos. Hladík</a>
 č. <a id="35-1c383c">35,</a> <a id="václav-večerník-a9ecb2">Václ. Wečerník</a> č. <a id="39-d67d8a">39.</a> <a id="františek-kvarda-1ed026">Frant. Kvarda</a> č. <a id="73-d2ddea">73.</a> <a id="františek-zeman-4b3842">Frant. Zeman</a> č. <a id="89-764796">89</a> a <a id="josef-čermák-dac615">Josef Čermák</a> č. <a id="93-98dce8">93.</a>
+
 Dne 8. listopadu koupil <a id="rudolf-slavík-ec9460">Rudolf Slavík</a> švec že Smidar za 8 000 K od <a id="anna-polouprutská-141d72">Anny Polouprutské</a> její domek č. <a id="25-8e296a">25</a> bývalou to pazdernou Čermáková statku. Ten den zůstalo poprvé bílo.
+
 V prosinci se tak nic památného nestalo jen že byla závějemi zaražená celoroční autobusová doprava Semily = Vysoké = Jablonec n. Jiz. = Grünthal z čehož nastal ve Vysokém náramný zármutek.
 
 Na Svátek Božího narození byla taková vánice že nikdo nemohl na krok a čsl. farář <a id="františek-dokopil-649ece">Frant. Dokopil</a> jenž jel na saních ze Zlaté Olešnice do Vysokého byl větrem třikráte se saněmi převalen.
-V tom roce byly zde tito faktoři navleku koral: Milosl. Wodseďálek č. <a id="10-d3d944">10</a>
+V tom roce byly zde tito faktoři navleku koral: 
+
+Milosl. Wodseďálek č. <a id="10-d3d944">10</a>
+
 <a id="františek-polouprutský-e22834">Frant. Polouprutský</a> č. <a id="11-6512bd">11</a>
+
 <a id="alois-housa-0c5442">Alois Housa</a> č. <a id="21-3c59dc">21</a>
 
 <a id="otakar-novák-3f8684">Otakar Novák</a> č. <a id="44-f71771">44</a>
@@ -1318,7 +1340,9 @@ V tom roce byly zde tito faktoři navleku koral: Milosl. Wodseďálek č. <a id=
 <a id="bohuslav-novák-3f87fc">Bohuslav Novák</a> č. <a id="57-72b32a">57</a>
 
 <a id="antonín-novotný-2bc2ce">Ant. Novotný</a> č. <a id="63-03afdb">63</a>
+
 <a id="josef-bouzek-3e34d8">Josef Bousek</a> č. <a id="65-fc490c">65</a>
+
 <a id="josef-liška-f30842">Josef Liška</a> č. <a id="66-3295c7">66</a>
 
 Stan. Houska č. <a id="74-ad61ab">74</a>
@@ -1326,6 +1350,7 @@ Stan. Houska č. <a id="74-ad61ab">74</a>
 <a id="františek-chlum-66e864">Frant. Chlum</a> č. <a id="79-d1fe17">79.</a>
 
 V tom roce byla taková spousta koral a navlek šel tak jako nikdy před tím.
+
 Toho roku jich zemřelo ve Staré Vsi 7 a narodilo se jich 4.
 Do domovského svazku obcí byli přijati: <a id="štěpán-hrádecký-fbe6f4">Štěpán Hrádecký</a> č. <a id="94-f4b9ec">94</a> a <a id="emanuel-zákoutský-f38133">Emanuel Zákoutský</a> č. <a id="31-c16a53">31</a> a v jiných obcích byli přijati: <a id="ludvík-liška-a07e75">Ludvík Liška</a> z č. <a id="63-03afdb">63</a> do Sklenařic. <a id="josef-štadlík-118e85">Josef Štadlík</a> z č. <a id="73-d2ddea">73</a> do Škvrňan u Plzně.
 <a id="emanuel-liška-8d483a">Emanuel Liška</a> z č. <a id="11-6512bd">11</a> do Tříče.
@@ -1341,10 +1366,15 @@ hlavu ukradl a ještě si ji vzal do nové loktuše.
 
 
 Dne 1. ledna <a id="1924-b139e1">1924</a> bylo velmi krásné počasi. Potom as dva týdny byly strašné mrazi. Jinovatka byla až ve sklepích a lidem brambory namrzli. Také <a id="františka-nováková-e4cc6b">Františce Novákové</a> č. <a id="50-c0c7c7">50</a> zmrzla koza.
+
 Dne 12. a 13. t. m.bylo krásně a teplo že se až včely rojily. Dvanáctého večer pomazal neznámý pachatel u Kristiána Čermáka č. <a id="71-e2c420">71</a> všechna okna záchodovinou. Rovněž tak u Františky Slavíková č. <a id="98-ed3d2c">98.</a>
+
 Dne 13 t. m. v neděli večer v č. <a id="20-98f137">20</a> schůze míst. honebního výboru jehož členy jsou:
+
 <a id="čeněk-slavík-dec961">Čeněk Slavík</a> č. <a id="85-3ef815">85</a> předseda
+
 <a id="františek-soukup-2e6a7b">Frant. Soukup</a> č. <a id="53-d82c8d">53</a>
+
 <a id="josef-bouzek-3e34d8">Josef Bouzek</a> č. <a id="65-fc490c">65</a>
 
 
@@ -1352,6 +1382,7 @@ Willém Polouprutský č. <a id="28-33e75f">28</a> za příčinou zda by se nemo
 <a id="františek-zeman-4b3842">Františka Zemana</a> č. <a id="84-68d30a">84</a> z r. <a id="1922-333222">1922).</a> I usneseno poslati po všech společnících honitby oběžník zda s tím srozumění jsou. Jediný <a id="františek-housa-f31931">František Housa</a> č. <a id="26-4e732c">26</a> se podepsal proti tomů a <a id="josef-čermák-dac615">Jos. Čermák</a> č. <a id="93-98dce8">93</a> jenž
 také pro to nebyl ale chtěl zůstati nestranný a proto se vůbec nepodepsal. Obchůzku onu vykonal
 <a id="jaroslav-večerník-b04539">Jaroslav Wečerník</a> č. <a id="20-98f137">20.</a>
+
 Dne 17. t. m.v 8 hod. večer v č. <a id="20-98f137">20</a> schůze obecního zástupitelstva.
 
 
@@ -1419,9 +1450,14 @@ Dne 18. ledna ujednáno o koupi domu č. <a id="51-283802">51</a> bývalé tu Kl
 Občan <a id="františek-bouzek-9063aa">František Bouzek</a> prodal Obci Stará Ves svůj domek č. <a id="51-283802">51</a> a veškeré pozemky k němu náležející, celkově 4 906 a za cenu 22 500 K. Slovy dvacetdvatisícpětsetkorun beze všech břemen se všemi právy do úplného vlastnictví.
 Prodávající žádá, aby mu byla povolena lhůta k obývání do konce května <a id="1924-b139e1">1924</a> ale zároveň dává k pohotovosti jednu místnost za světnici, kdyby Obec tu samou pro svůj jakýkoliv účel
 hned potřebovala.
-Ve Staré Vsi dne 18. ledna roku <a id="1924-b139e1">1924.</a> Kupující zástupci obce
+Ve Staré Vsi dne 18. ledna roku <a id="1924-b139e1">1924.</a> 
+
+Kupující zástupci obce
+
 Prodávající <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> mp starosta
+
 <a id="františek-bouzek-9063aa">František Bouzek</a> mp* <a id="kamil-vodseďálek-ea8e1f">Kamil Wodseďálek</a> mp
+
 <a id="františa-bouzková-4cc826">Františka Bouzková</a> mp <a id="jan-petruška-364a5c">Jan Petruška</a> mp
 
 
@@ -1443,10 +1479,10 @@ Dne 23. t. m. konala se v č. <a id="20-98f137">20</a> schůze obecního zastupi
 Jednomyslně aby na zaplacení onoho domku se peníze vypůjčili u některých soukromníků
 ve Staré Vsi. Jestliže by tito nepůjčili tedy na
 Okr. hosp záložny ve Vysokém a sice obnos
-19 000 K. Dále potřebné peníze se vyberou:
-1 000 K od chudého ústavu a 2 000 K od obce
+19 000 K. 
 
-a na výlohy při zápise ony peníze z myslivosti.
+Dále potřebné peníze se vyberou:
+1 000 K od chudého ústavu a 2 000 K od obce a na výlohy při zápise ony peníze z myslivosti.
 
 
 **Usnesení**
@@ -1473,10 +1509,16 @@ Koldovského</a> č. <a id="1-c4ca42">1</a>
 
 
 
-Dne 30. t. m. konala se ona vyše jmenovaná sbírka. Sebralo se 89 K. Nejvíce dali: <a id="františek-slavík-c9ac8f">Františka Slavíková</a> č. <a id="98-ed3d2c">98</a> <a id="10-d3d944">10</a> K. <a id="josef-soukup-006cf6">Josef Soukup</a> č. <a id="53-d82c8d">53</a> <a id="5-e4da3b">5</a> K a <a id="miloslav-wodseďálek-577a9e">Mil. Wodseďálek</a> č. <a id="10-d3d944">10</a> <a id="5-e4da3b">5</a> K. Ten samý den vybírala rada starších církve ČS členské příspěvky: Jsou to <a id="jan-petruška-364a5c">Jan Petruška</a> č. <a id="18-6f4922">18</a>
+Dne 30. t. m. konala se ona vyše jmenovaná sbírka. Sebralo se 89 K. 
+
+Nejvíce dali: <a id="františek-slavík-c9ac8f">Františka Slavíková</a> č. <a id="98-ed3d2c">98</a> <a id="10-d3d944">10</a> K. <a id="josef-soukup-006cf6">Josef Soukup</a> č. <a id="53-d82c8d">53</a> <a id="5-e4da3b">5</a> K a <a id="miloslav-wodseďálek-577a9e">Mil. Wodseďálek</a> č. <a id="10-d3d944">10</a> <a id="5-e4da3b">5</a> K. Ten samý den vybírala rada starších církve ČS členské příspěvky: Jsou to 
+
+<a id="jan-petruška-364a5c">Jan Petruška</a> č. <a id="18-6f4922">18</a>
 
 <a id="františek-polouprutský-e22834">Fr. Polouprutských</a> č. <a id="11-6512bd">11</a>
+
 <a id="antonín-novotný-2bc2ce">Ant. Novotný</a> č. <a id="63-03afdb">63.</a>
+
 Všichni zaplatili jen <a id="františek-novák-8834ba">Fr. Novák</a> č. <a id="87-c7e124">87</a> a Bratří Housové č. <a id="27-02e74f">27,</a> né.
 
 
@@ -1574,13 +1616,17 @@ Dne 5. března jmenovala okresní správní komise ve Vysokém pro smírčí sou
 
 Tento týden již přiletěli špačci ale pro takovou spoustu sněhu zde ovšem nezůstali.
 Dne 7. t. m.měl ve Vysokém na sále v radnici bohoslužbu čs. biskup Gustav Procházka z Turnova. Návštěva ohromná. Na letošní rok jsou ve vysocké čs radě starších za Starou Ves tito:
+
 <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a>
+
 <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> č. <a id="20-98f137">20</a>
 
 <a id="antonín-wečerník-1265a6">Ant. Wečerník</a> č. <a id="76-fbd793">76</a>
 
 <a id="jan-petruška-364a5c">Jan Petruška</a> č. <a id="18-6f4922">18</a>
+
 <a id="františek-polouprutský-e22834">Fr. Polouproutský</a> č. <a id="11-6512bd">11</a>
+
 <a id="antonín-novotný-2bc2ce">Ant. Novotný</a> č. <a id="63-03afdb">63</a>
 
 
@@ -1599,16 +1645,18 @@ Dne 21. t. m.večer byla u Kvardů schůze míst. organizace zemědělců. Proml
 totiž obědnali dohromady. <a id="františek-zeman-4b3842">Frant. Zeman</a> č. <a id="84-68d30a">84</a> <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="15-9bf31c">15</a> <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a> <a id="václav-večerník-a9ecb2">Václ. Wečerník</a> č. <a id="39-d67d8a">39</a> společný secí stroj. Poněvadž byla pro zdejší ves určena subvence Zemědělskou radou 800
 K požádali o ni. <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> č. <a id="19-1f0e3d">19</a> a <a id="josef-hladík-ab82c6">Josef Hladík</a> první co předseda a druhý co jednatel
 Hospodářského spolku onu žádost potvrdili aníž členové spolku co věděli neboť před tím ve schůzi se nikdo o tu subvenci na zakoupení stroje nepřihlásil a ti čtyři vzpoměli až po schůzi. I dozvěděl se to v jaké jsi Okresní schůzi <a id="františek-soukup-2e6a7b">Fr. Soukup</a> č. <a id="53-d82c8d">53</a> a po odchodu řečníka se s tím vytasil a začal viniti
-činovníky spolku i bývalé ze všelijakých podvodu. To se rozumí že byli hned obvinění vzhůru,
+činovníky spolku i bývalé ze všelijakých podvodu. 
 
-
-z účastníků utvořili se dvě strany a div že na <a id="bitva-246ecf">bitvu</a> nedošlo. Pan Soukup měl spojence: bratra Josefa č. <a id="53-d82c8d">53,</a> tchána <a id="josef-novák-475dbc">Josefa Nováka</a> č. <a id="43-17e621">43</a> a jeho syna Josefa. <a id="otakar-novák-3f8684">Otakara Nováka</a> č. <a id="44-f71771">44</a> <a id="antonín-vitvar-7b08af">Antonína Vitvara</a> č. <a id="77-28dd2c">77</a>
+To se rozumí že byli hned obvinění vzhůru,z účastníků utvořili se dvě strany a div že na <a id="bitva-246ecf">bitvu</a> nedošlo. Pan Soukup měl spojence: bratra Josefa č. <a id="53-d82c8d">53,</a> tchána <a id="josef-novák-475dbc">Josefa Nováka</a> č. <a id="43-17e621">43</a> a jeho syna Josefa. <a id="otakar-novák-3f8684">Otakara Nováka</a> č. <a id="44-f71771">44</a> <a id="antonín-vitvar-7b08af">Antonína Vitvara</a> č. <a id="77-28dd2c">77</a>
 a <a id="vilém-polouprutský-877f7e">Viléma Polouprutského</a> č. <a id="28-33e75f">28.</a> Na druhé straně byli: Bratří Čermákové č. <a id="15-9bf31c">15</a> a <a id="93-98dce8">93.</a> bratranci Wečerníkové č. <a id="20-98f137">20</a> a <a id="39-d67d8a">39,</a> Zeman, Hladík, <a id="josef-janda-e4c793">Josef Janda</a> č. <a id="80-f033ab">80</a> a <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="93-98dce8">93</a> mladý. A tak měli sousedé ze schůze jen jeden na druhého zlost. O Soukupovi se dozvěděli ti ostatní co to ještě nevěděli jaký on
 je chlapík a pan Soukup se dozvěděl že lidé jeho kousky vědí. To jest třetí.
+
 Dne 25. t. m.dopoledne na radníci ve Vysokém byla informační porada o soustavné elektrisaci obcí zdejšího okresu na níž přednášel tajemník elektrárenského svazu inženýr <a id="emanuel-hrubý-e3c393">Emanuel Hrubý</a>
 z Hradce Králové. Dostaviti se měli zástupcové obcí a všichni kdož by na tom měli zájem. Od nás byly pouze <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> starosta a <a id="miloslav-vodseďálek-3a0430">Mil. Vodseďálek</a> výbor. Myslím že to vyznělo naprázdno.
+
 Dne 27. t. m.přišlo <a id="josef-čermák-dac615">Josefu Čermákovi</a> z Jablonce z nádraží aviso na 3 pytle sušených tresek (hrušek??) od <a id="ladislav-šolc-20c463">Ladislava Šolce</a> ze Starého Kladna a on chudák nic neobědnával. Že to patřilo jemu bylo vyděti ze správnosti adresy a z čísla domů.
 Dne 28. t. m.byl udán Aloisem Novákem <a id="františek-zeman-4b3842">Fr. Zeman</a> proto že prý týral krávu. To jest ovšem pravda ale ona nechtěla jít ač unavena nebyla. Zároveň někdo udal <a id="františek-janoušek-bf1684">Fr. Janouška</a> nájemníka č. <a id="98-ed3d2c">98</a> pro ne oprávněné provozování živnosti krejčovské. To jest čtvrté a páté.
+
 Dne 5. dubna přišlo J. Čermákovi aviso na 2 bedny švýcarského sýra od fi. <a id="jindřich-freund-0dd4a0">Jindř. Freund</a> Olomouc IV.
 
 Dne 11. dubna aviso na peří od fi. <a id="benedikt-sachsel-6a270f">Benedikt Sachsel</a> Lobzy u Plzně. Potom za dva dny oznamuje firma, <a id="jaroslav-šašek-05a3e7">Jar. Šašek</a> že p. J. Čermákovi objednaných 100 kg sazenic cibule zaslati nemůže neb jsou vyprodány. Potom ještě od kterési fi. na Královských Winohradech peří a zase od jiné fi. 300 kusu
@@ -1623,13 +1671,16 @@ Co se týče o nich mladistvých osob jenž byly v Maškarní zábavě byly vysl
 Dne 7. dubna vykonávali <a id="josef-soukup-006cf6">Josef Soukup</a> č. <a id="53-d82c8d">53</a> a <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek</a> č. <a id="54-a684ec">54</a> sbírku pro Masarikovu Ligu proti tuberkulose a vybrali 12 K
 Dne 11. t. m.odbýval se ve Vysokém odvod branců staroveských. Odvedeni ze čtvrnácti: Jaroslav syn Čeňka Wečerníka č. <a id="20-98f137">20,</a> Frant. syn Emanuele Zákoutského č. <a id="31-c16a53">31</a> a Ludvik syn <a id="josef-berka-ae8c9d">Josefa Berky</a>
 z Turnova potomek Berku z č. <a id="19-1f0e3d">19.</a> Za obec Poniklou odveden o dva dni později v Jilemnici zde v č. <a id="77-28dd2c">77</a> bydlící Frant. syn <a id="františek-jancák-8e0fdb">Františka Jancáka</a> z Poniklé č. <a id="143-903ce9">143.</a>
-Dne 12. t. m.byl překrásný den ale mrazivo a druhý den na Květnou neděli bylo tolik sněhu napadaného a před tím již nebyl žádný a taková vánice se strhla jako o Vánocích. Byl to následek bouřky dne 9. t. m.neb po bouřce se vždy udělá zima. Podle ustanovení ministerstva vnitra podle
-§ 1. zákona ze dne 14. dubna <a id="1920-44968a">1920</a> čís. 266 a podle § 1 vládního nařízení ze dne 25. srpna <a id="1921-9f6992">1921</a> čis. 324 sbírka zák a nař stanoveny názvi obcí místo:
+Dne 12. t. m.byl překrásný den ale mrazivo a druhý den na Květnou neděli bylo tolik sněhu napadaného a před tím již nebyl žádný a taková vánice se strhla jako o Vánocích. Byl to následek bouřky dne 9. t. m.neb po bouřce se vždy udělá zima. 
 
+Podle ustanovení ministerstva vnitra podle § 1. zákona ze dne 14. dubna <a id="1920-44968a">1920</a> čís. 266 a podle § 1 vládního nařízení ze dne 25. srpna <a id="1921-9f6992">1921</a> čis. 324 sbírka zák a nař stanoveny názvi obcí místo:
 
 Stanov je nyní Stanový
+
 Ruprechtice Roprachtice nyní Roprachtice
+
 Olešnice Navarrovská nyní Zlatá Olešnice Navarovská
+
 Olešnice Semilská nyní Zlatá Olešnice Semilská.
 
 
@@ -1664,9 +1715,7 @@ Jinak Starý Procházka.
 **1889** <a id="josef-kobr-b58788">Josef Kobr</a> majitel 1/2 usedlosti č. <a id="77-28dd2c">77</a> narozen 25. 10. <a id="1838-d76575">1838</a> zvaný <a id="josef-brňák-7532dd">Josef Brňáků.</a>
 
 
-František Polouprutský poddruh č. <a id="23-37693c">23</a> bývalý domkař č. <a id="88-2a38a4">88</a> zvaný <a id="františek-mladší-ea8e6c">Franc Mladšu</a> nar.
-
-17\. 11. <a id="1818-f5c3dd">1818.</a>
+František Polouprutský poddruh č. <a id="23-37693c">23</a> bývalý domkař č. <a id="88-2a38a4">88</a> zvaný <a id="františek-mladší-ea8e6c">Franc Mladšu</a> nar. 17\. 11. <a id="1818-f5c3dd">1818.</a>
 
 
 **1884** František Bouzek sedlák č. <a id="65-fc490c">65</a> nar. v Ruprechticích 4. 10. <a id="1824-2647c1">1824.</a> Zemřel 25. 2. <a id="1884-f0fcf3">1884</a> zvaný
@@ -1691,9 +1740,7 @@ Karlasovi.</a>
 soudu v Jičíně.
 
 
-František Šalda bývalý domkař č. <a id="3-eccbc8">3</a> narozen 15. 7. <a id="1807-1f1baa">1807</a> oběsil se u syna Františka č. <a id="13-c51ce4">13</a>
-
-r. 10. 10. <a id="1886-c366c2">1886.</a>
+František Šalda bývalý domkař č. <a id="3-eccbc8">3</a> narozen 15. 7. <a id="1807-1f1baa">1807</a> oběsil se u syna Františka č. <a id="13-c51ce4">13</a> r. 10. 10. <a id="1886-c366c2">1886.</a>
 
 
 
@@ -1728,9 +1775,7 @@ Tento byl svého času vzorný hospodář a povozník. Jezdil vysockým kupcům 
 <a id="josef-šmída-adbb44">Josefu Šmídovi</a> č. <a id="30-34173c">30</a> při výrobě řezaček. Roku <a id="1889-681485">1889</a> nešly koraly a on se utrápil dlouhou chvíli roku 2. 7. <a id="1889-681485">1889.</a>
 
 
-František Kvarda majitel 1/2 č. <a id="77-28dd2c">77</a> narozen <a id="1861-f9d115">1861</a> v Poniklé. Přiženil se do Staré Vsi ku Anně dceři <a id="josef-kobr-b58788">Josefa Kobra.</a> S ním měla zároveň pohřeb Anna vdova po <a id="františek-bouzek-9063aa">Fr. Bouzkovi</a> č. <a id="65-fc490c">65.</a> Zemřel
-
-23\. 12. <a id="1889-681485">1889.</a>
+František Kvarda majitel 1/2 č. <a id="77-28dd2c">77</a> narozen <a id="1861-f9d115">1861</a> v Poniklé. Přiženil se do Staré Vsi ku Anně dceři <a id="josef-kobr-b58788">Josefa Kobra.</a> S ním měla zároveň pohřeb Anna vdova po <a id="františek-bouzek-9063aa">Fr. Bouzkovi</a> č. <a id="65-fc490c">65.</a> Zemřel 23\. 12. <a id="1889-681485">1889.</a>
 
 
 **1890** František Žanta sedlák č. <a id="15-9bf31c">15</a> jinak prý Přidana nar. v č. <a id="26-4e732c">26</a> ve Stanově r. 5. 4. <a id="1815-f0bbac">1815.</a> Zemřel
@@ -1829,9 +1874,7 @@ Dobrý hospodář ale přivedl se do dluhu hlavně studiemi syna Antonína.
 z nichž koupil pole od Marková statku a na roztočtě a postavil stodolu.
 
 
-František Rolc švec č. <a id="1-c4ca42">1</a> naroz. 1. 8. <a id="1828-4496bf">1828</a> zemřel 20. 12. <a id="1898-11f524">1898</a> na krvácení do mozku. Velmi
-
-vzteklý člověk. Bývalý granátník.
+František Rolc švec č. <a id="1-c4ca42">1</a> naroz. 1. 8. <a id="1828-4496bf">1828</a> zemřel 20. 12. <a id="1898-11f524">1898</a> na krvácení do mozku. Velmi vzteklý člověk. Bývalý granátník.
 
 
 **1899** Antonín Wodseďálek chalupník a zahradník č. <a id="10-d3d944">10</a> jinak <a id="antonín-stara-2edfe9">Tonda Staru.</a> První spirita na okolí.
@@ -1845,14 +1888,10 @@ Narozen 21. 2. <a id="1841-e8dfff">1841</a> v č. <a id="87-c7e124">87</a> zemř
 
 
 Josef Slavík chalupník č. <a id="92-92cc22">92</a> bývalý sedlák č. <a id="36-19ca14">36.</a> Pro svou pomalost a velkou postavu nazván
-Váha Petru do č. <a id="92-92cc22">92</a> se přiženil k Marii vdově po <a id="jáchimu-tulachovi-d28467">Jáchimu Tulachovi.</a> Nar. 26. 5. <a id="1841-e8dfff">1841</a> zemřel
-
-29\. 9. <a id="1901-d54e99">1901.</a>
+Váha Petru do č. <a id="92-92cc22">92</a> se přiženil k Marii vdově po <a id="jáchimu-tulachovi-d28467">Jáchimu Tulachovi.</a> Nar. 26. 5. <a id="1841-e8dfff">1841</a> zemřel 29\. 9. <a id="1901-d54e99">1901.</a>
 
 
-**1902** Vít Novák jinak <a id="vít-klepáč-1c866b">Vit Klepáčů</a> u chalupník a krejčí č. <a id="51-283802">51</a> naroz. 20. 6. <a id="1824-2647c1">1824</a> v č. <a id="28-33e75f">28</a> zemřel
-
-17\. 8. <a id="1902-fc4ddc">1902.</a>
+**1902** Vít Novák jinak <a id="vít-klepáč-1c866b">Vit Klepáčů</a> u chalupník a krejčí č. <a id="51-283802">51</a> naroz. 20. 6. <a id="1824-2647c1">1824</a> v č. <a id="28-33e75f">28</a> zemřel 17\. 8. <a id="1902-fc4ddc">1902.</a>
 
 
 **1903** Antonín Polouprutský jinak Tonda chalupskej tesař č. <a id="90-861398">90</a> zemř. na souchotiny 17. 3. <a id="1903-944626">1903</a> narozen 21. 2. <a id="1852-eb1e78">1852.</a> Též se rád napil.
@@ -1887,9 +1926,7 @@ se dne 19. 6. <a id="1904-c91591">1904</a> ve stodole již sám vystavěl oběsi
 **1905** Jan Kobr domkař č. <a id="56-9f6140">56</a> jinak Honzíček naroz. 1. 11. <a id="1849-cd63a3">1849</a> v č. <a id="77-28dd2c">77.</a> Zemřel 30. 12. <a id="1905-73e0f7">1905</a> na plicní nemoc viz o něm č. <a id="36-19ca14">36.</a>
 
 
-**1906** Josef Wodseďálek či Skalák majitel 1/2 usedlosti č. <a id="54-a684ec">54</a> zemřel 9. 11. <a id="1906-dea9dd">1906.</a> Na souchotiny
-
-narozen 4. 9. <a id="1852-eb1e78">1852.</a>
+**1906** Josef Wodseďálek či Skalák majitel 1/2 usedlosti č. <a id="54-a684ec">54</a> zemřel 9. 11. <a id="1906-dea9dd">1906.</a> Na souchotiny narozen 4. 9. <a id="1852-eb1e78">1852.</a>
 
 
 **1907** Antonín Wečerník zedník a chalupník č. <a id="92-92cc22">92</a> naroz. 2. 2. <a id="1868-c164bb">1868</a> v č. <a id="20-98f137">20</a> zemřel na souchotiny od pití kořalky 27. 9. <a id="1907-77369e">1907.</a>
@@ -1952,9 +1989,7 @@ z toho bylo hodně smíchu. nar. 15. 8. <a id="1831-e0ab53">1831</a> zemřel 14.
 Josef Polouprutský chalupník a zedník č. <a id="89-764796">89</a> čili Krumeš. Narozen 16. 10. <a id="1849-cd63a3">1849.</a> A že nebyla ve válce kořalka tak se 1. 6. <a id="1915-b432f3">1915</a> oběsil na domě u řezačky.
 
 
-František Svatý mlynář č. <a id="40-d64592">40</a> naroz. 21. 2. <a id="1877-f31b20">1877</a> zemřel ve válce v Polsku raněn byv do nohy
-
-30\. 9. <a id="1915-b432f3">1915.</a>
+František Svatý mlynář č. <a id="40-d64592">40</a> naroz. 21. 2. <a id="1877-f31b20">1877</a> zemřel ve válce v Polsku raněn byv do nohy 30\. 9. <a id="1915-b432f3">1915.</a>
 
 
 **1915** Josef Novák nar. 14. 4. <a id="1875-7e9e34">1875</a> nemanželský syn <a id="anna-nováková-c86076">Anny Novákové</a> č. <a id="57-72b32a">57</a> Padl ve válce na straži u Poluzcicze na Dunajci 28. 9. <a id="1915-b432f3">1915.</a>
@@ -2046,10 +2081,7 @@ Od 1. října <a id="1920-44968a">1920</a> do 30. září <a id="1921-9f6992">19
 Roku <a id="1953-a38b16">1953</a> na Nový rok začalo pršet, pršelo druhý den a 3. slabě a v neděli mírně sněžilo kterýžto den odpoledne se zde přes noc přes ves z Novákova březí nad Krčoví a před Starovi na Pustinu brouchal sněhem jelen čtrnácterák.
 8\. ledna se projasnilo a začalo mírně mrznout ale druhý den zas už mžilo.
 11\. ledna prováděli: <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> soupis hospodář zařízení pro potřebuje JZD a skladováno: lehkých vozu 43, těžkých 18, saní 14, líhní na kuřata 1, pluhů 36, dvouradličných 6, bran železných 26, dřevěných 27, secích strojů 11, na mák 2, žacích strojů 12, odkládacích 6, voznic 20, mlatiček 12, čističky 3, řezaček 21, výfukových 6, sýtkových mlýnku 17, elektromotorů 25, benzinových 6, pračka na brambory 1, váh 27, rozparek 47, válců 3, plečky 21,
-rádýlek 28, šrotovníků 6, pařáku 9, stroj. dojení 1, pohrabáče potahové 3, ruční 23, krouhačky 24, chomoutů 12, volských 34, řemenů hnacích 40, lis na slámu 3, kopaček 10, kultivátoru 26. Na Malé
-
-
-Straně tento soupis dělali: <a id="josef-soukup-006cf6">Josef Soukup</a> ml. a <a id="jindřich-matura-619517">Jindřich Matura</a> ml. Při tomto soupisu nepřiznali:
+rádýlek 28, šrotovníků 6, pařáku 9, stroj. dojení 1, pohrabáče potahové 3, ruční 23, krouhačky 24, chomoutů 12, volských 34, řemenů hnacích 40, lis na slámu 3, kopaček 10, kultivátoru 26. Na Malé Straně tento soupis dělali: <a id="josef-soukup-006cf6">Josef Soukup</a> ml. a <a id="jindřich-matura-619517">Jindřich Matura</a> ml. Při tomto soupisu nepřiznali:
 <a id="věnceslav-vodseďálek-a50c44">Věnceslav Vodseďálek</a> elektromotor, Janoušek dřevěné brány a kopačku a Janda šrotovník.
 12\. ledna začalo trochu více mrznout, druhý den více a dál mrzlo silně celý týden a že bylo pod mrakem a mlha narostla jinovatka až 19. mrzlo mírněji ale zas se sypal sníh s větrem, 20. jasno
 a mráz zas přiostřil, 22. se sypalo a 23. foukanice. 27. spadlo mnoho sněhu do něhož následující den pršelo což trvalo až do konce ledna. Ten čas zde ve škole poučil zas <a id="petr-hnyk-4b9724">Petr Hnyk</a> z Vysokého za učitele Farského jenž byl u 8. nedělního voj. cvičení.
@@ -2061,9 +2093,10 @@ komíny: u <a id="františek-čermák-1668f0">Františka Čermáka</a> č. <a id
 
 Dne 27. dubna <a id="1924-b139e1">1924</a> v neděli celý den pršelo a odpoledne byla duha velmi zřetelná což bylo předzvěstí dlouhých dešťů jenž potom nastali. r. <a id="1917-cb79f8">1917</a> se vyjíždělo na poledne dne 5. května a zdálo se to hrozné a r. <a id="1924-b139e1">1924</a> si vyjelo 2. května ale mokro strašné že když jsme byli na poli dne 25. března bylo
 krásně sucho.
+
 Dne 4. května byla na obec. úřadě v č. <a id="20-98f137">20</a> schůze ob. výboru. 5. odstavec jednání byl: <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> starosta žádá slušně o dobrovolné propuštění z jeho úřadu poněvadž není zdráv a z rodinných důvodů.
-Usnesení: <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> se jednomyslně dobrovolně z jeho úřadu propouští a na jeho místo zvolen jest <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> č. <a id="14-aab323">14</a> druhý rádní. Ježto <a id="oldřich-ducháček-8cc292">Old Ducháček</a> volbu na starostu nepřijal
-konala se při nové schůzi v č. <a id="20-98f137">20</a> volba nového starosty za přítomnosti 11ti členů ob. zastup. a zvolen 10ti hlasi <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a> a jeden hlas měl <a id="oldřich-ducháček-8cc292">Oldřich Ducháček.</a> To se stalo dne 7. května večer a dne 23. t. m.přišel přípis od Okr. spr. polit. z Jilemnice že volba nového starosty a zřeknutí se
+
+Usnesení: <a id="čeněk-večerník-bc4dff">Čeněk Wečerník</a> se jednomyslně dobrovolně z jeho úřadu propouští a na jeho místo zvolen jest <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> č. <a id="14-aab323">14</a> druhý rádní. Ježto <a id="oldřich-ducháček-8cc292">Old Ducháček</a> volbu na starostu nepřijal konala se při nové schůzi v č. <a id="20-98f137">20</a> volba nového starosty za přítomnosti 11ti členů ob. zastup. a zvolen 10ti hlasi <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a> a jeden hlas měl <a id="oldřich-ducháček-8cc292">Oldřich Ducháček.</a> To se stalo dne 7. května večer a dne 23. t. m.přišel přípis od Okr. spr. polit. z Jilemnice že volba nového starosty a zřeknutí se
 starého vzato jest na vědomí.
 Dne 6. května jsme začali opravdu dělati na poli a dne 9. jsme seli první oves skoro 2 korce nad domem. Den předtím jsme u vláčení promokli na kůži a museli jsme utéci.
 Dne 12. května zemřel po rok trvající nemoci <a id="františek-kopal-61e42c">František Kopal</a> zedník a domkař č. <a id="86-93db85">86</a> rodák roztocký.
@@ -2077,20 +2110,24 @@ V tomto roce usnesla se rada starších CČS vystavěti svůj dům či sbor pro 
 A konali se sbírky při bohoslužbách a nakonec ujednáno, aby vždy dva členové rady starších v té každé vesnici přešli dům od domů kdo by co daroval neb půjčil na stavbu toho církevního domů.
 
 
-Ve Staré Vsi onu obchůzku vykonali dne 1. dubna <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> starosta a <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a> a vybralo se následující: A sice, kteří obnos darovali:
+Ve Staré Vsi onu obchůzku vykonali dne 1. dubna <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> starosta a <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a> a vybralo se následující: 
 
-
+A sice, kteří obnos darovali:
 
 <a id="josef-čermák-dac615">Josef Čermák</a> č. <a id="93-98dce8">93</a> 300 K
 
 Obec Stará Ves 100 K
+
 <a id="čeněk-housa-4a3288">Čeněk Housa</a> č. <a id="27-02e74f">27.</a> 100 K
+
 <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="15-9bf31c">15.</a> 100 K
+
 <a id="čeněk-slavík-dec961">Čeněk Slavík</a> č. <a id="85-3ef815">85.</a> 100 K
 
 <a id="miloslav-vodseďálek-3a0430">Mil. Vodseďálek</a> č. <a id="10-d3d944">10.</a> 100 K
 
 <a id="františek-polouprutský-e22834">Fr. Polouprutský</a> č. <a id="11-6512bd">11.</a> 100 K
+
 <a id="antonín-kobr-fac949">Antonin Kobr</a> č. <a id="77-28dd2c">77</a> <a id="50-c0c7c7">50</a> K
 
 <a id="antonín-večerník-c197f0">Antonin Večerník</a> č. <a id="76-fbd793">76.</a> 50 K
@@ -2100,6 +2137,7 @@ Obec Stará Ves 100 K
 <a id="alois-novák-2720e7">Alois Novák</a> č. <a id="45-6c8349">45.</a> 50 K
 
 <a id="antonín-novotný-2bc2ce">Ant. Novotný</a> č. <a id="63-03afdb">63.</a> 50 K
+
 <a id="josef-janda-e4c793">Josef Janda</a> č. <a id="80-f033ab">80.</a> 50 K
 
 <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> č. <a id="23-37693c">23.</a> 30 K
@@ -2107,13 +2145,17 @@ Obec Stará Ves 100 K
 <a id="václav-večerník-a9ecb2">Václ. Večerník</a> č. <a id="39-d67d8a">39.</a> 25 K
 
 <a id="jaroslav-večerník-b04539">Jar. Večerník</a> č. <a id="20-98f137">20.</a> 25 K
+
 <a id="františek-soukup-2e6a7b">Frant. Soukup</a> č. <a id="53-d82c8d">53.</a> 25 K
+
 <a id="františek-šmíd-dd68ce">Fr. Šmíd</a> č. <a id="30-34173c">30.</a> 25 K
 
 <a id="oldřich-ducháček-8cc292">Oldř. Ducháček</a> č. <a id="14-aab323">14.</a> 50 K
 
 <a id="kamil-vodseďálek-ea8e1f">Kam. Vodseďálek</a> č. <a id="62-44f683">62.</a> 25 K
+
 Štěp. Hrádecký č. <a id="94-f4b9ec">94.</a> 25 K
+
 <a id="jan-petruška-364a5c">Jan Petruška</a> č. <a id="18-6f4922">18.</a> 50 K
 
 <a id="františek-chlum-66e864">Fr. Chlum</a> č. <a id="79-d1fe17">79.</a> 25 K
@@ -2123,19 +2165,21 @@ Obec Stará Ves 100 K
 <a id="melichar-honák-8f3468">Mel. Honák</a> č. <a id="12-c20ad4">12.</a> 25 K
 
 <a id="marie-přibylová-cb092d">Marie Přibylová</a> č. <a id="60-072b03">60.</a> 50 K
+
 <a id="antonín-vitvar-7b08af">Ant. Vitvar</a> č. <a id="77-28dd2c">77.</a> 25 K
 
-
-
 <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> č. <a id="22-b6d767">22.</a> 25 K
+
 <a id="josef-kobr-b58788">Jos. Kobr</a> č. <a id="81-43ec51">81.</a> 25 K
 
 <a id="otakar-novák-3f8684">Otakar Novák</a> č. <a id="44-f71771">44.</a> 25 K
 
 <a id="hynek-hlava-f5824b">Hynek Hlava</a> č. <a id="47-67c6a1">47.</a> 25 K
+
 <a id="františek-zeman-4b3842">Frant. Zeman</a> č. <a id="84-68d30a">84.</a> 25 K
 
 <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="55-b53b3a">55.</a> 25 K
+
 <a id="ludmila-čermák-f0afc0">Ludmila Čermáková</a> č. <a id="74-ad61ab">74.</a> 25 K
 
 <a id="františek-hloušek-828a1b">Frant. Hloušek</a> č. <a id="95-812b4b">95.</a> 20 K
@@ -2149,11 +2193,13 @@ Obec Stará Ves 100 K
 <a id="barbora-housová-0f42dd">Bar. Housová</a> č. <a id="21-3c59dc">21.</a> 15 K
 
 <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> č. <a id="19-1f0e3d">19.</a> 10 K
+
 <a id="františek-liška-568223">Fr. Liška</a> č. <a id="17-70efdf">17.</a> 10 K
 
 Stan. Housa č. <a id="74-ad61ab">74.</a> 10 K
 
 <a id="oldřich-polouprutský-67d67c">Old. Polouprutský</a> č. <a id="58-66f041">58.</a> 10 K
+
 <a id="františek-šmíd-dd68ce">Fr. Šmíd</a> č. <a id="46-d9d4f4">46.</a> 10 K
 
 <a id="františek-slavík-c9ac8f">Fr. Slavík</a> č. <a id="48-642e92">48.</a> 10 K
@@ -2161,6 +2207,7 @@ Stan. Housa č. <a id="74-ad61ab">74.</a> 10 K
 <a id="anežka-ducháčková-973f9b">Anežka Ducháčková</a> č. <a id="49-f457c5">49.</a> 10 K
 
 <a id="antonín-syrovátka-dfe75d">Ant. Syrovátka</a> č. <a id="3-eccbc8">3.</a> 5 K
+
 <a id="josef-ducháček-10f93b">Jos. Ducháček</a> č. <a id="98-ed3d2c">98.</a> 5 K
 
 <a id="václav-novák-4fa2e7">Václav Novák</a> č. <a id="68-a3f390">68.</a> 5 K
@@ -2170,7 +2217,9 @@ Stan. Housa č. <a id="74-ad61ab">74.</a> 10 K
 <a id="rudolf-slavík-ec9460">Rudolf Slavík</a> č. <a id="25-8e296a">25.</a> 5 K
 
 <a id="františek-hradecký-62d58a">Fr. Hradecký</a> č. <a id="26-4e732c">26.</a> 5 K
+
 <a id="karolína-večerniková-834041">Karolina Večerniková</a> č. <a id="24-1ff1de">24.</a> 5 K
+
 <a id="barbora-čivrná-8d7bc3">Barbora Čivrná</a> č. <a id="64-ea5d2f">64.</a> 5 K
 
 
@@ -2183,6 +2232,7 @@ Po něm zvolen <a id="josef-liška-f30842">Jos. Liška</a> z Roprachtic.
 Dne 15. července jsme dosušili jetel.
 Dne 29. července když jsem šel z pobytí z č. <a id="77-28dd2c">77,</a> byl jsem právě asi pod Hájem najednou mi blýsklo do očí zelenavé světlo. Ohlédnu se a vidím. Od jihu k severu <a id="oheň-92b25a">ohnivý</a> zelená ví pruh. Když to
 zhaslo šel jsem dál a jsem asi nad Stráňkou zahučelo jako hrom.
+
 Dne 7. srpna jsme začali pokládati žito pod cestou. V tom čase svítila na východě planeta Mars která se přiblížila k zemi na 54 000 000 km proti obyčejné vzdálenosti 400 000 000 km a bylo jí jako
 červenou hvězdu dobře viděti.
 
@@ -2253,14 +2303,14 @@ strhli syrotci po vojínech s pomníku černou roušku která jej zakrývala. N�
 
 **Hrobům v dáli.**
 
-
 Mrtvý jsou.
+
 Nevrátili se.
 
-
-
 Jména vojínu na pomníku:
+
 <a id="josef-čermák-dac615">Jos. Čermák</a>
+
 <a id="josef-ducháček-10f93b">Jos. Ducháček</a>
 
 <a id="stanislav-hladík-78a7f5">Stanisl. Hladík</a>
@@ -2279,11 +2329,12 @@ Jména vojínu na pomníku:
 
 <a id="bohuslav-polouprutský-c7561f">Boh. Polouprutský</a>
 
-
-
 <a id="josef-polouprutský-403545">Jos. Polouprutský</a>
+
 <a id="josef-přibyl-cb43e9">Jos. Přibyl</a>
+
 <a id="františek-svatý-74869a">Frant. Svatý</a>
+
 <a id="václav-šmíd-197ae8">Václ. Šmíd</a>
 
 <a id="boh-vodseďálek-a7e897">Boh. Vodseďálek</a>
@@ -2298,37 +2349,57 @@ Jména vojínu na pomníku:
 
 
 Po odhalení byl koncert ale návštěva jak jsem už dříve napsal byla slabá. Příjem na pomník byl následující:
-Ze dvou zábav bylovybráno . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199 K 30 h
-Posvícenské zábavy r. <a id="1923-414e77">1923.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138 K
-Od josefa Čermáka č. <a id="93-98dce8">93.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .400 K
-Od Okresní hospodářské záložny . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .300 K
-Od <a id="františek-šmíd-dd68ce">Fr. Šmída</a> mlynáře z Pelhřimova při pohřbu jeho matky . . . . . . . . . . . . . . . . . . . . . . . .10 K.
-Od pohřbu <a id="václav-novák-4fa2e7">Václ. Nováka</a> výměník č. <a id="44-f71771">44</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .250 Kč
-Od <a id="lud-liška-17f6a5">Lud Lišky</a> ze Sklenařic bývalého majitele č. <a id="63-03afdb">63</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50 K
-Od hasičského výletu do Woceďálková háje r. <a id="1923-414e77">1923</a> . . . . . . . . . . . . . . . . . . . . . . . . . 585K 40 h
-Od O. Nováka č. <a id="44-f71771">44.</a> za dříví od výletu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60 K
-Od pohřbu Františky manželky <a id="františek-šmíd-dd68ce">Fr. Šmída</a> č. <a id="30-34173c">30</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .200 K
-Při svatbě <a id="václav-kraus-6165cc">Václ. Krause</a> a <a id="miloslava-havlíčková-d811d1">Mil. Havlíčkové</a> č. <a id="45-6c8349">45</a> vybrala nevěsta . . . . . . . . . . . . . . . . . . . .134 K
-Od <a id="anna-polouprutská-141d72">Anny Polouprutské</a> v Jeseném (býv č. <a id="25-8e296a">25)</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10 K
-Obec Stará Ves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 000 K
+Ze dvou zábav bylo vybráno . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199 K 30 h
 
-<a id="josef-vodseďálek-970bd1">Josef Vodseďálek</a> č. <a id="9-45c48c">9.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .200 K
-Božena vdova po Ladislavu Vodseďálkovi č. <a id="9-45c48c">9.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30 K
+Posvícenské zábavy r. <a id="1923-414e77">1923.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138 K
+
+Od josefa Čermáka č. <a id="93-98dce8">93.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .400 K
+
+Od Okresní hospodářské záložny . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .300 K
+
+Od <a id="františek-šmíd-dd68ce">Fr. Šmída</a> mlynáře z Pelhřimova při pohřbu jeho matky . . . . . . . . . . . . . . . . . . . . . . . .10 K.
+
+Od pohřbu <a id="václav-novák-4fa2e7">Václ. Nováka</a> výměník č. <a id="44-f71771">44</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .250 Kč
+
+Od <a id="lud-liška-17f6a5">Lud Lišky</a> ze Sklenařic bývalého majitele č. <a id="63-03afdb">63</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50 K
+
+Od hasičského výletu do Woceďálková háje r. <a id="1923-414e77">1923</a> . . . . . . . . . . . . . . . . . . . . . . . . . 585K 40 h
+
+Od O. Nováka č. <a id="44-f71771">44.</a> za dříví od výletu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60 K
+
+Od pohřbu Františky manželky <a id="františek-šmíd-dd68ce">Fr. Šmída</a> č. <a id="30-34173c">30</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .200 K
+
+Při svatbě <a id="václav-kraus-6165cc">Václ. Krause</a> a <a id="miloslava-havlíčková-d811d1">Mil. Havlíčkové</a> č. <a id="45-6c8349">45</a> vybrala nevěsta . . . . . . . . . . . . . . . . . . . .134 K
+
+Od <a id="anna-polouprutská-141d72">Anny Polouprutské</a> v Jeseném (býv č. <a id="25-8e296a">25)</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10 K
+
+Obec Stará Ves. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 000 K
+
+<a id="josef-vodseďálek-970bd1">Josef Vodseďálek</a> č.9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .200 K
+
+Božena vdova po Ladislavu Vodseďálkovi č. <a id="9-45c48c">9.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30 K
 
 
 Sbírka po obci:
+
 <a id="františek-hloušek-828a1b">Fr. Hloušek</a> velitel č. <a id="19-1f0e3d">19,</a> <a id="josef-ducháček-10f93b">Jos. Ducháček</a> č. <a id="98-ed3d2c">98</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .522 K
+
 <a id="bohuslav-bouzek-85b3ed">Boh. Bouzek</a> č. <a id="65-fc490c">65,</a> O. Novák č. <a id="44-f71771">44.</a> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .463 K
 
 
 Ze zábavi hasičů a spolku Snaha . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 307 K 80h
+
 Úroky z Hosp. záložny kdež bylo 1956 K 26 h. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 K 88 h
+
 Tak u nás vznikl pomník oběti <a id="válka-bfccd5">války</a> r. 1914–1919.
 
 
 Ceny ku konci r. <a id="1924-b139e1">1924.</a>
+
 Žito 1 kg za 1 K 80 h konečně až za 2 K 20 h. Oves 1 K 50 h. 1 q bramborů 60 K. Máslo 1 kg 24 K.
+
 Mléko 1l 2 K. Cukr 1 kg 5 K 10 h. Mouka 1 kg 3 K 70.
+
 Tohoto roku odbylo se i posviceni bez muziky a obiklé pranice.
 
 
@@ -2359,16 +2430,22 @@ Polouprutský</a> a <a id="františek-novák-8834ba">Frant. Novák.</a> <a id="p
 
 
 Dne 4. ledna <a id="1925-0950ca">1925</a> byl tak krásný teplý a slunečný čas že šly včely z úlu ven.
+
 Dne 6. března t. r. nastala pravidelná zima a mrazi se sněhem což nebylo od podzima.
+
 Dne 8. byla bouřka a po ní spadlo mnoho sněhu a ležel do 26. t. m. Na to den bylo beze sněhu a 29. zase mráz a sníh padal znovu.
+
 Dne 28. přišli z vojny dva staroveští vojáci Stanislav syn <a id="josef-kobr-b58788">Josefa Kobra</a> č. <a id="81-43ec51">81,</a> desátník u jízdy v Pardubicích, Frant. syn Emanuele Zákoutského č. <a id="31-c16a53">31</a> po 6 ti měsíční službě u 2. hraničářského praporu ve Vrchlabí a dne 30. třetí Jaroslav syn Čeňka Wečerníka bývalého starosty po 6 ti měsíční službě
 u Lehk. děl. pluků č. <a id="12-c20ad4">12</a> v Užhorodě na Podkarpatské Rusi.
+
 Dne 29. ve schůzi ob. zastup. u starosty <a id="josef-hladík-ab82c6">Josefa Hladíka</a> zvoleni jsou do nové místní školní rady:
 <a id="antonín-wečerník-1265a6">Ant. Wečerník</a> chalupník a truhlář č. <a id="76-fbd793">76.</a>
 <a id="karel-polák-578412">Karel Polák</a> chalupník a faktor skla č. <a id="32-6364d3">32.</a>
+
 Dne 1. a 2. dubna byla bouřka a stále krásné počasí takže jsme mohli dne 6. dubna vyjeti na pole.
 Ale dne 12. dubna na velkou neděli odpoledne přišel déšť a ukázala se duha. To předpověď delšího nepočasí. A skutečně pršelo až do 23. t. m. a nikdo neměl nic zasetého jen <a id="josef-hladík-ab82c6">Josef Hladík</a> starosta
 a <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> č. <a id="22-b6d767">22</a> měli zaseto všecko. Onen proto spěchal že měl jít dne 16. na čtrnáctidenní cvičení ve zbrani u pěšího pluků č. <a id="22-b6d767">22</a> v Jičíně.
+
 Dne 13. dubna na pondělí Velikonoční poprve vystoupila v taneční zábavě u Kvardu v tomto roce se utvořivší kapela staroveská. Sestávala t. č. z těchto hudebníků:
 <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> ze Stanová č. <a id="40-d64592">40.</a> kapelník <a id="bohuslav-žanta-9d359a">Boh. Žanta</a> ze Stanovat č. <a id="32-6364d3">32</a> trombon
 <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> Stará Ves č. <a id="23-37693c">23</a> viola. <a id="miloslav-vodseďálek-3a0430">Mil. Vodseďálek</a> z Vysokého č. <a id="95-812b4b">95</a> housle. <a id="josef-soukup-006cf6">Jos.
@@ -2376,7 +2453,8 @@ Soukup</a> ml. č. <a id="53-d82c8d">53</a> housle. <a id="františek-bouzek-906
 Petruška</a> č. <a id="18-6f4922">18</a> basa <a id="bohuslav-housa-c4a5f0">Boh. Housa</a> č. <a id="21-3c59dc">21</a> buben. <a id="josef-hojsák-67415b">Jos. Hojsák</a> Stanov č. <a id="14-aab323">14</a> housle. Stan. Kobr č. <a id="81-43ec51">81</a> trubka, <a id="františek-zákoutský-96653f">Fr. Zákoutský</a> č. <a id="31-c16a53">31</a> trubka <a id="josef-přibyl-cb43e9">Jos. Přibyl</a> č. <a id="60-072b03">60</a> trubka. <a id="jaroslav-novák-0c031a">Jar Novák</a> č. <a id="50-c0c7c7">50</a> trubka.
 Stan. Housa č. <a id="98-ed3d2c">98</a> housle.
 
-Dne 11. dubna vyhořela chalupa (v poledne) č. <a id="26-4e732c">26</a> ve Stanovém u Přidanu řečená. Majitel osmdesá tilety stařec <a id="františek-kučera-183dc7">Frant. Kučera</a> krejčí a čtyři dni vdovec. Z té chalupy byli staroveští sousedé <a id="antonín-žanta-0f7c41">Ant. Žanta</a> č. <a id="14-aab323">14</a> a <a id="františek-žanta-8689ca">Franc Žanta</a> č. <a id="15-9bf31c">15.</a> Proto v č. <a id="15-9bf31c">15</a> vřislotek (?) U Přidanu.
+Dne 11. dubna vyhořela chalupa (v poledne) č. <a id="26-4e732c">26</a> ve Stanovém u Přidanu řečená. Majitel osmdesátilety stařec <a id="františek-kučera-183dc7">Frant. Kučera</a> krejčí a čtyři dni vdovec. Z té chalupy byli staroveští sousedé <a id="antonín-žanta-0f7c41">Ant. Žanta</a> č. <a id="14-aab323">14</a> a <a id="františek-žanta-8689ca">Franc Žanta</a> č. <a id="15-9bf31c">15.</a> Proto v č. <a id="15-9bf31c">15</a> vřislotek (?) U Přidanu.
+
 Dne 16. dubna se před polednem <a id="kroupa-7d3aeb">kroupy</a> sypaly tak že se to hned tak nestane. Podle staré pranostiky mají se sypati <a id="kroupa-7d3aeb">kroupy</a> po prvním sypání za sto dnů. Tak to připadá na 24. července.
 Dne 17. dubna ráno bylo bílo a celý den se sipal sníh a byla taková fukeř že to ani v zimě nebývá.
 Dne 19. t. m. v neděli sehrál poprvé dramatický odbor Čtenářsko ochotnického spolku Snaha k Kvardově hostinci divadlo, jakousi frašku. Návštěva veliká a ze všech okolních obcí. Po divadle
@@ -2400,15 +2478,19 @@ Dne 12. t. m. měli soudní vyjednávání: <a id="antonín-kobr-fac949">Ant. Ko
 co žalované. Bratři Soukupové totiž zasázeli dne 21. dubna smrčím pozemek čís parc <a id="1242-2de5d1">1242,</a> bývalou to paseku na níž však od nepaměti žádný pořádný les nebyl. Pozemek ten jest několik kroků od
 č. <a id="77-28dd2c">77</a> a hraničí s pozemkem čís parc <a id="1247-e6d854">1247</a> <a id="antonín-kobr-fac949">Ant. Kobrovi</a> a <a id="antonín-vitvar-7b08af">Ant. Vitvarovi</a> t. č. náležejícím. Dole na břehu na hranici Soukupova pozemku jest od času pradávných pěšina až za Březi. Nahoře přes roh
 toho pozemku mají Kobrové od té doby co jejich stodola jest, pěšinu do ní. Soukupové obě ty pěšiny zasázeli a přes hoření dokonce, chtíce zabrániti chodění, natáhli kládu. Když se však u soudu dokázalo stáří pěšin, museli ovšem milou kládu uklidit a pěšiny nechati pěšinami.
+
 Dne 8. června jsme začali sušit seno a dosušili jsme ho pro stálé deště teprve dne 4. července.
 Dne 11. června o katolickém svátku Božího těla nebyli oltáře ve Vysokém na náměstí jako ještě loňského roku postaveny a průvod přišel jen kolem kostela. Jindy nosívali nebesa nad Nejsvětější
 Svátostí nebo nad farářem vysočtí hodnostáři ale t. r. ač katolíci se za takové komedie styděli a tak došlo nošení nebes na kohokoliv. Proto se té cti dostalo letos také ze Staré Vsi <a id="josef-palas-0107c1">Josefu Palasovi</a> starému.
 
 Večer toho dne v domě č. <a id="35-1c383c">35</a> schůze obecního zastupitelstva.
-Jednání: schválení účtu. <a id="bohuslav-novák-3f87fc">Bohuslav Novák</a> č. <a id="57-72b32a">57</a> žádá za povolení k dělání cihel na pozemku od obce spachtovaném. <a id="jaroslav-večerník-b04539">Jaroslav Večerních</a> č. <a id="20-98f137">20</a> vzdává se funkce obecního kronikáře. Ředitelství
-Odborné hospodářské školy ve Vysokém žádá o nějaký příspěvek na hospodyňský kurz.
-Usnesení: účty schváleny. Novákovi se ono povolení nedává. <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> otec dosavádního kronikáře jest požádán, aby svého syna přemluvil k dalšímu vedení kroniky a že se tato dle nařízení
-Okresní správy, do pořádku dá. Na hospodyňský kurz kterého žádná dívka z naší obce účastna není poskytne obec až podle jiných obcí.
+
+Jednání: schválení účtu. <a id="bohuslav-novák-3f87fc">Bohuslav Novák</a> č. <a id="57-72b32a">57</a> žádá za povolení k dělání cihel na pozemku od obce spachtovaném. <a id="jaroslav-večerník-b04539">Jaroslav Večerních</a> č. <a id="20-98f137">20</a> vzdává se funkce obecního kronikáře. 
+
+Ředitelství Odborné hospodářské školy ve Vysokém žádá o nějaký příspěvek na hospodyňský kurz.
+
+Usnesení: účty schváleny. Novákovi se ono povolení nedává. <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> otec dosavádního kronikáře jest požádán, aby svého syna přemluvil k dalšímu vedení kroniky a že se tato dle nařízení Okresní správy, do pořádku dá. Na hospodyňský kurz kterého žádná dívka z naší obce účastna není poskytne obec až podle jiných obcí.
+
 Dne 3. července
 
 Dne 4. t. m. odpoledne ve čtyři hodiny přišla zrovna průtrž mračen s velikou bouřkou. Cesty všechny hrnoucí se voda probrala a pole místy rovněž. Největší škodu udělalo <a id="františek-hous-166a03">Františku Housovi,</a>
@@ -2427,6 +2509,7 @@ Dne 12. t. m. v neděli odbývala se ve Staré Vsi Národní pouť na paměť od
 Dne 27. července jsme dosušili jetel a teprve dne 7. srpna jsme začali pokládati žito a ještě skoro zelené. Úhory ještě zruchané nebyli a lidé měli ještě dosti jetelu na polích.
 V noci ze dne 11. na 12. srpna po půlnoci přišla bouřka s hrozným lijákem a <a id="kroupa-7d3aeb">kroupami</a> které byly velikosti velkých třešní. Co měli lidé žitných panáků na polích vše bylo poraženo. Druhého dnes
 jsme dopoložili žito a hned 16. t. m. odvezli.
+
 Dne 1. září ruchal v Helkovicích rolník Kramářů úhor. Vedle šel soused Martinec s novou ručnici. A jak to bývá dali se do prohlížení nové zbraně jenž byla nabitá. Neopatrnosti Martincovou vyšla rána zrovna Kramářovu volovi do zadku. Co na jeho cenu řezník nedodal, musel Martinec doplatit.
 Dne 2. t. m. odbývala se v č. <a id="35-1c383c">35</a> schůze obecního výboru.
 
@@ -2434,9 +2517,7 @@ Dne 2. t. m. odbývala se v č. <a id="35-1c383c">35</a> schůze obecního výbo
 
 **Jednání**
 
-Volba komise na sestavení seznamu kmetů
-
-a porotců ku krajskému soudu v Jičíně.
+Volba komise na sestavení seznamu kmetů a porotců ku krajskému soudu v Jičíně.
 
 
 **Jednání**
@@ -2461,21 +2542,25 @@ Zvolení jsou:
 
 
 **Kmeti:**
+
 <a id="josef-čermák-dac615">Josef Čermák</a> č. <a id="93-98dce8">93</a>
+
 <a id="jan-petruška-364a5c">Jan Petruška</a> č. <a id="18-6f4922">18</a>
+
 <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> č. <a id="20-98f137">20</a>
+
 <a id="čeněk-housa-4a3288">Čeněk Housa</a> č. <a id="27-02e74f">27</a>
 
 <a id="václav-večerník-a9ecb2">Václav Večerník</a> č. <a id="39-d67d8a">39</a>
 
-
-
 <a id="antonín-kobr-fac949">Antonín Kobr</a> č. <a id="77-28dd2c">77</a>
 
 <a id="antonín-večerník-c197f0">Ant. Večerník</a> č. <a id="76-fbd793">76</a>
+
 <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="15-9bf31c">15</a>
 
 <a id="anna-polouprutská-141d72">Anna Polouprutská</a> č. <a id="11-6512bd">11</a>
+
 <a id="barbora-housová-0f42dd">Barbora Housová</a> č. <a id="21-3c59dc">21</a>
 
 
@@ -2486,30 +2571,34 @@ Zvolení jsou:
 <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> č. <a id="14-aab323">14</a>
 
 <a id="karel-koldovský-1a1a51">Karel Koldovský</a> č. <a id="16-c74d97">16</a>
+
 <a id="josef-palas-0107c1">Josef Palas</a> č. <a id="33-182be0">33</a>
+
 <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35</a>
+
 <a id="františek-šmíd-dd68ce">Frant. Šmíd</a> č. <a id="46-d9d4f4">46</a>
 
 <a id="františek-soukup-2e6a7b">Frant. Soukup</a> č. <a id="53-d82c8d">53</a>
-
-
 
 <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek</a> č. <a id="54-a684ec">54</a>
 
 Pavlina Svárovská č. <a id="23-37693c">23</a>
 
 <a id="anna-hrádecká-fecb2d">Anna Hrádecká</a> č. <a id="94-f4b9ec">94</a>
+
 <a id="žofie-albrechtová-844659">Žofie Albrechtová</a> č. <a id="40-d64592">40</a>
 
 <a id="barbora-housová-0f42dd">Baruška Housová</a> č. <a id="75-d09bf4">75</a>
 
 <a id="anna-zemanová-19f08f">Anna Zemanová</a> č. <a id="84-68d30a">84</a>
+
 <a id="julie-šmídová-b743aa">Julie Šmídová</a> č. <a id="30-34173c">30</a>
 
 
 
 Dne 9. že září při půlnoci cýtili lidé otřes země a hluk a potom přišla zpráva že na Kozákově pro
 7 korcu výměry pozemku s lesem do rokle sesulo.
+
 Dne 4. t. m. před polednem padaly kroupy, odpoledne byla bouřka a druhý den se trousil sníh a bylo ještě mnoho ovsa pokládati a rostl pro stálé deště ležatý i stojatý.
 Dne 18. září jsme sili první 3 věrtele žita v Kopci a toho samého dne odpoledne jsme dopoložili oves.
 Dne 21. září brali teprve stanovští sousedé <a id="petr-žanta-387402">Petr Žanta</a> č. <a id="6-167909">6</a> a <a id="petr-žanta-387402">Petr Žanta</a> č. <a id="32-6364d3">32</a> žito s pole a <a id="václav-zeman-183758">Václav
@@ -2521,19 +2610,21 @@ Dne 19. října zemřel ve Stanovým na Vartě <a id="františek-dlask-3a6ee3">F
 a navštěvovali s rohozeckou vrchností a on byl doživován z milosti dobrých lidí.
 Dne 11. října jsme dokopali brambory a polní práci jsme dokončili dne 29. října.
 Dne 28. října sloužil ve vysocké radnici na paměť národního osvobození dr. <a id="karel-farský-c7c759">Karel Farský</a> patriarcha C. Čs. slavnostním mši s promluvou.
+
 Dne 11. listopadu obdržel <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> č. <a id="19-1f0e3d">19</a> z nádraží z Jablonce aviso na 101 kg celeru od fi. <a id="josef-kimmer-8a0ad4">Jos. Kimmer</a> Bzenec, Morava a on ničeho neobjednal.
 Až potud bylo stále krásné počasi až do 12. zůstalo bílo a nastalo hrozné povětří až střechy tr halo.
 Dne 14. listopadu měl u starosty před četníkem výslech <a id="josef-šalda-e89e4f">Josef Šalda</a> 33 let starý syn <a id="františek-šalda-5244f5">Františka Šaldy</a> č. <a id="72-32bb90">72</a> skrze to že nějaká děvčata z Jeseného na Trhovici honil. Věc se ale nakonec tak nějak zababrala
 že z toho nevyšlo nic. Takové honby na ženské však jmenovaný mládenec provozoval již na dvacet let.
-Dne 15. t. m. odbývaly se volby do poslanecké sněmovny a senátu, najednou. U nás se odbý valy ve škole. Do sněmovny v učebně a do senátu v učitelově bytu. Všech voličů bylo: mužů 98 a žen 113.
+
+Dne 15. t. m. odbývaly se volby do poslanecké sněmovny a senátu, najednou. U nás se odbývaly ve škole. Do sněmovny v učebně a do senátu v učitelově bytu. Všech voličů bylo: mužů 98 a žen 113.
+
 Výsledek byl:
 Č. <a id="22-b6d767">22</a> Republikánská strana zemědělského lidu (sedláci)
+
 Do sněmovny 99 hlasů do senátu 93.
 Č. <a id="21-3c59dc">21</a> Čs. strana socialistická (Klofáč) do sněmovny 65 do senátu 50
 Č. <a id="20-98f137">20</a> Čs strana národně-demokratická (Kramář) do sněmovny 20 do senátu 17
-Č. <a id="8-c9f0f8">8</a> Živnostenské obchodnická strana středostavovská
-
-sněmovna 15 senát 10
+Č. <a id="8-c9f0f8">8</a> Živnostenské obchodnická strana středostavovská sněmovna 15 senát 10
 Č. <a id="26-4e732c">26</a> Čs. strana lidová (klerikálové)
 
 sněmovna 6 senát 7
@@ -2545,9 +2636,7 @@ sněmovna 6 senát 7
 
 sněmovna 1 senát 1
 Č. 27 Der politischen Partai Bund der landwirte und der Deutschen Gewerbepartei sněmovna 1 senát 2
-Č. <a id="28-33e75f">28</a> Strana Židovská
-
-sněmovna 1 senát 0
+Č. <a id="28-33e75f">28</a> Strana Židovská sněmovna 1 senát 0
 
 
 Jest to ostuda uvědomělé české obce že tu byly dány dva hlasy Němcům a jeden Židům. Ty dvě německé kandidátky asi nejspíše, jak se proslechlo, dala <a id="františek-slavík-c9ac8f">Františka Slavíková</a> č. <a id="98-ed3d2c">98</a> která má celou ves
@@ -2565,10 +2654,7 @@ Dne 21. dubna t. r. ujal <a id="stanislav-kvarda-38ca5e">Stanislav Kvarda</a> od
 ### **1926**
 
 
-26\. ledna <a id="1926-5103c3">1926</a> zemřela po krátké nemoci 26 let stará Božena dcera <a id="františek-novák-8834ba">Františka Nováka</a> č. <a id="37-a5bfc9">37</a> příslušnice Církve Čs. Pohřeb měla dne 29. t. m. odpoledne slavný. Na zpáteční cestě se mládenci i s družicemi a několika účastníky pohřbu a hudebníky zastavili v hospodě u Zemanů. Sněhu
-
-
-nebylo mnoho a přijel do Vysokého nějaký blázen v automobilu a tu ti kteří byli nejvíce v ráži jako mladý hostinský Kvarda, <a id="josef-kobr-b58788">Josef Kobr</a> Petrů a jeho synové mládenci Josef a Stanislav a další
+26\. ledna <a id="1926-5103c3">1926</a> zemřela po krátké nemoci 26 let stará Božena dcera <a id="františek-novák-8834ba">Františka Nováka</a> č. <a id="37-a5bfc9">37</a> příslušnice Církve Čs. Pohřeb měla dne 29. t. m. odpoledne slavný. Na zpáteční cestě se mládenci i s družicemi a několika účastníky pohřbu a hudebníky zastavili v hospodě u Zemanů. Sněhu nebylo mnoho a přijel do Vysokého nějaký blázen v automobilu a tu ti kteří byli nejvíce v ráži jako mladý hostinský Kvarda, <a id="josef-kobr-b58788">Josef Kobr</a> Petrů a jeho synové mládenci Josef a Stanislav a další
 mládenci, <a id="vít-martinec-ec1395">Vít Martinec</a> z Helkovic, <a id="františek-zákoutský-96653f">Frant. Zákoutský</a> a <a id="václav-novák-4fa2e7">Václav Novák</a> se od něho dali dovezti do hospody Ducháčkovi ve Staré Vsi a potom až ke Kvardovem a sebrali s sebou také vysockého
 policajta Špiku.
 Dne 3. února odpoledne spadl <a id="josef-čermák-dac615">Josef Čermák</a> ve stodole s patra a přerazil si dvě žebra vyležel s tím několik neděl.
@@ -2593,17 +2679,18 @@ Dne 30. března přišel <a id="františek-liška-568223">Frant. Liška</a> chal
 Dne 4. dubna Velikonoční pondělí večer sehráli na sále u Kvardů členové Snahy divadelní hru
 „Lešetínský kovář“. Kováře hrál <a id="miloslav-vodseďálek-3a0430">Miloslav Vodseďálek</a> z Vysokého. Druhý den večer schůze obecního zastupitelstva v domě č. <a id="35-1c383c">35</a> u Marku.
 Dne 13. dubna byl ze Staré Vsi uznán za schopna k voj. službě <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> č. <a id="49-f457c5">49</a> u 9. jezdeckého kluků ve Vysokém Mýtě z II. třídy.
+
 Dne 18. dubna byli: <a id="jan-petruška-364a5c">Jan Petruška</a> náměstek starosty, <a id="václav-večerník-a9ecb2">Václ. Večerník</a> rádní, <a id="oldřich-ducháček-8cc292">Oldřich Ducháček</a> II.
-rádní a <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> bývalý starosta zjistiti hranice mezi polem <a id="františek-zeman-4b3842">Frant. Zemana</a> č. <a id="84-68d30a">84</a> a drahou
-
-
-bratrů Housů č. <a id="27-02e74f">27</a> od domku č. <a id="88-2a38a4">88</a> z té příčiny že <a id="čeněk-housa-4a3288">Čeněk Housa</a> zruchal mez. Za pravdu dáno <a id="františek-zeman-4b3842">Fr.
+rádní a <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> bývalý starosta zjistiti hranice mezi polem <a id="františek-zeman-4b3842">Frant. Zemana</a> č. <a id="84-68d30a">84</a> a drahou bratrů Housů č. <a id="27-02e74f">27</a> od domku č. <a id="88-2a38a4">88</a> z té příčiny že <a id="čeněk-housa-4a3288">Čeněk Housa</a> zruchal mez. Za pravdu dáno <a id="františek-zeman-4b3842">Fr.
 Zemanovi</a> a č. Housa mez spravil.
 Den před tím byly po obci rozházeny nějaké plakáty hanlivého obsahu o <a id="karel-čermák-e55a29">Karlu Čermákovi</a> č. <a id="15-9bf31c">15.</a>
+
 Dne 19. dubna zatkli za přítomnosti rádního <a id="oldřich-ducháček-8cc292">Oldřicha Ducháčka</a> vysočtí četníci <a id="františek-soukup-2e6a7b">Františka Soukupa</a> na udání Josefi Vodseďálkové č. <a id="54-a684ec">54</a> že jí vyhrožoval <a id="zabití-67f9ca">zabitím</a> ale druhý den ho pustili. Potrestán však byl.
+
 Dne 21. dubna koupil <a id="františek-slavík-c9ac8f">František Slavík</a> č. <a id="48-642e92">48</a> v Turnově na trhu vola a dal se zase do obdělávání své usedlosti.
 
 Dne 27. dubna jsme jíž měli jarní práci mimo setí krmné směsi hotovou a to někteří sousedé v Dolenci měli o čtrnáct dni dříve. Třešně byly v plném květu a stále sucho a zima.
+
 Dne 9. května odpoledne jsme byli na pouti v Loukově já pisatel těchto řádků, <a id="josef-novák-475dbc">Jos. Novák</a> mladší č. <a id="43-17e621">43,</a> <a id="petr-slavík-6944fb">Petr Slavík</a> č. <a id="85-3ef815">85</a> a <a id="františek-kobr-88f09f">Frant. Kobr</a> č. <a id="77-28dd2c">77.</a> Když jsme přišli tam rozpršelo se a my nemohouce konce dočekati vypravili jsme se v dešti domů ale proti Rybnicim když jsme byli počal se sypati sníh
 a než jsme domů došli bylo jako v zimě. Každý si může představiti jak jsme vyhlíželi.
 Dne 12. května odbýval katolický biskup z Litoměřic ve Vysokém biřmováni. Každý biřmovanec od něho dostal 20 K.
@@ -2630,6 +2717,7 @@ Nepřátelství proti Večerníkům šlo tak daleko že <a id="františek-čerm�
 k dosluhování vojny. Dne 10. června v 10 hod. dopoledne se konalo u Čs. okresního soudu ve Vysokém soudní přelíčení při němž se obžalovaní přiznali beze všeho každý ku čtyřem fackám a vysvětlili proč se toho dopustili. Tím zmátli pana svědka tak že už ani nevěděl co a jak se stalo a jen že prý viděl takový chumel. Odsouzení byli pro přestupek proti bezpečnosti těla bezpodmínečně
 k 98 hodinám <a id="vězení-9eb76f">vězení</a> neb 100 K pokuty a zaplacení 60 K za lékařské vysvědčení a Zeman když viděl že to nedopadlo tak hrozně vypravoval lidem že to Večerníkům odpustil jinak že by byli přísně
 potrestání. Když potom kdosi měl ze Zemana smích on mu odpověděl: „já bych je byl skopal ale já ním něco udělám a budu je pak do <a id="smrt-a332b5">smrti</a> krmit“. Před tou udalostí ho <a id="josef-čermák-dac615">Jos. Čermák</a> honil v Končinách po louce přes kterou mu Zeman šel.
+
 Dne 1. června zdvíhaly vazbu na novém domě Bohuslava Nováka č. <a id="57-72b32a">57</a> u Holinků.
 Dne 6. června odbývala se u Kvardů hasičská schůze v příčině koncertu o letošní pouti ale s pouti nadobro sešlo poněvadž hostinský <a id="stanislav-kvarda-38ca5e">Stanislav Kvarda</a> chtěl mít k pouti patřící taneční zábavu už ode dvou hodin a žádal na hasičích 100 K ze sálu a zaplatit světlo a vyplatit ses policejní hodiny což
 by bylo přišlo na 80 K. Ale poněvadž se občanům zdálo že by měla ves bez pouti posměch svolána druhá hasičská schůze na neděli 13. června do hostince Ducháčkova a usneseno pořádati pouť
@@ -2644,20 +2732,23 @@ učinil následovně. Dal se totiž na jaře t. r. najmouti na práci v kterési
 a došel pěšky úplně bez peněz až do Švycarska. Tam ho zarazili četníci a že německý ani francouzský neuměl a listiny žádné mimo jakési z oné továrny neměl, poslali ho po šňůře do Toulonu zpět.
 Tam ho kdesi zavřeli do prvního poschodí ale on vyskočil oknem a živě se žebrotou při níž dělal němého dostal se až do Bavorska kdež ho zarazili četníci ale ti se s ním již dorozuměli a řekli mu,
 že když je už tak daleko, aby šel pokojně domů a tak přišel šťastně do Čech.
+
 Dne 11. července se odbývala staroveská pouť s koncertem ale bez kolotoče s muzikou v Roztokách. Kvarda na vzdor pořádal také muziku při níž měl vysocké hudebníky ale nikdo mu tam nešel takže již v 8 hodin šli hudebníci domů kdežto v Roztokách bylo plno.
-Dnes 17. července dopoledne přijelo jsem 37 dragónů 8. pluků ze Staré Boleslavi s kapitánem nadporučíkem a rotmistrem. Byli od kulometné eskadrony a bylo mezi nimi několik maďarů byli
 
+Dnes 17. července dopoledne přijelo jsem 37 dragónů 8. pluků ze Staré Boleslavi s kapitánem nadporučíkem a rotmistrem. 
+Byli od kulometné eskadrony a bylo mezi nimi několik maďarů byli zde z té příčiny, že se v okolí odbývalo veliké cvičení. Ve Vysokém byla obrněná auta, horská artilerie a hraničáři. U nás bylo mužstvu ubytováno u Kvardů na sále a důstojníci u <a id="františek-slavík-c9ac8f">Frant. Slavíkové</a> č. <a id="98-ed3d2c">98.</a>
 
-zde z té příčiny, že se v okolí odbývalo veliké cvičení. Ve Vysokém byla obrněná auta, horská artilerie a hraničáři. U nás bylo mužstvu ubytováno u Kvardů na sále a důstojníci u <a id="františek-slavík-c9ac8f">Frant. Slavíkové</a> č. <a id="98-ed3d2c">98.</a>
 Nadporučík byl ital a za kapitánem přijela jeho nevěsta. Koně měli u Kvardů a u Marků. Sotva s koni sesedli již kolem sebe měli houf děvek takže za nimi lezly na sál i do maštale a neostýchali se
 jich ani když tito mili v potoce koně jsouce aby si mundůr nenamočili, pouze v košilích a poněvadž byli v tom čase měsíčné noci mohl za každým keřem spatřiti vojáka na děvce. Večer 22. července
 měli taneční zábavu při níž hrála zdejší kapela které se sučastnili mimo dvou všecky staroveské panny a při níž maďaří tancovali czardás (čardáš) a potom 24. ráno k nemalému zármutku všech
 těch panenek odjeli.
+
 Dne 25. července měl zemědělský dorost ve Stanovým u Dolenských věneček a při půlnoci se chasa něco nepohodla a přítomný <a id="josef-kučera-8daa70">Jos. Kučera</a> rolník z Trojánek napomínal k pořádku a v tom ho
 chytil za krk <a id="stanislav-strnádek-56d8cf">Stanislav Strnádek</a> č. <a id="2-c81e72">2</a> a jeho spojenci Miroslav a <a id="karel-nygryn-d3fdbf">Karel Nygrynové</a> ho začali tlouci.
 Bylť Kučera švakr zavražděného Tichánka a má naň Strnádek proto spadeno. V tu dobu šel rolník
 <a id="petr-žanta-387402">Petr Žanta</a> č. <a id="32-6364d3">32</a> od <a id="františek-duštíra-39045c">Frant. Duštíry</a> z pobytí a Duštíra ho vyprovázel a zašli do hospody a Žanta vida co se děje šel kamaráda Kučeru bránit ale některé báby hlavně žena pachtýře Půlpána z č. <a id="25-8e296a">25</a> za níž
 Strnádek chodil, ho chytily za ruce a než se jím vyrval potloukl mu Strnádek oko a <a id="petr-čermák-cfae4d">Petr Čermák</a> 29 let starý ze Staré Vsi č. <a id="71-e2c420">71</a> mu dal dvě facky a utrhl mu hodinky se řetízkem. Mezi tím přispěl Žantovi ku pomoci Duštíra s otevřeným nožem a tu teprve si Žanda vstrčil Čermáka do kouta a nafackoval mu řka:“tak to ty jseš ten pacholek zrzavý co mě <a id="krádež-687541">kradl</a> dříví?
+
 Dne 7. srpna v sobotu před vysockou poutí večer schůze ob. zást.
 Jednání: dáli se stará břidlicová střecha na škole opravit nebo se pořídí krytina nová? Usneseno pořídit si novou. Dále: <a id="jindřich-matura-619517">Jindřich Matura</a> č. <a id="78-35f4a8">78</a> se táže zda se obec domáhá cesty přes pozemek jeho
 ženy Pavlíny do Roprachtic přes tak zvaný Zlatníkův háj? Že za tu cestu požaduje 600 K. Usneseno obeslati na obecní úřad všech ostatních šesti majitelů bývalého Woceďálkova statku a tázati se jích
@@ -2666,16 +2757,15 @@ K tomu podotknouti dlužno: první cesta vedla při dolení hranici řečeného 
 a udělal cestu půlama pozemkem a nechal po ni bez překážky jezditi a jezdili po ní všichni občané více než 30 let. Ale r. <a id="1926-5103c3">1926</a> se nepohodl Matura s bratry Soukupi proto že mu nasázeli vedle louky
 smrčí a milou cestu jako svůj majetek překopal nechtě je za to nechat jezdit ale ostatní občany že nechá. Ale jezděme když je přes cestu půl metru hluboký kanál a předním i za ním šraněk. Ten mu
 sice jednou <a id="josef-novák-475dbc">Jos. Novák</a> č. <a id="43-17e621">43</a> Soukupův švakr a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> č. <a id="20-98f137">20</a> přelomili a hodili do příkopu ale on nelenil ale dal tam jiný. A, aby mu nikdo nic říci nemohl nechal k používání onu starou původní cestu ale tá nebyla k potřebě poněvadž majitel protější roprachtické usedlosti ji na svém pozemku zruchal. A z nepřízně k Soukupovi nechtěl nikdo ze sousedů svědectví 30 let jízdy učinit.
+
 Dne 15. srpna pronajal dosavádní nájemce <a id="josef-metelka-ac9dc5">Jos. Metelka</a> z Vysokého za 650 K staroveskou mislivost.
 Někdy v tom čase <a id="františek-zeman-4b3842">Frant. Zeman</a> vynadal <a id="antonín-štěpánek-f387a6">Ant. Štěpánkovi</a> a jeho ženě Anně všecko její se chování za svobody vypočítal a když ona mu řekla že naň patří Večerník, on na ně běžel s vidlemi ale na celý ten výjev se díval <a id="čeněk-housa-4a3288">Čeněk Housa</a> a ten vzkřikl na Štěpánka „dej mu tam pár na držku! nebo si na
 něj mám jít já?“ A to Zemana schladilo. Potom dne 24. srpna vozil Štěpánek s pole žito a Zeman vozil na pole hnuj. V lukách se potkali a Zeman se podle starého spůsobu vyhnul na louku ale tak,
 aby lišně Štěpánkova vozu uvázla na brzdové dřevo jeho vozu či jak se říká schleifholz, mysle že mu lišni utrhne ale stal se opak a lišně přelomila šlajfholc s pracnou a Zeman potom dělal kraval že měl
 Štěpánek čekat až on vyjede z cesty.
-Dne 8. září ruchal <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a> za Vrchy a spozoroval v Boroví tři cikány kteří se plížili k boudě <a id="jaroslav-hevák-256fac">Jaroslava Heváka</a> č. <a id="82-9778d5">82</a> a konečně vylomili dveře a vnikli do vnitř. Hevák právě sušil nad
 
+Dne 8. září ruchal <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a> za Vrchy a spozoroval v Boroví tři cikány kteří se plížili k boudě <a id="jaroslav-hevák-256fac">Jaroslava Heváka</a> č. <a id="82-9778d5">82</a> a konečně vylomili dveře a vnikli do vnitř. Hevák právě sušil nad Borovím otavu i požádal Čermák mimo jdoucí <a id="marie-bouzková-65ff69">Marii Bouzkovou,</a> aby to Hevákovi sdělila. Ona to učinila a Hevák spěchal domu ozbrojen klackem. Jak vstoupil do dveří skočil po něm jeden cikán a nedbaje rány již mu Hevák zasadil odhodil ho. Druzí dva právě se dobývali sekerou do kufru.
 
-Borovím otavu i požádal Čermák mimo jdoucí <a id="marie-bouzková-65ff69">Marii Bouzkovou,</a> aby to Hevákovi sdělila. Ona to učinila a Hevák spěchal domu ozbrojen klackem. Jak vstoupil do dveří skočil po něm jeden cikán
-a nedbaje rány již mu Hevák zasadil odhodil ho. Druzí dva právě se dobývali sekerou do kufru.
 Vida Čermák co se děje uchopil rozparku a spěchal Hevákovi ku pomoci a tu se cikáni dali na útěk hodivše po Čermákovi sekeru.
 Dne 17. září byl udán na okres. správu politickou pro neoprávněné provozování živnosti obuvnické anonimním dopisem <a id="antonín-večerník-c197f0">Ant. Večerník</a> č. <a id="24-1ff1de">24</a> ale vědělo se že ho udal <a id="rudolf-slavík-ec9460">Rudolf Slavík</a> č. <a id="25-8e296a">25</a> a Večerník musel zaplatit 10 K pokuty.
 Dne 18. září v hodinu po půlnoci vyhořela v Helkovicích usedlost zvaná u Mechnáčů, <a id="františek-nosek-853ec3">Františka
@@ -2696,16 +2786,18 @@ Voceďálkovi sousedé ale <a id="františek-soukup-2e6a7b">Frant. Soukup</a> ne
 hlavně namahali jaksi utichla.
 V noci ze dne 11. na 12. října neznámý <a id="zloděj-f8d6af">zloděj</a> ukradl na dráze Kamila Vodseďálka č. <a id="62-44f683">62</a> několik hlávek zelí a 18 dumlíku a Stanislavu Kvardovi vyřezal 300 hlávek a jeden pytel s hlávkami tam
 buďto ztratil nebo zapoměl a na pytli byly písmeny F. P. Vyšetřování u toho měl <a id="františek-polouprutský-e22834">Fr. Polouprutský</a> č. <a id="11-6512bd">11</a> a <a id="františek-polouprutský-e22834">Fr. Polouprutský</a> č. <a id="25-8e296a">25</a> bydlící v Jeseném ale nedokázalo se že jím nic a veřejné mínění označovalo za pachatele bratry Kobry č. <a id="81-43ec51">81.</a>
+
 Dne 13. listopadu sklidili bratří Housové poslední oves s pole. Zrní v něm už žádné nebylo.
 Dne 16. listopadu objevili v Ruprechticích dlouholetého <a id="zloděj-f8d6af">zloděje</a> hospodářského nářadí Pacholíka u něhož nalezeny ruchadla, trakaře, části vozu, kola, žebříky, žebřiny, provazy, prkna, kolejnice k mazání strojů a pod. a byl hned zatčen a odveden do Jičína.
 Dne 14. listopadu sehráli členové Snahy u Kvardů divadlo a po divadle se na silnici sepral 24 letý
 <a id="petr-čermák-cfae4d">Petr Čermák</a> a 18 letý <a id="ladislav-olič-0ed589">Ladislav Olič</a> č. <a id="45-6c8349">45.</a> Čermák Oličovi rozbil nos a Olič Čermáka srazil před stodolou u koryta do příkopu plného vody a tam ho stloukl. Každý si může učiniti představu jak
 Čermák vypadal když z té vody vylezl.
+
 Někdy ku konci listopadu ořezoval <a id="josef-čermák-dac615">Jos. Čermák</a> v Boroví břízy a viděl to jeho synovec <a id="karel-čermák-e55a29">Karel Čermák</a> a že se domníval že to jsou břízy jeho otce <a id="františek-čermák-1668f0">Frant. Čermáka,</a> zakazoval mu to. Ten se ovšem jsa v právu nedal a tak si pěkně vynadali. Brzo na to dostal <a id="františek-čermák-1668f0">Frant. Čermák</a> dopis na němž bylo pouze
 jeho jméno a Stará Ves ale žádné číslo domů a když dopis otevřel stálo v něm:
 
-
 Jesený 19 21/11 26
+
 Pane Čermáku!
 
 Zaplaťte co nejdříve oněch mě dlužných 800 K
@@ -2721,15 +2813,13 @@ Dne 11. prosince měli úřední sňatek na politické správě v Jilemnici: 33 
 19\. prosince měl na sále u Kvardů <a id="rudolf-hásek-7fa68e">Rudolf Hásek</a> z Vysokého kouzelné představení. Návštěva slabá.
 Dne 22. prosince přistěhovala se <a id="anna-kobrová-51c1f5">Anna Kobrová</a> provdaná za Aloise Noska v Roprachticích domu jsouc před porodem ale její bratr Stanislav hospodář na č. <a id="81-43ec51">81</a> jí vyhnal, aby mu nekazila svátky.
 Dne 26. na Štěpána hráli členové Snahy divadlo Princezna ze statku ve Třiči. Slavně to nevypadlo.
-Dne 23. února t. r. ujal <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> od svého otce <a id="josef-kobr-b58788">Jos. Kobra</a> usedlost č. <a id="81-43ec51">81</a> u Petrů za 19 000 K a 400 K každoročně. Též ujal <a id="bohumil-slavík-3192da">Bohumil Slavík</a> t. r. od svého otce Čeňka Slavíka usedlost č. <a id="85-3ef815">85</a>
-u Vlášků.
+
+Dne 23. února t. r. ujal <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> od svého otce <a id="josef-kobr-b58788">Jos. Kobra</a> usedlost č. <a id="81-43ec51">81</a> u Petrů za 19 000 K a 400 K každoročně. Též ujal <a id="bohumil-slavík-3192da">Bohumil Slavík</a> t. r. od svého otce Čeňka Slavíka usedlost č. <a id="85-3ef815">85</a> u Vlášků.
 Do komise sestavující voličské seznamy v prvním čtvrtletí r. <a id="1927-e5b294">1927</a> ustanoveni byli tito: <a id="čeněk-večerník-bc4dff">Čeněk
 Večerník,</a> <a id="františek-soukup-2e6a7b">František Soukup,</a> <a id="josef-novák-475dbc">Jos. Novák</a> ml. č. <a id="43-17e621">43</a> a <a id="vilém-polouprutský-877f7e">Vilém Polouprutský.</a>
 Od vyjeti na pole bylo pěkně a práci nepřerušilo až do 8. dubna. Toho dne k nám přišel déšť a odpoledne bouřka a druhý den sypaly <a id="kroupa-7d3aeb">kroupy</a> velikosti hrachu tak že bílo zůstalo a dne 10. celý
 den trousil sníh a byla neobyčejná zima.
-Dne 12. dubna jsme sázeli první 3 1/2 hl. bramborů nad domem a 13. jsme sili první 4 hl. ovsa dole v Kopci a 14. dvě hl za Vrchy a 15. tři hl na tom samém poli a 17. dvě hl na Vrštek. Tím byl oves
-
-zaset.
+Dne 12. dubna jsme sázeli první 3 1/2 hl. bramborů nad domem a 13. jsme sili první 4 hl. ovsa dole v Kopci a 14. dvě hl za Vrchy a 15. tři hl na tom samém poli a 17. dvě hl na Vrštek. Tím byl oves zaset.
 
 Dne 18. dubna jsme sili první jetelové semínko 5 kg dole v Kopci do ovsa.
 Dne 17. t. m. odpoledne se s bouřkou rozpršelo a pršelo celý druhý den.
@@ -2768,18 +2858,19 @@ Dnes 17. ledna zemřel 86 let starý <a id="josef-novák-475dbc">Jos. Novák</a>
 Dne 18. ledna zemřel ve vysocké nemocnici dvacetiletý <a id="václav-metelka-e1da4e">Václ. Metelka</a> od Hošků ze Třiče syn zdejší rodačky Anežky Kobrové z č. <a id="77-28dd2c">77</a> jenž minulého roku vezl sám fůru otavy bez potahu a chtěje
 si přibrzditi vůz, upadl a přední šlejf (brzda) ho udeřila přes páteř a poranil mu míchu takže musel býti dopraven do nemocnice poněvadž měl spodní části nehybnou. Zesnulý příslušných církve Čs.
 měl nastoupiti službu u pěšího pluku č. <a id="4-a87ff6">4</a> v Hradci Králové.
+
 Dne 20. ledna zemřela osmdesátiletá <a id="marie-hotovičková-9d2858">Marie Hotovičková</a> č. <a id="67-735b90">67</a> vdova po soustružníku <a id="josef-hotovička-22d834">Jos. Hotovičkovi,</a> příslušnice církve Čs. a spiritistka. Jimi vymřel Hotovičkův rod u nás jenž objevuje se ve
 Staré Vsi as r. 1713 a pobyl v držení těchto čísel 14, 37, 41, 49, 51, 67 a 69.
-Dne 21. ledna zemřel v Martinicích 48 let starý zdejší rodák z č. <a id="30-34173c">30</a> <a id="josef-bohusl-šmíd-d2f938">Jos. Bohusl. Šmíd</a> kupec v Jilemnici raněn byv mrtvici. Bez vyznání. Pohřeb měl do Vysokého. V tomto měsíci jsme zde měli
 
+Dne 21. ledna zemřel v Martinicích 48 let starý zdejší rodák z č. <a id="30-34173c">30</a> <a id="josef-bohusl-šmíd-d2f938">Jos. Bohusl. Šmíd</a> kupec v Jilemnici raněn byv mrtvici. Bez vyznání. Pohřeb měl do Vysokého. V tomto měsíci jsme zde měli čtyři mrtvé neboť 2. ledna zemřel také čtyři měsíce starý syn Bedřicha Polouprutského č. <a id="19-1f0e3d">19</a> jménem Josef. Čs.
 
-čtyři mrtvé neboť 2. ledna zemřel také čtyři měsíce starý syn Bedřicha Polouprutského č. <a id="19-1f0e3d">19</a> jménem Josef. Čs.
 Dne 11. února sbíral obecní sluha <a id="františek-novák-8834ba">Fr. Novák</a> podpisi těch občanů kteří jsou pro zavedení elektrického proudu. Byli proň: <a id="josef-čermák-dac615">Jos. Čermák,</a> <a id="karel-koldovský-1a1a51">Karel Koldovský,</a> <a id="pavla-svárovská-1a5dbb">Pavlína Svárovská,</a> <a id="oldřich-ducháček-8cc292">Oldřich Ducháček,</a> <a id="stanislav-kvarda-38ca5e">St.
 Kvarda,</a> <a id="antonín-kobr-fac949">Ant. Kobr,</a> <a id="františka-slavíková-bc8168">Fr. Slavíková</a> a <a id="františek-lánský-5e9337">Fr. Lánský.</a>
 Dne 17. února přeletělo zde letadlo dvojplošník směrem od Jilemnice, nad Stanovým nad Havlovem vrškem se zatočilo a nad Končinami se uhnulo víc k Vysokému a pryč. Kteří si mysleli že tomu rozumí, tvrdili že bylo německé.
 28\. února zemřel 58 let starý chalupník č. <a id="87-c7e124">87</a> na dráze <a id="františek-novák-8834ba">Frant. Novák</a> řečený Čáp, rodák z č. <a id="94-f4b9ec">94.</a>
 Dne 1. března soudní projednání <a id="augustýn-novotný-604414">Augustýn Novotný</a> jako žalobce a <a id="štěpán-hrádecký-fbe6f4">Štěpán Hrádecký</a> jako žalovaný v příčině toho že vozka vezoucí Hrádeckému zboží nemohl projeti návějí nad č. <a id="63-03afdb">63</a> a proto se uhnul s cesty na Novotného pozemek a vyhodil mu šraněk a ač se mu omluvil přesto Novotný
 Hrádeckého žaloval ale u soudu je v dobrotě srovnali.
+
 Dne 5. března byl za naší obec odveden k vojsku <a id="jaroslav-kobr-17bbca">Jaroslav Kobr</a> z č. <a id="54-a684ec">54.</a>
 V roce <a id="1926-5103c3">1926</a> přijela M. Hotovičková č. <a id="67-735b90">67</a> do nájmu do světničky ševce <a id="václav-fejfar-0d2b20">Václava Fejfara</a> od Plzně a ten si zařidil slavnou dílnu, zjednal tovaryše a když nadělal mnoho dluhu odjel začátkem března
 <a id="1927-e5b294">1927</a> aniž známo kam ohlásiv sousedům že se jde podívat domů. Po čase naň přišel nějaký platební rozkaz od berní zprávy a tak to došlo tak daleko že mu do světničky vnikli četníci ale tam nic nebylo. Při tom se také zvědělo že rytíř sv. Krišpína je již s jednou ženou rozveden a od druhého že
@@ -2787,9 +2878,10 @@ utekl a tady hromadu děvek zbláznil a i vdané za ním lezly.
 21\. břez. byl bylo ob. právo a sice starosta a výbor <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> na komisi u Sedláků v příčině že <a id="karel-koldovský-1a1a51">Karel Koldovský</a> přiděláním dvořiště zatarasil <a id="františek-čermák-1668f0">Fr. Čermákovi</a> cestu z jeho dvořiště.
 Skutečnost byla ta že Čermák měl dost místa pro cestu na svém ale postavil si před okny r. <a id="1919-8c8a58">1919</a> zahrádku a pak chtěl jezdit po Koldovském a když ten se bránil že ho bude žalovat křičel naň mladý Čermák Karel „mi můžeme prosoudit třeba 20 000, mi je máme“. a právo dalo za pravdu Čermákovi a nařídil Koldovskému onen kus dvořiště odstranit neb starosta <a id="josef-hladík-ab82c6">Jos. Hladík</a> byl Čermákův
 kamarád a Polouprutský Čermákův dlužník. Na to druhý den večer šel <a id="františek-zeman-4b3842">Fr. Zeman</a> k Čermákovi na pobyt a přijda do světnice povídal že Čermákovi házel Koldovského chlapec na louku skelné střepy. Čermák se sebral a do č. <a id="16-c74d97">16</a> a hle tam všecky děti byly již vysvlečeny a chystaly se jíti spát. Když
-tam Čermák viděl nemožnost takové věci běžel hned do č. <a id="79-d1fe17">79</a> k <a id="františek-chlum-66e864">Fr. Chlumovi</a> mysle že snad jeho chlapci by to byli ale tam bylo to samé. Lidé o tom soudili že Zeman nic neviděl ale chtěl spůsobiti hádku, aby mohl Čermákovi oplatiti svědectví z minulého roku a sklo žádné na louce nalezeno
-nebylo.
+tam Čermák viděl nemožnost takové věci běžel hned do č. <a id="79-d1fe17">79</a> k <a id="františek-chlum-66e864">Fr. Chlumovi</a> mysle že snad jeho chlapci by to byli ale tam bylo to samé. Lidé o tom soudili že Zeman nic neviděl ale chtěl spůsobiti hádku, aby mohl Čermákovi oplatiti svědectví z minulého roku a sklo žádné na louce nalezeno nebylo.
+
 Dne 22. t. m. učinil pokus otravy půl lahvy červeného inkoustu 19 letý mlynářský <a id="václav-přibyl-813bb9">Václ. Přibyl</a> z č. <a id="60-072b03">60</a> zaměstnaný ve mlýně v Machlově ale byl dovezen do vysocké nemocnice a tam ho zachránili. Jmenovaný se dříve poučil truhlářem ve Vysokém a tam pokoušel se oběsiti. Proč nebylo známo.
+
 Dne 25. t. m. zemřel 54 letý <a id="antonín-večerník-c197f0">Ant. Večerník</a> truhlář č. <a id="76-fbd793">76</a> a předseda míst. škol. rady a člen Čs.
 církevní rady starších, po dlouhé a trapné nemoci v nemocnici ale pohřeb měl z domu jenž byl neobyčejně slavný a hned 27. zemřel jeho protivník 79 let starý <a id="františek-hadík-1136da">Frant. Hadík</a> č. <a id="52-9a1158">52</a> řečený Adámek
 příslušník římské církve a vůdce procesí, bývalý předseda pecnářského družstva a bývalý školník.
@@ -2798,23 +2890,28 @@ Chalupu č. <a id="76-fbd793">76</a> ujala vdova <a id="františka-večerníkov�
 Dne 3. dubna koupil <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek</a> z Vysokého od manželů Lánských jejich usedlost č. <a id="42-a1d0c6">42</a> zvanou u Přezáku za 38 000 K.
 Toho dne vybírali, <a id="františek-polouprutský-e22834">Fr. Polouprutský</a> č. <a id="11-6512bd">11</a> a <a id="marie-přibylová-cb092d">Marie Přibylová</a> č. <a id="60-072b03">60</a> církevní příspěvky a <a id="josef-čermák-dac615">Jos. Čermák</a> č. <a id="93-98dce8">93</a> nezaplatil.
 
-
 Dne 10. dubna sehráli ve Třiči naší ochotníci divadelní hru „Samot chorobné květy“ ale návštěva byla slabá. Rovněž když hráli minulého r. tam na sv. Štěpána „Princezna ze statku“ měli málo diváků.
 V tom čase prodali br. Housové řezníku J. Soukupovi do Sklenařic za 1 <a id="800-7a5392">800</a> osmimetrákového vola jehož měli 20 let.
+
 Dne 23. dubna koupil za 4 500 K <a id="bohdan-pavlata-bfbc9e">Bohdan Pavlata</a> z Vysokého od <a id="antonín-štěpánek-f387a6">Ant. Štěpánka</a> domek <a id="anna-jandová-cd2b39">Anny
 Jandové</a> č. <a id="55-b53b3a">55</a> zvaný na Prutě a <a id="anna-polouprutská-141d72">Anna Polouprutská</a> někdy č. <a id="25-8e296a">25</a> koupila od <a id="františka-kochánková-d504f6">Fr. Kochánková</a> z Roztok její zdejší domek č. <a id="91-54229a">91</a> u Karlasů.
+
 Dne 12. června zemřel v Praze 47 let starý první patriarcha a zakladatel Č. s. církve biskup dr. <a id="karel-farský-c7c759">Karel
 Farský</a> rodák ze vsi Škodějova.
+
 Dne 29. června ráno v 6 hod. bylo částečné zatmění slunce.
 Památka Husova byla uctěna následovně. U <a id="válka-bfccd5">válečného</a> pomníku promluvil k shromážděným <a id="jan-petruška-364a5c">Jan
-Petruška</a> načež po zahrání několika národ. písní šel lampionový průvod na Holánovy vrcha kdež na poli <a id="františek-chlum-66e864">Fr. Chlumská</a> po druhé promluvě a po zahrání písně „hranice vzplála“, rozpálená kůpa roští, kterou dal a přivezl <a id="josef-bouzek-3e34d8">Jos. Bouzek.</a> Hudebníci byli: kapelník <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> <a id="bohuslav-žanta-9d359a">Boh. Žanta</a> a <a id="emil-petříček-82eb0d">Emil
-Petříček</a> že Stanového a <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> <a id="františek-zákoutský-96653f">Fr. Zákoutský,</a> Stan. Kobr a <a id="vladimír-petruška-8ba876">Vladim. Petruška.</a> Na rošti byli:
-J. Bouzek, <a id="bohuslav-bouzek-85b3ed">Boh. Bouzek,</a> <a id="ladislav-bouzek-05cd6f">Lad. Bouzek,</a> <a id="jaroslav-večerník-b04539">Jar. Večerník,</a> <a id="boleslav-housa-e808a2">Bol. Housa,</a> <a id="františek-hloušek-828a1b">Fr. Hloušek</a> ml., a <a id="václav-novák-4fa2e7">Václ. Novák</a>
+Petruška</a> načež po zahrání několika národ. písní šel lampionový průvod na Holánovy vrcha kdež na poli <a id="františek-chlum-66e864">Fr. Chlumská</a> po druhé promluvě a po zahrání písně „hranice vzplála“, rozpálená kůpa roští, kterou dal a přivezl <a id="josef-bouzek-3e34d8">Jos. Bouzek.</a> 
 
-č. <a id="74-ad61ab">74.</a>
+Hudebníci byli: kapelník <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> <a id="bohuslav-žanta-9d359a">Boh. Žanta</a> a <a id="emil-petříček-82eb0d">Emil Petříček</a> že Stanového a <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> <a id="františek-zákoutský-96653f">Fr. Zákoutský,</a> Stan. Kobr a <a id="vladimír-petruška-8ba876">Vladim. Petruška.</a> 
+
+Na rošti byli:
+J. Bouzek, <a id="bohuslav-bouzek-85b3ed">Boh. Bouzek,</a> <a id="ladislav-bouzek-05cd6f">Lad. Bouzek,</a> <a id="jaroslav-večerník-b04539">Jar. Večerník,</a> <a id="boleslav-housa-e808a2">Bol. Housa,</a> <a id="františek-hloušek-828a1b">Fr. Hloušek</a> ml., a <a id="václav-novák-4fa2e7">Václ. Novák</a> č. <a id="74-ad61ab">74.</a>
+
 Dnes 17. července staroveská pouť s koncertem a dvěma perníkářstvími krámy. Ve 2 hod. Čs.
 bohoslužby faráře <a id="jan-kůrka-e349a9">Jana Kůrky</a> u pomníku. Návštěva hojná ale kazil to dešť. Večír v dolení hospodě muzika též s dosti značnou návštěvou ale že bylo vše již odpoledne napito zdálo se dokolikráti že
 vypukne pračka avšak vždy bylo nebezpečí zažehnáno. Ale k ránu přeci nabili Ruprechtičtí a Ponikelští chase z Roztok a z Helkovic.
+
 Druhého dne odpoledne bylo obecní právo v Čermákově kopci v příčině nádrže na vodu kterou stavěti chtěl <a id="františek-zeman-4b3842">Fr. Zeman</a> na struze za č. <a id="75-d09bf4">75</a> odkudž ji chtěl táhati přímo do síně a jednalo se o to, aby
 mu to společníci počtem 7 povolili. Rádní Ducháček se nedostavil. Poněvadž <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> č. <a id="22-b6d767">22</a> a <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> hospodář v č. <a id="23-37693c">23</a> byli dělati pořádek na poutním místě a <a id="barbora-housová-0f42dd">Barbora Housová</a> č. <a id="21-3c59dc">21</a>
 byla v Tanvaldě s máslem a ostatní věci buď nerozuměli nebo ze strachu se mluviti báli nakázali jim starosta, by jestli nějaké namítky proti vodovodu mají, podali je druhého dne v 7 hod. ráno, později podané že nemají platnost a co by prý dva byli proti tomu, to že nemá platnosti. Poněvadž ale se
@@ -2831,37 +2928,39 @@ Dne 29. srpna ruchal prvně <a id="josef-janda-e4c793">Jos. Janda</a> č. <a id=
 Dnes 7. září se pohádal <a id="františek-zeman-4b3842">Fr. Zeman</a> se svojí ženou Annou a vyhodili ji ze stavení a potloukl a pošlapal a též děti vyhnal a 3 krávy prodal a nechtěl, aby se vrátila ale konečně je po 14 dnech u okres.
 soudu srovnali. Hlavně se o jejích námluvy přičiňoval starosta Hladík a F. Čermák.
 
-
 Dne 8. dokončili Housové a <a id="karel-koldovský-1a1a51">Karel Koldovský</a> žně a dobrali jetel.
 Dne 26. září se odbývala na obecním úřadě volba porotců a kmetu pro krajský soud v Jičíně.
+
 Zvoleni jsou: Porota:
-
-
 
 **Kmeti** :
 
 <a id="václav-večerník-a9ecb2">Václ. Večerník</a>
+
 <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a>
 
 <a id="jan-petruška-364a5c">Jan Petruška</a>
 
 <a id="pavla-svárovská-1a5dbb">Pavla Svárovská</a>
+
 <a id="žofie-albrechtová-844659">Žofie Albrechtová</a>
 
 <a id="bohumil-koptík-42870a">Bohumila Koptiková</a> č. <a id="80-f033ab">80</a>
 
-
-
 **Porota:**
 
 <a id="josef-hladík-ab82c6">Jos. Hladík</a>
+
 <a id="karel-koldovský-1a1a51">Kar. Koldovský</a>
+
 <a id="josef-janda-e4c793">Jos. Janda</a>
 
 <a id="františek-albrecht-240899">Fr. Albrecht</a>
 
 <a id="františek-soukup-2e6a7b">Fr. Soukup</a>
+
 B. Housová č. <a id="75-d09bf4">75</a>
+
 <a id="julie-šmídová-b743aa">Julie Šmídová</a> č. <a id="30-34173c">30</a>
 
 <a id="božena-ducháčková-7cfe1b">Božena Ducháčková</a> č. <a id="14-aab323">14</a>
@@ -2869,15 +2968,13 @@ B. Housová č. <a id="75-d09bf4">75</a>
 <a id="marie-jiroušková-78dac1">Marie Jiroušová</a> č. <a id="77-28dd2c">77</a>
 
 
-
 Dne 2. října měly býti na obec. úřadě předloženy kandidátní listiny všech politických stran v obci k obecním volbám na den 16. října. Poněvadž sedláci nedůvěřovali domkařům přešel jedné noci <a id="františek-soukup-2e6a7b">Fr.
 Soukup</a> stoupence rolnické strany a starosta Hladík došel na politickou zprávu do Jilemnice se žádostí o poměrné zastoupení ale domkaří žádné kandidátky nepředložili a tak byla předložena pouze jediná zemědělská předložená <a id="františek-soukup-2e6a7b">Fr. Soukupem</a> na níž byly následující kandidáti:
-
-
 
 <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> č. <a id="20-98f137">20</a>
 
 <a id="josef-janda-e4c793">Jos. Janda</a> č. <a id="80-f033ab">80</a>
+
 <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a>
 
 <a id="josef-hladík-ab82c6">Jos. Hladík</a> č. <a id="35-1c383c">35</a>
@@ -2887,7 +2984,9 @@ Soukup</a> stoupence rolnické strany a starosta Hladík došel na politickou zp
 <a id="františek-albrecht-240899">Frant. Albrecht</a> č. <a id="40-d64592">40</a>
 
 <a id="bedřich-polouprutský-9f9671">Bed. Polouprutský</a> č. <a id="19-1f0e3d">19</a>
+
 <a id="františek-soukup-2e6a7b">Frant. Soukup</a> č. <a id="53-d82c8d">53</a>
+
 <a id="karel-polák-578412">Karel Polák</a> č. <a id="32-6364d3">32</a>
 
 <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> č. <a id="23-37693c">23</a>
@@ -2895,8 +2994,6 @@ Soukup</a> stoupence rolnické strany a starosta Hladík došel na politickou zp
 <a id="františek-chlum-66e864">Fr. Chlum</a> č. <a id="79-d1fe17">79</a>
 
 <a id="miloslav-vodseďálek-3a0430">Mil. Vodseďálek</a> č. <a id="10-d3d944">10</a>
-
-
 
 <a id="karel-polák-578412">Karel Polák</a> č. <a id="32-6364d3">32</a>
 
@@ -2912,12 +3009,14 @@ Náhradníci:
 <a id="josef-bouzek-3e34d8">Jos. Bouzek</a> č. <a id="65-fc490c">65</a>
 
 <a id="bohumil-slavík-3192da">Bohumil Slavík</a> č. <a id="85-3ef815">85</a>
+
 <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> č. <a id="22-b6d767">22</a>
+
 <a id="antonín-vitvar-7b08af">Ant. Vitvar</a> č. <a id="77-28dd2c">77</a>
 
 <a id="josef-novák-475dbc">Jos. Novák</a> ml. č. <a id="43-17e621">43</a>
-<a id="jan-šulc-fc9b24">Jan Šulc</a> č. <a id="54-a684ec">54</a>
 
+<a id="jan-šulc-fc9b24">Jan Šulc</a> č. <a id="54-a684ec">54</a>
 
 
 Potom dne 23. října byla volba představenstva v č. <a id="35-1c383c">35.</a> Slib věrnosti republice složil nově zvolené zástupitelstvo do rukou dosavadního starosty <a id="josef-hladík-ab82c6">Jos. Hladíka.</a> Za starostou zvolen byl bývalý starosta
@@ -2988,6 +3087,7 @@ Dne 24. led. poslal někdo na četnickou stanici nepodepsaný a neznámkovaný d
 Novák.</a> Ale ona se vymluvila tím že jí vstupenku koupila <a id="žofie-vodseďálková-13c84c">Žofie Vodseďálková</a> č. <a id="54-a684ec">54.</a>
 Dne 31. ledna zemřel 76 let starý <a id="josef-kučera-8daa70">Jos. Kučera</a> domkař č. <a id="58-66f041">58</a> u Lišků neb u Krumšů rodák z Roprachtic, kdys majitel zdejšího doleního mlýna, domek ujala dcera <a id="anna-polouprutská-141d72">Anna Polouprutská</a> za delegáty za
 Starou Ves do hosp. záložny zvoleni Večerník starosta, <a id="bohumil-slavík-3192da">Bohumil Slavík</a> a <a id="františek-chlum-66e864">Frant. Chlum.</a>
+
 Dne 4. února ráno nalezly děti jdoucí do školy na lipce u školy kus papíru na němž bylo nakresleno v celé přirozené kráse pět zdejších panenek a sice: <a id="marie-čivrná-d532eb">Marie Čivrná</a> č. <a id="64-ea5d2f">64,</a> <a id="anna-ducháčková-5f7fed">Anna Ducháčková</a> č. <a id="49-f457c5">49,</a>
 <a id="vlasta-petrušková-bbeba7">Vlasta Petruškova</a> č. <a id="18-6f4922">18,</a> <a id="jindřiška-večerníková-821ef1">Jindřiška Večerníková</a> č. <a id="92-92cc22">92</a> a <a id="marie-nováková-7833a4">Marie Nováková</a> č. <a id="50-c0c7c7">50</a> s nápisem: Kurvy ve
 Staré Vsi a dole – napsal <a id="karel-čermák-e55a29">Karel Čermák.</a> Věc vyšetřovalo četnictvo ale bezvýsledně.
@@ -3001,16 +3101,14 @@ Dnes 17. března odvedení od nás k vojsku z I. třídy <a id="josef-koutský-2
 <a id="františek-svatý-74869a">Frant. Svatý</a> č. <a id="40-d64592">40</a> jezdecký pl. č. <a id="8-c9f0f8">8</a> Pardubice. <a id="václav-přibyl-813bb9">Václ. Přibyl</a> č. <a id="60-072b03">60</a> instrukční prapor Milovice a <a id="ladislav-olič-0ed589">Ladisl.
 Olič</a> č. <a id="45-6c8349">45</a> a letecký pl číslo 1 Praha.
 
+Dne 21. března od rána bylo tak strašlivé povětří že mnoho střech potrhalo, hlavně ovšem doškových. Tak na stodole č. <a id="13-c51ce4">13,</a> na domě a stodole č. <a id="65-fc490c">65,</a> na stodole č. <a id="19-1f0e3d">19,</a> na domě a stodole č. <a id="20-98f137">20,</a> na stodole č. <a id="23-37693c">23,</a> na stodole č. <a id="27-02e74f">27,</a> na domě č. <a id="24-1ff1de">24,</a> na domě č. <a id="33-182be0">33</a> na stodole č. <a id="73-d2ddea">73,</a> na domě a stodole č. <a id="89-764796">89,</a> na stodole č. <a id="35-1c383c">35,</a> na domě č. <a id="81-43ec51">81</a> a na stodolách č. <a id="43-17e621">43,</a> <a id="44-f71771">44,</a> <a id="46-d9d4f4">46.</a> Lidé měli na střechách hrázi, žebříku a prken a bran. Též na domě č. <a id="9-45c48c">9,</a> na pazderně č. <a id="80-f033ab">80</a> a na stodole č. <a id="79-d1fe17">79.</a>
 
-Dne 21. března od rána bylo tak strašlivé povětří že mnoho střech potrhalo, hlavně ovšem doškových. Tak na stodole č. <a id="13-c51ce4">13,</a> na domě a stodole č. <a id="65-fc490c">65,</a> na stodole č. <a id="19-1f0e3d">19,</a> na domě a stodole č. <a id="20-98f137">20,</a> na stodole č. <a id="23-37693c">23,</a> na stodole č. <a id="27-02e74f">27,</a> na domě č. <a id="24-1ff1de">24,</a> na domě č. <a id="33-182be0">33</a> na stodole č. <a id="73-d2ddea">73,</a> na domě a stodole č. <a id="89-764796">89,</a>
-
-na stodole č. <a id="35-1c383c">35,</a> na domě č. <a id="81-43ec51">81</a> a na stodolách č. <a id="43-17e621">43,</a> <a id="44-f71771">44,</a> <a id="46-d9d4f4">46.</a> Lidé měli na střechách hrázi, žebříku a prken a bran. Též na domě č. <a id="9-45c48c">9,</a> na pazderně č. <a id="80-f033ab">80</a> a na stodole č. <a id="79-d1fe17">79.</a>
 Dne 1. dubna se odbyvala dražba na obecní pozemky kterou vedl Večerník starosta a <a id="kamil-vodseďálek-ea8e1f">Kamil Vodseďálek</a> obecní sluha.
-
 Dne 6. dubna odpoledne dešť s hodnou bouřkou a to na Velký pátek což prý nikdo nepamatuje.
 Dne 8. dubna Velkou neděli schůze obec. zást. Hlavní věci jednání byl prodej obecního pozemku a hasičské boudy Bohumilu Hradeckému truhláři z Roztok pro stavbu domu. Pro prodej však pouze byli: starosta Večerník, rádní Večerník, náměstek Hladík a výbor Soukup a proti byl hlavně
 <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a> protože nebyli s Hrádeckého tchánem <a id="josef-bouzek-3e34d8">Jos. Bouzkem</a> v dobrém a při něm byli jeho kamarád <a id="josef-janda-e4c793">Jos. Janda,</a> rádní Vodseďálek proto že jeho syn Věnceslav byl sám truhlářem a ostatní
 kromě mlynáře Albrechta který přítomen nebyl a tak pozemek neprodán a za důvod udáno že ho hasiči potřebuji k sušení hadic.
+
 Dne 16. dubna prodala <a id="božena-ditrichová-187855">Božena Ditrichová</a> dcera <a id="josef-polouprutský-403545">Jos. Polouprutského</a> č. <a id="70-7cbbc4">70</a> svou 1/2 toho domku řečeného u Turpíšků své sestře a o něco později koupila tato <a id="karolína-černohlávková-b15655">Karolína Černohlávková</a> i od své nevlastní matky Anežky Polouprutské její druhou 1/2
 Dne 30. dubna vykonali žákyně zdejší školy sbírku pro chudé matky. Vybrali 74 K. Nejvíce dali:
 10 K <a id="františek-slavík-c9ac8f">Frant. Slavíková</a> č. <a id="98-ed3d2c">98.,</a> 10 K <a id="boh-koptíková-f47c11">Boh. Koptíková</a> č. <a id="80-f033ab">80.,</a> 15 K <a id="václav-cihlář-34a59f">Václav Cihlář</a> řiditel vysocké továrny.
@@ -3021,22 +3119,21 @@ Dne 23. května málo navštivená schůze zemědělské organisace v dolení ho
 11 K z hektaru. Přítomni byli pouze: <a id="josef-čermák-dac615">Jos. Čermák,</a> <a id="františek-čermák-1668f0">Frant. Čermák,</a> <a id="josef-janda-e4c793">Jos. Janda,</a> <a id="josef-bouzek-3e34d8">Jos. Bouzek,</a> <a id="františek-chlum-66e864">Frant.
 Chlum,</a> <a id="bedřich-polouprutský-9f9671">Bed. Polouprutský,</a> <a id="čeněk-večerník-bc4dff">Čeněk Večerník,</a> <a id="václav-večerník-a9ecb2">Václav Večerník,</a> <a id="antonín-štěpánek-f387a6">Ant. Štěpánek,</a> mlynář Albrecht. <a id="josef-novák-475dbc">Jos.
 Novák</a> č. <a id="43-17e621">43,</a> <a id="otakar-novák-3f8684">Otakar Novák,</a> <a id="františek-soukup-2e6a7b">Frant. Soukup,</a> <a id="josef-soukup-006cf6">Jos. Soukup</a> č. <a id="53-d82c8d">53</a> a <a id="jan-šulc-fc9b24">Jan Šulc</a> č. <a id="54-a684ec">54.</a> Protest napsán a měl zdárný výsledek. Z 13 se stala 9.
+
 Dne 30. května se odbývala na obec. úřadě druhá (první byla v úterý po Letnicích) schůze majitelů bývalého statku Vodseďálková a Vlášková v příčině opravy cesty a potoka pod chudobincem.
 Věci té se ujal první <a id="josef-soukup-006cf6">Jos. Soukup</a> a na jeho požádání nařídila obecní rada jmenovaným sousedům onu opravu a starosta s nimi měl o tom sepsati zápis jak to chtí udělati neboť se vědělo že s těmi to
 nepůjde tak hladce jako rok předtím s Vojákovými. A očekávání nesklamalo. <a id="jindřich-matura-619517">Jindřich Matura</a> č. <a id="78-35f4a8">78</a> navrhoval nechati jmenovanou cestu osudu a spraviti onu cestu od Skály ke Kouckovým a do návse
 a přes potok vystavěti most který sliboval sám vystavěti ale to zamítnuto pro velikou navážku u potoka a usneseno opraviti onu dříve jmenovanou která již skoro ani k jízdě nebyla ač <a id="antonín-kobr-fac949">Ant. Kobr</a> č. <a id="77-28dd2c">77</a> říkal že je dobrá. I navrhoval <a id="josef-soukup-006cf6">Jos. Soukup</a> zavézti cestu od potoka po Adámkovy (č 52) kamením na
 což dával svou hromadu a se svým potahem na svém voze se zavazoval na 40 for kamení a zrovna to samé J. Matura. Ale ostatní se k tomu neměli. <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek</a> č. <a id="54-a684ec">54</a> se vyjádřil že nejlépe spravit
-cestu hlinou skopanou z mezi ale uvolil se k ruční praci pro slabý potah i vůz k němuž se uvolil i jeho strýc <a id="františek-slavík-c9ac8f">Frant. Slavík</a> č. <a id="48-642e92">48.</a> <a id="bohumil-slavík-3192da">Bohumil Slavík</a> č. <a id="85-3ef815">85</a> se též uvolil k nakládání kamení vymlouvaje se
-že má svůj těžší vůz rozhurkaný, <a id="jan-šulc-fc9b24">Jan Šulc</a> se uvolil k práci a k půjčení vozu, <a id="františek-soukup-2e6a7b">Frant. Soukup</a> k práci,
-<a id="antonín-kobr-fac949">Ant. Kobr</a> řekl že nic dělat nepůjde ač nakonec šel a <a id="antonín-vitvar-7b08af">Ant. Vitvar</a> se ptal čim jím na to přispěje obec u čehož se pohádali se starostou a s <a id="josef-soukup-006cf6">Jos. Soukupem</a> který na obci nic nechtěl mimo povolení k vykopání příkopu po jejím pozemku pod chudobincem což povoleno. Dělání mostku přes potok za
-starou školou vůbec nešlo poněvadž na cementové roury ze kterých ho chtěli míti nechtěl nikdo
+cestu hlinou skopanou z mezi ale uvolil se k ruční praci pro slabý potah i vůz k němuž se uvolil i jeho strýc <a id="františek-slavík-c9ac8f">Frant. Slavík</a> č. <a id="48-642e92">48.</a> 
 
+<a id="bohumil-slavík-3192da">Bohumil Slavík</a> č. <a id="85-3ef815">85</a> se též uvolil k nakládání kamení vymlouvaje se že má svůj těžší vůz rozhurkaný, <a id="jan-šulc-fc9b24">Jan Šulc</a> se uvolil k práci a k půjčení vozu, <a id="františek-soukup-2e6a7b">Frant. Soukup</a> k práci, <a id="antonín-kobr-fac949">Ant. Kobr</a> řekl že nic dělat nepůjde ač nakonec šel a <a id="antonín-vitvar-7b08af">Ant. Vitvar</a> se ptal čim jím na to přispěje obec u čehož se pohádali se starostou a s <a id="josef-soukup-006cf6">Jos. Soukupem</a> který na obci nic nechtěl mimo povolení k vykopání příkopu po jejím pozemku pod chudobincem což povoleno. Dělání mostku přes potok za starou školou vůbec nešlo poněvadž na cementové roury ze kterých ho chtěli míti nechtěl nikdo dáti peníze a obec na ně též nepřidala z důvodu že přerušením cesty u Zlatníková háje do Roprachtic, <a id="jindřich-matura-619517">Jind. Maturou</a> nemá cesta ta pro ostatní občany významu a <a id="josef-soukup-006cf6">Jos. Soukup</a> se obával že kdyby je zaplatil, ostatní mu svůj díl nesplatí. A tak nakonec cesta poopravena trochu blátem, trochu kamením, udělán dříve jmenovaný příkop, potoku uděláno jedno řečiště místo třech a ostatní ponecháno prý k druhému roku.
 
-dáti peníze a obec na ně též nepřidala z důvodu že přerušením cesty u Zlatníková háje do Roprachtic, <a id="jindřich-matura-619517">Jind. Maturou</a> nemá cesta ta pro ostatní občany významu a <a id="josef-soukup-006cf6">Jos. Soukup</a> se obával že kdyby je zaplatil, ostatní mu svůj díl nesplatí. A tak nakonec cesta poopravena trochu blátem, trochu kamením, udělán dříve jmenovaný příkop, potoku uděláno jedno řečiště místo třech a ostatní ponecháno prý k druhému roku.
 Dne 1. června byla neobyčejná zima a druhý den ráno byl dokonce přimrazek.
 Dne 3. června koupila <a id="ludmila-nebeský-ce9d8d">Ludmila Nebeská</a> dcera <a id="petr-strnádek-837c93">Petra Strnádka</a> Palasova z Roprachtic od <a id="josef-liška-f30842">Josefa
 Lišky</a> ze Sklenařic zdejší domek č. <a id="87-c7e124">87</a> na Krumpešti jenž on po své tetě <a id="marie-hotovičková-9d2858">Marii Hotovičkové</a> zdědil za
 12 000 K. Její muž <a id="antonín-nebeský-522429">Ant. Nebeský</a> byl zelenář.
+
 Dne 4. červ. zemřel v nemocnici v Hořicích zdejší 72 let starý rodák <a id="josef-večerník-1fdbf4">Jos. Večerník</a> z č. <a id="20-98f137">20,</a> starosty Čeňka Večerníka bratr, bývalý pekař a hostinský v Roztokách u Jilemnice a pekař zdejšího Pecnařského družstva v č. <a id="98-ed3d2c">98</a> r. <a id="1910-ab7314">1910.</a>
 
 Dne 9. června dělal nemocný <a id="jaroslav-polouprutský-2606ab">Jaroslav Polouprutský</a> poslední vůly v níž odkázal domek své matce Anně a pro svou nemocnou ženu Marii do <a id="smrt-a332b5">smrti</a> byt a pro děti: <a id="jaroslav-jos-ludvík-e15cc7">Jarosl. Jos. Ludvika,</a> Annu a <a id="ludmila-marie-ddd793">Ludmilu Marii</a> do zletilosti. Závěť psal starosta Večerník a svědky byli rádní Večerník a <a id="vladislav-vodseďálek-a8e17e">Vladisl. Vodseďálek</a> č. <a id="42-a1d0c6">42.</a>
@@ -3044,11 +3141,14 @@ Dne 9. června dělal nemocný <a id="jaroslav-polouprutský-2606ab">Jaroslav Po
 Toho času si vzpoměla <a id="pavla-slavíková-6ba49a">Pavla Slavíková</a> č. <a id="53-d82c8d">53</a> na půjčku v obnosu 500 K na stavbu elektrárny pod
 Spálovem kterou učinila r. <a id="1921-9f6992">1921,</a> že s ní ještě úroky nebrala. I šel <a id="josef-soukup-006cf6">Jos. Soukup</a> v té věci do vysocké hosp. záložny která půjčky prostředkovala a tu vyšlo najevo že celý obnos i s úroky r. <a id="1927-e5b294">1927</a> někdo
 vyzvedl a dluhopis který Slavíkové ani dodán nebyl tam odvedl a její podpisy byly udělány starší ale vypsanou rukou.
+
 Také zde v tom čase mělo vojsko větší cvičení. Z Příchovic měli natažený telefonní drát, tuším do
 Bozkova a někdo neznámý jím ho mnoho m. zrovna na staroveště uřízl a v kolo stočený hodil do
 Berkova jetele. Dne 28. června měli postaveny dvě horská dělá za Svatovy a dali tam asi čtyři rány.
 S koňmi a s vozy byli na cestě od Adámkových pod Skálu. Potom druhý den byli s děli ve Stanovských končinách na Babcově a létadlo po nich střílelo.
+
 Dne 5. července večír Husova oslava <a id="oheň-92b25a">ohněm</a> za Trhovici na poli. <a id="josef-bouzek-3e34d8">Jos. Bouzka</a> č. <a id="65-fc490c">65</a> bez promluvy neb <a id="jan-petruška-364a5c">Jan Petruška</a> byl jaksi nemocen a bez hudby ač tato měla právě tu noc v hoření hospodě zkoušku k pouti, pouze s lampiony a se zpěvem.
+
 Dne 12. července zemřel <a id="josef-polouprutský-403545">Jos. Polouprutský</a> č. <a id="70-7cbbc4">70</a> bývalý majitel usedlosti č. <a id="78-35f4a8">78</a> u Svatů a před tím
 1/2 usedlosti č. <a id="20-98f137">20</a> u Vršťalů. Podávám zde krátké vypsání jeho rodu z novější doby jak jsem ho vyhledal v různých obecních spisech:
 
@@ -3056,36 +3156,28 @@ Dne 12. července zemřel <a id="josef-polouprutský-403545">Jos. Polouprutský<
 _**Václav Polouprutský**_ chalupník č. <a id="29-6ea9ab">29</a> r. <a id="1722-404dcc">1722</a> syn _**Adam Polouprutský**_ chalupník č. <a id="29-6ea9ab">29</a> r. <a id="1787-d860bd">1787</a>
 syn _**Josef Polouprutský**_ chalupník č. <a id="29-6ea9ab">29</a> syn  _**František Polouprutský**_ naroz. 17. 8. <a id="1807-1f1baa">1807</a> zemř. X. 6. 18XX rolník 1/2 č. <a id="20-98f137">20</a>
 1/2 č. <a id="19-1f0e3d">19</a> mlynářský
-I. manželka Marie dcera <a id="antonín-večerník-c197f0">Ant. Večerníka</a> č. <a id="71-e2c420">71</a>
-
-II. manželka Marie naroz. 2. 5. <a id="1814-155fa0">1814.</a> zemř. 8. 1. <a id="1901-d54e99">1901</a> dcera <a id="františek-hevák-ce1268">Frant. Heváka</a> č. <a id="62-44f683">62</a>
-
-syn <a id="františek-polouprutský-e22834">Frant. Polouprutský</a> nar. 27. 8. <a id="1848-7385db">1848</a> zemř. 21. 6. <a id="1926-5103c3">1926</a> rolník č. <a id="19-1f0e3d">19</a> syn <a id="josef-polouprutský-403545">Josef Polouprutský</a> nar. 29. 5. <a id="1854-49ad23">1854.</a> zemř. 12. 7. <a id="1928-5bce84">1928</a> rolník č. <a id="20-98f137">20</a> 1/2
-syn <a id="antonín-polouprutský-daffea">Antonín Polouprutský</a> nar. 21. 7. <a id="1856-3c947b">1856</a> truhlář v Bavořích Ehrenfriederdorf dcera Marie manželka Ferdinanda Polouprutského ve Vysokém nar. 9. 10. <a id="1850-8c3039">1850</a>
-zemř. 6. 1. <a id="1914-07a4e2">1914</a>
-
-dcera Anna manželka <a id="františek-polouprutský-e22834">Frant. Polouprutského</a> č. <a id="79-d1fe17">79</a> naroz.: 15. 8. <a id="1846-f45a10">1846</a>
+I. manželka Marie dcera <a id="antonín-večerník-c197f0">Ant. Večerníka</a> č. <a id="71-e2c420">71</a> II. manželka Marie naroz. 2. 5. <a id="1814-155fa0">1814.</a> zemř. 8. 1. <a id="1901-d54e99">1901</a> dcera <a id="františek-hevák-ce1268">Frant. Heváka</a> č. <a id="62-44f683">62</a> syn <a id="františek-polouprutský-e22834">Frant. Polouprutský</a> nar. 27. 8. <a id="1848-7385db">1848</a> zemř. 21. 6. <a id="1926-5103c3">1926</a> rolník č. <a id="19-1f0e3d">19</a> syn <a id="josef-polouprutský-403545">Josef Polouprutský</a> nar. 29. 5. <a id="1854-49ad23">1854.</a> zemř. 12. 7. <a id="1928-5bce84">1928</a> rolník č. <a id="20-98f137">20</a> 1/2 syn <a id="antonín-polouprutský-daffea">Antonín Polouprutský</a> nar. 21. 7. <a id="1856-3c947b">1856</a> truhlář v Bavořích Ehrenfriederdorf dcera Marie manželka Ferdinanda Polouprutského ve Vysokém nar. 9. 10. <a id="1850-8c3039">1850</a> zemř. 6. 1. <a id="1914-07a4e2">1914</a> dcera Anna manželka <a id="františek-polouprutský-e22834">Frant. Polouprutského</a> č. <a id="79-d1fe17">79</a> naroz.: 15. 8. <a id="1846-f45a10">1846</a>
 
 
 _**Josef Polouprutský**_ naroz. 29. 5. <a id="1854-49ad23">1854</a> zemř. 12. 7. <a id="1928-5bce84">1928</a> rolník 1/2 č. <a id="20-98f137">20</a> a č. <a id="78-35f4a8">78</a> truhlář
 I. manželka Karolina naroz. 2. 8. <a id="1860-96c5c2">1860.</a> Zemř. 22. 6. <a id="1899-6be533">1899</a> dcera <a id="františek-šalda-5244f5">Frant. Šaldy</a> č. <a id="13-c51ce4">13</a>
-II. manželka Anežka naroz. 15. 12. <a id="1849-cd63a3">1849.</a> zemř. 19
-
-syn <a id="josef-polouprutský-403545">Josef Polouprutský</a> naroz. 25. 10. <a id="1883-c45008">1883.</a> zemř. 23. 7. <a id="1884-f0fcf3">1884</a> dcera Pavlina manželka <a id="jindřich-matura-619517">Jindřicha Matury</a> č. <a id="78-35f4a8">78</a> nar. 18. 1. <a id="1889-681485">1889</a>
+II. manželka Anežka naroz. 15. 12. <a id="1849-cd63a3">1849.</a> zemř. 19 syn <a id="josef-polouprutský-403545">Josef Polouprutský</a> naroz. 25. 10. <a id="1883-c45008">1883.</a> zemř. 23. 7. <a id="1884-f0fcf3">1884</a> dcera Pavlina manželka <a id="jindřich-matura-619517">Jindřicha Matury</a> č. <a id="78-35f4a8">78</a> nar. 18. 1. <a id="1889-681485">1889</a>
 dcera Karolina manželka <a id="josef-marouska-9e7bfa">Jos. Marouska</a> ze Sklenařic nar. 17. 1. <a id="1885-d52377">1885</a> dcera Božena manželka <a id="josef-ditrych-3d4894">Jos. Ditricha</a> na Novém Světě nar. 19. 1. <a id="1895-059fdc">1895</a>
 
 
 Dne 15. července se odbývala na obviklém místě s obviklým koncertem naše pouť. Večer muzika bez pranice a aby byla sláva přec poněkud větší, zmlátil den před tím <a id="františek-zeman-4b3842">Frant. Zeman</a> ženu a usadil ji
 i s dcerami přes pouť pod stodolu a naházel prádlo do zahrádky a rozštípal necky a když je potom u soudu v úterý smířili, koupil nové.
+
 V té době nadělali velikou škodu na zelenině a směska jak housenky můry gammy takže někteří byli nuceni jmenované plodiny zaruchati, aby zabránili dalšímu rozšíření se housenek, hlavně do
 bramborů. Nejvíce byli postižení: <a id="josef-hladík-ab82c6">Jos. Hladík,</a> <a id="františek-šmíd-dd68ce">Frant. Šmíd</a> č. <a id="46-d9d4f4">46.</a> <a id="antonín-štěpánek-f387a6">Ant. Štěpánek,</a> <a id="františek-zeman-4b3842">Frant. Zeman,</a> starosta Večerník a <a id="františek-soukup-2e6a7b">Frant. Soukup.</a> Komise pro odhad živelních škod byla vyzvána ke zjištění v příčině slevy dani ale když se vidělo že by celá věc byla ničím neboť na slevu měli nárok jen ti kteří by přišli
 o 1/4 výnosu celého hospodářství, nechalo se toho. Jmenovaná komise se skládala z následujících:
 <a id="václav-večerník-a9ecb2">Václ. Večerník</a> předseda a členové: <a id="otakar-novák-3f8684">Ot. Novák.</a> <a id="františek-soukup-2e6a7b">Fr. Soukup</a> a <a id="františek-chlum-66e864">Fr. Chlum.</a>
+
 Dne 2. srpna ujal <a id="josef-novák-475dbc">Josef Novák</a> od svého otce <a id="josef-novák-475dbc">Josefa Nováka</a> usedlost č. <a id="43-17e621">43</a> u Zadních Vojáků s 1/4 bývalého statku Vojákovi.
 Dne 3. srpna zemřela ve Stanovém u Pece 91 let stará <a id="anežka-zemanová-ff7b26">Anežka Zemanová</a> výměnkářka a vdova po
 Čeňku Zemanovi rolníků ve Stanovém č. <a id="1-c4ca42">1.</a> pověstném z doby metingu, poslední jezdkyně na metingu na Petruškových Vrších r. <a id="1868-c164bb">1868.</a> babička Marie manželky zdejšího starosty Čeňka Večernika.
-Toho samého dne zemřel šedesátiletý **Jan Petrušk** a chalupník č. <a id="18-6f4922">18,</a> stavbvedoucí, obecní zeměměřič, první obecní náměstek, první obecní knihovník a první a posavádní starosta hasičský. Příčina <a id="smrt-a332b5">smrti</a> zastaralá přijice (sifilis). I v tom byl myslím první který zde od tohoto umřel. Chalupa č. <a id="18-6f4922">18</a> zvanou u Studnice po něm ujal syn <a id="vladimír-petrušek-e2ed46">Vladimír Petruška</a> obuvník s právem vdovy Marie na
-hospodaření na polích a 19. leté sestře Vlastě vyplatil 10 000 K.
+
+Toho samého dne zemřel šedesátiletý **Jan Petrušk** a chalupník č. <a id="18-6f4922">18,</a> stavbvedoucí, obecní zeměměřič, první obecní náměstek, první obecní knihovník a první a posavádní starosta hasičský. Příčina <a id="smrt-a332b5">smrti</a> zastaralá přijice (sifilis). I v tom byl myslím první který zde od tohoto umřel. Chalupa č. <a id="18-6f4922">18</a> zvanou u Studnice po něm ujal syn <a id="vladimír-petrušek-e2ed46">Vladimír Petruška</a> obuvník s právem vdovy Marie na hospodaření na polích a 19. leté sestře Vlastě vyplatil 10 000 K.
 O tomto rodu je známo následující:
 
 
@@ -3111,14 +3203,14 @@ k <a id="boj-1de92c">boji</a> přihrnuly ostatní: jako Čermáková žena Karol
 Čermácích a Bohumilův bratr Ladislav, matka Barbora, sestra Albína Hrádecká a jejich stoupencí
 <a id="františek-čermák-1668f0">Frant. Čermák,</a> jeho žena Pavlína a syn Karel jenž, aby to bylo slavnější mlátil klackem do plechového sudu co se ostatní dohromady hádali až je starosta Večerník přiměl k zalezení do stavení.
 Potom bylo zjištěno že motyka již měl Bouzek, byla <a id="františek-čermák-1668f0">Františka Čermáka</a> číslo č. <a id="15-9bf31c">15</a> že to všecko byl jeho návod.
+
 Dne 16. září ustanoveny ze Staré Vsi tyto osoby k porotě:
 
 **Kmeti:** **Porotci:**
+
 Václav Večerník, <a id="čeněk-večerník-bc4dff">Čeněk Večerník,</a> Frant. Soukup, <a id="josef-hladík-ab82c6">Jos. Hladík,</a> <a id="karel-koldovský-1a1a51">Karel Koldovský,</a>
 <a id="miloslav-vodseďálek-3a0430">Mil. Vodseďálek</a> vylosován, <a id="pavla-svárovská-1a5dbb">Pavla Svárovská,</a> <a id="josef-janda-e4c793">Jos. Janda</a> <a id="štěpán-hrádecký-fbe6f4">Štěpán Hrádecký,</a> <a id="barbora-housová-0f42dd">Barb. Housova</a>
-<a id="žofie-albrechtová-844659">Žofie Albrechtová,</a> <a id="bohumil-koptík-42870a">Bohumila Koptiková</a> č. <a id="75-d09bf4">75,</a> <a id="pavla-slavíková-6ba49a">Pavla Slavíková,</a> <a id="julie-šmídová-b743aa">Julie Šmídová,</a>
-
-<a id="božena-ducháčková-7cfe1b">Bož. Ducháčková</a> č. <a id="14-aab323">14.</a>
+<a id="žofie-albrechtová-844659">Žofie Albrechtová,</a> <a id="bohumil-koptík-42870a">Bohumila Koptiková</a> č. <a id="75-d09bf4">75,</a> <a id="pavla-slavíková-6ba49a">Pavla Slavíková,</a> Julie Šmídová,Bož. Ducháčková č. <a id="14-aab323">14.</a>
 
 
 Dne 22. září ujal <a id="josef-polouprutský-403545">Jos. Polouprutský</a> od otce <a id="josef-polouprutský-403545">Jos. Polouprutského</a> jeho chalupu č. <a id="89-764796">89</a> u Krumšů zvanou s pozemky v roly Markově.
@@ -3134,16 +3226,8 @@ Dne 11. listopadu zemřel 58 let starý <a id="františek-novák-8834ba">Frant. 
 
 Podávám zde rodokmen této větve rodu **Nováková** :
 
-_**Anna Nováková**_ naroz. 16. 6. <a id="1846-f45a10">1846</a> zemř. dcera <a id="františek-novák-8834ba">Frant. Nováka</a> domkaře č. <a id="57-72b32a">57</a>
-
-nemanželský syn Josef nar. 19. 9. <a id="1875-7e9e34">1875</a>
-nemanželský Václav nar. <a id="1881-b4568d">1881</a> v Jesenném vlastně Jan
-nemanželská dcera Anna nar. 16. 1. <a id="1873-d4b2ae">1873</a> zemř.
-
-nemanželský syn _**František Novák**_ nar. 29. 5. <a id="1870-d30528">1870</a> zemř. 11. 11. <a id="1928-5bce84">1928</a> podruh v č. <a id="34-e36985">34,</a> domkař č. <a id="37-a5bfc9">37,</a> obecní sluha 1924–1927
-jeho manželka Anežka naroz. 28. 5. <a id="1868-c164bb">1868</a> zemř. dcera <a id="josef-slavík-76a4f4">Josefa Slavíka</a> č. <a id="36-19ca14">36</a> dcera Božena naroz. 22. 2. <a id="1899-6be533">1899</a> zemř. 26. 1. <a id="1926-5103c3">1926</a> svobodná
-
-syn <a id="oldřich-novák-d3f052">Oldřich Novák</a> naroz. 14. 5. <a id="1896-e06f96">1896</a>
+_**Anna Nováková**_ naroz. 16. 6. <a id="1846-f45a10">1846</a> zemř. dcera <a id="františek-novák-8834ba">Frant. Nováka</a> domkaře č. <a id="57-72b32a">57</a> nemanželský syn Josef nar. 19. 9. <a id="1875-7e9e34">1875</a>
+nemanželský Václav nar. <a id="1881-b4568d">1881</a> v Jesenném vlastně Jan nemanželská dcera Anna nar. 16. 1. <a id="1873-d4b2ae">1873</a> zemř. nemanželský syn _**František Novák**_ nar. 29. 5. <a id="1870-d30528">1870</a> zemř. 11. 11. <a id="1928-5bce84">1928</a> podruh v č. <a id="34-e36985">34,</a> domkař č. <a id="37-a5bfc9">37,</a> obecní sluha 1924–1927 jeho manželka Anežka naroz. 28. 5. <a id="1868-c164bb">1868</a> zemř. dcera <a id="josef-slavík-76a4f4">Josefa Slavíka</a> č. <a id="36-19ca14">36</a> dcera Božena naroz. 22. 2. <a id="1899-6be533">1899</a> zemř. 26. 1. <a id="1926-5103c3">1926</a> svobodná syn <a id="oldřich-novák-d3f052">Oldřich Novák</a> naroz. 14. 5. <a id="1896-e06f96">1896</a>
 
 
 Dne 12. toho měsíce se odbývala schůze obecního zastupitelstva v příčině sem z Hamru dopravené
@@ -3153,21 +3237,39 @@ To se rozumí že u toho měli někteří hlavně ženské mnoho huby, že od č
 Nejvíce se v tom proslavili: <a id="amálie-rydvalová-411aa2">Amálie Rydvalová</a> č. <a id="77-28dd2c">77,</a> <a id="kateřina-skrbková-aff923">Kateřina Skrbkova</a> č. <a id="52-9a1158">52,</a> <a id="ludmila-nebeský-ce9d8d">Ludmila Nebeská</a> č. <a id="67-735b90">67,</a> <a id="anna-štěpánková-6597c1">Anna Štěpánková</a> č. <a id="22-b6d767">22,</a> <a id="josef-čermák-dac615">Jos. Čermák,</a> <a id="josef-janda-e4c793">Jos. Janda,</a> <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek,</a> <a id="jindřich-matura-619517">Jindřich Matura</a> a <a id="vilém-polouprutský-877f7e">Vilém
 Polouprutský.</a>
 V té samé schůzi dal <a id="josef-hladík-ab82c6">Jos. Hladík</a> návrh aby byl <a id="josef-ducháček-10f93b">Jos. Ducháček</a> z chudobince vypovězen.
+
 Dne 2. prosince se odbývaly první volby do okresního a zemského zástupitelstva. U nás ve škole a výsledek byl následující:
-okres č. <a id="1-c4ca42">1</a> Čs. národní demokracie (Kramář) 24 _(čísla za názvy stran dopsaná zřejmě dodatečně červeně)_
+okres 
+
+č. <a id="1-c4ca42">1</a> Čs. národní demokracie (Kramář) 24 _(čísla za názvy stran dopsaná zřejmě dodatečně červeně)_
+
 č. <a id="2-c81e72">2</a> Komunistická strana Československa 1
 
-č. <a id="3-eccbc8">3</a> Der vereinigten Deutchen Partein 3 č. <a id="4-a87ff6">4</a> Čs. Živnostensko obchodnická středostav. 5
-č. <a id="5-e4da3b">5</a> Čs. sociálně demokratická strana děl. 8 č. <a id="6-167909">6</a> Čs. strana lidová (klerikálové) 11
-č. <a id="7-8f14e4">7</a> Čs. str. národně socialistická (Klopáč) 58 č. <a id="9-45c48c">9</a> Republikánská strana zemědělská 88
+č. <a id="3-eccbc8">3</a> Der vereinigten Deutchen Partein 3 
 
+č. <a id="4-a87ff6">4</a> Čs. Živnostensko obchodnická středostav. 5
 
-země č. <a id="1-c4ca42">1</a> Čs. strana národněsocialistická 64
+č. <a id="5-e4da3b">5</a> Čs. sociálně demokratická strana děl. 8 
 
-č. <a id="3-eccbc8">3</a> Rep. strana zemědělského lidu 86 č. <a id="5-e4da3b">5</a> Čs. strana lidová 13
-č. <a id="7-8f14e4">7</a> Čs. živnostensko obchod. str. středostav. 3 č. <a id="8-c9f0f8">8</a> Čs. národní demokracie 22
+č. <a id="6-167909">6</a> Čs. strana lidová (klerikálové) 11
 
-č. <a id="9-45c48c">9</a> Komunistická 1 č. <a id="11-6512bd">11</a> Čs. soc. dem. strana dělnická 9 hlasů
+č. <a id="7-8f14e4">7</a> Čs. str. národně socialistická (Klopáč) 58 
+
+č. <a id="9-45c48c">9</a> Republikánská strana zemědělská 88 země 
+
+č. <a id="1-c4ca42">1</a> Čs. strana národněsocialistická 64
+
+č. <a id="3-eccbc8">3</a> Rep. strana zemědělského lidu 86 
+
+č. <a id="5-e4da3b">5</a> Čs. strana lidová 13
+
+č. <a id="7-8f14e4">7</a> Čs. živnostensko obchod. str. středostav. 3 
+
+č. <a id="8-c9f0f8">8</a> Čs. národní demokracie 22
+
+č. <a id="9-45c48c">9</a> Komunistická 1 
+
+č. <a id="11-6512bd">11</a> Čs. soc. dem. strana dělnická 9 hlasů
 
 
 Volební komise byly: do zemského: <a id="václav-večerník-a9ecb2">Václ. Večerník</a> předseda, <a id="karel-koldovský-1a1a51">Karel Koldovský</a> a <a id="františek-polouprutský-e22834">Frant. Polouprutský</a> členové a Štěp. Hrádecký a <a id="antonín-kobr-fac949">Ant. Kobr</a> náhradníci
@@ -3208,6 +3310,7 @@ Na pole jsme vyjeli dne 10. dubna a první oves jsme sili 1. května dole za Vrc
 27\. června jsme dopoložili trávu u domů k sušení a dosušily 29. na Petra a Pavla (39 uzlů) a v Končinách dosušeno 6. července 4 fůry.
 Jetel se začal pokládati 9. července za Vrchy na prostředním posevku (plaňák) a 18. dopoložen nad Kopcem a odvezen 23. července = 9 for a už 19. července jsme trhali úhor a 27. ruchali a 9. srpna dovozili hnůj pro seti žita které se začalo síti dne 29. srpna za Vrchy a doseto dne 4. září (5 hl.)
 Žitné žně jsme začali 9. srpna pod cestou či na Šandě a dokončeny 20. srpna za Vrchy (65 mandel).
+
 Ovesné žně 1. září a dosečeno 7. září, svázáno 9. a odvezen 11. září (75 mandel)
 Otava u domů vykrmena a v Končinách usušeno od 12. do 15. září = dvě fury.
 25\. září začato s kopáním bramborů a dokopáno 5. října a 13. října jsme dokončili polní práci.
@@ -3244,6 +3347,7 @@ měli pumpy, zamrzli jim jako Slavíkovi č. <a id="98-ed3d2c">98</a> a Hrádeck
 staroveská mlynář u Mokrů v Jablonci. Brambory všem lidem namrzly, někomu dokonce zmrzly.
 Hnůj lidem v chlévech za dobytkem zmrzal a dobytku na mnoha místech vemena namrzla a k tomu byl ještě nedostatek uhlí a co nejlepšího dne 18. února dopoledne od 9. do 10. hodin viděli lidé na
 obloze kol slunce duhový kruh a na tom kruhu ještě tři slunce zrovna taková jako slunce skutečné.
+
 Dne 20. ún. zemřel 86 roků starý <a id="františek-novák-8834ba">Frant. Novák</a> řečený Čáp bývalý zedník a chalupník č. <a id="94-f4b9ec">94</a> u Vršťalů kterouž chalupu prodal r. <a id="1923-414e77">1923</a> za 17 000 K a ty se mu tak rozešly že musel zemříti v chudobinci, byl nejstarším příslušníkem církve Čs. na Vysocku.
 
 
@@ -3252,9 +3356,7 @@ Rodokmen:
 _**Josef Novák**_ nar. 1. 11. <a id="1788-db957c">1788</a> zemřel + 183(?). Rolník č. <a id="59-093f65">59</a> a rychtář, syn <a id="františek-novák-8834ba">Fr. Nováka</a> č. <a id="59-093f65">59</a> manželka Anna naroz. <a id="1785-393c55">1785</a>
 
 syn Vít nar. 6. 7. <a id="1828-4496bf">1828</a> zemřel 17. 5. <a id="1903-944626">1903</a> poddruh v č. <a id="74-ad61ab">74</a> syn Frant. nar. 21. 10. <a id="1816-faacbc">1816</a> zemř. 15. 8. <a id="1876-ba9a56">1876</a> poddruh č. <a id="37-a5bfc9">37.</a>
-dcera Kateřina nar. 19. 11. <a id="1822-0e087e">1822.</a>
-
-dcera Anežka 21. 4. <a id="1825-ed519d">1825</a> ve Třiči.
+dcera Kateřina nar. 19. 11. <a id="1822-0e087e">1822.</a> dcera Anežka 21. 4. <a id="1825-ed519d">1825</a> ve Třiči.
 
 
 _**František Novák**_ narozen 21. 10. <a id="1816-faacbc">1816</a> zemřel 15. 8. <a id="1876-ba9a56">1876</a> poddruh v č. <a id="37-a5bfc9">37</a> syn J. Nováka 59.
@@ -3279,6 +3381,7 @@ Dne 23. května poznal u Kováře Tvaroha ve Vysokém <a id="čeněk-skrbek-69bf
 ukradl jedné noci s <a id="jindřich-matura-619517">Jindř. Maturou</a> a byli za to odsouzení k dalšímu <a id="vězení-9eb76f">vězení</a> a Šulc k dvouleté ztrátě volebního práva.
 Dne 2. června se odbývala v sadě pod Berkovi slavnost 25 trvání hasičského sboru a členové kteří nepřetržitě ta leta u něho byli, obdrželi čestné diplomy.
 Dne 4. června ujal <a id="františek-čermák-1668f0">Frant. Čermák</a> za 35 000 K od svého otce <a id="josef-čermák-dac615">Jos. Čermáka</a> usedlost č. <a id="93-98dce8">93</a> u Kašťáků řečenou s pozemky v rolích: Přidanově, Vršťalově a Čermákově.
+
 Dne 22. června se zde odbývaly dvě svatby najednou a sice <a id="josef-janda-e4c793">Jos. Janda</a> s <a id="marie-fišerová-c831c2">Marii Fišerovou</a> Pluchovou z Pazderny a <a id="božena-zákoutská-21bd44">Božena Zákoutská</a> z č. <a id="31-c16a53">31</a> s prasečím handlířem <a id="jaroslav-duštírou-4bacc3">Jar. Duštírou</a> od Bakova a nato 20. července koupil Pazdernu od Fišerové a jejího otce <a id="františek-plucha-9b44c5">Fr. Pluchy</a> za 1 500 K. <a id="josef-babec-c90561">Josef Babec</a> zvaný Šiml z Helkovic.
 29\. června v noci bylo uviděti severní záři.
 Dne 30. června byla obecní komise u Prutu zjistit hranice na požádání <a id="bohdan-pavlata-bfbc9e">Bohdana Pavlaty</a> a Karolíny Večerníčkové č. <a id="24-1ff1de">24</a> a zjistilo se že sice pozemek na nějž si Pavlata nárok činí jest veřejná cesta ale Večerníková že nechodila po něm nýbrž po Pavlatově.
@@ -3291,19 +3394,31 @@ Zedníci: <a id="kristián-čermák-643582">Kristián Čermák</a> č. <a id="71
 z Vysokého.
 Dne 14. červ. naše pouť s koncertem Vránovy hudby z Jablonce čs. mše s dvěma kněžími a se křtem Otakara syna <a id="otakar-novák-3f8684">Otakara Nováka</a> č. <a id="44-f71771">44.</a> Večer taneční zábava hudby vysocké kterou pořádali <a id="františek-zákoutský-96653f">Fr.
 Zákoutský</a> a Stan. Kobr jejichž zásluhou se staroveská hudba rozpadla.
+
 Dne 20. července ukradl šenkýř Kvarda ve Vysokém u kováře Rudolfa Kašťáka novou sekeru a u koláře <a id="jan-vodseďálek-b2cf6f">Jana Vodseďálka</a> kladivo ale přišlo se na to a přišlo mu to dráže než koupené.
 Dne 3. srpna v sobotu před vysokou pouti se zde odbývaly zase dvě svatby: <a id="františek-večerník-8718d8">Frant. Večerník</a> z č. <a id="20-98f137">20</a> s <a id="božena-večerníková-edac8c">Boženou Večerníkovou</a> č. <a id="76-fbd793">76</a> a <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a> s Amálii Hladíkovou z Vysokého č. <a id="29-6ea9ab">29,</a>
 její otec z č. <a id="52-9a1158">52</a> a matka z č. <a id="28-33e75f">28</a> ve Staré Vsi
+
 Dne 28. srpna nádherný západ slunce, na modrém pozadí neobyčejně jasné paprsky a druhý den navečír liják s hrozným hromobitím. <a id="františek-čermák-1668f0">Fr. Čermákovi</a> č. <a id="13-c51ce4">13</a> zapálil blesk mandel ovsa na poli v Patkově roly.
+
 Dne 1. října ještě byla bouřka, u č. <a id="93-98dce8">93</a> ještě kvetla jabloň, místy kvetly brambory.
 Dne 12. října měl stání <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="93-98dce8">93</a> stran toho, že jeho pes kousl <a id="jaroslav-večerník-b04539">Jaroslava Večerníka</a> bydlícího u Jindřišky Večerníkové č. <a id="92-92cc22">92</a> a jenž požadoval 5 000 K
-Dne 21. října volby do národního shromáždění. Výsledek u nás:
 
+Dne 21. října volby do národního shromáždění. 
 
-č. <a id="8-c9f0f8">8</a> Čs. strana národně socialistická sněmovna 87 hlasů senát 71 č. <a id="10-d3d944">10</a> Čs. sociálně demokratická sněmovna 5 hlasů senát 5
-č. <a id="19-1f0e3d">19</a> Čs. národní demokracie sněmovna 18 hlasů senát 16 č. <a id="14-aab323">14</a> Čs. strana lidová sněmovna 15 hlasů senát 13
+Výsledek u nás:
 
-č. <a id="15-9bf31c">15</a> Rep. strana zemědělského lidu sněmovna 83 hlasů senát 82 č. <a id="16-c74d97">16</a> Čs. živnostensko obchodnická sněmovna 9 hlasů senát 9
+č. <a id="8-c9f0f8">8</a> Čs. strana národně socialistická sněmovna 87 hlasů senát 71 
+
+č. <a id="10-d3d944">10</a> Čs. sociálně demokratická sněmovna 5 hlasů senát 5
+
+č. <a id="19-1f0e3d">19</a> Čs. národní demokracie sněmovna 18 hlasů senát 16 
+
+č. <a id="14-aab323">14</a> Čs. strana lidová sněmovna 15 hlasů senát 13
+
+č. <a id="15-9bf31c">15</a> Rep. strana zemědělského lidu sněmovna 83 hlasů senát 82 
+
+č. <a id="16-c74d97">16</a> Čs. živnostensko obchodnická sněmovna 9 hlasů senát 9
 
 
 Předseda volební komise <a id="václav-večerník-a9ecb2">Václ. Večerník</a> a zástupci okresního úřadu starosta Večerník a učitel
@@ -3315,6 +3430,7 @@ Porotci:
 
 
 Dne 31. října zemřel na souchotiny 28 let starý <a id="josef-kobr-b58788">Jos. Kobr</a> č. <a id="81-43ec51">81</a> faktor navleku koral.
+
 Rodokmen.
 
 _**Jan Kobr**_ nar. <a id="1778-6709e8">1778,</a> zemř. rolník č. <a id="77-28dd2c">77</a> z Brna u Jablonce manželka Eleonora nar. <a id="1781-8b6a80">1781,</a> zemř. …
@@ -3324,31 +3440,24 @@ syn Jan nar. 17. 9. <a id="1809-645098">1809</a> zemř. 14. 12. <a id="1876-ba9a
 _**Jan Kobr**_ nar. 17. 9. <a id="1809-645098">1809</a> zemř. 14. 12. <a id="1876-ba9a56">1876</a> syn <a id="jan-kobr-856e0c">Jan Kobra</a> č. <a id="77-28dd2c">77</a> manželka Anežka nar. <a id="1813-f542ea">1813</a> zemř. 18… dcera <a id="josef-skrbek-72e8a5">Josefa Skrbka</a> z Roztok.
 syn Jos. nar. 25. 10. <a id="1838-d76575">1838</a> zemř. 18… rolník č. <a id="77-28dd2c">77</a> syn Frant. nar. 23. 12. <a id="1840-201d72">1840</a> zemř. 9. 10. <a id="1925-0950ca">1925</a> rolník č. <a id="77-28dd2c">77</a>
 syn Čeněk nar. 28. 5. <a id="1844-06a15e">1844</a> zemř. 20. 11. <a id="1917-cb79f8">1917</a> rolník č. <a id="54-a684ec">54</a> syn Jan nar. 1. 11. <a id="1819-17c343">1819</a> zemř. 19… Chalupník č. <a id="56-9f6140">56</a>
-dcera Anna nar. 19. 12. <a id="1846-f45a10">1846</a> zemř. <a id="1882-e1314f">1882</a> dcera Anežka nar. 12. 12. <a id="1851-ff1418">1851</a>
-
-zemř. 20. 11. <a id="1883-c45008">1883</a>
+dcera Anna nar. 19. 12. <a id="1846-f45a10">1846</a> zemř. <a id="1882-e1314f">1882</a> dcera Anežka nar. 12. 12. <a id="1851-ff1418">1851</a> zemř. 20. 11. <a id="1883-c45008">1883</a>
 
 
 _**František Kobr**_ nar. 23. 12. <a id="1840-201d72">1840</a> zemř. 9. 10. <a id="1925-0950ca">1925</a> syn <a id="jana-kobr-1ee0f3">Jana Kobra</a> č. <a id="77-28dd2c">77</a> manželka Marie nar. 15. 11. <a id="1848-7385db">1848</a> zemř. 19. 10. <a id="1925-0950ca">1925</a> dcera <a id="františek-žanta-8689ca">Frant. Žanty</a> č. <a id="15-9bf31c">15</a>
 dcera Karolina nar. 2. 6. <a id="1885-d52377">1885</a> zemř. 17. 6. <a id="1885-d52377">1885</a> syn Josef nar. 13. 3. <a id="1873-d4b2ae">1873</a> rolnik č. <a id="81-43ec51">81</a> dcera Marie nar. 16. 4. <a id="1869-68c694">1869</a> manželka <a id="františek-jirouš-c7710c">Fr. Jirouše</a> v Poniklé č. <a id="143-903ce9">143</a>
 syn Ant. nar. 13. 6. <a id="1879-44a2e0">1879</a> rolník č. <a id="77-28dd2c">77</a>
-dcera Františka nar. 16. 6. <a id="1878-dc5d63">1878</a> manželka <a id="františek-jancák-8e0fdb">Fr. Jancáka</a> v Poniklé č. <a id="143-903ce9">143</a> syn Frant.
-
-nar. 9. 2. <a id="1888-2d1b2a">1888</a>
+dcera Františka nar. 16. 6. <a id="1878-dc5d63">1878</a> manželka <a id="františek-jancák-8e0fdb">Fr. Jancáka</a> v Poniklé č. <a id="143-903ce9">143</a> syn Frant. nar. 9. 2. <a id="1888-2d1b2a">1888</a>
 
 
 _**Josef Kobr**_ nar. 13. 3. <a id="1873-d4b2ae">1873</a> syn <a id="františek-kobr-88f09f">Fr. Kobra</a> č. <a id="77-28dd2c">77</a> manželka Anna nar. 28. 3. <a id="1878-dc5d63">1878</a> dcera <a id="jan-sochor-4f3410">Jana Sochora</a> z Podmoklic
-dcera Marie nar. 1. 3. <a id="1899-6be533">1899</a> manželka Aloise Noska v Roprachticích syn Ladislava
-
-nar. 4. 8. <a id="1910-ab7314">1910</a>
-
-syn Stanislav nar. 7. 5. <a id="1903-944626">1903</a> rolník č. <a id="81-43ec51">81</a>
+dcera Marie nar. 1. 3. <a id="1899-6be533">1899</a> manželka Aloise Noska v Roprachticích syn Ladislava nar. 4. 8. <a id="1910-ab7314">1910</a> syn Stanislav nar. 7. 5. <a id="1903-944626">1903</a> rolník č. <a id="81-43ec51">81</a>
 
 
 Dne 7. listopadu dožali bratří Housové oves.
 Dne 13. listopadu přišel k Vilému Polouprutskému agent fi. L Benz a spol. Třebíč v příčině někým na něho učiněné objednávky motoru.
 Dne 19.listop. odbýval Novák z Loužnice zástupce fi. Bächer v Roudnici nad L. zkoušku ruchadel
 (samochodů) na Housově poli v roli Vitošově pod Vrchy. Jedno osvědčivší se si koupil <a id="františek-zeman-4b3842">Fr. Zeman.</a>
+
 Dne 20.listop. ujal <a id="josef-soukup-006cf6">Josef Soukup</a> od své manželky Pavliny 1/2 její poloviny usedlostí č. <a id="53-d82c8d">53</a> u Vodseďálků za 40 000 K.
 
 
@@ -3379,9 +3488,12 @@ s Blahoutem o té věci popřela.
 10\. ledna se odbývalo konečné soudní stání <a id="karel-koldovský-1a1a51">Karla Koldovského</a> s Bohumilem Bouzkem jakožto dohra hádky dne 9. prosince <a id="1929-139f08">1929</a> v příčině zapouštění vody ze studně Koldovským na louku ježto voda tekla po pěšině čímž vznikalo bláto a byla obava že s nastalými mrazy bude chodění po ni pro
 led nemožným. Bouzek odsouzen k pokutě 30 K a Koldovský musel zaplatit 500 K výloh neb si na to vzal také zástupce a svědci mu selhali. Jeho 10ti letá dcera Zdeňka řekla že Bouzek tátovi nadával, ale
 večír a né odpoledne až 16ti letá <a id="marie-nováková-7833a4">Marie Nováková</a> č. <a id="13-c51ce4">13</a> že byla u Javůrku ve stavení a neslyšela nic a že jí pouze pan Koldovský navedl aby vypovídala jakoby Bouzek mu nadával shniláte a třetí svědek starosta Večerník řekl že nebylo možno rozumět to co komu kdo nadával neboť řvali obá stejně.
+
 Dne 15. ledna odpoledne ve 4 hod. za svitu slunce přišla drobná přeprška a na východě se objevila duha velmi jasná.
+
 Dne 14. února po půlnoci vyhořelo stavení č. <a id="90-861398">90</a> chalupa u doleního mlýna <a id="václav-polouprutský-070419">Václava Polouprutského.</a> Vystaveno opět ten samý rok od cihel a s taškovou střechou. <a id="oheň-92b25a">Oheň</a> asi vznikl od komína jenž byl špatný a loubové trámy doň byly zasazeny a ve velikém nebezpečí byl mlýn a hlavně stodola
 a ještě k tomu byla jasná měsíčná noc takže nebylo zář vidět a tak půl vsi o ničem nevědělo. U Smetalů a u Petrů je vzbudila mlynářová děvečka <a id="anna-kubovčáková-4fe4d7">Anna Kubovčáková</a> slovačka a oni ještě nic nevidouce nevěděli co si o tom myslet.
+
 Dne 18. ún. večír schůze zemědělců v dolení hospodě v příčině zemědělské krise. Mluvčí: <a id="václav-metelka-e1da4e">Václ.
 Metelka</a> Gitů ze Sklenařic a <a id="josef-hartig-dad984">Jos. Hartig</a> ze Třiče. Špatné vyhlídky do budoucna. Z té samé příčiny byla potom 25. května ve Vysokém veliká manifestace zemědělského lidu že se na nás tlačí nouze
 následkem toho že jsou naše výrobky levné a nikdo jich nekupuje. Mluvili asi 3 řečníci a byl průvod s hudbou a se selskou jízdou se slečinkami v národních krojích na koních s parádními postroji
@@ -3390,9 +3502,7 @@ V únoru prodali bratři Housové dříví na onom klínu pozemku pod cestu nad 
 Dobiáše koupili za 1200 K. <a id="františek-zeman-4b3842">Frant. Zeman</a> a jeho budoucí prý zeť. <a id="karel-čermák-e55a29">Karel Čermák</a> ač s Housi byli ve zlém a 10. března se přišlo na to že <a id="dobiáš-housům-b8c656">Dobiáš Housům</a> přikrádal s Buďárkovím vědomím dříví mimo
 jmenovaný pozemek a pařezy se zakrývaly drnem neb se černili popelem z <a id="oheň-92b25a">ohniště</a> a jeden smrk porazili <a id="josef-palasa-de2497">Jos. Palasovi</a> č. <a id="33-182be0">33</a> a též v kůpách roští Čermáka a Zemana kteří jim pomáhali a nalezl vrchní strážmistr Pohanka silné kusy dřeva ale je nechtěli Housové k soudu popotahovat poněvadž jsou
 s Čermákem v příbuzenstvu a tak věc dopadla tak že Buďárek vrátil Čermákovi a Zemanovi peníze a oni že Housům nesmí do lesa a roští a pařezy vrátil co na náhradu s 1000 K Housům a dokončení
-práci že si bude říditi sám ježto Dobiáš též do lesa nesmí a hned vzápětí udal někdo Housi že neměli úřední povolení ke kácení za což byli odsouzení k 120 K pokuty a Buďárek dne 5. června odsouzen na 8 dní <a id="vězení-9eb76f">vězení</a> a když se dal do pláče změněno mu to v 60 K pokuty. Potom ale stejně někdo z hořeního konce vsi s vozem Housům roští <a id="krádež-687541">kradl</a> což Čeňka Housu tak rozčílilo že nevida ani
-
-nesmyslnost svého počínání a necítě se vztekem rozházel na Trhovici dne 11. června v poledne fůru otýpek kterou tam vyvezl ze svého háje <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> švakrovi Štěpánů Hrádeckému, mysle že to je s jejích háje a měl za ten omyl a za to že jim řekl zloději, dát 100 K chudinskému ústavu
+práci že si bude říditi sám ježto Dobiáš též do lesa nesmí a hned vzápětí udal někdo Housi že neměli úřední povolení ke kácení za což byli odsouzení k 120 K pokuty a Buďárek dne 5. června odsouzen na 8 dní <a id="vězení-9eb76f">vězení</a> a když se dal do pláče změněno mu to v 60 K pokuty. Potom ale stejně někdo z hořeního konce vsi s vozem Housům roští <a id="krádež-687541">kradl</a> což Čeňka Housu tak rozčílilo že nevida ani nesmyslnost svého počínání a necítě se vztekem rozházel na Trhovici dne 11. června v poledne fůru otýpek kterou tam vyvezl ze svého háje <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> švakrovi Štěpánů Hrádeckému, mysle že to je s jejích háje a měl za ten omyl a za to že jim řekl zloději, dát 100 K chudinskému ústavu
 a jím na 25 lahví piva, ale jeho odkládavost to přivedla tak, že když určený den přešel, Polouprutský dal věc advokátovi a vyzvednutí žaloby stálo Housu 600 K.
 Dne 8. břez. vyšetřoval četník nepodepsané udání na <a id="josef-soukup-006cf6">Jos. Soukupa</a> že má týž pod okny stoh slámy a obroka a kterýž musel jmenovaný odstraniti a vystavěl si ještě týž rok na tom samém místě stodolu.
 
@@ -3438,9 +3548,7 @@ Z 25 na 26. červen. v noci přišel veliký liják s bouřkou a větrem, na ele
 6\. července bylo tak zv. obecní právo, starosta Večerník, náměstek Hladík a rádní Večerník na požádání Anežky Soukupové, zjistit hranice jejího pozemku a hranice usedlosti č. <a id="13-c51ce4">13</a> <a id="františka-nováková-e4cc6b">Fr. Novákové.</a>
 Objeveny zanesené mezníky jež nahrazeny novými a dáno za pravdu č. <a id="13-c51ce4">13.</a>
 19\. červc. naše pouť s koncertem s 18 hudebníky za deštivého počasí. Obviklé bohoslužby se musely proto odbývat ve škole. Večer obviklá taneční zábava s hojnou návštěvu.
-21\. června koupili <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> a <a id="marie-janoušková-38607b">Marie Janoušková</a> od otce <a id="josef-vodseďálek-970bd1">Jos. Vodseďálka</a> usedlost č. <a id="9-45c48c">9</a> u Hajnů o výměře 60 korců s pozemky v roli Hajnově a Starově a po zbořených domech č. <a id="2-c81e72">2,</a> <a id="5-e4da3b">5,</a> <a id="7-8f14e4">7</a>
-
-a <a id="8-c9f0f8">8.</a>
+21\. června koupili <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> a <a id="marie-janoušková-38607b">Marie Janoušková</a> od otce <a id="josef-vodseďálek-970bd1">Jos. Vodseďálka</a> usedlost č. <a id="9-45c48c">9</a> u Hajnů o výměře 60 korců s pozemky v roli Hajnově a Starově a po zbořených domech č. <a id="2-c81e72">2,</a> <a id="5-e4da3b">5,</a> <a id="7-8f14e4">7</a> a <a id="8-c9f0f8">8.</a>
 
 Toho dne sem zavítalo loutkové divadlo <a id="anna-hájková-2b4b58">Anny Hájkové</a> z Poličan u Hořic což se zde nestalo od r. 1910 a pobylo zde 14 dnů.
 24\. srpna přistihl <a id="františek-čermák-1668f0">Fr. Čermák</a> Přidanů, Prokopa Janduru <a id="krádež-687541">kradoucího</a> mu zelné hlávky a jal se ho pronásledovati a když ho dostihl pustil se do něho ale nebýt naskytnuvšího se tam <a id="václav-novák-4fa2e7">Václ. Nováka</a>
@@ -3464,10 +3572,9 @@ vyřídí a starosta za celoroční práci 500 K. Den před tím měl nedorozum�
 27\. října ráno bylo bílo a během dne se taková vánice strhla jako nikdy v zimě a odpoledne se vítr vyvrcholil že mnoho stromů vyvrátilo a co nadělalo s telegrafními sloupy a s vedením elektriky to
 se ani vypsat nedá. Na vedení přes staroveská vrcha od Barejtova kopce zůstal stát první dvoják na
 Vitošově roly, druhý jednoduchý na Konšalově, třetí dvoják u Čermákové cesty a potom až v Hajnově roly a dal zas žádný.
-16\. listopadu se odbývala v hoření hospodě na popud hostinského Ducháčka schůze zájemců elektriku na níž promluvil o výhodách elektriky <a id="arnošt-kučera-cdcca6">Arnošt Kučera</a> z Vysokého. Návštěva slabá. Pro
+16\. listopadu se odbývala v hoření hospodě na popud hostinského Ducháčka schůze zájemců elektriku na níž promluvil o výhodách elektriky <a id="arnošt-kučera-cdcca6">Arnošt Kučera</a> z Vysokého. Návštěva slabá. 
 
-
-zavedení elektriky byl nejvíce sám Ducháček a proti <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="15-9bf31c">15.</a> I usneseno, aby starosta žádal u Svazu v Hradci Král. o rozpočet na elektrisaci naší obce.
+Pro zavedení elektriky byl nejvíce sám Ducháček a proti <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="15-9bf31c">15.</a> I usneseno, aby starosta žádal u Svazu v Hradci Král. o rozpočet na elektrisaci naší obce.
 1\. prosince kopali Housové brambory. Hned 29. listopadu se vyjasnilo a druhý den vysocké pouti bylo tak krásně a teplo že šli včely z úlů.
 2\. prosince sčítání lidu. Sčítací komisař <a id="václav-večerník-a9ecb2">Václav Večerník.</a> Přítomných obyvatel 374 můžu 170, žen
 204, čs. vyznání 259. Řk. 58 bezvyznání 57.
@@ -3520,9 +3627,11 @@ staroveští mládenci a družice zaplatili za rozbitou lampu 50 K a pokutu za r
 20 K ačkoli šli úplně tiše. Tak zaplatil pachatel oněch 50 K a na onu pokutu zaplatili <a id="josef-svatý-f45fee">Jos. Svatý</a> 3 K,
 <a id="ladislav-kobr-4cb07e">Lad. Kobr</a> 3 K, <a id="josef-večerník-1fdbf4">Jos. Večerník</a> truhlář, <a id="josef-šmíd-ec9534">Jos. Šmíd,</a> <a id="bohuslav-večerník-862028">Bohusl. Večerník</a> Smetalů, <a id="petr-slavík-6944fb">Petr Slavík</a> Vlášků, <a id="antonín-slavík-4fc746">Ant.
 Slavík</a> č. <a id="53-d82c8d">53,</a> <a id="václav-přibyl-813bb9">Václ. Přibyl,</a> Milosl. Olič a <a id="antonín-skrbek-0351fb">Ant. Skrbek</a> po 2 K. <a id="josef-přibyl-cb43e9">Jos. Přibyl</a> a <a id="jindřich-večerník-2c8074">Jindř. Večerník</a> hostinský nezaplatili.
+
 Dne 3. břez. zemřel po dlouhé nemoci na rakovinu žaludku 47 letý <a id="josef-hladík-ab82c6">Jos. Hladík</a> majitel usedlosti č. <a id="35-1c383c">35</a> u Marků, náměstek starosty, býv. starosta a pokladník obce, hasičský velitel, člen čs. církevní
 rady starších a účastník rakouského vpádu do Srbska a ústupu tam odtud r. <a id="1914-07a4e2">1914.</a> Na jeho místo do obec. zást. byl povolán <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> a náměstkem zvolen dosavádní rádní Večerník a za rádního
 zvolen <a id="josef-bouzek-3e34d8">Jos. Bouzek</a> 11. března.
+
 Dne 6. května se odbýval obhad na jmenovanou usedlost č. <a id="35-1c383c">35</a> jejímž majitelem se stal 12 letý <a id="josef-hladík-ab82c6">Jos.
 Hladík</a> a obhádnuta za 73 000 K.
 
@@ -3531,6 +3640,7 @@ Slavík</a> Vlášků.
 
 Dne 2. dubna na Zelený čtvrtek v 7 hod. večer při jarním počasí bylo zatmění měsíce.
 3\. dubna se oběsil na dratvích u řimsy 45 letý obuvnický dělník <a id="josef-koutský-2fca02">Jos. Koutský</a> řečený Švec Hotovičku č. <a id="69-14bfa6">69</a> jenž byl as 1/2 roku vdovcem a asi přes týden co vyhnal dvacetiletou dceru Marii a svého otce a tak skončil po ševcovsku na dratvích a starosta ho uřízl jeho knejpem.
+
 4\. května pak koupil od jeho otce <a id="josef-koutský-2fca02">Jos. Koutského</a> za 5 000 K domek č. <a id="69-14bfa6">69</a> u Hotovičků <a id="jan-fišer-b95fd7">Jan Fišer</a> ze Stromkovic jenž zde vyráběl dřevěné figurky Krakonoše.
 8\. dubna vykonána <a id="oldřich-polouprutský-67d67c">Old. Polouprutským</a> č. <a id="58-66f041">58</a> sbírka na Červ. kříž vynesla 68 kč. Nejvíce dala <a id="františka-slavíková-bc8168">Fr.
 Slavíková</a> 50 K a nejméně A. Polouprutská č. <a id="11-6512bd">11</a> (50 h).
@@ -3555,64 +3665,76 @@ jak k té druhé dráze přišli?
 (podplukovník).
 Ve škole staly se v září tyto změny: učitel <a id="vojtěch-lavický-9611c1">Vojt. Lavický</a> odešel na svoji žádost na obec. školu do
 Vysokého a za něho sem dosazen prozatímní 26 letý <a id="josef-koudelka-9271af">Jos. Koudelka</a> z Jilemnice a už 23. 9. přesazen do Bratrouchova a sem prozatímně dosazena přivlacká učitelka <a id="anna-vránová-ee1428">Anna Vránová</a> z Vojtěšic.
+
 27\. září měli být obecní volby a proto byla dne 9. starostou Večerníkem do hoření hospody schůze voličů na popud vedoucího zemědělské organisace <a id="františek-soukup-2e6a7b">Frant. Soukupa</a> jenž se dohodl s <a id="oldřich-ducháček-8cc292">Oldř.
 Ducháčkem</a> o pokus k postavení kandidátní listiny společné. Ve schůzi již se sůčastnilo 84 voličů navrhoval <a id="jindřich-večerník-2c8074">Jindř. Večerník</a> č. <a id="98-ed3d2c">98</a> aby se postavila kandidátka občanská beze všech stran proti čemuž
 se opřel <a id="josef-ducháček-10f93b">Jos. Ducháček</a> a tak prosadil svou že postavena podle zastoupení stran v posledních parlamentních volbách a tak postavena následovně:
+
 <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> dosavádní starosta
 
 <a id="václav-večerník-a9ecb2">Vác. Večerník</a> rolník č. <a id="39-d67d8a">39</a>
-<a id="františek-soukup-2e6a7b">Frant. Soukup</a> rolník č. <a id="55-b53b3a">55</a> zemědělci
+
+<a id="františek-soukup-2e6a7b">Frant. Soukup</a> rolník č. <a id="55-b53b3a">55</a> 
+
+zemědělci
+
 <a id="františek-chlum-66e864">Frant. Chlum</a> rolník č. <a id="79-d1fe17">79</a>
 
 <a id="františek-albrecht-240899">Frant. Albrecht</a> mlynář č. <a id="40-d64592">40</a>
+
 <a id="josef-ducháček-10f93b">Jos. Ducháček</a> nájem. v chudobynci
+
 <a id="kamil-vodseďálek-ea8e1f">Kam. Vodseďálek</a> zedník č. <a id="62-44f683">62</a>
 
 <a id="antonín-skrbek-0351fb">Ant. Skrbek</a> tov. mistr č. <a id="52-9a1158">52</a>
+
 
 nár. socialisté
 
 <a id="bohdan-pavlata-bfbc9e">Bohd. Pavlata</a> domkař č. <a id="55-b53b3a">55</a>
 
 <a id="josef-polouprutský-403545">Jos. Polouprutský</a> chalupn. č. <a id="89-764796">89</a>
-<a id="otakar-novák-3f8684">Otakar Novák</a> rolník č. <a id="44-f71771">44</a> nár. demokracie
 
-živn.
+<a id="otakar-novák-3f8684">Otakar Novák</a> rolník č. <a id="44-f71771">44</a> 
+
+
+nár. demokracie živn.
 
 <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> rolník č. <a id="57-72b32a">57</a>
+
+
 
 Náhradníci
 
 <a id="bohumil-slavík-3192da">Bohum. Slavík</a> rolník č. <a id="85-3ef815">85</a>
 
+
 zemědělci
 
 <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> rolník č. <a id="19-1f0e3d">19</a>
+
 <a id="františek-liška-568223">Frant. Liška</a> chalupník č. <a id="17-70efdf">17</a>
 
 nár. socialisti
 
 <a id="oldřich-polouprutský-67d67c">Oldř. Polouprutský</a> navlékač č. <a id="58-66f041">58</a>
-<a id="františek-polouprutský-e22834">Frant. Polouprutský</a> faktor č. <a id="11-6512bd">11</a> nár. dem.
-Štěp. Hrádecký obchodník č. <a id="94-f4b9ec">94</a> živn.
 
+<a id="františek-polouprutský-e22834">Frant. Polouprutský</a> faktor č. <a id="11-6512bd">11</a> 
+
+nár. dem.
+
+Štěp. Hrádecký obchodník č. <a id="94-f4b9ec">94</a> 
+
+živn.
 
 
 zemědělci
-
-
 
 nár. socialisté
 
-
-
 nár. demokracie živn.
 
-
-
 zemědělci
-
-
 
 nár. socialisti
 
@@ -3626,11 +3748,13 @@ tropily kvůli tomu. Něco pravdy ovšem na tom bylo že je nechtěli ani jejich
 A tak při volbách jež řidil nejstarší výbor Vodseďálek volili si nar. socialisté náměstka a I. rádního či jak Duchaček stále chtěl I. a II. náměstka a zemědělská starostu a II. rádního i zvolen podle těch převrácených voleb nejprv náměstkem <a id="josef-ducháček-10f93b">Jos. Ducháček</a> 4 hlasy starostou a 1 lístek prázdný
 a <a id="antonín-skrbek-0351fb">Ant. Skrbek</a> 9 hlasy a 1 lístek prázdný I. rádním, potom <a id="čeněk-večerník-bc4dff">Čeněk Večerník</a> 4 hlasy starostou a 1 hlas
 <a id="václav-večerník-a9ecb2">Václ. Večerník</a> a konečně II. rádním 4 hlasy <a id="václav-večerník-a9ecb2">Václ. Večerník</a> 4 hlasy a 1 hlas dostal <a id="františek-soukup-2e6a7b">Frant. Soukup.</a>
+
 21\. září měl zde přednášku v dol. hospodě ovocném stromoví za účasti 15 občanů, referent zemědělské rady ing. <a id="cyril-kolesnyk-68b451">Cyril Kolesnyk</a> ruský emigrant z Ukrajiny.
 23\. září začali bři Housové žito pokládat, toho dne nastalo vyvrcholení dlouhých dešťů, v noci strašlivý vítr všechny ovesné panáky a místy i mandele sporážel a těch bylo velmi mnoho neboť
 sotva 10 hospodářů měl oves doma a na to hned strašný liják přišel a ten trval dva dny takže byl oves jak z potoka vytažený a ten vítr byl tak silný že u Přidanů vyvrátil velikou jabloň s hojnou
 úrodu a u Brňáků rozlomil velikou starou lípu, zelí všecko vyváhalo, mák který byl již následkem dlouhých dešťů makovicích zrostlý porazilo, oves co místy ještě stál od krupek a větru byl vytlučen
 a ovoce jehož byl toho roku mnoho bylo na zemi.
+
 Dne 1. října se dostal za nepřítomnosti domácích odpoledne oknem v němž vyřízl proti riklikům sklo, neznámý <a id="zloděj-f8d6af">zloděj</a> do světnice č. <a id="85-3ef815">85</a> a ukradl tam 300 K peněz a hospodářů bratru <a id="petr-slavík-6944fb">Petru Slavíkovi</a> hodinky a 2 řetízky v ceně 300 K.
 10\. října dokončili Housové žitné žně.
 28\. října odpoledne začal padat sníh a padal celý druhý den a večer se blýskalo a druhý den potom se tolik sněhu shrnulo že ho místy bylo pokolena a taková vánice se strhla že to není někdy v zimě až vítr smrky lámal a ještě 1. listop. na svátek Všech Svatých museli si lidé na hřbitově s hrobů smésti sníh by je mohli vyzdobiti ale druhý den začalo pršet a za 2 dny byl sníh pryč.
@@ -3640,8 +3764,11 @@ Sbírka na vyhořelou slovenskou ves Važec vynesla 61 K. Vykonali ji 8. listopa
 
 11\. prosince se odbývala první schůze nového obec. zást. v níž zvolení do finanční komise:
 <a id="otakar-novák-3f8684">Ot. Novák,</a> <a id="bohuslav-novák-3f87fc">Bohusl. Novák,</a> <a id="bohdan-pavlata-bfbc9e">Bohd. Pavlata,</a> <a id="oldřich-ducháček-8cc292">Oldř. Ducháček,</a> <a id="josef-čermák-dac615">Jos. Čermák</a> a <a id="jindřich-večerník-2c8074">Jindřich Večerník.</a>
+
 Večerník zvolen též za učitele Lavického do finanční komise. Stavební komise = představenstvo a revisory dávky z nápojů opět Polák a Chlum.
+
 R. <a id="1931-15d185">1931</a> jích zde zemřelo 9 a narodilo se 8.
+
 Na pole jsme vyjeli 3. května a 5. jsme začali sázet brambory. Všech jich vsaděno 16 1/2 hl. a dosázeny 15. květ.
 
 
@@ -3678,9 +3805,11 @@ O poukázky stravovací akce ministerstva sociál. péče se u nás hlásili v t
 <a id="josef-polouprutský-403545">Josef Polouprutský</a> <a id="kamil-vodseďálek-ea8e1f">Kam. Vodseďálek,</a> Krist. Čermák, <a id="václav-přibyl-813bb9">Václ. Přibyl,</a> A. Soukupová, <a id="josef-hýrek-568f36">Jos. Hýrek,</a>
 A. Večerníková, <a id="václav-polouprutský-070419">Václ. Polouprutský,</a> <a id="vladislav-polouprutská-f6041c">Vl. Polouprutská,</a> <a id="věra-poláková-6131b5">Věra Poláková,</a> <a id="emilie-ropalová-5d9926">Em. Ropalová,</a> <a id="jaroslav-udatný-752b83">Jar. Udatný,</a>
 <a id="jaroslav-polouprutský-2606ab">Jar. Polouprutský,</a> <a id="stanislava-zákoutská-b586db">St. Zákoutská.</a>
+
 Posledních 14 bylo po revisi okresním pořadem z přídělu vyloučeno a příděl z 500 K zvýšen
 1500 K. Potraviny měli se na poukazi odebírati u obou zdejších obchodníků polovičkou, ale nikdo neměl býti nucen kam má jít a tak měl pokaždé více poukázek Hrádecký na což si Koldovský na
 okresním úřadě stěžoval dělaje z toho věc takovou jakoby rozdělovací komise nebo starosta naváděl k nákupu Hrádeckého.
+
 Dne 6. března v neděli za Vrchy v dolích pod sv. Josefem měla mládež závody na ližích; snad na
 <a id="1000-a9b7ba">1000</a> diváků. Nejlépe skákal Milosl. Chlum; 23 m.
 
@@ -3706,7 +3835,9 @@ v příčině zřízení nádrže pod č. <a id="65-fc490c">65</a> K níž pozn�
 čast na podílníky podle majetkových poměrů (č. 20, 19, 79 po 70 K) a <a id="josef-bouzek-3e34d8">Jos. Bouzek</a> se uvolil namístě peněz na dovoz materiálu a Krist. Čermák na zednickou práci se uvolil. Usnesení se potom nelibilo těm jenž do schůze nepřišli; tak <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="93-98dce8">93</a> chtěl dáti 70 K místo navržených
 120 K a <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="15-9bf31c">15</a> nechtěl dáti nic, že prý nádrž nepotřebuji ježto mají pod domem studni ale nakonec zaplatili.
 29\. červnc. zdvíhaly vazbu na nové stodole Štěp. Hrádeckého č. <a id="94-f4b9ec">94</a> u Vršťalů. Stavěli ji <a id="josef-strnádek-5632c6">Jos. Strnádek</a> z Roprachtic a Stan. Kochánek č. <a id="26-4e732c">26.</a>
+
 21\. srp. zvoleni do honeb. výboru: <a id="václav-večerník-a9ecb2">Václ. Večerník</a> předseda, <a id="františek-chlum-66e864">Fr. Chlum,</a> <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> a <a id="josef-janda-e4c793">Jos. Janda</a> členové a <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> a <a id="františek-kobr-88f09f">Fr. Kobr</a> č. <a id="26-4e732c">26</a> náhradníci.
+
 1\. září začal na zdejší školy vyučovat, bývalý zdejší učitel <a id="josef-knob-0a406d">Jos. Knob</a> ale učil as 14 dní a byl přeložen na měšťanskou do Vysokého a zde ustanovena zase <a id="anna-vránová-ee1428">Anna Vránová.</a>
 20\. t. m. zatčen zdejší rodáka z č. <a id="77-28dd2c">77</a> <a id="františek-kvarda-1ed026">Frant. Kvarda</a> protože svojí chalupu ve Sklenařicích zapálil chtě dostati pojistné a sehnati něco prosbou a přitom shořela sousedu Nosálovi stodola. Jeho syn
 vzal vinu na sebe že prý zapálil on vida otce ve veliké bídě a chtě mu pomoci a porota oba osvobodila.
@@ -3717,15 +3848,19 @@ trávu na mezi a <a id="antonie-večerníková-57112e">Antonie Večerníková</a
 Věc se dostala k soudu.
 Druhé bylo že výše zmíněná nadrž 33./ 9. dostavěná Čermákem a <a id="kamil-vodseďálek-ea8e1f">Kam. Vodsedělkem</a> byla napuštěna a nedržela vodu a třetí že odpoledne se odbývala dražba na zdejší honitbu jíž vydražil za
 1 750 K prof Vacek z hosp. školy ve Vysokém.
+
 7\. října dosili Housové žito a 12. začali žít oves. Žitné žně neměli neb neměli loňský rok žito seté.
 Kus ovsa nad domem jim zůstal přes zimu a brambory vykopali 4. prosince.
 26\. listop. po 6. hod. večer na západní obloze se při zamračeném a deštivém počasí náhle rozsvětlilo. Snad to přeletěl povětroň.
+
 Někdy v tom čase vyšetřoval vrchstrážmistr Pohanka co je pravdy na anonimním udání že <a id="karel-koldovský-1a1a51">Karel
 Koldovský</a> č. <a id="47-67c6a1">47</a> rolník v lese v Končinách znásilnil 72 letou <a id="anežka-nováková-a5f587">Anežku Novákovou</a> č. <a id="6-167909">6</a> a byli oba obeslání na obecní úřad k výslechu.
+
 Toho času zemřel v ústavu pro choromyslné v Bohnicích u Prahy 68 letý rodák z č. <a id="88-2a38a4">88</a> Mudr. <a id="františek-vodseďálek-3dfb48">Fr.
 Vodseďálek</a> za něhož platila ročně naše obec ošetřovného 1800 K.
 V prosinci se ustavovala nová komise k sestavování voličských seznamů a poprve zde byla zastoupena také strana lidová (klerikální) Bohumilem Slavíkem č. <a id="85-3ef815">85</a> bývalým nadšeným sokolem.
 Jeho náhradník <a id="františek-janoušek-bf1684">Fr. Janoušek</a> č. <a id="9-45c48c">9.</a>
+
 Sbírka na nezaměstnané kterou vykonali: <a id="karel-fišer-800477">Karel Fišera</a> č. <a id="50-c0c7c7">50</a> a Milosl. Holubec č. <a id="45-6c8349">45</a> vynesla 70 K.
 Nejvíce dal M. Vodseďálek 5 K.
 Před Vánoci někdo ukradl mlynáři 3 králiky a jeho sousedu Polouprutskému ze stodoly 2 pytle ovsa ale ten oves se našel ukrytý na Smětalově v křoví.
@@ -3733,12 +3868,13 @@ Ku konci roku rozdílela obec podporu nemajetným neb více děti majícím hosp
 200 K kterouž poskytl stát. Poděleni byli: <a id="otakar-novák-3f8684">Otakar Novák,</a> <a id="vilém-polouprutský-877f7e">Vilém Polouprutský,</a> <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> a <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský.</a>
 V tom roce pořídili se zde 2 benzínové motory na pohon hospodář. strojů, <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> a <a id="jan-šulc-fc9b24">Jan
 Šulc.</a>
+
 <a id="bohuslav-čivrný-95694b">Boh. Čivrný</a> zavedl si do svého domů č. <a id="64-ea5d2f">64</a> elektrické světlo připojením k Vysokému jako jíž měl
 <a id="antonín-koldovský-88b47c">Ant. Koldovský.</a>
 Revisory dávky z nápojů na r. <a id="1933-1e913e">1933</a> zvoleni jsou <a id="františek-chlum-66e864">Fr. Chlum</a> a <a id="josef-polouprutský-403545">Jos. Polouprutský.</a>
 Počet zemřelých r. <a id="1932-52d275">1932</a> byl 3 narozených 4.
-V tom roce se již neodbýval koncert o pouti na pozemcích obou Čermáku ale jen jednoho Čermáka a <a id="josef-janda-e4c793">Jos. Jandy</a> an <a id="františek-čermák-1668f0">Fr. Čermák</a> Přidana ho na svém nedovolil proto že loňský rok o pouti nešel do konceptu bránou ale rovnou od svého domů a hned byl od hasiče <a id="jindřich-matura-619517">Jindř. Matury</a> upozorněn že nemá
-vstupenku.
+
+V tom roce se již neodbýval koncert o pouti na pozemcích obou Čermáku ale jen jednoho Čermáka a <a id="josef-janda-e4c793">Jos. Jandy</a> an <a id="františek-čermák-1668f0">Fr. Čermák</a> Přidana ho na svém nedovolil proto že loňský rok o pouti nešel do konceptu bránou ale rovnou od svého domů a hned byl od hasiče <a id="jindřich-matura-619517">Jindř. Matury</a> upozorněn že nemá vstupenku.
 
 
 Ve Staré Vsi dne 21. března <a id="1933-1e913e">1933</a>
@@ -3752,6 +3888,7 @@ Roku <a id="1933-1e913e">1933</a> dne 8. ledna začal poprvé opravdu padat sní
 zabíti krávu a ta obvodním lékařem dr. Lhotou k výseku uznána nebyla. Na náhradu neměl nárok an měl 4 krávy a ku spolku přihlášené 3 (jako ostatní členové) někteří mu chtěli něco dáti, jiní né
 a tak svolána ještě jedna schůze v níž konečně rozhodnuto nedáti mu nic a on ze spolku vystoupil a <a id="františek-zeman-4b3842">Fr. Zeman</a> naopak vystoupil už před tím jak se proslechlo že se Šmídovi nějaká náhrada poskytne.
 23\. ledna deputace zdejších nezaměstnaných vyloučených ze stravovací akce vedena Vítem Martincem byla na okresním úřadě v Jilemnici žádajíc lístky ale tam se jich šikovně a zřejmou nepravdou zbyli; že prý si mají jíti na starostu an má lístku dost, aby jim je dál.
+
 Dne 2. února schůze obec. zást. v níž zvolena nová komise (kromě obecní rady) na rozdílení lístku nezaměstnaným a sice: <a id="františek-polouprutský-e22834">Frant. Polouprutský,</a> <a id="josef-soukup-006cf6">Jos. Soukup</a> a <a id="jaroslav-nesvadba-c040be">Jarosl. Nesvadba.</a>
 4\. února hasičský ples (jediný v masopustě) při němž nachytal hasičský pokladník <a id="františek-soukup-2e6a7b">Fr. Soukup</a>
 <a id="anna-polouprutská-141d72">Annu Polouprutskou</a> č. <a id="58-66f041">58</a> a <a id="pavla-maturová-763770">Pavlu Maturovou</a> s 24 letou dcerou Pavlou že vstupné nezaplatili.
@@ -3790,9 +3927,7 @@ bránu.
 4\. června svatodušní neděli za překrásného počasi se hrála Snaha na Vojákově skále divadlo v přírodě s koncertem vysocké hudby. Účast ohromná.
 18\. červ. v neděli zemřel 51 letý zdejší rodák z č. <a id="15-9bf31c">15</a> <a id="josef-žanta-fe4ac2">Jos. Žanta</a> rolník č. <a id="60-072b03">60</a> u Pohlů ve Vysokém.
 5\. července na den památky Cyrila a Metoděje sázeli bratři Housové brambory které nevykopali.
-V polou červenci stavil znovu <a id="josef-janda-e4c793">Jos. Janda</a> od cihel pazdernu č. <a id="96-26657d">96.</a> Stavěl mu to samouk <a id="jindřich-matura-619517">Jindřich
-
-Matura.</a>
+V polou červenci stavil znovu <a id="josef-janda-e4c793">Jos. Janda</a> od cihel pazdernu č. <a id="96-26657d">96.</a> Stavěl mu to samouk <a id="jindřich-matura-619517">Jindřich Matura.</a>
 
 Ten čas ustanoven na zdejší silnici nový cestář <a id="františek-hrádecký-2a7053">Fr. Hrádecký</a> z Roprachtic švakr <a id="bohuslav-novák-3f87fc">Boh. Nováka</a> č. <a id="57-72b32a">57.</a>
 Dne 23. července se odbývala v sousedním Stanovém slavnost odhalení pamětní desky dra <a id="antonín-zeman-f920a3">Ant.
@@ -3803,13 +3938,11 @@ měla totiž mnoho slepic a že u č. <a id="75-d09bf4">75</a> velké zahumení 
 a pak ho ještě žalovala a on jí. Ona měla svědka <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálka</a> a jeho ženu Ludmilu kteří svědčily že to neudělala ale hlavní její svědkyně Krist. Babcová přišla k II. stání o 1 hod. později a k III. nepřišla vůbec, prý pro bolest hlavy a Housová jakožto matka nebyla Zemanovem obhájcem notářem
 Aldorfem k svědectví připuštěna. Zeman měl svědky: <a id="antonín-štěpánek-f387a6">Ant. Štěpánka</a> a <a id="josef-babce-3613a1">Jos. Babce.</a> Učitelka nechala všeho a zaplatila výlohy obou stran.
 Dnem 1. září začal zde učit nový učitel <a id="jan-mecnar-623ea5">Jan Mecnar.</a> z Vesniku u Bělohradu nar. r. <a id="1907-77369e">1907</a> dosavádní učitelka A. Vránová byla přeložena do Pelhřimova.
+
 Dne 2. září začali Housové žito žít a 16. října na Havla začali pokládat oves a pokládali ještě
 17\. prosince až jim to sníh zatrhl. Zelí sklidili 11. listopadu a nechali ho do jara venku nad domem na kůpě.
 Dne 4. září ve 3 hod. odpoledne zemřel po těžké nemoci (rakovina dutiny ústní) 56 letý <a id="čeněk-večerník-bc4dff">Čeněk
-Večerník</a> (otec pisatele) rolník č. <a id="20-98f137">20</a> u Vršťalů jenž byl od r. <a id="1919-8c8a58">1919</a> do 1924 a od r. <a id="1927-e5b294">1927</a> do <a id="1932-52d275">1932</a> starostou obce. Jmenovaný sůčastnil se též <a id="válka-bfccd5">války</a> r. <a id="1914-07a4e2">1914</a> porážky Rakušanů u Krasníku, <a id="1915-b432f3">1915</a> dobyti
-
-
-Sandoměře a Sokalu rakouským vojskem a r. <a id="1916-65fc52">1916</a> na italské frontě u Monfalcone a na Doberdu; byl též první kdož u nás v obci r. <a id="1921-9f6992">1921</a> přestoupil k československé církvi.
+Večerník</a> (otec pisatele) rolník č. <a id="20-98f137">20</a> u Vršťalů jenž byl od r. <a id="1919-8c8a58">1919</a> do 1924 a od r. <a id="1927-e5b294">1927</a> do <a id="1932-52d275">1932</a> starostou obce. Jmenovaný sůčastnil se též <a id="válka-bfccd5">války</a> r. <a id="1914-07a4e2">1914</a> porážky Rakušanů u Krasníku, <a id="1915-b432f3">1915</a> dobyti Sandoměře a Sokalu rakouským vojskem a r. <a id="1916-65fc52">1916</a> na italské frontě u Monfalcone a na Doberdu; byl též první kdož u nás v obci r. <a id="1921-9f6992">1921</a> přestoupil k československé církvi.
 22\. září ukončil se u kraj. soudu v Jičíně proces Anežky Soukupové s <a id="františek-zeman-4b3842">Fr. Zemanem.</a> Zeman při prohral a zaplatil výlohy obou stran a ještě že se matka ukázala lepší než syn a odpustila mu, jinak
 by byl <a id="trest-cff246">trestán</a> <a id="vězení-9eb76f">vězením</a> třebas i 1/2 roku.
 24\. září koupila <a id="antonie-šaldová-e02bc8">Antonie Šaldova</a> z chudobynce ve Vysokém; vdova po zdejším rodáků <a id="jaroslav-šalda-951cc7">Jarosl.
@@ -3817,6 +3950,7 @@ by byl <a id="trest-cff246">trestán</a> <a id="vězení-9eb76f">vězením</a> t
 Někdy v polou října pronajal <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> Hajnů od <a id="barbora-housová-0f42dd">Barb. Housové</a> celou její usedlost č. <a id="75-d09bf4">75</a> u Krejčů i se stavením o kterouž se zuby nehty dral a jíž měl připověděnou za svědectví proti
 Zemanovi. Majitelka se odstěhovala do Vysokého k dceři.
 12\. listop. prováděli <a id="josef-večerník-1fdbf4">Jos. Večerník</a> a <a id="josef-babec-c90561">Jos. Babec</a> leteckou sbírku jen vynesla 65 K. Nejvíce dali <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> a <a id="františka-slavíková-bc8168">Fr. Slavíková</a> po 5 K.
+
 16\. pros. zemřela 62 letá <a id="barbora-čivrná-8d7bc3">Barb. Čivrná</a> majitelka domku č. <a id="64-ea5d2f">64</a> na Lukavci jenž ujal syn <a id="františek-čivrný-2776ef">Frant. Čivrný.</a>
 Počet naroz. <a id="1933-1e913e">1933</a> = 6 vesměs žen. pohlaví, zemř. 4.
 Ve Staré Vsi dne 24. unora <a id="1935-8d55a2">1935</a>
@@ -3827,6 +3961,7 @@ Ve Staré Vsi dne 24. unora <a id="1935-8d55a2">1935</a>
 
 Před Novým rokem udělalo náledí takže nikdo nikam dojíti nemohl a nejhůře bylo s vodou, <a id="antonín-štěpánek-f387a6">Ant.
 Štěpánek</a> vysekával 4. ledna led u koryta, přitom upadl a sjel po ledě až na silnici a potloukl se.
+
 20\. února přišla odpoledne taková vánice sněhová a tak se setmělo a z toho zablesklo a neobyčejně zahřmělo a potom se ještě strašná spousta sněhu svalila že se žádný povoz nikam nedostal a na druhý týden přišlo tak prudké tání, že pole bralo, silnici vybralo, u Ducháčků v hospodě se dostala
 voda do chléva že zvedla trsy (?) a museli kozy vynést brodíce se po prsa vodou, též u Kašťáků se dostala voda do chléva a u Vršťalů pod stodolu.
 Dne 11. března nalezen byl krám Daniele Řehořka vykraden a pes byl otráven a Řehořek nejdříve udával že se mu tam ztratilo 2 600 K a potom to obrátil že prý se přeřekl že jen 260 K a nakonec ho zavřeli.
@@ -3840,12 +3975,10 @@ V noci z Bílé soboty na Velkou neděli spadl Housům v chlévě strop.
 12\. dubna byl odveden <a id="josef-šmíd-ec9534">Jos. Šmíd</a> (č 46) ku 47. pěš. pluku v Mladé Boleslavi.
 26\. dubna zemřela 74 letá <a id="anežka-nováková-a5f587">Anežka Nováková</a> vdova po <a id="františek-novák-8834ba">Frant. Novákovi</a> klempýři z č. <a id="43-17e621">43</a> domek č. <a id="6-167909">6</a> u Klikorků řečený v odhadní ceně 3000 K ujala po ní <a id="marie-nováková-7833a4">Marie Nováková</a> dcera.
 Dne 29. dubna obecní komise konečně určila hranici mezi obci u č. <a id="55-b53b3a">55</a> a oním břehem od zvonění ve prospěch Pavlatův čímž se ukončila táhanice 7 let trvající.
+
 Dne 8. května padaly <a id="kroupa-7d3aeb">kroupy</a> takže bílo zůstalo.
-Ten rok byl tak raný že jíž 14 dní před Svatodušními (20./21. květ.) svátky lide trávu krmili, 15. května se jíž sázela hlavatka a byla přerostlá a Svatodušní neděli žito kvetlo a kol 5. května houby rostly
+Ten rok byl tak raný že jíž 14 dní před Svatodušními (20./21. květ.) svátky lide trávu krmili, 15. května se jíž sázela hlavatka a byla přerostlá a Svatodušní neděli žito kvetlo a kol 5. května houby rostly a červené jahody a křepelky tloukli jako v červenci a po svátcích v tom týdnu přišla taková zima, že bylo na horách bílo, mnoho stromů omrzlo a v neděli o roprachtické pouti taková sněhová vánice tu přešla že nebylo na Malou Stranu vidět a dne 20 června přišel konečně očekávaný déšť když již byly louky vypálené, místo jetelů šťovík, ovsi vyhořelé a žita podeschlá a to nepršelo od 8. května.
 
-
-a červené jahody a křepelky tloukli jako v červenci a po svátcích v tom týdnu přišla taková zima, že bylo na horách bílo, mnoho stromů omrzlo a v neděli o roprachtické pouti taková sněhová vánice tu
-přešla že nebylo na Malou Stranu vidět a dne 20 června přišel konečně očekávaný déšť když již byly louky vypálené, místo jetelů šťovík, ovsi vyhořelé a žita podeschlá a to nepršelo od 8. května.
 Dne 25. června koupil za 6 000 K _(ručně dopsána ještě vedle suma 60 000)_ <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> vulgo Hajník od <a id="anna-knobová-291296">Anny Knobové</a> dcery <a id="barbora-housová-0f42dd">Barb. Housové</a> usedlost č. <a id="75-d09bf4">75</a> u Krejčů již měl od minulého
 roku pronajatu s pozemky v rolích: Čermákové a Vršťalově o výměře 11 korců.
 28\. července někdo vytrhal M. Novákové č. <a id="6-167909">6</a> na dráze za Vrchy všecky rané (asi 10 brázd) brambory.
@@ -3967,9 +4100,7 @@ Syn <a id="josef-turpiš-ffbfd3">Josef Turpiš</a> rozen r. <a id="1778-6709e8">
 Jeho manželka Anna naroz. <a id="1780-f63f65">1780.</a> Syn Josef.
 <a id="josef-turpiš-ffbfd3">Josef Turpiš</a> jenž se zabýval chytáním ptáků do spádu t. j. do křoví ve kterém bylo umístěno ptactvo volavé. Když tito volavý přilákala ptáky jiné, spuštěna síť. Tak ptáci mačkáni a po krejcaru prodávání. Dobrý výdělek ale darebáctví. Manželka Eleonora roz. Chlumova z Ruprechtic. Synové:
 Josef č. <a id="70-7cbbc4">70,</a> Antonín č. <a id="11-6512bd">11,</a> Vincenc barvíř, Michal, František švec a mrzák.
-Za rychtáře <a id="jan-vodseďálek-b2cf6f">Jana Vodseďálka</a> č. <a id="10-d3d944">10</a> byl v malé světníni nahoru jenž měla jen jedno okno obecní
-
-arest.
+Za rychtáře <a id="jan-vodseďálek-b2cf6f">Jana Vodseďálka</a> č. <a id="10-d3d944">10</a> byl v malé světníni nahoru jenž měla jen jedno okno obecní arest.
 
 <a id="antonín-turpiš-08ae3e">Antonín Turpiš</a> řezník. Prodav domek koupil si č. <a id="11-6512bd">11</a> kdež měl i hospodu.
 <a id="josef-hýrek-568f36">Josef Hýrek</a> z Jeseného koupil za 700 zl. Manželka Pavla a synové Josef a Franta vyklízeči zachodu ve Vysokém. Leč brzo zase domek prodal a byl v č. <a id="13-c51ce4">13</a> na podruží.
@@ -4284,10 +4415,7 @@ Majitelé č. <a id="63-03afdb">63</a> podle staré gruntovní knihy z r. <a id=
 
 Tento grunt zaujímal původně nynější 3 role Vršťalovu, Berkovu a Holánovu. Nynější cesta byla jen pod Kopec. Hlavní cesta byla při Sedlákové mezi. Stodola stála nad domem na poli jenž patří k
 č. <a id="94-f4b9ec">94.</a> Ona rovinka byl ke stodole výjezd. První známý držitel gruntu jest r. <a id="1614-e9fd7c">1614</a> <a id="tomáš-deštek-adc4d0">Tomáš Deštku.</a> Po něm <a id="matěj-sedlák-7a10d0">Matěj Sedlák</a> z nynějšího č. <a id="15-9bf31c">15.</a> Ten prodal 1/3 pozemku se stavením <a id="jan-urbánek-d58c90">Janu Urbánkovi</a> synu
-Urbana Patočky z nynějšího č. <a id="53-d82c8d">53</a> druhé 2/3 <a id="jan-michálek-f3f4e1">Janu Michálkovi.</a> Potom <a id="pavel-rod-92e4d0">Pavel Rod</a> o němž nám nic
-
-
-známo není. r. <a id="1686-b618c3">1686</a> <a id="jan-hevák-91c825">Jan Hevák</a> či Vršťala s Havírny. Ten dům co z něho byl Hevák stojí na kopci a pod ním je štóla. Tedy na Vrchu štóly. r. <a id="1727-515ab2">1727</a> jeho syn <a id="jakub-hevák-fed9db">Jakub Hevák.</a> Po něm r. <a id="1775-36d753">1775</a> syn <a id="adam-hevák-0d7365">Adam
+Urbana Patočky z nynějšího č. <a id="53-d82c8d">53</a> druhé 2/3 <a id="jan-michálek-f3f4e1">Janu Michálkovi.</a> Potom <a id="pavel-rod-92e4d0">Pavel Rod</a> o němž nám nic známo není. r. <a id="1686-b618c3">1686</a> <a id="jan-hevák-91c825">Jan Hevák</a> či Vršťala s Havírny. Ten dům co z něho byl Hevák stojí na kopci a pod ním je štóla. Tedy na Vrchu štóly. r. <a id="1727-515ab2">1727</a> jeho syn <a id="jakub-hevák-fed9db">Jakub Hevák.</a> Po něm r. <a id="1775-36d753">1775</a> syn <a id="adam-hevák-0d7365">Adam
 Hevák</a> a pro bratra france vystavil na obci domek č. <a id="62-44f683">62.</a>
 Po Adamovi synové <a id="františek-hevák-ce1268">Franc Hevák</a> a <a id="václav-hevák-7e20a6">Václav Hevák.</a> Václav prodal svoji 1/2 <a id="josef-polouprutský-403545">Josefu Polouprutskému</a> z č. <a id="18-6f4922">18.</a> Viz č. <a id="18-6f4922">18.</a> Franc nar. <a id="1777-e9b73b">1777.</a> Synové Josef, franc a Antonin.
 R. <a id="1822-0e087e">1822</a> vystavěl si Polouprutský na své 1/2 dům č. <a id="94-f4b9ec">94</a> a polovici stavení koupil Hevák. <a id="josef-hevák-b63bb9">Josef Hevák</a> syn jenž si vyměnil živnost s <a id="jan-novák-5eaffb">Janem Novákem</a> č. <a id="46-d9d4f4">46.</a> Pozdějí zvoníkem.
@@ -4313,10 +4441,9 @@ Od Čermáka koupil <a id="františek-vodseďálek-3dfb48">Franc Vodseďálek</a
 Nováka</a> č. <a id="76-fbd793">76.</a> Synové: Josef, František, dcera Marie a Františka provdaná Hajnová. r. <a id="1860-96c5c2">1860</a> prodal
 Vodseďálek jenž byl velký lakomec a mnoho peněz zde náskládal. <a id="tomáš-novák-1730a6">Tomáš Novák</a> šenkýř v č. <a id="10-d3d944">10</a> to koupil. Že se však nepohodli o 50 zl. rozboural Vodseďálek onu světnici výše uvedenou a odvozil
 kamení na Skálu již si koupil. Po Novákové <a id="smrt-a332b5">smrti</a> r. <a id="1863-09fb05">1863</a> vdova <a id="anežka-nováková-a5f587">Anežka Nováková</a> roz. Martincová z Roztok prodala to r. <a id="1864-d07267">1864</a> za 556 zl. Koupil to <a id="františek-housa-f31931">Franc Housa</a> zedník č. <a id="26-4e732c">26</a> zvaný Housiček. dříve
-podruh v č. <a id="87-c7e124">87.</a> Manželka Karolína dcera <a id="adam-novák-904301">Adama Nováka</a> č. <a id="76-fbd793">76.</a> Syn František, dcera Františka provdaná za <a id="jan-vodseďálek-b2cf6f">Jana Vodseďálka</a> koláře ve Vysokém. <a id="karolína-housová-e506b3">Karolína Housová</a> to postoupila r. <a id="1892-ca4603">1892</a> synu Františkovi za 380 zl. <a id="františek-housa-f31931">František Housa</a> stodůlku jenž u toho byla t. r. rozboural. Kvůli silnici přišlo toto
+podruh v č. <a id="87-c7e124">87.</a> Manželka Karolína dcera <a id="adam-novák-904301">Adama Nováka</a> č. <a id="76-fbd793">76.</a> Syn František, dcera Františka provdaná za <a id="jan-vodseďálek-b2cf6f">Jana Vodseďálka</a> koláře ve Vysokém. <a id="karolína-housová-e506b3">Karolína Housová</a> to postoupila r. <a id="1892-ca4603">1892</a> synu Františkovi za 380 zl. <a id="františek-housa-f31931">František Housa</a> stodůlku jenž u toho byla t. r. rozboural. 
 
-
-číslo roku r. <a id="1893-56f9f8">1893</a> o 1/3 obecního pozemků. <a id="františek-housa-f31931">Frant. Housa</a> krejčí člen obec. výboru, rozdělovatel aprovisace v r <a id="1915-b432f3">1915</a> – 18 nar. 27. 4. <a id="1861-f9d115">1861</a> zemřel 13. 2. <a id="1922-333222">1922.</a> Pokoji popeli jeho.
+Kvůli silnici přišlo toto číslo roku r. <a id="1893-56f9f8">1893</a> o 1/3 obecního pozemků. <a id="františek-housa-f31931">Frant. Housa</a> krejčí člen obec. výboru, rozdělovatel aprovisace v r <a id="1915-b432f3">1915</a> – 18 nar. 27. 4. <a id="1861-f9d115">1861</a> zemřel 13. 2. <a id="1922-333222">1922.</a> Pokoji popeli jeho.
 Žena Barbora roz. Kořínková ze Zdechovic u Přelouče. Synové: Stanislav faktor koralář, Alois a Boleslav švec. dcery: Marie provdaná za <a id="václav-týl-980146">Václava Týla</a> na Příchovicích a Stanislava za Roberta
 Palmu v Tanvaldě. <a id="barbora-housová-0f42dd">Barbora Housová</a> vdova ujala domek r. <a id="1922-333222">1922.</a>
 Cena domků 4 000 K podle obhadu r. <a id="1922-333222">1922</a>
@@ -4342,10 +4469,7 @@ z č. <a id="18-6f4922">18</a> jeho synovec. Po <a id="smrt-a332b5">smrti</a> st
 tohoto musel Kristián dáti 50 zl. na varhany. Ona ho teta vlastně k tomu přiměla neboť on sy chtěl vzíti <a id="marie-marková-af5037">Marii Markovou.</a> Po <a id="smrt-a332b5">smrti</a> I. ženy jenž byla kolik let slepá vzal si <a id="kateřina-nováková-e9e83c">Kateřinu Novákovou</a> č. <a id="55-b53b3a">55.</a>
 <a id="kristián-čermák-643582">Kristián Čermák</a> měl slušné jmění ale k stáru dluhy. Zemřel stár 75 let r. <a id="1914-07a4e2">1914.</a> Po něm to ujal nemanželský syn jeho schovanky <a id="marie-štěpánková-0cdc12">Marie Štěpánkové</a> z Boskova a <a id="antonín-koldovský-88b47c">Antonína Koldovského</a> č. <a id="75-d09bf4">75</a> <a id="antonín-štěpánek-f387a6">Antonín Štěpánek.</a> Na to ho odvedli na vojnu a ve válce se dostal do ruského zajetí a pobyl též v bolševické armádě. Proto když přišel domů dostal přezdívku bolšovák. Jinak <a id="antonín-čermák-8d59f7">Tonda Čermáku.</a> Mezi tím mu zde hospodařila jeho nevěsta <a id="anna-rydvalová-a10142">Anna Rydvalová</a> z č. <a id="77-28dd2c">77.</a> Syn Antonín, dcera Anna. Štěpánkova
 matka se provdala za <a id="josef-vodseďálek-970bd1">Josefa Vodseďálka</a> ze Sklenařic nazvaného Joska slivovej. Ten byl veliký jedlík.
-Snědlť teď po večeři ještě než šel spati dva dumliky. Ten Čermáka a byl chtě z něho vytlouci zápis ale nepodařilo se a musel do Sklenařic. Kristiánu Čermákovi se hospodářství slavně nevedlo říkali
-
-
-lidé že tam není požehnání. On říkal že hluboko ruchati neplatí, lépe prý se pomodliti. Byl malířem a řezbářem. R. <a id="1903-944626">1903</a> vázlo na č. <a id="22-b6d767">22</a> pro Polubenskou kostelní kasu z r. <a id="1801-cd1482">1801</a> 14 zlatých.
+Snědlť teď po večeři ještě než šel spati dva dumliky. Ten Čermáka a byl chtě z něho vytlouci zápis ale nepodařilo se a musel do Sklenařic. Kristiánu Čermákovi se hospodářství slavně nevedlo říkali lidé že tam není požehnání. On říkal že hluboko ruchati neplatí, lépe prý se pomodliti. Byl malířem a řezbářem. R. <a id="1903-944626">1903</a> vázlo na č. <a id="22-b6d767">22</a> pro Polubenskou kostelní kasu z r. <a id="1801-cd1482">1801</a> 14 zlatých.
 ### **Č. 23 U Boudalováku**
 
 
@@ -4372,13 +4496,8 @@ Původně obecní chalupa viz str 5. Sklep stál nad domem jako u č. <a id="39-
 Ten sklep rozboural <a id="františek-večerník-8718d8">Fr. Večerník.</a> Do vystavění zvonice r. <a id="1824-2647c1">1824</a> byl na střeše stavení toho zvonek.
 Ten zvonek jež rakouský erár r. <a id="1917-cb79f8">1917</a> zabavil k <a id="válka-bfccd5">válečným</a> účlům byl z r. <a id="1454-3bbfdd">1454.</a>
 První mi zde jest znám r. <a id="1787-d860bd">1787</a> <a id="vít-novák-d000ea">Vít Novák.</a> Synové: Vit a Pavel a dcera Marie. Pavel byl 30 let na vojně. Před nim otec Daniel jenž to vystavěl.
-<a id="vít-novák-d000ea">Vít Novák.</a> Žena Marie dcera hrobaře Nečáska z Vysokého. Rozena <a id="1785-393c55">1785.</a> Syn Pavel, syn Vit
+<a id="vít-novák-d000ea">Vít Novák.</a> Žena Marie dcera hrobaře Nečáska z Vysokého. Rozena <a id="1785-393c55">1785.</a> Syn Pavel, syn Vit zřejmě _na čísle popisném 20_ a dcera Marie provdaná za Šaldu č. <a id="55-b53b3a">55.</a> Vit syn zde měl do <a id="smrt-a332b5">smrti</a> výměnek soudek bramboru.
 
-
-- zřejmě _na čísle popisném 20_
-
-
-a dcera Marie provdaná za Šaldu č. <a id="55-b53b3a">55.</a> Vit syn zde měl do <a id="smrt-a332b5">smrti</a> výměnek soudek bramboru.
 Byl podruhem v č. <a id="10-d3d944">10</a> chytal krtky a před <a id="smrt-a332b5">smrti</a> byl slepý. Tehdy měl od obce 1 zl. týdně. Jeho strýce
 Pavla chytili na vojnu bylo mu 18 let. Když přišel po 30ti letech domů nikdo ho neznal. Byl kyrysníkem a veliké postavy.
 V letech čtyřicátých koupil domek <a id="josef-nesvadba-4ea9c1">Josef Nesvadba</a> z č. <a id="74-ad61ab">74.</a> Žena Barbora rozená Preislerová č. <a id="33-182be0">33.</a>
@@ -4406,10 +4525,7 @@ Jejich 6 dětí bylo postrachem celé vesnice. r. <a id="1893-56f9f8">1893</a> s
 Roztoky a díl Stanova) Měl 15 zl. měsíčně. O zbrojní lístek musel notář žádati až do Vídně neboť
 Polouprutský byl mnohokráte trestán. O jeho krádežích by byla celá kniha. Tak Housové č. <a id="27-02e74f">27</a> ho hlídali až jim půjde do lesa. On vida to oblékl se do nedělního a staré šaty vzal do uzlíku, pilku pod
 kabát a místo do kostela do háje. Tam se převlékl a roští na Krčovště nařezav přenosil na Končalovo.
-Jeho tchán <a id="vít-polouprutský-f99ded">Vit Polouprutský</a> č. <a id="28-33e75f">28</a> mu to přivezl jako ze svého. Kamenem dohodil od Vršťalu k Vláškovem na střechu. Po <a id="smrt-a332b5">smrti</a> jeho ujala to r. 12. 11. <a id="1922-333222">1922</a> vdova <a id="anna-polouprutská-141d72">Anna Polouprutská.</a>
-
-
-- od něm. _lenken_ ?, zřejmě byla budova původně vázának k č. <a id="22-b6d767">22</a> jako sušárna (pazderna)
+Jeho tchán <a id="vít-polouprutský-f99ded">Vit Polouprutský</a> č. <a id="28-33e75f">28</a> mu to přivezl jako ze svého. Kamenem dohodil od Vršťalu k Vláškovem na střechu. Po <a id="smrt-a332b5">smrti</a> jeho ujala to r. 12. 11. <a id="1922-333222">1922</a> vdova <a id="anna-polouprutská-141d72">Anna Polouprutská.</a> - od něm. _lenken_ ?, zřejmě byla budova původně vázána k č. <a id="22-b6d767">22</a> jako sušárna (pazderna)
 
 
 Syn Bohuslav zemřel r. <a id="1912-ff7d0f">1912</a> v Rychnově u Jablonce utrživ v nějaké rvačce mnoho ran. Oni ještě o ničem doma nevěděli. V noci když všichni spali jen Josef hrbatý jehož trápil kašel né. Měsíc svýtil.
@@ -4605,10 +4721,7 @@ rozčílil a dal ho na několik dní do šatlavi.
 
 Novák byl chytrá hlava. Když ho propustili řekl vrchnímu že si toho 1/2 vezme pro syna mysle si že maje 1/2 může hospodařiti na celém. I dostal to tedy mladší syn <a id="adam-novák-904301">Adam Novák</a> narozen <a id="1703-375c71">1703.</a> Syn
 <a id="adam-novák-904301">Adam Novák</a> narozen <a id="1730-851300">1730.</a> Žena Kateřina 19. 11. <a id="1734-ab2b41">1734.</a> Dcera <a id="jan-václav-8b1c62">Jana Václava</a> č. <a id="10-d3d944">10.</a> (Tito byli oddáni
-1754\.) Dcery: Kateřina provdaná v č. <a id="26-4e732c">26,</a> <a id="anna-čermáková-d2ebbf">Anna Čermáková</a> č. <a id="22-b6d767">22.</a> Syn Jan v Roztokách a <a id="adam-novák-904301">Adam Novák</a> hospodář, nar. 24. 12. <a id="1777-e9b73b">1777</a> (ostatní viz č. <a id="76-fbd793">76)</a> jeho otec vystavěl znova toto stavení r. 1779 a srub
-
-
-jenž byl pod domem nahoře prodal <a id="matěj-holinka-761e7d">Matěji Holinkovy.</a> Poněvadž neměli celý grunt ač ho obhospodařovali, dostal od vrchnosti druhou 1/2 <a id="václav-novák-4fa2e7">Václav Novák</a> z Jilma jenž pobyl rychtářem. S Adamem se nemohli srovnati a proto si vystavěl Adam r. <a id="1804-90e135">1804</a> č. <a id="76-fbd793">76.</a> Václavova žena Marie roz. 15. 8. <a id="1774-f0bda0">1774.</a> Syn
+1754\.) Dcery: Kateřina provdaná v č. <a id="26-4e732c">26,</a> <a id="anna-čermáková-d2ebbf">Anna Čermáková</a> č. <a id="22-b6d767">22.</a> Syn Jan v Roztokách a <a id="adam-novák-904301">Adam Novák</a> hospodář, nar. 24. 12. <a id="1777-e9b73b">1777</a> (ostatní viz č. <a id="76-fbd793">76)</a> jeho otec vystavěl znova toto stavení r. 1779 a srub jenž byl pod domem nahoře prodal <a id="matěj-holinka-761e7d">Matěji Holinkovy.</a> Poněvadž neměli celý grunt ač ho obhospodařovali, dostal od vrchnosti druhou 1/2 <a id="václav-novák-4fa2e7">Václav Novák</a> z Jilma jenž pobyl rychtářem. S Adamem se nemohli srovnati a proto si vystavěl Adam r. <a id="1804-90e135">1804</a> č. <a id="76-fbd793">76.</a> Václavova žena Marie roz. 15. 8. <a id="1774-f0bda0">1774.</a> Syn
 Václav a dcera Marie v č. <a id="63-03afdb">63.</a>
 
 <a id="václav-novák-4fa2e7">Václav Novák</a> syn narozen 9. 5. <a id="1798-ac5dab">1798.</a> Byl od <a id="1822-0e087e">1822</a> – <a id="1848-7385db">1848</a> posledním rychtářem u nás. I. žena
@@ -4897,10 +5010,7 @@ Mezi <a id="josef-hevák-b63bb9">Josefa Heváka</a> a France Syrovátku patří 
 Zde byl první r. <a id="1654-9d2682">1654</a> <a id="mikuláš-holinka-2d371a">Mikuláš Holinka.</a> Pak dlouhou dobu nevíme nic až r. <a id="1713-464d82">1713</a> <a id="václav-sedlák-76886d">Václav Sedlák.</a>
 r. <a id="1787-d860bd">1787</a> <a id="adam-novák-904301">Adam Novák</a> syn <a id="adam-novák-904301">Adama Nováka</a> č. <a id="45-6c8349">45.</a> Ten stavěl znova to stavení r. <a id="1760-e22dd5">1760.</a> Jeho žena byla z Kuchelny odtud příslotek.
 Po něm syn <a id="vít-novák-d000ea">Vít Novák</a> jenž měl za schovanku <a id="marie-hotovičková-9d2858">Marie Hotovičkovou</a> dceru <a id="josef-hotovička-22d834">Josefa Hotovičky</a> č. <a id="51-283802">51.</a>
-K té se přiženil <a id="františek-čermák-1668f0">Franc Čermák</a> syn rychtáře <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="34-e36985">34</a> narozen 15. 6. <a id="1799-0533a8">1799.</a> Tento Čermák
-
-
-byl velmi zlostný. Ze zlosti strhával nad domem mladé březky. Jednou se mu ztráceli polínka. On vydlabal polínko a nasipal do něho <a id="střelba-b74895">střelného</a> prachu. Nepozorovatelně to zadělal a dal zase do hranice. Potom <a id="antonín-slavík-4fc746">Antonínu Slavíkovi</a> č. <a id="49-f457c5">49</a> rozházelo kamna. Měl při sobě podruha svého švakra <a id="josef-hladík-ab82c6">Josefa
+K té se přiženil <a id="františek-čermák-1668f0">Franc Čermák</a> syn rychtáře <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="34-e36985">34</a> narozen 15. 6. <a id="1799-0533a8">1799.</a> Tento Čermák byl velmi zlostný. Ze zlosti strhával nad domem mladé březky. Jednou se mu ztráceli polínka. On vydlabal polínko a nasipal do něho <a id="střelba-b74895">střelného</a> prachu. Nepozorovatelně to zadělal a dal zase do hranice. Potom <a id="antonín-slavík-4fc746">Antonínu Slavíkovi</a> č. <a id="49-f457c5">49</a> rozházelo kamna. Měl při sobě podruha svého švakra <a id="josef-hladík-ab82c6">Josefa
 Hladíka</a> z č. <a id="14-aab323">14.</a>
 <a id="josef-hladík-ab82c6">Josef Hladík</a> syn onoho podruha. Žena Helena ze Třiče. Dcera Anežka provdaná Blahoutová ve
 Vysokém. Anna majitelka usedlosti v Olešnici. Byla kolik let v Rize v Rusku. Teprve r. <a id="1922-333222">1922</a> přišla do Čech. Amálie v Tanvaldě. Františka. Syn Josef pachtýř sestřiny usedlosti v Olešnici. Stanislav
@@ -4966,10 +5076,7 @@ Ladislav. Marie, Božena, Anna, Emilie,
 
 To stavení stálo na oné louce za studni. Zadkem do břehu jako č. <a id="92-92cc22">92.</a> První zde byl <a id="pavel-koutský-792eaa">Pavel Koutský</a> z č. <a id="17-70efdf">17</a> jenže se zůčastnil <a id="povstání-4b65c0">povstání</a> r. <a id="1775-36d753">1775.</a>
 Potom se zde oběvuje <a id="josef-vodseďálek-970bd1">Josef Wodseďálek</a> syn France Wodseďálka č. <a id="55-b53b3a">55</a> narozen <a id="1761-728351">1761.</a> Žena Barbora <a id="1763-df9028">1763.</a>
-Po něm syn <a id="josef-vodseďálek-970bd1">Josef Vodseďálek</a> tkadlec. Žena Anna dcera France Wodseďálka č. <a id="54-a684ec">54.</a> Dcery: Anna
-
-
-provdaná Hlavová v Helkovicích, Marie v Rokytnici a Kateřina provdaná za <a id="štěpán-čermák-aa00d9">Štěpána Čermáka</a> č. <a id="63-03afdb">63</a> a syn <a id="josef-vodseďálek-970bd1">Josef Wodseďálek</a> zedník jenž co voják sloužil v Itálii u myslivců. Jeho žena Anna dcera <a id="václav-novák-4fa2e7">Václava Nováka</a> č. <a id="45-6c8349">45</a> jenž dostala věnem kus pole od Vojákova gruntu. Dcera: Anna, Marie v Držkově
+Po něm syn <a id="josef-vodseďálek-970bd1">Josef Vodseďálek</a> tkadlec. Žena Anna dcera France Wodseďálka č. <a id="54-a684ec">54.</a> Dcery: Anna provdaná Hlavová v Helkovicích, Marie v Rokytnici a Kateřina provdaná za <a id="štěpán-čermák-aa00d9">Štěpána Čermáka</a> č. <a id="63-03afdb">63</a> a syn <a id="josef-vodseďálek-970bd1">Josef Wodseďálek</a> zedník jenž co voják sloužil v Itálii u myslivců. Jeho žena Anna dcera <a id="václav-novák-4fa2e7">Václava Nováka</a> č. <a id="45-6c8349">45</a> jenž dostala věnem kus pole od Vojákova gruntu. Dcera: Anna, Marie v Držkově
 a syn Josef krejčí jenž zemřel co průvodčí vlaku v Pardubicích.
 Od <a id="anna-vodseďálková-1367b3">Anny Vodseďálkové</a> koupil domek <a id="petr-novák-62cf37">Petr Novák</a> r. <a id="1900-9fdb62">1900</a> švec syn <a id="vít-novák-d000ea">Víta Nováka</a> č. <a id="51-283802">51.</a> Otec mu dal kus pozemku mezi č. <a id="50-c0c7c7">50</a> a studní od č. <a id="62-44f683">62</a> jenž k chalupě č. <a id="51-283802">51</a> patřil. <a id="petr-novák-62cf37">Petr Novák</a> zemřel r. <a id="1918-e74c0d">1918</a>
 co vojín na cestě z Černé Hory do vlasti. Žena Františka dcera <a id="vincenc-hous-cc4aff">Vincence Housy</a> z Roztok (její děd z č. <a id="26-4e732c">26).</a> Synové: Jaroslav a Petr. Dcery Františka, Marie, Albína a Bohuslava.
@@ -5063,10 +5170,7 @@ každý na své straně. (Na místě staré stodoly nad domem jest zahrádka <a 
 Jandová</a> v Přivlace. Marie ve Škodějové a Pavlína a syn <a id="josef-vodseďálek-970bd1">Josef Wodseďálek</a> hospodář po <a id="smrt-a332b5">smrti</a> otce
 9\. 11. <a id="1906-dea9dd">1906.</a> Jeho žena Josefka rozená Václavíková z Přivlaky.
 Tuto 1/8 gruntu dostal od otce <a id="víta-josef-wodseďálek-450d41">Víta Josef Wodseďálek.</a> Od něho koupil asi r. <a id="1845-59bcda">1845</a> <a id="josef-hevák-b63bb9">Josef Hevák</a> z č. <a id="46-d9d4f4">46</a> rodák z č. <a id="20-98f137">20</a> zvaný Vršťálek. Jeho syn Antonín ve Vysokém č. <a id="82-9778d5">82.</a> r. <a id="1855-6ae07d">1855</a> koupil tu živnůstku od něho <a id="vojtěch-strnádek-2bb569">Vojtěch Strnádek</a> z č. <a id="65-fc490c">65</a> jenž se odstěhoval do Helkovic. Jeho žena Anna dcera <a id="jan-hajný-2cdf11">Jana
-Hajny</a> č. <a id="72-32bb90">72.</a> r. <a id="1873-d4b2ae">1873</a> koupil od Strnádka <a id="čeněk-kobr-5ed3e0">Čeněk Kobr</a> z č. <a id="77-28dd2c">77.</a> Syn Josef náramný kořala zemřel na vojně r. 1918 a syn František nádeník. Kobrová žena Anna vždycky říkala: Mi jsme na Skále
-
-
-a Skála ne ustoupí. Byla ze Zásady a zemřela <a id="1904-c91591">1904.</a> Asi ten čas začal Kobr utráceti a přestal hospodařiti.
+Hajny</a> č. <a id="72-32bb90">72.</a> r. <a id="1873-d4b2ae">1873</a> koupil od Strnádka <a id="čeněk-kobr-5ed3e0">Čeněk Kobr</a> z č. <a id="77-28dd2c">77.</a> Syn Josef náramný kořala zemřel na vojně r. 1918 a syn František nádeník. Kobrová žena Anna vždycky říkala: Mi jsme na Skále a Skála ne ustoupí. Byla ze Zásady a zemřela <a id="1904-c91591">1904.</a> Asi ten čas začal Kobr utráceti a přestal hospodařiti.
 
 R. <a id="1902-fc4ddc">1902</a> měl v Okr. hosp. záložně ve Vysokém 6 658 K 40 h které peníze během 4 let i s přibylými úroky vybral a se syny a jinými kumpány jak se při takové příležitosti naskytnou, utratil. zejména
 vybral s řečeného vkladu r. <a id="1903-944626">1903</a> přes 1 800 K a r. <a id="1904-c91591">1904</a> přes 4000 K. Jeho usedlost č. <a id="54-a684ec">54</a> 1/2 a č. <a id="42-a1d0c6">42</a> 1/2 v Ruprechticích byla obhádnuta za necelých 8 000 Kč. Na tuto svou usedlost dluhuprostou se vypůjčil 3 400 K jež také prohířil. Konečně na žádost obecního zástupitelstva byl r. <a id="1909-060915">1909</a> prohlášen za
@@ -5110,9 +5214,7 @@ Dcery: Anna, Marie a Františka jenž zemřela a syn František. Novák jenž uj
 
 ### **Rod Čermákův**
 
-_**Josef Čermák**_ naroz. <a id="1750-6a5dfa">1750</a> zemřel … syn Daniela Čermáka č. <a id="36-19ca14">36</a> rychtář
-
-manželka Marie
+_**Josef Čermák**_ naroz. <a id="1750-6a5dfa">1750</a> zemřel … syn Daniela Čermáka č. <a id="36-19ca14">36</a> rychtář manželka Marie
 
 syn Jan narozen 31. 4. <a id="1814-155fa0">1814,</a> syn Pavel narozen 3. 4. <a id="1807-1f1baa">1807</a> zemřel …, chalupník č. <a id="42-a1d0c6">42</a>
 syn Antonín nar. 28. 8. <a id="1816-faacbc">1816,</a> syn František narozen 15. 6. <a id="1899-6be533">1899</a> zemř. …, chalupník č. <a id="47-67c6a1">47</a>
@@ -5129,121 +5231,62 @@ dcera Marie nar. 25. 1. <a id="1834-d75771">1834,</a> dcera Anna nar. 25. 6. <a 
 
 _**Josef Čermák**_ nar. 26. 6. <a id="1825-ed519d">1825</a> zemř. …, starosta
 
-manželka Anna nar. 18. 9. <a id="1822-0e087e">1822</a> zemř. … dcera <a id="pavel-slavík-981e62">Pavla Slavíka</a> č. <a id="85-3ef815">85</a>
-
-syn Josef rolnik v Roprachticích
+manželka Anna nar. 18. 9. <a id="1822-0e087e">1822</a> zemř. … dcera <a id="pavel-slavík-981e62">Pavla Slavíka</a> č. <a id="85-3ef815">85</a> syn Josef rolnik v Roprachticích
 
 
-_**Pavel Čermák**_ naroz. 3. 4. <a id="1807-1f1baa">1807</a> zemř. … syn <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="34-e36985">34</a>
-
-manželka Františka nar. 25. 7. <a id="1811-09b15d">1811</a> zemř. 24. 12. <a id="1882-e1314f">1882</a> dcera <a id="františek-zeman-4b3842">Fr. Zemana</a> č. <a id="84-68d30a">84</a>
-
-syn Jan naroz. 29. 3. <a id="1842-57c053">1842</a> zemř. <a id="1880-3214a6">1880</a> rolník č. <a id="93-98dce8">93</a>
+_**Pavel Čermák**_ naroz. 3. 4. <a id="1807-1f1baa">1807</a> zemř. … syn <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="34-e36985">34</a> manželka Františka nar. 25. 7. <a id="1811-09b15d">1811</a> zemř. 24. 12. <a id="1882-e1314f">1882</a> dcera <a id="františek-zeman-4b3842">Fr. Zemana</a> č. <a id="84-68d30a">84</a> syn Jan naroz. 29. 3. <a id="1842-57c053">1842</a> zemř. <a id="1880-3214a6">1880</a> rolník č. <a id="93-98dce8">93</a>
 <a id="jan-čermák-72ac90">Jan Čermák</a> naroz. 29. 3. <a id="1842-57c053">1842</a> zemř. <a id="1880-3214a6">1880</a> syn <a id="pavla-čermák-2d86d8">Pavla Čermáka</a> č. <a id="42-a1d0c6">42</a> manželka Anežka nar. 28. 2. <a id="1844-06a15e">1844</a> zemř. 4. 2. <a id="1897-af3303">1897</a> dcera <a id="františek-žanta-8689ca">Frant. Žanty</a> č. <a id="15-9bf31c">15</a>
 syn Josef nar. 6. 11. <a id="1864-d07267">1864</a> syn František nar. 11. 12. <a id="1866-19de10">1866</a> rolnik č. <a id="15-9bf31c">15</a>
 <a id="josef-čermák-dac615">Josef Čermák</a> naroz. 6. 11. <a id="1864-d07267">1864</a> zemř. syn <a id="jan-čermák-72ac90">Jana Čermáka</a> č. <a id="85-3ef815">85</a> manželka Karolina naroz. 23. 9. <a id="1866-19de10">1866</a> zemř. … dcera <a id="josef-žanty-33bf86">Jos. Žanty</a> ze Stanov. č. <a id="39-d67d8a">39</a>
-syn Josef nar. 23. 7. <a id="1889-681485">1889,</a> zemř. 8. 7. <a id="1918-e74c0d">1918</a> v Choluň v Polsku poručík syn Frant.
-
-nar. 4. 12. <a id="1892-ca4603">1892</a>
+syn Josef nar. 23. 7. <a id="1889-681485">1889,</a> zemř. 8. 7. <a id="1918-e74c0d">1918</a> v Choluň v Polsku poručík syn Frant. nar. 4. 12. <a id="1892-ca4603">1892</a>
 
 
-_**František Čermák**_ naroz. 11. 12. <a id="1866-19de10">1866</a> zemř. … syn <a id="jan-čermák-72ac90">Jana Čermáka</a> č. <a id="93-98dce8">93</a>
-
-manželka Pavlína naroz. 17. 8. <a id="1871-fb8fef">1871</a> zemř. … dcera <a id="františek-žanta-8689ca">Františka Žanty</a> č. <a id="93-98dce8">93</a> dcera Pavlina naroz. 25. 10. <a id="1894-5fa9e4">1894</a> zemř. 30. 1. <a id="1919-8c8a58">1919</a> syn Karel nar. 19. 10. <a id="1898-11f524">1898</a>
+_**František Čermák**_ naroz. 11. 12. <a id="1866-19de10">1866</a> zemř. … syn <a id="jan-čermák-72ac90">Jana Čermáka</a> č. <a id="93-98dce8">93</a> manželka Pavlína naroz. 17. 8. <a id="1871-fb8fef">1871</a> zemř. … dcera <a id="františek-žanta-8689ca">Františka Žanty</a> č. <a id="93-98dce8">93</a> dcera Pavlina naroz. 25. 10. <a id="1894-5fa9e4">1894</a> zemř. 30. 1. <a id="1919-8c8a58">1919</a> syn Karel nar. 19. 10. <a id="1898-11f524">1898</a>
 
 
-_**František Čermák**_ nar. 14. 9. <a id="1823-14cfdb">1823</a> zemřel 14. 1. <a id="1895-059fdc">1895</a> syn <a id="václav-čermák-cde03a">Václava Čermáka</a> č. <a id="34-e36985">34</a>
-
-manželka Anna narozená 9. 1. <a id="1826-f442d3">1826</a> zemřela 24. 1. <a id="1893-56f9f8">1893</a> dcera <a id="petr-blažek-2bf817">Petra Blažka</a> č. <a id="53-d82c8d">53</a>
-
-syn Josef narozen 15. 12. <a id="1856-3c947b">1856</a> zemřel 3. 12. <a id="1918-e74c0d">1918</a> dcera Marie nar. 9. 11. <a id="1845-59bcda">1845</a> dcera Anna nar. 27. 5. <a id="1848-7385db">1848</a> zemřela … dcera Františka nar. 9. 4. <a id="1839-728f20">1839</a>
+_**František Čermák**_ nar. 14. 9. <a id="1823-14cfdb">1823</a> zemřel 14. 1. <a id="1895-059fdc">1895</a> syn <a id="václav-čermák-cde03a">Václava Čermáka</a> č. <a id="34-e36985">34</a> manželka Anna narozená 9. 1. <a id="1826-f442d3">1826</a> zemřela 24. 1. <a id="1893-56f9f8">1893</a> dcera <a id="petr-blažek-2bf817">Petra Blažka</a> č. <a id="53-d82c8d">53</a> syn Josef narozen 15. 12. <a id="1856-3c947b">1856</a> zemřel 3. 12. <a id="1918-e74c0d">1918</a> dcera Marie nar. 9. 11. <a id="1845-59bcda">1845</a> dcera Anna nar. 27. 5. <a id="1848-7385db">1848</a> zemřela … dcera Františka nar. 9. 4. <a id="1839-728f20">1839</a>
 
 
-_**Josef Čermák**_ naroz. 15. 12. <a id="1856-3c947b">1856</a> zemřel 3. 12. <a id="1918-e74c0d">1918</a> syn <a id="františek-čermák-1668f0">Františka Čermáka</a> č. <a id="53-d82c8d">53</a>
-
-manželka Marie naroz. 7. 8. <a id="1860-96c5c2">1860</a> zemř. <a id="1925-0950ca">1925</a>
-
-dcera Marie nar. 9. 9. <a id="1885-d52377">1885</a> zemř. 14. 9. <a id="1905-73e0f7">1905.</a> syn Josef nar. 17. 7. <a id="1884-f0fcf3">1884</a> rolník ve
-Sklenařicích
+_**Josef Čermák**_ naroz. 15. 12. <a id="1856-3c947b">1856</a> zemřel 3. 12. <a id="1918-e74c0d">1918</a> syn <a id="františek-čermák-1668f0">Františka Čermáka</a> č. <a id="53-d82c8d">53</a> manželka Marie naroz. 7. 8. <a id="1860-96c5c2">1860</a> zemř. <a id="1925-0950ca">1925</a> dcera Marie nar. 9. 9. <a id="1885-d52377">1885</a> zemř. 14. 9. <a id="1905-73e0f7">1905.</a> syn Josef nar. 17. 7. <a id="1884-f0fcf3">1884</a> rolník ve
+Sklenařicích dcera Františka nar. 14. 5. <a id="1888-2d1b2a">1888</a> zemř. 3. 1. <a id="1889-681485">1889</a> dcera Pavlina nar. 27. 7. <a id="1889-681485">1889</a> zemř. …provdaná za <a id="josef-slavík-76a4f4">Jos. Slavíka</a> ze Třiče dcera Anna nar. 5. 2. <a id="1891-13168e">1891</a> zemř. 25. 3. <a id="1894-5fa9e4">1894</a> dcera Anna nar. 3. 10. <a id="1897-af3303">1897</a> zemř. <a id="1903-944626">1903</a>
 
 
-dcera Františka nar. 14. 5. <a id="1888-2d1b2a">1888</a> zemř. 3. 1. <a id="1889-681485">1889</a> dcera Pavlina nar. 27. 7. <a id="1889-681485">1889</a>
-
-zemř. …provdaná za <a id="josef-slavík-76a4f4">Jos. Slavíka</a> ze Třiče dcera Anna nar. 5. 2. <a id="1891-13168e">1891</a> zemř. 25. 3. <a id="1894-5fa9e4">1894</a> dcera Anna nar. 3. 10. <a id="1897-af3303">1897</a> zemř. <a id="1903-944626">1903</a>
-
-
-_**Josef Soukup**_ nar. 14. 11. <a id="1893-56f9f8">1893</a> zemř. … syn <a id="františek-soukup-2e6a7b">Františka Soukupa</a> č. <a id="53-d82c8d">53</a>
-
-<a id="pavla-slavíková-6ba49a">Pavlína Slavíková</a> nar. 27. 7. <a id="1889-681485">1889</a> zemř. … dcera <a id="josef-slavík-76a4f4">Josefa Slavíka</a> č. <a id="53-d82c8d">53</a> syn <a id="josef-čermák-dac615">Josef Čermák</a> nar. 13. 12. <a id="1921-9f6992">1921</a> dcera Růžena nar. 12. 3. <a id="1923-414e77">1923</a>
+_**Josef Soukup**_ nar. 14. 11. <a id="1893-56f9f8">1893</a> zemř. … syn <a id="františek-soukup-2e6a7b">Františka Soukupa</a> č. <a id="53-d82c8d">53</a> <a id="pavla-slavíková-6ba49a">Pavlína Slavíková</a> nar. 27. 7. <a id="1889-681485">1889</a> zemř. … dcera <a id="josef-slavík-76a4f4">Josefa Slavíka</a> č. <a id="53-d82c8d">53</a> syn <a id="josef-čermák-dac615">Josef Čermák</a> nar. 13. 12. <a id="1921-9f6992">1921</a> dcera Růžena nar. 12. 3. <a id="1923-414e77">1923</a>
 dcera Věra nar. 16. 9. <a id="1925-0950ca">1925</a> zemř. 15. 4. <a id="1926-5103c3">1926</a> dcera Olga nar. 30. 5. <a id="1924-b139e1">1924</a>
 
 
-_**Josef Čermák**_ naroz. <a id="1778-6709e8">1778</a> zemř. <a id="1847-82cadb">1847</a> syn <a id="václav-čermák-cde03a">Václava Čermáka</a> č. <a id="22-b6d767">22</a>
-
-manželka
-
-syn František naroz. <a id="1798-ac5dab">1798</a> zemř. <a id="1849-cd63a3">1849</a> domkař č. <a id="18-6f4922">18</a> syn Michal podruh č. <a id="7-8f14e4">7</a> syn Josef nar. 22. 12. <a id="1800-f39ae9">1800</a> zemř. <a id="1856-3c947b">1856</a> rolník č. <a id="22-b6d767">22</a>
+_**Josef Čermák**_ naroz. <a id="1778-6709e8">1778</a> zemř. <a id="1847-82cadb">1847</a> syn <a id="václav-čermák-cde03a">Václava Čermáka</a> č. <a id="22-b6d767">22</a> manželka syn František naroz. <a id="1798-ac5dab">1798</a> zemř. <a id="1849-cd63a3">1849</a> domkař č. <a id="18-6f4922">18</a> syn Michal podruh č. <a id="7-8f14e4">7</a> syn Josef nar. 22. 12. <a id="1800-f39ae9">1800</a> zemř. <a id="1856-3c947b">1856</a> rolník č. <a id="22-b6d767">22</a>
 
 
-_**František Čermák**_ naroz. 26. 7. <a id="1798-ac5dab">1798</a> zemř. <a id="1849-cd63a3">1849</a> syn <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="22-b6d767">22</a>
-
-manželka Marie naroz. 10. 11. <a id="1801-cd1482">1801</a>
-
-syn František naroz. 28. 12. <a id="1824-2647c1">1824</a> zemř. 27. 10. <a id="1886-c366c2">1886</a> zedník č. <a id="71-e2c420">71</a> syn Kristián naroz. 2. 3. <a id="1829-aa2a77">1829</a> zemř. 30. 4. <a id="1914-07a4e2">1914</a> rolník č. <a id="22-b6d767">22</a>
+_**František Čermák**_ naroz. 26. 7. <a id="1798-ac5dab">1798</a> zemř. <a id="1849-cd63a3">1849</a> syn <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="22-b6d767">22</a> manželka Marie naroz. 10. 11. <a id="1801-cd1482">1801</a> syn František naroz. 28. 12. <a id="1824-2647c1">1824</a> zemř. 27. 10. <a id="1886-c366c2">1886</a> zedník č. <a id="71-e2c420">71</a> syn Kristián naroz. 2. 3. <a id="1829-aa2a77">1829</a> zemř. 30. 4. <a id="1914-07a4e2">1914</a> rolník č. <a id="22-b6d767">22</a>
 dcera Marie 3. 10. <a id="1822-0e087e">1822</a> zemř. <a id="1881-b4568d">1881</a> pod Bozkovem dcera Anna naroz. 22. 5. <a id="1835-dfce06">1835</a> zemř. … manželka <a id="josef-štěpánek-b267bd">Josefa Štěpánka</a> v Bozkově
 
 
-_**František Čermák**_ nar. 28. 12. <a id="1824-2647c1">1824</a> zemř. 27. 10. <a id="1886-c366c2">1886</a> syn <a id="františek-čermák-1668f0">Frant. Čermáka</a> č. <a id="18-6f4922">18</a>
-
-manželka Františka naroz. 7. 4. <a id="1828-4496bf">1828</a> zemř. … dcera <a id="františek-liška-568223">Frant. Lišky</a> č. <a id="58-66f041">58</a> dcera Františka 31. 5. <a id="1857-a3545b">1857</a> zemř. … manželka <a id="františek-hotovička-4921b8">Frant. Hotovičky</a> č. <a id="67-735b90">67</a>
-dceraAnna naroz. 27. 7. <a id="1869-68c694">1869</a> zemř. 20. 4. <a id="1901-d54e99">1901</a> manželka <a id="antonín-večerník-c197f0">Ant. Večerníka</a> č. <a id="66-3295c7">66</a>
-
-syn Kristián naroz. 18. 9. <a id="1861-f9d115">1861</a> zemř. … syn František nar. 7. 9. <a id="1863-09fb05">1863</a> ve Vídni syn Antonín naroz. 15. 10. <a id="1861-f9d115">1861</a>
+_**František Čermák**_ nar. 28. 12. <a id="1824-2647c1">1824</a> zemř. 27. 10. <a id="1886-c366c2">1886</a> syn <a id="františek-čermák-1668f0">Frant. Čermáka</a> č. <a id="18-6f4922">18</a> manželka Františka naroz. 7. 4. <a id="1828-4496bf">1828</a> zemř. … dcera <a id="františek-liška-568223">Frant. Lišky</a> č. <a id="58-66f041">58</a> dcera Františka 31. 5. <a id="1857-a3545b">1857</a> zemř. … manželka <a id="františek-hotovička-4921b8">Frant. Hotovičky</a> č. <a id="67-735b90">67</a>
+dceraAnna naroz. 27. 7. <a id="1869-68c694">1869</a> zemř. 20. 4. <a id="1901-d54e99">1901</a> manželka <a id="antonín-večerník-c197f0">Ant. Večerníka</a> č. <a id="66-3295c7">66</a> syn Kristián naroz. 18. 9. <a id="1861-f9d115">1861</a> zemř. … syn František nar. 7. 9. <a id="1863-09fb05">1863</a> ve Vídni syn Antonín naroz. 15. 10. <a id="1861-f9d115">1861</a>
 
 
-_**Kristián Čermák**_ nar. 18. 9. <a id="1861-f9d115">1861</a> zemř. … syn <a id="františek-čermák-1668f0">Frant. Čermáka</a> č. <a id="71-e2c420">71</a>
-
-I. manželka
-
+_**Kristián Čermák**_ nar. 18. 9. <a id="1861-f9d115">1861</a> zemř. … syn <a id="františek-čermák-1668f0">Frant. Čermáka</a> č. <a id="71-e2c420">71</a> I. manželka
 II. manželka Marie naroz. 22. 5. <a id="1863-09fb05">1863</a> zemř. dcera <a id="josef-tichánek-1aca12">Jos. Tichánka</a> z Roprachtic syn Ludvík nar. 6. 1. <a id="1900-9fdb62">1900</a> zemř. … dcera Ludmila nar. 12. 5. <a id="1892-ca4603">1892</a>
 syn Petr nar. 18. 8. <a id="1902-fc4ddc">1902</a> zemř. … dcera Marie nar. 30. 5. <a id="1895-059fdc">1895</a> zemř. … manželka <a id="františek-pikora-6ed933">Frant. Pikory</a> na Rybnicích
 dcera Pavlina nar. 13. 1. <a id="1898-11f524">1898</a> zemř. … manželka <a id="josef-tichý-4dc79c">Jos. Tichýho</a> ve Vysokém
 
 
-_**Marie Štěpánková**_ nar. 12. 8. <a id="1869-68c694">1869</a> zemř. … dcera <a id="anna-čermáková-d2ebbf">Anny Čermákové</a> z č. <a id="18-6f4922">18</a>
-
-(syn) <a id="antonín-štěpánek-f387a6">Antonín Štěpánek</a> nar. 29. 3. <a id="1893-56f9f8">1893</a> zemř. … syn <a id="antonín-koldovský-88b47c">Ant. Koldovskýho</a> č. <a id="75-d09bf4">75</a> manželka Anna nar. 1. 12. <a id="1891-13168e">1891</a> zemř. … dcera <a id="josef-rydval-1ed1ad">Josefa Rydvala</a> č. <a id="77-28dd2c">77</a>
+_**Marie Štěpánková**_ nar. 12. 8. <a id="1869-68c694">1869</a> zemř. … dcera <a id="anna-čermáková-d2ebbf">Anny Čermákové</a> z č. <a id="18-6f4922">18</a> (syn) <a id="antonín-štěpánek-f387a6">Antonín Štěpánek</a> nar. 29. 3. <a id="1893-56f9f8">1893</a> zemř. … syn <a id="antonín-koldovský-88b47c">Ant. Koldovskýho</a> č. <a id="75-d09bf4">75</a> manželka Anna nar. 1. 12. <a id="1891-13168e">1891</a> zemř. … dcera <a id="josef-rydval-1ed1ad">Josefa Rydvala</a> č. <a id="77-28dd2c">77</a>
 dcera Anna nar. 1. 3. <a id="1920-44968a">1920</a> syn Antonín nar. 10. 8. <a id="1921-9f6992">1921</a> syn František nar. 4. 10. <a id="1923-414e77">1923</a> syn Stanislav nar. 12. 2. <a id="1926-5103c3">1926</a>
 
 ### **Rod Hevákův**
 
-_**Adam Hevák**_ nar. <a id="1746-442cde">1746</a> zemř. <a id="1807-1f1baa">1807</a> syn <a id="jakub-hevák-fed9db">Jakuba Heváka</a> č. <a id="20-98f137">20</a>
-
-manželka
-
-syn Václav nar. 13. 6. <a id="1770-e5a4d6">1770</a> zemř. … majitel 1/2 č. <a id="20-98f137">20</a> a č. <a id="18-6f4922">18</a> syn František nar. <a id="1777-e9b73b">1777</a> zemř. … majitel 1/2 č. <a id="20-98f137">20</a>
+_**Adam Hevák**_ nar. <a id="1746-442cde">1746</a> zemř. <a id="1807-1f1baa">1807</a> syn <a id="jakub-hevák-fed9db">Jakuba Heváka</a> č. <a id="20-98f137">20</a> manželka syn Václav nar. 13. 6. <a id="1770-e5a4d6">1770</a> zemř. … majitel 1/2 č. <a id="20-98f137">20</a> a č. <a id="18-6f4922">18</a> syn František nar. <a id="1777-e9b73b">1777</a> zemř. … majitel 1/2 č. <a id="20-98f137">20</a>
 
 
-_**František Hevák**_ naroz. <a id="1777-e9b73b">1777</a> zemř.… syn <a id="adam-hevák-0d7365">Adama Heváka</a> č. <a id="20-98f137">20</a>
-
-manželka
-
-syn Josef naroz. 20. 3. <a id="1809-645098">1809</a> zemř. … majitel 1/2 č. <a id="20-98f137">20,</a> potom č. <a id="46-d9d4f4">46,</a> potom 1/2 č. <a id="54-a684ec">54</a>
-syn František naroz. 19. 4. <a id="1835-dfce06">1835</a> zemř. … syn Antonín naroz. 20. 7. <a id="1834-d75771">1834</a>
+_**František Hevák**_ naroz. <a id="1777-e9b73b">1777</a> zemř.… syn <a id="adam-hevák-0d7365">Adama Heváka</a> č. <a id="20-98f137">20</a> manželka syn Josef naroz. 20. 3. <a id="1809-645098">1809</a> zemř. … majitel 1/2 č. <a id="20-98f137">20,</a> potom č. <a id="46-d9d4f4">46,</a> potom 1/2 č. <a id="54-a684ec">54</a> syn František naroz. 19. 4. <a id="1835-dfce06">1835</a> zemř. … syn Antonín naroz. 20. 7. <a id="1834-d75771">1834</a>
 
 
-_**Josef Hevák**_ naroz. 20. 3. <a id="1809-645098">1809</a> zemř. … syn <a id="františek-hevák-ce1268">Františka Heváka</a> č. <a id="20-98f137">20</a>
-
-manželka Anna naroz. 23. 8. <a id="1810-6e79ed">1810</a> zemř. … dcera <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="34-e36985">34</a>
-
-dcera Anna naroz. 10. 6. <a id="1842-57c053">1842</a> zemř. … dcera Marie naroz. 9. 1. <a id="1852-eb1e78">1852</a> zemř. …
-
-syn Antonín nar. 18 zemř. … ve Vysokém č.
+_**Josef Hevák**_ naroz. 20. 3. <a id="1809-645098">1809</a> zemř. … syn <a id="františek-hevák-ce1268">Františka Heváka</a> č. <a id="20-98f137">20</a> manželka Anna naroz. 23. 8. <a id="1810-6e79ed">1810</a> zemř. … dcera <a id="josef-čermák-dac615">Josefa Čermáka</a> č. <a id="34-e36985">34</a> dcera Anna naroz. 10. 6. <a id="1842-57c053">1842</a> zemř. … dcera Marie naroz. 9. 1. <a id="1852-eb1e78">1852</a> zemř. …syn Antonín nar. 18 zemř. … ve Vysokém č.
 
 
-_**Antonín Hevák**_ nar. 18. zemř. syn <a id="josef-hevák-b63bb9">Josefa Heváka</a> č. <a id="20-98f137">20</a>
-
-manželka Emma naroz. 26. 12. <a id="1847-82cadb">1847</a> zemř. 19 dcera <a id="jan-vodseďálek-b2cf6f">Jana Vodseďálka</a> č. <a id="83-fe9fc2">83</a> syn Antonín syn Jaroslav naroz. 22. 3. <a id="1873-d4b2ae">1873</a> chalupník č. <a id="82-9778d5">82</a>
+_**Antonín Hevák**_ nar. 18. zemř. syn <a id="josef-hevák-b63bb9">Josefa Heváka</a> č. <a id="20-98f137">20</a> manželka Emma naroz. 26. 12. <a id="1847-82cadb">1847</a> zemř. 19 dcera <a id="jan-vodseďálek-b2cf6f">Jana Vodseďálka</a> č. <a id="83-fe9fc2">83</a> syn Antonín syn Jaroslav naroz. 22. 3. <a id="1873-d4b2ae">1873</a> chalupník č. <a id="82-9778d5">82</a>
 <a id="jaroslav-hevák-256fac">Jaroslav Hevák</a> naroz. 22. 3. <a id="1873-d4b2ae">1873</a> zemř. syn <a id="antonín-hevák-22cc48">Antonína Heváka</a> z Vysokého č. <a id="72-32bb90">72</a>
 ### **Rod Hladíkův**
 
@@ -5251,20 +5294,12 @@ manželka Emma naroz. 26. 12. <a id="1847-82cadb">1847</a> zemř. 19 dcera <a id
 _**Václav Hladík**_ naroz. <a id="1777-e9b73b">1777</a> zemř. …
 
 
-I. manželka Anna naroz. <a id="1779-8c01a7">1779</a> zemř. … dcera <a id="josef-novák-475dbc">Josefa Nováka</a> č. <a id="14-aab323">14</a>
-
-dcera Anna naroz. 12. 2. <a id="1820-f2d887">1820</a> zemř. …
-
-dcera Kateřina naroz. 19. 9. <a id="1836-f26dab">1836</a> zemř. <a id="1886-c366c2">1886</a> manželka <a id="jana-karlas-a1d9f0">Jana Karlasa</a> č. <a id="91-54229a">91</a> syn Josef nar. 30. 8. <a id="1810-6e79ed">1810</a> zemř. 9. 11. <a id="1895-059fdc">1895</a> zedník a domkař č. <a id="52-9a1158">52</a>
+I. manželka Anna naroz. <a id="1779-8c01a7">1779</a> zemř. … dcera <a id="josef-novák-475dbc">Josefa Nováka</a> č. <a id="14-aab323">14</a> dcera Anna naroz. 12. 2. <a id="1820-f2d887">1820</a> zemř. … dcera Kateřina naroz. 19. 9. <a id="1836-f26dab">1836</a> zemř. <a id="1886-c366c2">1886</a> manželka <a id="jana-karlas-a1d9f0">Jana Karlasa</a> č. <a id="91-54229a">91</a> syn Josef nar. 30. 8. <a id="1810-6e79ed">1810</a> zemř. 9. 11. <a id="1895-059fdc">1895</a> zedník a domkař č. <a id="52-9a1158">52</a>
 
 
-_**Josef Hladík**_ nar. 30. 8. <a id="1810-6e79ed">1810</a> zemř. 9. 11. <a id="1895-059fdc">1895</a> syn <a id="václav-hladík-9e6ee5">Václava Hladíka</a> č. <a id="14-aab323">14</a>
-
-manželka Anna naroz. 24. 12. <a id="1811-09b15d">1811</a> zemř. … dcera <a id="josef-hotovička-22d834">Josefa Hotovičky</a> č. <a id="51-283802">51</a> dcera Anna naroz. 11. 1. <a id="1837-85f007">1837</a> zemř. 15. 3. <a id="1911-04df4d">1911</a> manželka <a id="josef-večerník-1fdbf4">Josefa Večerníka</a> č. <a id="20-98f137">20</a>
+_**Josef Hladík**_ nar. 30. 8. <a id="1810-6e79ed">1810</a> zemř. 9. 11. <a id="1895-059fdc">1895</a> syn <a id="václav-hladík-9e6ee5">Václava Hladíka</a> č. <a id="14-aab323">14</a> manželka Anna naroz. 24. 12. <a id="1811-09b15d">1811</a> zemř. … dcera <a id="josef-hotovička-22d834">Josefa Hotovičky</a> č. <a id="51-283802">51</a> dcera Anna naroz. 11. 1. <a id="1837-85f007">1837</a> zemř. 15. 3. <a id="1911-04df4d">1911</a> manželka <a id="josef-večerník-1fdbf4">Josefa Večerníka</a> č. <a id="20-98f137">20</a>
 syn Josef 17. 9. <a id="1841-e8dfff">1841</a> zemř. <a id="1908-656997">1908</a> chalupník č. <a id="47-67c6a1">47</a> syn Frant. nar. 17. 9. <a id="1848-7385db">1848</a>
-dcera Anežka nar. 25. 9. <a id="1855-6ae07d">1855</a> zemř. 13. 3. <a id="1893-56f9f8">1893</a> dcera Marie nar. 13. 4. <a id="1839-728f20">1839</a>
-
-zemř. 22. 12. <a id="1902-fc4ddc">1902</a> manželka <a id="michal-syrovátka-84f8a9">Michala Syrovátky</a> č. <a id="3-eccbc8">3</a>
+dcera Anežka nar. 25. 9. <a id="1855-6ae07d">1855</a> zemř. 13. 3. <a id="1893-56f9f8">1893</a> dcera Marie nar. 13. 4. <a id="1839-728f20">1839</a> zemř. 22. 12. <a id="1902-fc4ddc">1902</a> manželka <a id="michal-syrovátka-84f8a9">Michala Syrovátky</a> č. <a id="3-eccbc8">3</a>
 
 
 _**František Hladík**_ naroz. 17. 9. <a id="1848-7385db">1848</a> zemř. 27. 3. <a id="1927-e5b294">1927</a> syn <a id="josef-hladík-ab82c6">Josefa Hladíka</a> č. <a id="52-9a1158">52</a>
@@ -5286,16 +5321,16 @@ sdělená zpráva že má okresní soud „nařízeno“ důležité spisy mít 
 všecko plašilo obyvatelstvo celého okolí že bude válka.
 Našli se i takový že říkali že se lépe ani Němcům nebránit (Fr. Čermák číslo 93) a zase jiní že by bylo nám lépe pod německým panstvím (Jar. Nesvadba, <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský,</a> ten
 druhý ač mu bylo lépe než komu jinému byl zlákán blahobytem svých přátel u Žitavy.)
-Ten čas vyzvedl <a id="čeněk-housa-4a3288">Čeněk Housa</a> žalobu na porážkový spolek pro zaplacení náhrady za nuceně poraženého vola dne 21. unora. Tomu volovi bylo 15 let a zvěrolékař u něho zjistil měknutí kosti z hla du a neuznal maso k výseku. Bylo toho celé váhy 178 kg a někdo toho ze stodoly ukradl a zbytek odvezl <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> do bělidla v Jablonci k spálení a porážkový spolek se usnesl že na tento
 
-
-zaviněný případ nedá žádnou náhradu a že jeho ostatní dobytek jehož měl ještě 12 ks vypadal také na takový konec, vyloučili ho ze spolku. Housa krmil sice jen zeleným obrobkem poněvadž slámu
+Ten čas vyzvedl <a id="čeněk-housa-4a3288">Čeněk Housa</a> žalobu na porážkový spolek pro zaplacení náhrady za nuceně poraženého vola dne 21. unora. Tomu volovi bylo 15 let a zvěrolékař u něho zjistil měknutí kosti z hla du a neuznal maso k výseku. Bylo toho celé váhy 178 kg a někdo toho ze stodoly ukradl a zbytek odvezl <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> do bělidla v Jablonci k spálení a porážkový spolek se usnesl že na tento zaviněný případ nedá žádnou náhradu a že jeho ostatní dobytek jehož měl ještě 12 ks vypadal také na takový konec, vyloučili ho ze spolku. Housa krmil sice jen zeleným obrobkem poněvadž slámu
 neměl žádnou (ani nepodestýlal) nemaje vymláceno ale jen dvakrát za den a pít dávali jen jednou, obojího málo, poněvadž jsa od podzima sám nemohl k prací stačit a odprodat něco nechtěl. Celou
 podzimní práci od srpna mu udělal bez stravy a ani u nemocenské pokladny ho nepřihlášeného neměl <a id="josef-babec-c90561">Jos. Babec</a> a on mu pak za to dal 200 K.
 Do polou března byla silná zima a že do Vánoc nebyl sníh vůbec žádný a od Vánoc málo, lidé ani stromky neobvázali a když potom v unoru napadla spousta sněhu ožrali je zajíci jichž bylo u domů
 třeba 5. Nejhůře byl postižen <a id="josef-janda-e4c793">Jos. Janda</a> jemuž 8 velkých štěpu nadobro oloupili.
 Potom když nastalo tání, že nebyla země umrzlá, sníh pařil žita takže se na nich objevila sněžná plíseň a nejhůře byla postižena žita jež byla na podzim pěkná a hlavně cizé druhy. Nejvíce byl postižen Janda maje setý druh zvaný Petkutský na poli u Trhovice a ve Zdůlni.
+
 Poslední týden března byl už tak krásně teplo a sucho a sníh už málo kde až dne 29. v pátek zahřmělo a taková spousta sněhu se svalila a vánice se strhla jako málokdy v zimě a mrazivou při tom.
+
 Ten den byl ve Vysokém odvod; od nás byli odvedení oba ze III. třídy <a id="petr-novák-62cf37">Petr Novák</a> č. <a id="50-c0c7c7">50</a> brusič skla
 22\. pěší pluk v Jičíně.
 <a id="františek-soukup-2e6a7b">Frant. Soukup</a> č. <a id="53-d82c8d">53</a> rolnický syn 253. horský dělostřelec. oddíl v Liberci.
@@ -5352,10 +5387,7 @@ matka jmenovaného dlužníka se ty peníze dlužila od Josefa a on jí řekl ž
 
 
 Rok ten byl neobyčejně nepravý: sena narostlo málo už v květnu se sušilo neb se pro veliké sucho začala tráva tratit a otava vyrostla jen na stranách od slunce obrácených a mokřinách ale slavná né,
-jetele rovněž byli špatné a žita měl někdo špatná a nikdo nic (pěkné neměl nikdo) ježto na ně přišla sněžná plíseň a ještě následkem sucha bylo málo zrní, oves řídký krátký a polovička zrní se osipala
-
-
-na poli; rovněž bramborů nebylo mnoho a zelí nebylo mnoho a bylo špatné a ač stromoví hodně kvetlo nebyla třešně nikde ani jedna; jablek sice bylo dosti ale všechny červivé a hnily a černé jahody také vůbec žádné nebyly.
+jetele rovněž byli špatné a žita měl někdo špatná a nikdo nic (pěkné neměl nikdo) ježto na ně přišla sněžná plíseň a ještě následkem sucha bylo málo zrní, oves řídký krátký a polovička zrní se osipala na poli; rovněž bramborů nebylo mnoho a zelí nebylo mnoho a bylo špatné a ač stromoví hodně kvetlo nebyla třešně nikde ani jedna; jablek sice bylo dosti ale všechny červivé a hnily a černé jahody také vůbec žádné nebyly.
 Do 9. prosince bylo celý týden as 2 cm sněhu a poumrzlé a 10. ráno při jasném počasí tak se oteplilo že bez deště sníh úplně stál. Před Štědrým dnem ho napadlo zas asi tolik a řádně umrzlo, na
 Boží narození se odteplilo, na Štěpána už pršelo a poslední den v roce bylo už úplně beze sněhu a skoro sucho, krásně teplo jako v letě, v dolenci byly kočičky a v Končinách proti slunci kvetl petrklíč a to ani v noci nezmrzlalo a po kolik nocí se blýskalo.
 V Staré Vsi se narodilo den rok 4 a zemřelých zemřelo jich 5.
@@ -5377,11 +5409,9 @@ Ten čas se u nás rozpadl spolek pro ochranu majitelů padlého dobytka. Posled
 jablečný ohryzek a 12. břez. musel dát zakopat vola za něhož dostával před tím 1 500 K jenž měl tuberkulosu <a id="antonín-kobr-fac949">Ant. Kobr</a> č. <a id="77-28dd2c">77.</a>
 
 Dne 2. února byli založeni přičiněním <a id="josef-soukup-006cf6">Jos. Soukupa</a> v Kvardově hostinci ve Staré vsi koministé.
-12\. února zemřel 62 letý <a id="emanuel-zákoutský-f38133">Emanuel Zákoutský</a> rodák ze Semil když měli před 300 lety jeho předci dvůr řečený Zákoutí 1/2 chalupy u Blažků zvané po něm ujala spolumajitelka vdova <a id="františka-zákoutská-e1e2e4">Františka
-
-
-Zákoutská,</a> která měla už 11. květ. spor se sousedem K. Polákem jenž jí jezdil přes pozemek s vozem a jeho zeť holič Havel ji přerazil kopáčem ruku.
+12\. února zemřel 62 letý <a id="emanuel-zákoutský-f38133">Emanuel Zákoutský</a> rodák ze Semil když měli před 300 lety jeho předci dvůr řečený Zákoutí 1/2 chalupy u Blažků zvané po něm ujala spolumajitelka vdova <a id="františka-zákoutská-e1e2e4">Františka Zákoutská,</a> která měla už 11. květ. spor se sousedem K. Polákem jenž jí jezdil přes pozemek s vozem a jeho zeť holič Havel ji přerazil kopáčem ruku.
 Dne 28. února odpoledne přišel silný vítr s deštěm po němž byla všecka okna blátem potažena a všecky nádoby venku plné bláta.
+
 8\. dubna zemřel 74letý <a id="františek-slavík-c9ac8f">Frant. Slavík</a> který celý život nezastonal a teď ho odpravilo to že šel bos na nevypařenou zem. Usedlost č. <a id="48-642e92">48</a> o výměře 35 korců po něm ujal 41letý svobodný syn <a id="josef-slavík-76a4f4">Jos. Slavík</a>
 <a id="válka-bfccd5">válečný</a> jednonohý invalida.
 10\. dubna na Velký pátek ukradl časně ráno nějaký darebák jenž zjištěn nebyl v č. <a id="31-c16a53">31</a> Zákoutské z chléva pod domem kozu a prodal ji za 100 K jisté ženské v Roprachticích, kdež koza nalezena
@@ -5460,14 +5490,19 @@ Dne 21. května v noci jsme měli být přepadeni německým vojskem ale včas s
 během 4 neděl vrátili.
 
 Od nás byli povolání do služby:
+
 <a id="josef-šmíd-ec9534">Jos. Šmíd</a> č. <a id="46-d9d4f4">46</a>
+
 <a id="karel-čermák-e55a29">Karel Čermák</a> č. <a id="15-9bf31c">15</a>
 
 <a id="petr-slavík-6944fb">Petr Slavík</a> č. <a id="85-3ef815">85</a>
 
 <a id="petr-novák-62cf37">Petr Novák</a> č. <a id="50-c0c7c7">50</a>
+
 <a id="václav-žitný-f09ee9">Václav Žitný</a> č. <a id="33-182be0">33</a>
+
 <a id="františek-soukup-2e6a7b">Frant. Soukup</a> č. <a id="53-d82c8d">53</a>
+
 <a id="jindřich-večerník-2c8074">Jindř. Večerník</a> č. <a id="24-1ff1de">24</a>
 
 <a id="linhart-večerník-a1869e">Linhart Večerník</a> č. <a id="24-1ff1de">24</a>
@@ -5478,13 +5513,11 @@ v domě starostově při čemž byl volebním komisařem učitel <a id="jan-mecn
 pokladníkem dosavádní pokladník <a id="otakar-novák-3f8684">Otakar Novák</a> a ostatními členy obec. zástupitelstva zvoleni:
 <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> č. <a id="20-98f137">20</a> <a id="bohumil-slavík-3192da">Bohumil Slavík,</a> <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> č. <a id="75-d09bf4">75,</a> <a id="václav-olič-b683ee">Václ. Olič</a> č. <a id="45-6c8349">45,</a> <a id="antonín-skrbek-0351fb">Ant. Skrbek,</a> <a id="františek-liška-568223">Frant.
 Liška</a> č. <a id="17-70efdf">17,</a> a <a id="antonín-vacátko-34c060">Ant. Vacátko</a> z č. <a id="18-6f4922">18.</a>
+
 Dne 4. června sbírka na obranu státu která vynesla 1 024 K a kterouž vykonali: starosta Novák a <a id="františek-liška-568223">Frant. Liška:</a> obec dala: 300 K Kampelička 100 K a hasiči 100 K. Z jiných dárců dali: učitel 40 K,
 starosta a <a id="antonín-blažek-d9e419">Ant. Blažek</a> po 20 K, <a id="stanislav-kobr-ea2465">St. Kobr,</a> <a id="josef-slavík-76a4f4">Jos. Slavík</a> <a id="františek-svatý-74869a">Fr. Svatý</a> č. <a id="40-d64592">40</a> po 15 K, po 10 K dali: <a id="františek-šmíd-dd68ce">Fr. Šmíd</a> č. <a id="30-34173c">30,</a> M. Hladíková, <a id="františek-kobr-88f09f">Fr. Kobr</a> č. <a id="26-4e732c">26,</a> Č. Housa, P. Svárovská, B. Kobrová, <a id="aug-novotný-fa8924">Aug. Novotný,</a> <a id="josef-bouzek-3e34d8">Jos. Bouzek,</a>
 K. Koldovský, <a id="františek-čermák-1668f0">Fr. Čermák,</a> M. Vodseďálek, <a id="františek-janoušek-bf1684">Fr. Janoušek,</a> A. Koldovský, B. Ducháčková, <a id="bohuslav-slavík-d8a98a">Boh. Slavík,</a>
-A. Kobr, <a id="jan-šulc-fc9b24">Jan Šulc,</a> <a id="josef-soukup-006cf6">Jos. Soukup.</a> <a id="františek-soukup-2e6a7b">Fr. Soukup,</a> <a id="františek-knížek-934029">Fr. Knížek,</a> <a id="stanislav-kvarda-38ca5e">St. Kvarda,</a> <a id="vilém-polouprutský-877f7e">Vil. Polouprutský,</a> <a id="václav-večerník-a9ecb2">Václ. Večerník</a>
-
-
-a po 5 K: <a id="oldřich-polouprutský-67d67c">Oldř. Polouprutský,</a> <a id="vladislav-vodseďálek-a8e17e">Vl. Vodseďálek,</a> mlynář Albrecht, <a id="františka-zákoutský-55251b">Fr. Zákoutská,</a> A. Dlabalová, <a id="josef-babec-c90561">Jos.
+A. Kobr, <a id="jan-šulc-fc9b24">Jan Šulc,</a> <a id="josef-soukup-006cf6">Jos. Soukup.</a> <a id="františek-soukup-2e6a7b">Fr. Soukup,</a> <a id="františek-knížek-934029">Fr. Knížek,</a> <a id="stanislav-kvarda-38ca5e">St. Kvarda,</a> <a id="vilém-polouprutský-877f7e">Vil. Polouprutský,</a> <a id="václav-večerník-a9ecb2">Václ. Večerník</a> a po 5 K: <a id="oldřich-polouprutský-67d67c">Oldř. Polouprutský,</a> <a id="vladislav-vodseďálek-a8e17e">Vl. Vodseďálek,</a> mlynář Albrecht, <a id="františka-zákoutský-55251b">Fr. Zákoutská,</a> A. Dlabalová, <a id="josef-babec-c90561">Jos.
 Babec,</a> <a id="bohdan-pavlata-bfbc9e">Bohd. Pavlata,</a> <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> A. Večerníková č. <a id="92-92cc22">92,</a> <a id="jaroslav-večerník-b04539">Jar. Večerník,</a> M. Večerníková, Š. Hrádecký, B. Polouprutský, A. Vitvar, <a id="františek-čermák-1668f0">Fr. Čermák,</a> <a id="jitka-vodseďálková-beb2c1">Jitka Vodseďálková,</a> V. Šalda, M. Honák, <a id="františek-kobr-88f09f">Fr. Kobr</a> č. <a id="56-9f6140">56,</a> F. Polouprutský, <a id="václav-novák-4fa2e7">Václ. Novák,</a> F. Večerník, <a id="alb-lišková-dcffa8">Alb. Lišková,</a> B. Přibylová, J. Vodseďálek, F. Liška,
 <a id="otakar-novák-3f8684">Ot. Novák,</a> F. Zeman, A. Štěpánek, <a id="josef-polouprutský-403545">Jos. Polouprutský,</a> <a id="václav-polouprutský-070419">Václ. Polouprutský.</a> 3 K J. Novák, <a id="josef-večerník-1fdbf4">Jos. Večerník,</a> a po 2 K F. Šmíd č. <a id="46-d9d4f4">46,</a> <a id="františek-chlum-66e864">Fr. Chlum</a> a a <a id="emilie-jínová-e48ddc">Em. Jínová</a> č. <a id="86-93db85">86.</a>
 Na výborské místo po 5. srpna zemřelém <a id="václav-olič-b683ee">Václ. Oličovi</a> povolán F. Večerník č. <a id="99-ac627a">99.</a> A ten samý den zemřel <a id="oldřich-zeman-4f5b58">Oldř. Zeman</a> nájemník v Jandově pazderně.
@@ -5508,9 +5541,7 @@ Z uprchlíků z uzemí Německu přeci postoupeného se sem přistěhovalo 19 ro
 <a id="ludmila-poláková-76a370">Ludmila Poláková</a> z České Lípy. <a id="zdeněk-olič-ddd9a0">Zdeňka Oličova</a> z Rýnoltic.
 <a id="věra-válková-491dca">Věra Válková</a> ze Šumburku <a id="františek-kopal-61e42c">Fr. Kopal</a> z Polubného
 <a id="valter-tichý-26b700">Valter Tichý</a> z Rokytnice <a id="karolína-černohlávková-b15655">Karolína Černohlávková</a> z Rokytnice
-<a id="petr-kučera-d974bb">Petr Kučera</a> z Polubného <a id="anna-škodová-2ab333">Anna Škodová</a> z Horní Dušnice
-
-<a id="ladislav-jón-11eb38">Ladislav Jón</a> z Rokytnice <a id="božena-lukšová-f29737">Božena Lukšová</a> z Hradska.
+<a id="petr-kučera-d974bb">Petr Kučera</a> z Polubného <a id="anna-škodová-2ab333">Anna Škodová</a> z Horní Dušnice <a id="ladislav-jón-11eb38">Ladislav Jón</a> z Rokytnice <a id="božena-lukšová-f29737">Božena Lukšová</a> z Hradska.
 Stan. Jarý z Pasek <a id="anna-čermáková-d2ebbf">Anna Čermáková</a> ze Sklenařic.
 <a id="karel-efler-287d6b">Karel Efler</a> z Hradska <a id="františek-kotrbáček-d1ef77">Fr. Kotrbáček</a> z Jablonce n. Jiz
 <a id="josef-soukup-006cf6">Jos. Soukup</a> z Přivlaky <a id="josef-langhamer-5f1c42">Jos. Langhamer</a> z Pasek
@@ -5536,9 +5567,7 @@ Ve Staré Vsi dne dne 2. ledna <a id="1939-f22e47">1939.</a>
 ### **1939**
 
 Dne 13. ledna zemřela 85 letá nejstarší občanka staroveská <a id="marie-polouprutská-93e62f">Marie Polouprutská</a> výminkářka na usedlosti č. <a id="28-33e75f">28</a> u Konšalů, rozená Nesvadbová z Roztok.
-Dne 21. ledna vykonali: p. učitel a <a id="josef-soukup-006cf6">Jos. Soukup</a> sbírku na uprchlíky z němci obsazeného území jenž byla nazvána „Česká koleda“ a jenž vynesla 270 K. Nejvíce dali: starosta a učitel po 50 K a Čeňek
-
-Housa 40 K.
+Dne 21. ledna vykonali: p. učitel a <a id="josef-soukup-006cf6">Jos. Soukup</a> sbírku na uprchlíky z němci obsazeného území jenž byla nazvána „Česká koleda“ a jenž vynesla 270 K. Nejvíce dali: starosta a učitel po 50 K a Čeňek Housa 40 K.
 Co se týče optování pro Česko Slovensko jak se náš stát od podzima jmenoval namísto „Československo“; byl přijat ten měsíc první od domovského svazku zdejší obce Stan. Marek z Rokytnice jenž ale vlastně uprchlíkem nebyl neb se byl již dříve sem do č. <a id="6-167909">6</a> k <a id="marie-nováková-7833a4">Marii Novákové</a> přiženil.
 Dne 9. unora založena v Ducháčkově hostinci namísto dosavádních politických stran „Národní jednota“ jistým úředníkem Čížkem z Jilemnice. Přistoupilo 16 členů a za funkcionáře byli dobrovolně přinuceni: <a id="václav-večerník-a9ecb2">Václ. Večerník</a> předseda, <a id="františek-soukup-2e6a7b">Fr. Soukup</a> jednatel, a výbory <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> a <a id="antonín-vitvar-7b08af">Ant. Vitvar</a>
 bývalí funkcionáři strany agrární.
@@ -5552,6 +5581,7 @@ buď jeho památce a zemřel ještě ve svobodné vlasti a v den jeho pohřbu js
 p. presidenta Háchy jenž byl pozván k vůdci, aby jemu nabídl protektorát nad Čechy a Moravou protože jsme ten zbytek Němců který vůdce milostivě ještě r. <a id="1938-ad4cc1">1938</a> na našem území ponechal, pronásledovati nepřestali.
 Druhý den jsme slyšeli že vůdce ve své nekonečné dobrotě, nabídku přijal a že jsme účastni té cti být občany nejslavnější říše na světě, z níž jsme byli začatkem minulého století vytrženi císařem
 Františkem II. jenž si nevážil titulu císaře německého (a založil si nové císařství Rakouské) a do níž jsme od stvoření světa patřili.
+
 Dne 17. března tu přes ves přejeli v autu první 3 němečtí důstojníci v uniformách. Nepřijeli li tu už někdy dříve v civilu to ovšem nikdo neví. Ten den zatýkáni komunisté a jiné nekalé živli. Od nás
 zatčen <a id="jan-nesvadba-a8eb58">Jan Nesvadba</a> domovník v č. <a id="98-ed3d2c">98</a> jenž prý provolal kdes ve Vysokém „ať žije Stalin!“ (hlava
 Ruska) ale nedokázali mu to.
@@ -5564,6 +5594,7 @@ Obsah: jízda vpravo, zákaz schůzi a průvodů, odevzdání zbraní, <a id="st
 oznamující „Protektorát nad Čechy a Moravou ale ten se starosta vědoucí že i ve vzorné obci se najde darebák, obával vyvěsit jen tak ven, a proto ho vyvěsil v síni svého domu když předtím Kvarda odmítl dát to za okno svého hostince, aby mu někdo kvůli tomu sežral okno. U nás bylo 22 osob
 bedoucích podporu v nezaměstnanosti ale když byl 28. března v Želez. Brodě odvod na dělníky na práci „nach Reich“ šli jen 4 a uznáni za schopné: <a id="prokop-jandura-e29ac8">Prokop Jandura</a> a <a id="lev-rajský-f3e254">Lev Rajský</a> se synem a <a id="vilém-večerník-9f2296">Vilém
 Večerník</a> propuštěn jsa stár.
+
 Dne 6. dubna na Zelený čtvrtek v noci veliká bouřka po ní k ránu na Velký pátek viděli lidé při jasné měsíční noci 23 letadel spěchajících od západu k východu. Hluk od nich byl pekelný a poněvadž jsme slyšeli cos o nedorozumění Polska s Ruskem usoudili jsme že to jsou „naše“ a že jdu
 „bratrům Polákům“ pomáhat proti „rudému zmaru“. Ten čas pronajal <a id="antonín-hlůža-055339">Ant. Hlůže</a> z Roztok od švakra <a id="stanislav-kvarda-38ca5e">St. Kvardy</a> hostinec (bez hospodářství) a v neděli 2. dubna tam měl první tancovačku.
 Dne 12. dubna zemřel v Mukařově u syna v rent pekař <a id="františek-hloušek-828a1b">Frant. Hloušek</a> jenž měl mi nulý rok o <a id="smrt-a332b5">smrti</a> své ženy Anny ve Staré Vsi chalupu č. <a id="98-ed3d2c">98</a> a již od někoho v říjnu koupila <a id="anna-krikarková-dd2c44">Anna Krikarková</a> s Pasek.
@@ -5641,10 +5672,9 @@ vstup zakázán“!!! čímž poctěny obě naše hospody. Německočeské nápi
 V lednu nastal ohromný shon o tak zv. občanské legitimace jež nařízeno stále mít při sobě. Jako doklady si musel každý na policejní úřad kde se vydávaly přinést. Domovský list, křestní list a oddací
 list což každé stálo 11 K, legitimace sama 3 K a 3 podobenky 15 K takže to vylezlo málem na 50. Ještě že mnoho lidi vyfotografoval vysocký drogista <a id="oldřich-jakš-cb49ea">Oldřich Jakš</a> jenž od toho bral jen 5 K ale že toho nebyl
 tak znalý nadělal z lidi takových potvor že to leckomu nechtěli na policejním úřadě přijmout.
-Dne 24. ledna zemřela 11 let a <a id="božena-lišková-9c38b2">Božena Lišková</a> dcera <a id="františek-liška-568223">Frant. Lišky</a> č. <a id="17-70efdf">17</a> následkem toho že minulý rok se přichytila auta roprachtického mlynáře Nováka a neudržíc se upadla na hlavu. Strašná byla
 
+Dne 24. ledna zemřela 11 let a <a id="božena-lišková-9c38b2">Božena Lišková</a> dcera <a id="františek-liška-568223">Frant. Lišky</a> č. <a id="17-70efdf">17</a> následkem toho že minulý rok se přichytila auta roprachtického mlynáře Nováka a neudržíc se upadla na hlavu. Strašná byla spousta účastníků pohřbu a každý litoval jak zarmoucené rodiče, tak i to milé děvčátko jenž se už nedočkalo lepších časů zatímco všelijací zmetkové chodí volně po světě lidem pro pronásledování.
 
-spousta účastníků pohřbu a každý litoval jak zarmoucené rodiče, tak i to milé děvčátko jenž se už nedočkalo lepších časů zatímco všelijací zmetkové chodí volně po světě lidem pro pronásledování.
 Ten čas byla totiž také velká komedie s cikany jež chtěli usaditi a zaraziti jím toulání. Budoucnost nám ukáže zda zvítězí cikáni? Poslední tlupa která tu přešla ukradla ve mlýně máslo.
 V lednu v neděli dopoledne dne 28. zatklo gestapo z Vrchlabí <a id="jaroslav-hevák-256fac">Jaroslava Heváka</a> snad prý proto že prý přechovával učitele Lavického po jeho útěku v září kdy byl zatčen též Lavického švagr, novopacký hejtman dr <a id="josef-dufek-b76f6a">Josef Dufek</a> ze Stanového.
 S Hevákem jenž byl ale za 14 dní puštěn zatčení ještě z Vysokého: majitel autodopravy náš rodák
@@ -5693,6 +5723,7 @@ Před Svatodušními svátky zakázány taneční zábavy a nikdo nechápal pro�
 a Lucemburk a bylo k očekávání že ještě připojí Maďarsko a Rumunsko a po jejím boku stane Itálie, aby se zmocnila Jugoslávie a Řecka a nabije Francii z druhé strany a vezme jí Tunis a Anglii Maltu,
 Cyper a Egypt mezitím co Španělsko si vezme dosud anglický Gibraltar k čemuž pošle ještě Rusko
 1 000 000 vojáků a Japonci vtrhnou Angličanům do Indie jak to vykládal <a id="vít-martinec-ec1395">Vit Martinec</a> jenž ty zprávy měl někde ze „Sudet“ kde měl rozsáhlé známosti.
+
 Dne 15. května ráno veliký mráz a třešně zrovna kvetly. Následek byl že žádné nebyly a zrovna tak nebyla jablka a hrušky.
 Dne 26. května dobrovolná sbírka na německý Červený kříž již provedli: <a id="jan-šulc-fc9b24">Jan Šulc</a> a <a id="bohdan-pavlata-bfbc9e">Bohd. Pavlata</a> a na níž musel každý dát 5 K a zároveň sbírka starého papíru jíž zase vykonali: <a id="antonín-jodas-ca0f30">Ant. Jodas</a> č. <a id="98-ed3d2c">98</a> a <a id="františek-zákoutský-96653f">Frant. Zákoutský</a> č. <a id="31-c16a53">31.</a>
 Dne 7. června schůze PPC. u velitele Ducháčka a 9. t. m.první cvičení.
@@ -5824,9 +5855,7 @@ Dne 2. června Svatodušní pondělí sháněli po chlévech oněch 6 kusů doby
 
 Bramborové sadby by byl ten rok velký nedostatek protože jich mnoho zpuchřelo. Veliká reformace dolehla ten čas na hasiče kteří přestali být dobrovolnými ale musel jím být každý od 18 do 35 let, měli se zřizovat nádrže na vodu i v polích a tak vyhrabano 8 děr v potoce, nařízeno pořídit
 motorovou stříkačku, 60 kbelíku na vodu, 30 hasičských obleku a 260 m hadic a protiletecký kryt určen ve sklepě v č. <a id="73-d2ddea">73</a> u Kvardů.
-Dne 20. června odvod koní; těch tu bylo 10 a sice po dvou v č. <a id="80-f033ab">80,</a> <a id="75-d09bf4">75,</a> <a id="83-fe9fc2">83</a> a po jednom v č: 57, 46,
-
-73 a 9.
+Dne 20. června odvod koní; těch tu bylo 10 a sice po dvou v č. <a id="80-f033ab">80,</a> <a id="75-d09bf4">75,</a> <a id="83-fe9fc2">83</a> a po jednom v č: 57, 46,73 a 9.
 
 Pokuty za minulý rok nedodaná vejce platili: č. <a id="78-35f4a8">78,</a> <a id="16-c74d97">16,</a> <a id="15-9bf31c">15,</a> <a id="93-98dce8">93</a> a <a id="65-fc490c">65.</a>
 Stále přimrazky, klasi u žita omrzlé, jaře ani jetele nerostli jen ohnice a šťovík, jabloně ještě
@@ -5853,9 +5882,7 @@ Vodseďálek.</a>
 
 Dne 29. červc. si dal u starosty do cirkulárky ruku kamarád starostova syna z Moravy jenž u něho trávil dovolenou.
 
-Dne 30. července dodávka dobytka: <a id="františek-kobr-88f09f">Frant. Kobr</a> č. <a id="26-4e732c">26</a> vůl, <a id="stanislav-kvarda-38ca5e">St. Kvarda</a> č. <a id="73-d2ddea">73</a> kráva, <a id="josef-hladík-ab82c6">Jos. Hladík</a> kráva a <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> kráva. Kobr chtěl, aby mu volče ponechali že jim dá za dva měsíce starého vola ale nevyhověli mu a potom za týden prodal <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="15-9bf31c">15</a> z volné ruky vola o váze 800 kg za
-
-11 000 K.
+Dne 30. července dodávka dobytka: <a id="františek-kobr-88f09f">Frant. Kobr</a> č. <a id="26-4e732c">26</a> vůl, <a id="stanislav-kvarda-38ca5e">St. Kvarda</a> č. <a id="73-d2ddea">73</a> kráva, <a id="josef-hladík-ab82c6">Jos. Hladík</a> kráva a <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> kráva. Kobr chtěl, aby mu volče ponechali že jim dá za dva měsíce starého vola ale nevyhověli mu a potom za týden prodal <a id="františek-čermák-1668f0">Fr. Čermák</a> č. <a id="15-9bf31c">15</a> z volné ruky vola o váze 800 kg za 11 000 K.
 
 Ten čas ujal <a id="ladislav-bouzek-05cd6f">Ladislav Bouzek</a> od otce <a id="josef-bouzek-3e34d8">Jos. Bouzka</a> usedlost č. <a id="65-fc490c">65</a> u Sedláků o výměře 35 korců s pozemky v roli Sedlákově a Novákově.
 Sbírka kovů a na německý Červený kříž a též nařízeno dáti do oken písmeno V což značí po latinsku vítězství to na to že už máme skoro celé Rusko. V každé hospodě plakát se skupinou ruskomongolských obličejů a s nápisem „to jsou tvoji bratři?“ Za což musel každý dát 3 K.
@@ -5884,12 +5911,16 @@ zdůrazňoval že jsme ještě nepřinesli pro Německo žádnou oběť ale teď
 Dne 27. a 28. srpna po půlnoci třetí hodinu zde přeletěl větší počet cizích létadel směrem k západu což vysočtí hlásili do Jičína co tam s nimi dělali nezvěděli jsme.
 Dne 4. září měla <a id="marie-vodseďálková-6e188c">Marie Vodseďálková</a> Kamilka stání u soudu s 29 letým Žantem z Vysokého jenž jí jda 25. srpna večer z Roztok rozbil jednu tabulku v okně škobrtnův o podezdívku. Tabulku jí zaplatil. Ten čas začalo vydávat kuřivo na mýdlové lístky na ty útržky co byli na holicí mýdlo.
 Dne 6. září ráno byl dopraven 28 letý <a id="petr-novák-62cf37">Petr Novák</a> č. <a id="50-c0c7c7">50</a> do ústavu pro choromyslné v Něm Brodě.
+
 Dne 8. ráno byl mráz a nanovo pršelo. Lidé mizerně seli, dobýrali žita, otava hnila, jeřice a přenice od dešťů sflákané už zrůstali a ovsi ještě zelené jako tráva a <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="15-9bf31c">15</a> a <a id="čeněk-housa-4a3288">Čeněk Housa</a> měli ještě na poli jetel.
-Dne 10. září kontrola mléka v č. <a id="16-c74d97">16,</a> <a id="19-1f0e3d">19,</a> <a id="28-33e75f">28,</a> <a id="73-d2ddea">73,</a> <a id="35-1c383c">35,</a> <a id="22-b6d767">22,</a> <a id="46-d9d4f4">46</a> již vykonal nějaký úředník a <a id="antonín-štěpánek-f387a6">Ant. Štěpánek,</a> v č. <a id="16-c74d97">16</a> se zjistilo že hospodář od 1. září ještě nic nezanesl do mléčného záznamu a v č. <a id="35-1c383c">35</a> se našlo 8 l smetany. Od 1. září jest samozásobitelům odebrán ten 1/4 l mléka co měli na máslo a bude
+Dne 10. září kontrola mléka v č. <a id="16-c74d97">16,</a> <a id="19-1f0e3d">19,</a> <a id="28-33e75f">28,</a> <a id="73-d2ddea">73,</a> <a id="35-1c383c">35,</a> <a id="22-b6d767">22,</a> <a id="46-d9d4f4">46</a> již vykonal nějaký úředník a <a id="antonín-štěpánek-f387a6">Ant. Štěpánek,</a> v č. <a id="16-c74d97">16</a> se zjistilo že hospodář od 1. září ještě nic nezanesl do mléčného záznamu a v č. <a id="35-1c383c">35</a> se našlo 8 l smetany. 
+
+Od 1. září jest samozásobitelům odebrán ten 1/4 l mléka co měli na máslo a bude
 prý jím máslo dodáváno a mléko se přestalo nosit do Vodseďálkovi mlékárny ve Vysokém ježto
 Rovenská mlékárna o tento obvod přišla a dostal to jakýs němec z Malé Skály a snášelo se od té doby v Dolenci do Kvardovi hospody a v hořenci do č. <a id="18-6f4922">18</a> u Kobra kamž si jezdili proň z Malé Skály s autem.
 Též chodili po obci starosta s agronomem z Jilemnice a rozvrhovali dodávku dobytka až do července 1942 a sice 17 q masa.
 Koncem září se přestala samozásobitelům vydávat mouka.
+
 Dne 1. října vyhlášky o stanném právu v okresech: Praha, Brno, Plzeň, Hradec Králové, Moravská Ostrava, Olomouc, Kladno, Uherské Hradiště a o <a id="poprava-a24147">popravách</a> podle stanného práva což se hodilo na tu zkázu stromoví z jara; že jak přijde na stromy tak dojde na lidi.
 Dne 3. října hledali četníci a obecní sluha větší počet z Liberce uprchlých zajatých Rusů ale nenašli tu nic.
 
@@ -5933,11 +5964,9 @@ Dnem 23. listopadu zastaveny byli ty mlýny jenž nesemleli za rok 10 vagónů a
 zůstali, náš starosta to na hejtmanství přemohl, že jsme byli přidělení do mlýna jeho bratra <a id="josef-novák-475dbc">Jos.
 Nováka</a> v Roprachticích ač se to žádnému nelíbilo. Vždy určitý den to tam dovézt a určitý den odvézt, aby se to dalo kontrolovat a jiný den se do mlýna nesmělo a naši mlynářce zůstalo jen pečení.
 Dne 13. prosince schůze zemědělců v č. <a id="73-d2ddea">73</a> kde ohlášena amnestie na nízkou přihlášku obilí a poručeno tuto dobrovolně zvýšit podle následujících: Z 1 ha se muselo urodit 1 200 kg ovsa a 1 000 kg žita pro dobytek na 1 krávu na 1 rok 15 kg ovsa, na jednoho vola 1 kg ovsa denně a na 1 koně 2 kg
-ovsa denně do konce července a pro lidi na jednu osobu 75 kg na rok a setí počítáno na 1 ha 170 kg ovsa a 200 kg žita a do 15. prosince všecko obilí z toho k dodávce zbývající buď dodat aneb neni li
-
-
-vymláceno přihlásit a tak se stalo že šel někdo s 8 kg ovsa nebo 3 kg žita. Dodávka dobytka za listopad byla od: <a id="františek-zeman-4b3842">Frant. Zemana</a> jalovice, <a id="josef-novák-475dbc">Jos. Nováka</a> vůl a od <a id="josef-hladík-ab82c6">Jos. Hladíka</a> prase a za prosinec dobytek od:
+ovsa denně do konce července a pro lidi na jednu osobu 75 kg na rok a setí počítáno na 1 ha 170 kg ovsa a 200 kg žita a do 15. prosince všecko obilí z toho k dodávce zbývající buď dodat aneb neni li vymláceno přihlásit a tak se stalo že šel někdo s 8 kg ovsa nebo 3 kg žita. Dodávka dobytka za listopad byla od: <a id="františek-zeman-4b3842">Frant. Zemana</a> jalovice, <a id="josef-novák-475dbc">Jos. Nováka</a> vůl a od <a id="josef-hladík-ab82c6">Jos. Hladíka</a> prase a za prosinec dobytek od:
 <a id="františek-soukup-2e6a7b">Frant. Soukupa,</a> <a id="josef-soukup-006cf6">Jos. Soukupa,</a> <a id="josef-vodseďálek-970bd1">Jos. Vodseďálka,</a> Milosl. Vodseďálka, <a id="antonín-štěpánek-f387a6">Ant. Štěpánka</a> a <a id="františek-chlum-66e864">Frant. Chluma.</a>
+
 Ten podzim se tu objevilo mimo spousty srn 7 jelenů a přebyhali i přes ves. Až skoro do Vánoc bylo beze sněhu ale den před Štědrým dnem začala strašná vánice a na Štědrý den bylo ještě hůře
 a na Boží narození teprv. Na Štědrý den měl svatby Miloslav prostřední syn <a id="františek-chlum-66e864">Frant. Chluma</a> slavný lížař s Libuši dcerou <a id="václav-týl-980146">Václava Týla</a> v č. <a id="98-ed3d2c">98</a> uprchlého r. <a id="1938-ad4cc1">1938</a> z Příchovic jehož žena Marie byla dcerou
 <a id="františek-housa-f31931">Frant. Housi</a> krejčího č. <a id="21-3c59dc">21.</a> Od 24. listopadu bylo na 1 osobu počítáno mléka 1/8 litrů na den na děti 1/4 l. Ti vysočtí uvězněnci z října byli všichni do Vánoc propuštěni ale naši né naopak ještě
@@ -6015,16 +6044,14 @@ Dne 26. května odvezlo Gestapo do Jičína Marii ženu Prokopa Jandury v č. <a
 a odvedl ho zas do Jičína. Jmenovaný co zedník byl od r. <a id="1940-95e683">1940</a> na práci v Německu a teprve ten týden zůstal doma a byl první den zaměstnán v Kramářově vile ve Vysokém a kladlo se mu snad za vinu že srážel zdejší dělníky od práce v Německu líčením hrůz anglických náletu na německá města již několik snad sám zažil a hlavně nedávného náletu na Lubek (Lübek). Ostatně o takovém náletu minulý rok na Lipsko vyprávěl i <a id="vít-martinec-ec1395">Vít Martinec</a> č. <a id="46-d9d4f4">46</a> jenž tam byl právě na veletrhu.
 Vždy když tu mělo Gestapo co dělat nejdříve se stavělo u <a id="karel-doubek-de5559">Karla Doubka</a> č. <a id="67-735b90">67</a> jenž byl zaměstnán též u Němců v Kramářově vile neb u Lva Rajského nájemníka v č. <a id="64-ea5d2f">64</a> rodáka to z Místku na Moravě
 jenž se sem přiženil k Barboře hrbaté sestře majitele č. <a id="64-ea5d2f">64</a> <a id="františek-čivrný-2776ef">Frant. Čivrného</a> a jemuž (Rajskému) podle jeho rodného kraje říkali „chachar“.
-Dne 27. květ. následkem <a id="zabití-67f9ca">zabití</a> protektora Heydricha v Praze vyhlášeno stanné právo a četníci chodili dům od domu nemá li někdo nějakou osobu nepřihlášenou a ukazovali obrázky šatů a kola
-
-
-těch urahů zda tu někdo nezná nakázáno každému nosit stále legitimaci a policejní přihlášku a přijiti do druhé obce aspoň na dvě hod., hlásit tam na obecním úřadě a u nás teprv ten den tajemník
+Dne 27. květ. následkem <a id="zabití-67f9ca">zabití</a> protektora Heydricha v Praze vyhlášeno stanné právo a četníci chodili dům od domu nemá li někdo nějakou osobu nepřihlášenou a ukazovali obrázky šatů a kola těch urahů zda tu někdo nezná nakázáno každému nosit stále legitimaci a policejní přihlášku a přijiti do druhé obce aspoň na dvě hod., hlásit tam na obecním úřadě a u nás teprv ten den tajemník
 Saidel dával na policejní přihlášky razitko s datem 15. září <a id="1941-7af626">1941.</a> Četníci stále v lesích a polích ty vrahy prý československé parašutysty hledali až je našli prý v nějakém kostele v Praze poslední den
 18\. června kdy už celý národ čekal rozsudek <a id="smrt-a332b5">smrti</a> za jejich vinu.
 Dne 1. června zaplatil pokutu <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> 100 K a <a id="františek-zeman-4b3842">Frant. Zeman</a> 200 K za to že na uzávěrkovém dobytčím listě neměli napsanou váhu toho kusu ač oni to sami nepsali ale starosta. Vybírali to nějací dva úředníci z Jilemnice a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> nebyl doma, byl někde v háji, jen jeho žena
 a matka a ty na nich 100 Kč usmlouvali, chtěliť také 200 K. Zeman nedlouho předtím zaplatil
 500 K pokuty za to že dodanému jím praseti chyběl 1 kg do předepsané váhy.
 Dne 15. června odpoledne pršelo tak jak ten rok ještě nepopršelo ale když zas dále byli zimi dokonce 21. přimrazek a 22. dokonce tráva karavá a bílá a krtičiny zmrzlé a 26. ráno mráz na střechách jako v listopadu a i ve dne, sušilo se právě seno, bylo při úplně jasném slunečném počasí mrazivo. Sena bylo celkem velmi málo.
+
 Ten rok přestal hospodařit 76 letý <a id="čeněk-housa-4a3288">Čeněk Housa</a> č. <a id="27-02e74f">27,</a> pole z většiny rozpronajal a stavení se zbytkem polí asi 25 korců pronajal <a id="josef-čermák-dac615">Jos. Čermák</a> ze Sklenařic syn to <a id="josef-čermák-dac615">Jos. Čermáka</a> z č. <a id="53-d82c8d">53</a> pocházejícího a Jindřišky dcery <a id="františek-housa-f31931">Frant. Housi</a> č. <a id="26-4e732c">26.</a> Jmenovaný byl zedník a chtě se tímto uchránit práce
 v Německu, navlékl si na krk takovou hroznou svízel za 2 800 K ročně.
 15\. června na obecním úřadě revise pomocných knížek k statkovým záznamům jež védsti museli všichni hospodařící na výměře větší 5 ha. Byli to: <a id="františek-janoušek-bf1684">Frant. Janoušek</a> č. <a id="9-45c48c">9,</a> <a id="vladimír-šalda-1e5776">Vladimír Šalda</a> č. <a id="72-32bb90">72.</a> <a id="josef-janda-e4c793">Jos.
@@ -6091,9 +6118,7 @@ Slavík;</a> s vozu spadl snop, voli se splašili, vrazili do urátně již vyvr
 Ten čas jsme zvěděli že zdejší rodáka č. <a id="20-98f137">20</a> nebožtíka starosty Čeňka Večerníka bratr <a id="jaroslav-večerník-b04539">Jaroslav
 Večerník</a> chalupník na Kobylce u Turnova anonimně sousedy udával pro zatajování zásob a mletí na černo což ale nedokázal a dostal za to 14 dní arestu.
 
-13\. září odpoledne strašlivý liják s bouřkou a cesty od července ještě nedospravené, probrané
-
-znovu.
+13\. září odpoledne strašlivý liják s bouřkou a cesty od července ještě nedospravené, probrané znovu.
 
 Protože se mlékárně ve velkém horku stále ještě panujícím, mléku na tak dlouhé cestě autem srazilo, přivezli nám také tvaroh který ale mnozí nevzali. Anžto <a id="vladislav-vodseďálek-a8e17e">Vlad. Vodseďálek</a> jednou k měření
 tučnosti na Malou Skálu (Klein Skal) nejel, hned byla tato nízká a volání pro to do Semil: <a id="františek-soukup-2e6a7b">Fr. Soukup</a> <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> <a id="jan-šulc-fc9b24">Jan Šulc,</a> <a id="bohuslav-slavík-d8a98a">Boh. Slavík,</a> <a id="antonín-štěpánek-f387a6">Ant. Štěpánek,</a> <a id="františek-chlum-66e864">Fr. Chlum,</a> <a id="františek-zeman-4b3842">Fr. Zeman,</a> <a id="josef-polouprutský-403545">Jos. Polouprutský</a> a jiných více a každého to stálo 50 K a museli být rádi že to nestálo více. Všech jich tam bylo odjinud <a id="800-7a5392">800.</a>
@@ -6207,11 +6232,9 @@ Dne 11. března odsouzen v Litoměřicích (Leitmeritz in Sudetenland) 29 letý 
 Německa jeho 24 letý bratr <a id="josef-hrádecký-145ada">Josef Hrádecký</a> zatím do Ústí.
 Dne 24. března zemřel ve Vysocké nemocnici po nezdařené operaci staroveský rodák z č. <a id="30-34173c">30,</a> <a id="67-735b90">67</a> letý <a id="františek-šmíd-dd68ce">Frant. Šmíd</a> rolník bývalý mlynář v Peřimově, první velitel staroveských hasičů (jeho otec zemřel minulý rok 19. listopadu.) Pohřben na hřbytově ve Vysokém.
 Dne 27. března přišel ten rok první dešť, kolem 22. se začal dělat na poli, drni už tak proschlé že se hned na první jeti od bran prášilo a žita bídná a které bylo trochu lepší zas na něm plíseň jako by
-papírem potáhl a stále chodili přimrazky a v noci bylo sice vždy ticho ale jak vyšlo slunce zvedl se
-
-
-prudký vítr a byl až do západu a to trvalo už od konce února a těmi větry země strašlivě prosichala.
+papírem potáhl a stále chodili přimrazky a v noci bylo sice vždy ticho ale jak vyšlo slunce zvedl se prudký vítr a byl až do západu a to trvalo už od konce února a těmi větry země strašlivě prosichala.
 Pršelo ještě následující den a 29. se rozléval sníh.
+
 Dne 28. března 28 letý <a id="karel-slavík-2f8723">Karel Slavík</a> svobodný domkář v Helkovicích syn to <a id="pavla-soukupová-293641">Pavlíny Soukupové</a> z prvního manželství přišel navštívit svou matku s níž se zhádal a potom si šel do druhé světnice
 k otčímovu bratrovi <a id="františek-soukup-2e6a7b">Fr. Soukupovi</a> jenž začal nadávat a ten ho vykázal ze světnice a on se rozzuřiv potloukl ho i jeho 30 letého syna Františka tak že starý až upadl do bezvědomí. Po tomto činu utekl. Jmenovaný pobyv už jednou blázinci dělal už teď zas delší čas všelijaké hlouposti, poroučel si
 aby mu lidé vykali, aby se před ním modlili, přišel do stavení a odehnal lidi od oběda a snědl ho sám, nebo jinde zas poroučel ženským, aby k němu šli na noc, prohlašoval se za Boha a že musí
@@ -6252,9 +6275,7 @@ poblýskalo a druhý den zas hrozná zima.
 Ten měsíc jsme byli přeložení s mletím do mlýna Boženy Bachtíkové (nájemce <a id="ladislav-klásek-87889c">Ladislav Klásek)</a> v Jeseném.
 Dne 7. května obeslán <a id="karel-polák-578412">Karel Polák</a> na okres. úřad pro nízkou tučnost (1‚01) a aby si zrovna sebou vzal 500 K ale on se bránil tím že byl ten den s krávou u býka a poslal do mlékárny „připouštěcí
 lístek“ ale oni mu ho ztratili.
-V tom týdnu dal <a id="josef-soukup-006cf6">Jos. Soukup</a> u Čeňka Kramáře ve Vysokém 170 K za bič a za 10 cigaret kdosi dal
-
-80 K.
+V tom týdnu dal <a id="josef-soukup-006cf6">Jos. Soukup</a> u Čeňka Kramáře ve Vysokém 170 K za bič a za 10 cigaret kdosi dal 80 K.
 
 Dne 10. květ sbírali četníci spis Ivana Klicpery „Jindra“, u nás sebrali dva ale byly vráceny poněvadž se jednalo o vydání z r. 1931 a obě naše byly z jiných let.
 Dne 13. květ pro naši obec vydávalo družstvo ve Vysokém lněné semeno k seti. Na 1 a 1 1/2 kg; na 5 ha nařízeno osít 12 a a na to 18 kg semene za 106 K.
@@ -6271,14 +6292,12 @@ Dne 28. května tu chodil po domech nějaký voják z Rokytnice jsoucí na dovol
 <a id="válka-bfccd5">války</a> chuť když mají lepší zaopatření než manšaft. Jak vyprávěl <a id="františek-čermák-1668f0">Fr. Čermákovi</a> č. <a id="93-98dce8">93.</a> Než se dostal do Esenu byl prý v Italii a před tím v Rusku a když se mu řeklo že teď to má tedy dobré, říkal že né,
 kde se tluče odshora že to dobré není.
 
-Dne 29. květ dopoledne u Kvardů soupis ploch osevu který s lidmi odbývali: starosta, tajemník
-
-
-Lešák, <a id="václav-večerník-a9ecb2">Václav Večerník,</a> <a id="otakar-novák-3f8684">Otakar Novák,</a> a <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek.</a> Ten den konečně odvezli <a id="karel-slavík-2f8723">Karla
+Dne 29. květ dopoledne u Kvardů soupis ploch osevu který s lidmi odbývali: starosta, tajemník Lešák, <a id="václav-večerník-a9ecb2">Václav Večerník,</a> <a id="otakar-novák-3f8684">Otakar Novák,</a> a <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek.</a> Ten den konečně odvezli <a id="karel-slavík-2f8723">Karla
 Slavíka</a> našeho občana v Helkovicích do ústavu choromyslných.
 To jaro někdo ukradl <a id="antonín-vitvar-7b08af">Ant. Vitvarovi</a> z boudy za stodolou seno a když si dal k boudě zámek zas <a id="františek-soukup-2e6a7b">Fr.
 Soukupovi</a> a když si ten dal zámek tak mu ho utrhl a ten to tedy zamkl zevnitř a tak mu zas <a id="zloděj-f8d6af">zloději</a> dělal trávu přímo na louce. Minulý rok ten samý <a id="zloděj-f8d6af">zloděj</a> v pravé poledne odnášel <a id="josef-slavík-76a4f4">Jos. Slavíkovi</a> seno
 na louce v Končinách z kup.
+
 Dne 31. května ráno strašlivý přimrazek. Ten den zemřela 73 letá <a id="anna-šaldová-01bbb7">Anna Šaldová</a> vdova po <a id="františek-šalda-5244f5">Fr.
 Šaldovi</a> r. <a id="1938-ad4cc1">1938</a> zemřelém, majitelka usedlosti č. <a id="72-32bb90">72</a> u Hajnů.
 Usedlost č. <a id="72-32bb90">72</a> ujal 40 letý svobodný syn <a id="vladimír-šalda-1e5776">Vladimír Šalda.</a>
@@ -6286,6 +6305,7 @@ To jaro nebyla žádná ohnice ale za to strašná spousta bodláčí a hluboké
 Úřady nařídili pracovní povinnost školních dětí na trhání tohoto plevele a každý kdo chtěl použít tohoto dobrodiní měl požádat správu školy, obecní úřad a vedoucího zemědělců (Bauerführer)
 <a id="josef-soukup-006cf6">Josef Soukupa.</a> Ale nikdo toho nepoužil jen starosta Novák.
 Začátkem června každý den stříklo ale žádný dešť a stále sucho a zima a přimrazky a nic nerostlo, obili se sice vzpamatovalo ale tráva už né, lidé měli velikou nouzi o obrok a slámu a hrozné plochy trávy se vykrmili a místy nebylo co srazit.
+
 Dne 5. června nařízena hlídka hasičů vždy po dvou hodinách do odvolání v příčině 67 zajatých anglických důstojníků z Norymberka uprchlých.
 Dne 7. června obhad pozůstalosti <a id="marie-vodseďálková-6e188c">Marie Vodseďálkové</a> č. <a id="62-44f683">62:</a> starosta Novák, <a id="václav-večerník-a9ecb2">Václav Večerník</a> a <a id="františek-soukup-2e6a7b">Fr. Soukup.</a>
 Dne 8. července při svodu dobytka dodal krávu <a id="františek-soukup-2e6a7b">Frant. Soukup.</a>
@@ -6316,6 +6336,7 @@ Dne 27. července bylo velmi porůzno skrze nedodané maso. Od loňska toho měl
 ještě několik dobytčat z obce dodat a zas ti co vůbec dobytek neměli a ze svých pozemku dodati maso povinni byli, kupovali je od těch co měli předáno. Počítalo se za 1 kg 6 K což by bývala byla
 obnášela pro tyto prémie která potom snížena na 5 K ale <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a> požadoval jen 4 K.
 Dne 2. srpna nastoupil <a id="václav-pičman-4d0ecc">Václav Pičman</a> č. <a id="92-92cc22">92</a> dobrovolně z přinuceni na práci do Šluknova čili Schluckenau ale za 14 dní přišel z domů s ohromným vředem na levé ruce a byl doma až do 11. listopadu.
+
 Dne 3. srpna večer v č. <a id="73-d2ddea">73</a> schůze občanů kdež oznámeno že musí každý odebrati od eráru podle své výměry brambory k sadbě a žito k setí na výměru za své a na čistotu a ušlechtilost rasy připlatí
 což u bramboru udělalo 200 K za q.
 Dne 4. srpna večer bouřka s hodným deštěm přičemž uhodilo ve Vysokém do elektrického sloupu a u Zlatníková háje do žitného panáku. To bylo zas po delším čase zavlažení té proschlé přírody ale nic to už nespravilo a dne 11. srpna při půlnoci bylo ještě hůře a padaly i kroupy.
@@ -6327,6 +6348,7 @@ len zadělat a sít hořčicí jako: <a id="josef-slavík-76a4f4">Josef Slavík,
 Dne 18. srpna v sobotu se rozpršelo a pršelo celou neděli a ještě poprchalo v pondělí a ten den večer bouřka se strašným lijákem a větrem že žádný panák pšenice a ovsa nezůstal stát a do rána do
 toho lilo ale sucho dál a malé brambory.
 Dne 31. srpna zemřel 29 letý <a id="františek-hrádecký-2a7053">Frant. Hrádecký</a> syn Štěp Hrádeckého č. <a id="94-f4b9ec">94</a> jenž se měl 11. října vrátit z <a id="vězení-9eb76f">vězení</a> kdež byl pro velezrádu v koncentračním táboře u Berlína v zpráva přišla ale až 7. září.
+
 Dne 11. září u Kvardů v č. <a id="73-d2ddea">73</a> schůze zemědělců v níž oznámen kontingent obilí který každý jednotlivec musí dodat.
 
 Dne 13. září svod dobytka v Roztokách na Vrchhůře který vykoupil pro erár <a id="františek-zeman-4b3842">Frant. Zeman</a> vulgo
@@ -6466,6 +6488,7 @@ Janda,</a> <a id="františek-soukup-2e6a7b">Frant. Soukup</a> a <a id="josef-ve�
 Dne 15. dubna přiletěly vlaštovky ale držely se jen v hnízdech poněvadž neměli žádný hmiz protože bylo stále zima a mlživo až do 22. dubna, 18. večer přišla bouřka a s ní dešť jenž zachránil ozimi na nichž byla strašlivá plíseň.
 17\. dubna spadl <a id="antonín-štěpánek-f387a6">Ant. Štěpánek</a> č. <a id="22-b6d767">22</a> ve dřevácích do sklepa, chtěje se zachytit, rozbil ve výklenku láhev po petroleji a pořezal si na ní ruku pravou v zápěstí tak, že musel do nemocnice, odkudž ten
 den přišel domů <a id="antonín-skrbek-0351fb">Ant. Skrbek</a> č. <a id="52-9a1158">52</a> tovární mistr ve výslužbě, jehož ještě používala vysocká továrna ve šlichtovně a jemuž tam přišla levá ruka. 12. dubna pod vál, jenž mu prsty pomačkal.
+
 Dne 20. dubna na Hitlerovi narozeniny dopoledne nařízena zas hlídka po dvou mužích vždy
 2 hod. chodit po silnici a zadržet každou podezřelou osobu ježto prý se zde potloukají nějací dva ozbrojení ale kvečeru ta hlídka odvolána. Začalo to <a id="františek-kobr-88f09f">Frant. Kobrem</a> č. <a id="26-4e732c">26</a> a <a id="františek-dlabola-0ad105">Frant. Dlabolou</a> č. <a id="74-ad61ab">74</a>
 a skončilo <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálkem</a> č. <a id="42-a1d0c6">42</a> a <a id="josef-jón-5d8289">Jos. Jónem</a> č. <a id="69-14bfa6">69.</a>
@@ -6513,11 +6536,13 @@ Dne 7. června odevzdávali se ve škole součástky odstředivek a máselnic. P
 domě.
 
 Dne 10. června dělal <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> č. <a id="81-43ec51">81</a> obrok a přišla za ním jeho 3 letá dcerka Stanislava a on nevšimnův si ji rozehnal se kosou a skoro jí uťal dva prsty u nohy takže s ní museli do nemocnice.
+
 12\. června v pondělí navečer sem přijela 4 auta Gestapa udělali prohlídku u Vojáků v č. <a id="44-f71771">44</a> a v č. <a id="46-d9d4f4">46</a> u Martince a zatkli <a id="otakar-novák-3f8684">Otakara Nováka</a> šli též pro <a id="karel-čermák-e55a29">Karla Čermáka</a> a omylem popadly jeho
 bratrance <a id="františek-čermák-1668f0">Frant. Čermáka</a> č. <a id="93-98dce8">93,</a> když se věc vysvětlila, musel ten s nimi pro Karla na pole za Vrchy, kamž ten vozil hnojnici pro zelí, tam mu poručili vypnout ráhnout a jet s voli domu a on veváděje
 tyto do chléva dveřmi ze síně, nechal je ve dveřích stát a vyskočil doleními dveřmi ven a po louce dolů přes potok na Pustinu a na Vodseďálkovo a oni ho honili ale tím že jeden z nich upadl, ho
-nedostíhli až za ním jiný vypálil asi 18 ran z automatické pušky. Poměli u výslechu u aut na silnici pod Vršťalovi jeho 78 letého otce <a id="františek-čermák-1668f0">Frant. Čermáka</a> ale pustili ho. Ten den ráno zatkli ve Vysokém
-listonoše <a id="karel-čermák-e55a29">Karla Čermáka</a> a následující den slečnu Schrötrovu na poště kde též na dvoře cosi vykopali a také zatkli <a id="marie-zemanová-066a42">Marii Zemanovou</a> st. u Pece. Prý se jim kladli za vinu styky s československým důstojníkem Ulmanem a přechovávání ho. A dne 14. června navečer zatčeni Eliška manželka <a id="otakar-novák-3f8684">Otakara Nováka,</a> <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35,</a> jeho matka Marie a sestra Marie a dne 16. června ve vysocké Sokolovně nad nimi vynesl německý náhlý soud v Praze, nad nimi a jejich spoluviníky rozsudek
+nedostíhli až za ním jiný vypálil asi 18 ran z automatické pušky. Poměli u výslechu u aut na silnici pod Vršťalovi jeho 78 letého otce <a id="františek-čermák-1668f0">Frant. Čermáka</a> ale pustili ho. 
+
+Ten den ráno zatkli ve Vysokém listonoše <a id="karel-čermák-e55a29">Karla Čermáka</a> a následující den slečnu Schrötrovu na poště kde též na dvoře cosi vykopali a také zatkli <a id="marie-zemanová-066a42">Marii Zemanovou</a> st. u Pece. Prý se jim kladli za vinu styky s československým důstojníkem Ulmanem a přechovávání ho. A dne 14. června navečer zatčeni Eliška manželka <a id="otakar-novák-3f8684">Otakara Nováka,</a> <a id="josef-hladík-ab82c6">Josef Hladík</a> č. <a id="35-1c383c">35,</a> jeho matka Marie a sestra Marie a dne 16. června ve vysocké Sokolovně nad nimi vynesl německý náhlý soud v Praze, nad nimi a jejich spoluviníky rozsudek
 smrti. Měli je tam přivežené a museli se k tomu divadlu dostaviti z okolí z každé obce dva a 25. t. m.
 poslány na obce vyhlášky, jichž česká polovice následovně vypadala:
 
@@ -6532,11 +6557,8 @@ Dne 24. června <a id="1944-6f2688">1944</a> byli popraveni:
 <a id="otakar-novák-3f8684">Otakar Novák</a> ze Staré Vsi, narozený 29. září <a id="1897-af3303">1897</a>
 <a id="jindřich-šikola-3adaf7">Jindřich Šikola</a> z Těpeře, nar. 13. května <a id="1912-ff7d0f">1912</a>
 <a id="karel-mařatka-039960">Karel Mařatka</a> z Vysokého n. Jizerou, naroz. 9. května <a id="1891-13168e">1891</a>
-<a id="marie-zemanová-066a42">Marie Zemanová,</a> rozená Metelková ze Stanova, narozená 6. května <a id="1896-e06f96">1896</a>
+<a id="marie-zemanová-066a42">Marie Zemanová,</a> rozená Metelková ze Stanova, narozená 6. května <a id="1896-e06f96">1896</a> jež odsoudil právoplatným rozsudkem Sondergericht in Prag dne 15. června <a id="1944-6f2688">1944</a> ve Vysokém n.Jiz. k smrti.
 
-
-jež odsoudil právoplatným rozsudkem Sondergericht in Prag dne 15. června <a id="1944-6f2688">1944</a> ve Vysokém n.
-Jiz. k smrti.
 Odsouzení poskytovali státní policii hledaným nepřátelům Říše útulek a podporovali je i jiným způsobem a neudali je.
 Odsouzený Mařatka udržoval mimo toho sklad zbraní.
 
@@ -6555,6 +6577,7 @@ Dne 21. června zemřela ve Vysokém <a id="anna-ulmanová-68337b">Anna Ulmanov�
 Dne 29. června byla stájová kontrola u <a id="františek-zeman-4b3842">Frant. Zemana</a> č. <a id="84-68d30a">84</a> jenž měl malou tučnost u mléka a nějaké mléko tam nalezeno z čehož pokuta.
 Dne 30. června měl pohřeb <a id="josef-metelka-ac9dc5">Jos. Metelka</a> kovář ve Vysokém a že to byl děd v Těpeřích od policie zastřeleného <a id="václav-metelka-e1da4e">Václava Metelky,</a> nesměl mít rovněž žádný pohřební průvod. Ten den strašlivý příval
 s hromobitím, mnoho lidí promoklo u sena. Ten den měli být popraveni: <a id="emanuel-skrbek-f3345b">Emanuel Skrbek</a> ruský legionář z Roprachtic a náš <a id="františek-čivrný-2776ef">Frant. Čivrný</a> z č. <a id="64-ea5d2f">64.</a>
+
 Dne 2. července v neděli po polední byl dopaden doma ve stodole <a id="karel-čermák-e55a29">Karel Čermák</a> o jehož tam přítomnosti dal někdo četníkům zprávu a ti zdaleka se spoustou sehnaných občanů obklíčili stodolu. Po otevření vrat dopaden tam jeho otec jenž přítomnost synovu zapřel; do stodoly přivzati ještě:
 starosta Novák, <a id="josef-soukup-006cf6">Josef Soukup</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> a Karla našel jeden četník vidlemi pod kůpou sena. Spoutali ho vrchní strážmistr Streng mu a jeho otci hodně vynadal a že byl vyzut povalili ho
 pod domem u studnice obličejem do trávy a když mu <a id="josef-šmíd-ec9534">Jos. Šmíd</a> přinesl ze stodoly střevíce, navlékl mu je svázané četník kolem krku a hnali ho bosu do Vysokého a dostal se do Kartouz a všichni byli
@@ -6601,6 +6624,7 @@ Po posvícení měli ještě oves venku: <a id="františek-čermák-1668f0">Fran
 Kobr,</a> <a id="josef-polouprutský-403545">Jos. Polouprutský,</a> <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek;</a> <a id="františek-čermák-1668f0">Fr. Čermák</a> ale měl zase vykopané brambory a Janda měl ještě jeřici na poli, žita bylo ještě mnoho sít a ani se nedosilo, poslední oves dožal <a id="josef-čermák-dac615">Jos. Čermák</a> č. <a id="27-02e74f">27.</a>
 7\. října <a id="josef-polouprutský-403545">Jos. Polouprutskému</a> na poli u č. <a id="35-1c383c">35</a> zůstali dva kousky ovsa, též mnoho lnu prostřeného lidem zapadlo a dorucháno měli jen: Janoušek, <a id="josef-soukup-006cf6">Josef Soukup,</a> <a id="františek-čermák-1668f0">Fr. Čermák</a> a <a id="františek-chlum-66e864">Fr. Chlum.</a>
 Koncem září začala zde ve škole učit za učitele Tetaura jenž jako ostatní učitelové do 30 let někde totálně nasazen, <a id="ludmila-hladíková-c6001e">Ludmila Hladíková</a> z Vysokého.
+
 Dne 1. října začal zas zimní (starý) čas, o hodinu zpátky. Mléko se muselo nosit zas v 1. hodinu po poledni. Toho dne se rukovávalo k vojsku.
 Dne 2. října v Terezíně na malé pevnosti uvězněna <a id="eliška-nováková-f72741">Eliška Nováková</a> č. <a id="44-f71771">44</a> odsouzena na 5 let <a id="vězení-9eb76f">vězení</a> a převezena do Lipska a potom před Vánocemi do Bavor.
 Dne 3. října museli dodat dobytek do Semil: <a id="josef-janda-e4c793">Jos. Janda,</a> <a id="jan-šulc-fc9b24">Jan Šulc,</a> oba Soukupové, <a id="josef-slavík-76a4f4">Jos. Slavík,</a> <a id="josef-polouprutský-403545">Jos.
@@ -6636,12 +6660,10 @@ Po dvě noci se blýskalo a potom se tolik sněhu svalilo že 14. listopadu prot
 12\. listopadu ráno v 5 1/4 hod. letěl směrem od jihu k severu zelený povětroň velikosti měsíce.
 13\. listopadu koňský odvod v Semilech při němž odvedení koně: starosty Nováka, <a id="josef-šmíd-ec9534">Josefa Šmída</a> a <a id="františek-knížek-934029">Frant. Knížka</a> ale byli jim ponechání pro protahování silnice v zimě. Ten den muselo 8 občanů
 hledat v polích letáky sházené z nepřátelských létadel jaké se našli u Semil ale u nás nenalezeno nic.
-Ten den zemřela 74 letá <a id="karolína-honáková-310812">Karolína Honáková</a> majitelka chalupy č. <a id="12-c20ad4">12</a> na Pustině kteroužto chalupu měla po svém prvním muži Michalu Syrovátkovi z č. <a id="3-eccbc8">3</a> zemřelém r. <a id="1903-944626">1903</a> po jehož <a id="smrt-a332b5">smrti</a> se k ní
-
-
-přiženil <a id="melichar-honák-8f3468">Melichar Honák</a> z Pasek. Její otec Kučera jinak Formánek šumař ze Třiče byl někdy v 90 tých letech nalezen zavražděný a okradený na Bohuňovsku u Jeseného. Vrah vypátrán nebyl ale lidé
+Ten den zemřela 74 letá <a id="karolína-honáková-310812">Karolína Honáková</a> majitelka chalupy č. <a id="12-c20ad4">12</a> na Pustině kteroužto chalupu měla po svém prvním muži Michalu Syrovátkovi z č. <a id="3-eccbc8">3</a> zemřelém r. <a id="1903-944626">1903</a> po jehož <a id="smrt-a332b5">smrti</a> se k ní přiženil <a id="melichar-honák-8f3468">Melichar Honák</a> z Pasek. Její otec Kučera jinak Formánek šumař ze Třiče byl někdy v 90 tých letech nalezen zavražděný a okradený na Bohuňovsku u Jeseného. Vrah vypátrán nebyl ale lidé
 mluvili o starém hostinském Blažkovi. Chalupu č. <a id="12-c20ad4">12</a> po ní ujal.
 Dne 26. listopadu <a id="miloslav-vodseďálek-3a0430">Miloslav Vodseďálek</a> ml. č. <a id="10-d3d944">10</a> a <a id="václav-přibyl-813bb9">Václav Přibyl</a> č. <a id="1-c4ca42">1</a> dělali sbírku na Hrádeckého z Roztok ve Svojku jemuž shořela stodola a vybralo se 2 000 K. Nejvíce dal <a id="vít-martinec-ec1395">Vít Martinec.</a>
+
 Ten čas dostala naše obec kontingent dodávky dříví pro Wehrmacht 150 pevných metrů z 50 ha lesní plochy. Na Housovo dědictví určeno 40 m. Bylo z toho hodně kyselosti protože se cítili jedny
 proti druhým ukřivdění.
 Dne 30. listopadu zde byla hospodářská kontrole ze Semil: inspektor Vladyka, 5 úředníků a dva němečtí četníci. Nejdříve byli všichni sehnání do Kvardovi hospody a když se je na vše vyptali šli
@@ -6656,6 +6678,7 @@ Dne 9. prosince odpoledne západním směrem velmi slyšitelný nálet; potom se
 25\. prosince na Boží narození ještě silnější až sklo v oknech hřmělo.
 Že s tím hlídaním čtyř místo dvou to přišlo hrozně často, hlídat vzato to od 15. do 70 let.
 Doposud to bylo od 18 ti do 60.
+
 Dne 10. prosince byly velmi slavné křtiny v č. <a id="18-6f4922">18</a> narozeného synka faktora <a id="antonín-vacátko-34c060">Ant. Vacátko.</a> Kmotrem byl hostinský Kvarda a kmotrou faktorka <a id="judita-šikolová-3aa73a">Judita Šikolová</a> z Loužnice která mu dala 5 000 K.
 Ten čas byli <a id="vězení-9eb76f">vězněni</a> hasičtí funkcionáři což se potrefilo 15. prosince <a id="arnošt-kučera-cdcca6">Arnoštu Kučerovi.</a>
 Vánoční svátky bylo krásné počasí, jasné dny a měsíčné noci ale silně mrzlo a sněhu bylo málo, všecky břehy a meze byly holé a cesty hladké že se mnoho lidí potloukalo. Na tyto svátky dostávali
@@ -6663,6 +6686,7 @@ dodavatelé bramborů za tyto premii a sice cukr podle dodaných metráků a pod
 Na svátky byli doma: <a id="františek-štěpánek-4f433f">Frant. Štěpánek</a> z Plzně, <a id="josef-hrádecký-145ada">Jos. Hrádecký</a> z Mostu a <a id="oldřich-polouprutský-67d67c">Oldřicha Polouprutského</a> č. <a id="58-66f041">58</a> zeť Dacko z Mnichova a ti vyprávěli o hrůzách náletů na tato města a 28. celý den na všech
 stranách sireny ječely a létadla bylo slyšet a po sněhu se nacházeli celé chuchvalce staniolových ústřižků a potom jsme zvěděli že byl nálet na Pardubice, Kolín, Nymburk, Kralupy.
 Krásné počasí trvalo až do Silvestra a na ten den ráno se začal sníh zrovna valit.
+
 Dne 30. prosince dávalo družstvo zas jednou po dlouhé době když už lidé byli dotopeni, každému 100 kg uhlí ze skladu v domě č. <a id="1-c4ca42">1</a> u Koldovských.
 Ten den měl oddavky bývalý zdejší učitel <a id="karel-hušek-371b00">Karel Hušek</a> z Jičína s Věrou dcerou zdejšího starosty
 Nováka kteráž jsouc od narození bezvyznání a z rodiny spiritistické, vstoupila do římskokatolické církve a dala se před svatbou v kostele pokřtíti ač její rodina nemohla přijít Římu na jméno a tak
@@ -6703,6 +6727,7 @@ jeho archeologií, bratr spisovatele Staška a strýc spisovatelé Olbrachta, t�
 Jeho děd <a id="antonín-zeman-f920a3">Ant. Zeman</a> byl posledním stanovským rychtářem jehož žena Anna byla dcera <a id="jana-hous-65c743">Jana
 Housi</a> ze Staré Vsi č. <a id="26-4e732c">26.</a> Jeho žena Marie byla z příbuzenstva dra <a id="karel-kramář-a5ba29">Karla Kramáře.</a> Zeman byl v mládí <a id="oheň-92b25a">ohněstrůjcem</a> (šikovatel) což se rovná dnešnímu rotmistrů u 5. dělostřeleckému pluku
 v Budapešti.
+
 Dne 14. ledna dělal sbírku na zákopové dělníky: rukavic, ponožek, obuví a jiného <a id="josef-soukup-006cf6">Jos. Soukup</a> ml. Ten den před polednem viděli lidé pád letadla jenž se s druhým srazilo a zřítil se do rokle mezi
 Bozkovem a Příkrým. Potom večer v 10 hod. bylo slyšet nálet od západu a záblesky od protiletadlových děl a potom záři.
 Dne 16. ledna v poledne opět na západě nálet a v 11 hod. večer větší; sklo v oknech brnělo a krytina na střechách též, dveře se chvěly a visací zámky u stodolních vrat šramotili a rampouchy od střech padaly a dobytek v chlévech se děsil. Prý to postíhlo: Kladno, Most a Děčín a Chomutov.
@@ -6728,6 +6753,7 @@ Dne 27. ledna se zas protahovala silnice a odpoledne pracovní povinnost, házen
 Dne 30. ledna přišli z Vratislavi domů: <a id="erich-svárovský-e31e8b">Erich Svárovský,</a> <a id="václav-polouprutský-070419">Václav Polouprutský</a> a <a id="václav-pavlata-b94db8">Václav Pavlata</a> kteří šli z místa až do Týniště nad Orlicí pěšky táhnouce své věci na židlích a teprve odtud jeli vlakem, ale <a id="ludvík-polouprutský-895fda">Ludvík Polouprutský</a> z č. <a id="91-54229a">91</a> ještě nepřišel a byl tam též zaměstnán. Ten den byly volání do
 Semil na úřad zodpovědět, proč nešli na zákopy: <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský,</a> <a id="františek-zákoutský-96653f">Frant. Zákoutský</a> a <a id="ladislav-jandura-3dd025">Ladislav
 Jandura.</a>
+
 Dne 3. února ráno šestou hodinu se v koleně pod č. <a id="67-735b90">67</a> a nad č. <a id="11-6512bd">11</a> na tak zv. Krumpešti zřítilo se silnice osobní auto v němž seděl v masopustní náladě: zástupce okresního hejtmana ředitel továrny
 v Řikách, úředník Antoš jenž měl t. č. v referátě benzín a nějaká Lili. Krom nějaké modřiny si nic neudělali jen auto se trochu pochroumalo na střeše a na předku tak, že když ho Jandův čeledín
 s koňmi vytáhl na silnici nad č. <a id="68-a3f390">68</a> nebylo způsobilé k jízdě a odvezli ho odpoledne s nákladním autem Blažka z Bohuňovska kde měla ta bujná společnost první zastávku a odkud jela ve 4 hod.
@@ -6736,6 +6762,7 @@ odpoledne do Vysokého k pekaři <a id="antonín-bartonička-dde285">Ant. Barton
 ni všechno shrnulo až pod paže.
 Dne 5. února dělal obecní sluha <a id="oldřich-novák-d3f052">Oldř. Novák</a> sbírku pro Okresní péči o mládež a sebralo se toho
 1 070 K. Nejméně 10 K dáti bylo nakázáno.
+
 Dne 13. února přišel ze Zhořelce kde byl zaměstnán, domů <a id="vladislav-polouprutský-f7665f">Vladislav Polouprutský</a> č. <a id="90-861398">90.</a> Ke
 Zhořelci se totiž přiblížila fronta.
 14\. února jsme slyšeli pověst že v noci sestoupivší parašutysté se zmocnili 8 nádraží mezi nimi
@@ -6774,10 +6801,13 @@ Dne 7. března vyšetřoval zde četník dne 27. unora spáchanou krádež dvou 
 Vodseďálka</a> č. <a id="75-d09bf4">75</a> a sebral v té příčině k výslechu na stanici <a id="františek-rösler-bd15b9">Frant. Röslera</a> v č. <a id="63-03afdb">63</a> zetě August. Novotného. Podezření padlo naň a na jeho soudruha <a id="václav-pičman-4d0ecc">Václ. Pičmana</a> č. <a id="92-92cc22">92</a> tím že <a id="vít-martinec-ec1395">Vít Martinec</a> jdoucí tu noc kontrolovat hlídku potkal někoho podezřelého jehož podoba se mu jaksi hodila na Röslera
 a na veřejnost to přišlo tím že <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> hlásil na obecním úřadě ubytek slepic a teď bylo zle s postiženými a že by byli stejně nic nenašli a na jeho otázku „zač si je cení?“ ptal se četníka, „jak
 to myslí jestli na černo nebo na bílo?“ ovšemže za to dostal huby a bylo mu řečeno že podporuje <a id="zloděj-f8d6af">zlodějství</a> na což on mávl rukou a pravil „o jé, to ono je teď na světe zlodějství!“
+
 Dne 14. března odpoledne schůze obec. zást. v příčině asi 18 až 20 uprchlíků kteří sem mohou býti do dvou dnů nebo do týdne býti přiděleni pro něž by se muselo do Lomnice, ubytováni by byli
 zatím u Kvardů na sále, kamž by se jim dala sláma která byla připravena na dodávku ve stodole č. <a id="74-ad61ab">74,</a> tam jím museli dát občané slamníky a na stravu chodit k větším hospodářům ale pro nepředvídané případy určeno míst 24 z nichž vyjmuti: hostinský Kvarda že toho bude mít tak dosti, č. <a id="27-02e74f">27</a>
 že to teď přejme nový nájemce (tento týden byla projednána pozůstalost Čeňka Housi na ten způsob že dcera po Jáchymu Housovi ve Škodějově dostává 1/2 a tři synové a dcera po <a id="antonín-hous-115fc4">Ant. Housovi</a> ve
-Třiči dostanou druhou 1/2 ale zatim to musi zůstati pohromadě ježto vdova <a id="anna-čermáková-d2ebbf">Anna Čermáková</a> to dále držeti nebude, <a id="bedřich-polouprutský-9f9671">Bedř Polouprutský</a> č. <a id="19-1f0e3d">19</a> že má mnoho dětí a chtěl se z toho také vyjmouti starosta Novák, ale na to mu ostatní nepřistoupili. Místa určená ku stravování těchto národních hostí
+Třiči dostanou druhou 1/2 ale zatim to musi zůstati pohromadě ježto vdova <a id="anna-čermáková-d2ebbf">Anna Čermáková</a> to dále držeti nebude, <a id="bedřich-polouprutský-9f9671">Bedř Polouprutský</a> č. <a id="19-1f0e3d">19</a> že má mnoho dětí a chtěl se z toho také vyjmouti starosta Novák, ale na to mu ostatní nepřistoupili. 
+
+Místa určená ku stravování těchto národních hostí
 byla: A. Bouzková č. <a id="65-fc490c">65,</a> <a id="josef-janda-e4c793">Jos. Janda</a> č. <a id="80-f033ab">80,</a> <a id="františek-knížek-934029">Fr. Knížek</a> č. <a id="33-182be0">33,</a> <a id="josef-soukup-006cf6">Jos. Soukup,</a> <a id="františek-čermák-1668f0">Fr. Čermák,</a> <a id="karel-čermák-e55a29">Karel Čermák,</a>
 <a id="josef-polouprutský-403545">Josef Polouprutský</a> č. <a id="35-1c383c">35,</a> <a id="františek-chlum-66e864">Fr. Chlum,</a> <a id="stanislav-kobr-ea2465">St. Kobr,</a> <a id="pavla-maturová-763770">Pavla Maturová,</a> <a id="bohuslav-novák-3f87fc">Bohusl Novák,</a> <a id="vilém-polouprutský-877f7e">Vilém Polouprutský,</a>
 <a id="bohuslav-slavík-d8a98a">Boh. Slavík,</a> <a id="františek-soukup-2e6a7b">Fr. Soukup,</a> <a id="vladimír-šalda-1e5776">Vladim. Šalda,</a> <a id="josef-šmíd-ec9534">Jos. Šmíd,</a> <a id="václav-večerník-a9ecb2">Václ. Večerník,</a> <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek,</a> <a id="josef-janoušek-ed5240">Jos. Janoušek,</a>
@@ -6797,6 +6827,7 @@ proti č. <a id="24-1ff1de">24</a> na Ducháčkově pozemku, pod samou struhou p
 Potom přikopali ještě jednu pod č. <a id="93-98dce8">93</a> u lípy <a id="bedřich-polouprutský-9f9671">Bedř Polouprutského</a> č. <a id="10-d3d944">10,</a> pod č. <a id="20-98f137">20</a> na pozemku
 Štěp Hrádeckého č. <a id="94-f4b9ec">94</a> a kolem č. <a id="26-4e732c">26</a> udělali celkem 5 děr a poráželi dříví na pozemku <a id="stanislav-kobr-ea2465">St. Kobra</a> č. <a id="81-43ec51">81</a> a minulé leto <a id="poprava-a24147">popraveného</a> <a id="josef-hladík-ab82c6">Jos. Hladíka</a> č. <a id="35-1c383c">35.</a> Celá ta arbeitkompagnie měla mnoho hladu
 a lidé a hlavně děti jim nosili jídlo.
+
 Dne 25. břez. na Květnou neděli v poledne slyšet od západu silný nálet a potom přišla zpráva že to zas odnesla Praha. Potom tu zanesl vítr celé mraky z létadel shoděných letáků v německé řeči
 v nichž stálo co kdy Vůdce a jeho řekli a jak se to srovnává s dneškem a rovněž nějaké vyňatky z jeho bible „Mein kampf“.
 Byla toho plná pole ale četnici to ani nesháněli.
@@ -6807,10 +6838,7 @@ a č. <a id="81-43ec51">81.</a>
 onemocněla a to tele také dodal.
 
 Ty díry v lukách udělané nejdříve potom zamaskovali smrkovým roštím a ty dělané později nezamaskovali, ty měly být k ničemu jen pro oklamání nepřítele.
-Dnem 1. dubna (Velká neděle) byla asi situace na <a id="boj-1de92c">bojišti</a> taková že nepřítel byl na východě v Německu: u Štětína, Frankfurtu, Kostřina, Zhořelce, Vratislavi, Ratiboře, u nás: před Ostravou,
-
-
-ve Zvoleni, v Báňské Bystřici a Nových Zámcích, v Rakousku u Videňského Nového Města a v Maďarsku někde v Bakoňském lese a na západě byl přes Rýn a měl už město Kasel.
+Dnem 1. dubna (Velká neděle) byla asi situace na <a id="boj-1de92c">bojišti</a> taková že nepřítel byl na východě v Německu: u Štětína, Frankfurtu, Kostřina, Zhořelce, Vratislavi, Ratiboře, u nás: před Ostravou, ve Zvoleni, v Báňské Bystřici a Nových Zámcích, v Rakousku u Videňského Nového Města a v Maďarsku někde v Bakoňském lese a na západě byl přes Rýn a měl už město Kasel.
 Dnem 2. dubna zaveden zas letní čas to je o 1 hodinu dopředu. Tyto dny dodělávali lidé od podzimu nedodělanou polní práci.
 Dne 4. dubna zkoušeli jak budou dělati dobrou službu ty zábrany přes silnici, kladli do toho uzávěry z klad takže odpoledne autobus jedoucí z Vysokého do Semil musel v Kostnici 1/2 hodiny čekat než mu uvolnili cestu.
 
@@ -6837,13 +6865,9 @@ V tom týdnu dostal nepřítel Vídeň v Rakousku a Hodonín na Moravě a na zá
 nesl každý jinak a mnozí kulhali.
 17\. dubna se vrátil domu <a id="linhart-večerník-a1869e">Linhart Večerník</a> č. <a id="24-1ff1de">24</a> z nějakého pracovního tábora u Berlina který rozpustili neb se nepřítel dostal už přes Labe
 19\. dub strašlivé povětří že až smrky lámalo a odpoledne to povětří přineslo někde od severozápadu takovou spoustu dýmu že nebylo na druhou stranu potoka vidět, slunce v tom bylo červené jako někdy při západě a i zápach spáleniny a i nějaké mastnoty bylo cítit a to bylo až do západu
-slunce a ještě druhý den se to podýmí tu drželo. Soudilo se že to zaneslo kouř z nějakého velkého
+slunce a ještě druhý den se to podýmí tu drželo. Soudilo se že to zaneslo kouř z nějakého velkého <a id="požár-7dda3e">požáru</a> v Německu který asi vznikl při náletu. <a id="marie-koldovská-adf398">Marie Koldovská</a> č. <a id="16-c74d97">16</a> myslela že to je otravný plyn a chodila se šátkem namočeným uvázaným přes ústa. Lidé byli už na ty nálety tak naviklí že i když byla večer bouřka domnívali se že je zas nálet.
 
-
-<a id="požár-7dda3e">požáru</a> v Německu který asi vznikl při náletu. <a id="marie-koldovská-adf398">Marie Koldovská</a> č. <a id="16-c74d97">16</a> myslela že to je otravný plyn a chodila se šátkem namočeným uvázaným přes ústa. Lidé byli už na ty nálety tak naviklí že i když
-byla večer bouřka domnívali se že je zas nálet.
-Dne 20. dub jsme poprve slavili Vůdcovi narozeniny bez praporů. V tomto týdnu z Vysokého odejel ten arménskogruzínský arbaitsbatalion někde k Liberci a šli ti lidé odsud neradi, že tady sehnali něco k jídlu a tam že nebude nic a vzpomínali na dobré časy v Rusku. Byli mezi nimi i lidé od
-Krásnodaru a Erivaně.
+Dne 20. dub jsme poprve slavili Vůdcovi narozeniny bez praporů. V tomto týdnu z Vysokého odejel ten arménskogruzínský arbaitsbatalion někde k Liberci a šli ti lidé odsud neradi, že tady sehnali něco k jídlu a tam že nebude nic a vzpomínali na dobré časy v Rusku. Byli mezi nimi i lidé od Krásnodaru a Erivaně.
 
 21\. dub dodávala naše obec jednoho koně, dva postroje a jeden vůz. Kůň byl <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálka.</a>
 V tom týdnu se dostal nepřítel k Berlinu, Brnu, Karlovým Varům a Lipsku.
@@ -6860,6 +6884,7 @@ Soukupova souseda <a id="jindřich-matura-619517">Jindř. Matury,</a> i vešel t
 Tyto dny byl vydáván lidem cukr napřed až do října, čemuž se lidé smáli že prý to je výprodej jako před bankrotem.
 Dne 1. května který se celou <a id="válka-bfccd5">válku</a> jako svátek dnes slavil, se teď zas slavil, dělníci nepracovali a děti nešli do školy a máje také nesměly být a na trigonometru na Kvardově na Budči se ráno objevil máj velký jako snopek.
 Dne 2. května ráno se slyšelo že Vůdce <a id="adolf-hitler-540dea">Adolf Hitler</a> se odebral na věčnost a druhý den přišla zpráva že padl Berlín do ruských rukou.
+
 Dne 3. května ve čtvrtek odpoledne přišla ze Semil do Vysokého zpráva že je po válce, lidé nechali práce, továrna zůstala stát a všecko se hrnulo do Vysokého oslavovat samostatnost, přitom hned hlavně mládež a ženské, strhávali dvojjazyčné tabulky; <a id="václav-přibyl-813bb9">Václav Přibyl</a> a <a id="františek-liška-568223">Frant. Liška</a> strhli
 takovou tabuli ze školy a <a id="josef-šmíd-ec9534">Josef Šmíd</a> jí rozrazil o zahradní sloupek a hned vyvěsili z okna český prapor pošlapavše německý a hned se chtěli pořádati s těmi skutečnými i domnělými zrádci, na
 pavlači č. <a id="67-735b90">67</a> kdosi napsal „Gestapo“ a <a id="rudolf-jína-4bb061">Rudolf Jína</a> chtěl majitelku Doubkovou dovézt do Vysokého do <a id="vězení-9eb76f">vězení</a> ale ona se v baráku zamkla potom utekla s celou rodinou přes Kopřoví pryč. Z návse
@@ -6883,6 +6908,7 @@ děti nechodili.
 Dne 5. května přišla zpráva že Angličané dobyli Plzeň a že v Praze udělali také už převrat a že to skončí jako ve Vysokém, po silnici tu přejíždělo obrněné auto ač od 9 do 6 ti ráno že nikdo nesmí
 ze stavení ven a majitelka domku č. <a id="67-735b90">67</a> se urátila zas pokojně domů. Odpoledne tu přejelo nahoru a dolů po vsi německé obrněné auto které prý potom v Jesenném zajali a večer tu partyzáni zatarasili všechny tři překážky které občané ráno na příkaz starosty zas odstranili, aby mohl přijet auto
 z mlékárny na Malé Skále ale ono stejně nepřijelo protože jinde to neodstranili naopak připoráželi k tomu ještě na silnici stromy.
+
 Dne 6. května v neděli před polednem u starosty Nováka ustanoven prozatímní Národní výbor a sice: <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> předseda, dosavadní starosta místopředseda, <a id="karel-hušek-371b00">Karel Hušek</a> jednatel, <a id="františek-knížek-934029">Frant.
 Knížek</a> míst. voj. velitel, <a id="františek-liška-568223">Frant. Liška</a> zástupce velitele, <a id="antonín-skrbek-0351fb">Ant. Skrbek</a> vedoucí zásobování, <a id="věnceslav-vodseďálek-a50c44">Věnceslav
 Vodseďálek</a> č. <a id="98-ed3d2c">98,</a> <a id="stanislav-marek-9cb377">Stanislav Marek</a> č. <a id="6-167909">6,</a> <a id="josef-soukup-006cf6">Josef Soukup</a> č. <a id="5-e4da3b">5</a> (53) a <a id="antonín-štěpánek-f387a6">Antonín Štěpánek</a> č. <a id="22-b6d767">22.</a> Veliteli tří skupin vojáků a pomocných sil ustanoveni: překážka u č. <a id="18-6f4922">18</a> <a id="františek-liška-568223">Frant. Liška,</a> překážka v Kostnici <a id="františek-vodseďálek-3dfb48">Frant.
@@ -6892,12 +6918,11 @@ Vodseďálek</a> č. <a id="75-d09bf4">75</a> a překážka v Křibě <a id="sta
 Dne 7. května večer u starosty Nováka první schůze Národního výboru v níž ustanovena úřadovna ve škole a rozhodnuto o zásobování zdejších lidí mlékem, máslem a vejci pokud nebude vše upraveno úřady které po kapitulaci Německa zas převzalo znovu vzkřísené Československo. Okresem jsme zas samočinně připojení k Jilemnici.
 Dne 8. květ dopoledne prováděn ve škole za přítomnosti předsedy Národního výboru, jednatele a člena Vodseďálka soupis vojáků do 40 let stáří jichž bylo 18 a mezi nimi jeden důstojník poručík
 kancl služby Janoušek nájemník v č. <a id="79-d1fe17">79.</a> Dobrovolně se hlásili do vojska ale byli odkázáni na příslušná místa: 58 letý <a id="jindřich-matura-619517">Jindř Matura</a> č. <a id="78-35f4a8">78</a> a <a id="20-98f137">20</a> letý <a id="ladislav-soukup-a33c77">Ladisl. Soukup</a> č. <a id="53-d82c8d">53.</a> Odpoledne ten den vznikl planý poplach že němci ústupující před Rusi od Nového Světa přicházejí do Vysokého a že se bude
-opakovat pátek, vysočtí utíkali přes ves dolu, zdejší odcházeli z pole domu, odklízeny prapory ale
+opakovat pátek, vysočtí utíkali přes ves dolu, zdejší odcházeli z pole domu, odklízeny prapory ale němci sem nepřišli nýbrž obrátili se přes Sklenařice a Olešnici k Liberci a ještě ten den obsazeny našimi úřady v Pasekách, Jablonci a Rokytnici.
 
-
-němci sem nepřišli nýbrž obrátili se přes Sklenařice a Olešnici k Liberci a ještě ten den obsazeny našimi úřady v Pasekách, Jablonci a Rokytnici.
 Dne 9. května ráno cvičil na cestě za č. <a id="17-70efdf">17</a> desátník <a id="jan-novotný-8a95b7">Jan Novotný</a> z vysocké továrny ty zdejší vojáky. Udavačka <a id="františka-doubková-7a2122">Frant. Doubková</a> zatčena a před polednem tu přes ves přejel na motorce první Rus.
 Od západu bylo slyšet dunění náletů německých létadel na česká města ještě po kapitulaci.
+
 Dne 10. května ve Vysokém slavnost uvítání ruského vojska které tábořilo u celnice a též přicházelo od Třiče. Přiváděni zajatí němci kteří hned museli rozdělávat překážky a zadělávat zákopy a koně němcům zabaveni půjčováni lidem a vojáci od nás hned přibíráni ke službě v Kramářově
 vile dosud Gauschuly ze které teď udělány kasárny. Při té slavnosti zatčen náš občan <a id="karel-doubek-de5559">Karel Doubek</a> č. <a id="6-167909">6.</a>
 
@@ -6908,8 +6933,10 @@ ošetřovna v boudě <a id="vít-martinec-ec1395">Víta Martince</a> u sv. Jana 
 Dne 12. května zatčen <a id="jindřich-matura-619517">Jindř Matura</a> starý a 13. si šel <a id="lev-rajský-f3e254">Lev Rajský</a> z č. <a id="64-ea5d2f">64</a> do Vysokého, aby ho ochránili a stěžoval si že mu ve hlídce <a id="věnceslav-vodseďálek-a50c44">Věnceslav Vodseďálek</a> odebral pušku a poslal ho domu a ve
 Vysokém ho zatkli i jeho hrbatou ženu Barušku ale ta propuštěna ale zato 16. května zatčen <a id="bohuslav-chlum-8a2bc1">Bohuslav Chlum</a> proto že před rokem udal ve stodole se skrývavšího <a id="karel-čermák-e55a29">Karla Čermáka</a> ale přimlouval se zaň Chlumův nájemník poručík Janoušek „že prý Chlum plnil jen nařízení obce a Čermák mu
 nepřitěžoval“. Stále tu přejížděli přes ves nahoru Polácí uracející se domu až někde ke Gdansku s červenobílými práporky na vozech.
+
 Dne 18. května zatčen <a id="vilém-večerník-9f2296">Vilém Večerník</a> z chudobynce který měl být ozdobený obrazem Vůdce, kamarádil s Doubkovou a Rajským a nosil okázale medajle o nichž řikal že si je zasloužil.
 20\. května chytili: <a id="ladislav-soukup-a33c77">Ladisl. Soukup</a> a Milosl. Slavík č. <a id="85-3ef815">85</a> ještě jednoho němce. Potom v noci odebráno <a id="josef-langhamer-5f1c42">Jos. Langhamrovi</a> v č. <a id="95-812b4b">95</a> radio které on si odnesl z Kramářovi vily kde byl zaměstnán a byl miláčkem správce Kvapila.
+
 21\. května v den sedmiletého výročí první mobilisace šli k presentaci do školy ve Vysokém ti naši vojáci do stáří 39 let. Propuštěni z nich dva a sice: <a id="františek-soukup-2e6a7b">František Soukup</a> a Špidlen č. <a id="91-54229a">91</a> a zůstali: <a id="josef-šmíd-ec9534">Jos.
 Šmíd,</a> <a id="františek-knížek-934029">Frant. Knížek,</a> <a id="václav-žitný-f09ee9">Václav Žitný,</a> <a id="vladislav-polouprutský-f7665f">Vladislav Polouprustký</a> č. <a id="90-861398">90,</a> <a id="erich-svárovský-e31e8b">Erich Svárovský</a> <a id="oldřich-vodseďálek-62507c">Oldř Vodseďálek</a> č. <a id="83-fe9fc2">83,</a> <a id="rudolf-jína-4bb061">Rudolf Jína</a> č. <a id="86-93db85">86,</a> <a id="linhart-večerník-a1869e">Linhart Večerník,</a> <a id="karel-přibyl-e11e8a">Karel Přibyl</a> a Breuer (?) v č. <a id="96-26657d">96.</a> První čtyři měli podané
 žádosti o zproštění pro hospodářství a sice: Polouprutský na č. <a id="44-f71771">44</a> a byli propuštěni. Za cestáře na zdejší silnici ustanoven za zatčeného <a id="antonín-hásek-233599">Ant. Háska</a> z Vysokého, <a id="františek-liška-568223">Frant. Liška</a> č. <a id="17-70efdf">17</a> ale Hásek brzo propuštěn.
@@ -7013,15 +7040,17 @@ starý i nový za příčinou voleb kterých by se museli sůčastnil všichni o
 7\. Pičman Václav dělník č. <a id="92-92cc22">92</a>
 
 8\. Polouprutský Bedřich rolník č. <a id="19-1f0e3d">19</a>
+
 9\. Polouprutský Josef obch. ved. č. <a id="28-33e75f">28</a>
+
 10\. Polouprutský Vladimír rolník č. <a id="90-861398">90</a>
-
-
 
 11\. Skrbek Antonín mistr v. v. č. <a id="52-9a1158">52</a>
 
 12\. Soukup Josef ml. rolník č. <a id="5-e4da3b">5:</a>
+
 13\. Šulc Jan rolník č. <a id="59-093f65">59</a>
+
 14\. Šmíd Josef rolník č. <a id="46-d9d4f4">46</a>
 
 15\. Večerník Bohumil rolník č. <a id="39-d67d8a">39</a>
@@ -7071,21 +7100,22 @@ bezdůvodné střílení, protože se lidé báli přejít přes ves.
 Ve schůzi v níž sestavena kandidátka, usneseno že budou volit jen muži, že to bude o kratším ale tím se cítila dotčená <a id="anna-petrušková-5bbbc9">Anna Petruškova</a> č. <a id="18-6f4922">18</a> a podala proto Nár. výboru stížnost na upírání ženám
 volebního práva podepsanou mimo ni ještě předsedou Komunistické organisace Vacátkem a <a id="václav-pičman-4d0ecc">Václ.
 Pičmanem</a> který si asi sliboval pro sebe od tohoto hodný úspěch a tak napsány kandidátky i pro ženské a tyto nadávaly, že musí volit.
+
 Dne 15. června zatčen nájemník v č. <a id="95-812b4b">95</a> <a id="josef-langhamer-5f1c42">Josef Langhammer</a> československý železničář ve výslužbě a teď zaměstnanec Gauschule protože, žádal li poukaz na obuv, vyplňovali vždy žádanku která stejně zůstala u české obce, vždy německy, přispíval dobrovolně na německou zimní pomoc či je Wintergehilfe a byl miláčkem správce školy Michla a vedoucího Kwapila kteří pro něho i vymohli
 u zdejší obce že nemusel hlídat ale byl za nějaký čas propuštěn a 1. srpna nastoupil zas u dráhy v Turnově a na jeho místo do č. <a id="95-812b4b">95</a> se nastěhovala nová nájemnice vdova <a id="marie-pluchová-e385b8">Marie Pluchová</a> ze Stanového dcera <a id="petr-žanta-387402">Petra Žanty</a> č. <a id="6-167909">6.</a>
 Dne 16. června zatčen <a id="jindřich-černohlávek-b0a44e">Jindř. Černohlávek</a> č. <a id="70-7cbbc4">70</a> pro styky se zatčeným <a id="václav-kouřil-e9cf26">Václavem Kouřilem</a> z Vysokého ale zanedlouho propuštěn.
+
 Dne 17. června v neděli dopoledne kdy se už sušilo seno byly konečně volby: Volební výbor byl: učitel Hušek, <a id="vladislav-vodseďálek-a8e17e">Vládisl. Vodseďálek,</a> <a id="věnceslav-vodseďálek-a50c44">Věnceslav Vodseďálek,</a> <a id="stanislav-marek-9cb377">Stanisl. Marek,</a> <a id="jaroslav-večerník-b04539">Jarosl. Večerník,</a> <a id="stanislav-kvarda-38ca5e">Stanislav
 Kvarda</a> a <a id="bohuslav-večerník-862028">Bohusl Večerník</a> a dostavil se též z Jilemnice Lavický. Z policejního oddělení ve Vysokém přišel příkaz nepřipustit <a id="jindřich-matura-619517">Jindř. Maturu</a> ml. a <a id="františka-nováková-e4cc6b">Frant. Novákovou</a> č. <a id="50-c0c7c7">50</a> jakožto politicky a národně
-nespolehlivé, k volbám u čehož způsobila Novákové dcera Bohuslava hrozný výstup a vynadala hlavně učiteli Huškovi. Voleb se sůčastnilo 189 voličů a dostali následující kandidáti hlasů: <a id="karel-hušek-371b00">Karel
+nespolehlivé, k volbám u čehož způsobila Novákové dcera Bohuslava hrozný výstup a vynadala hlavně učiteli Huškovi. 
+
+Voleb se sůčastnilo 189 voličů a dostali následující kandidáti hlasů: <a id="karel-hušek-371b00">Karel
 Hušek</a> 75, <a id="josef-janda-e4c793">Josef Janda</a> 101, <a id="františek-knížek-934029">Frant. Knížek</a> 154, Stan. Kvarda 169, Stan. Marek 168, <a id="bohuslav-novák-3f87fc">Bohuslav Novák</a>
 111, <a id="václav-pičman-4d0ecc">Václav Pičman</a> 70, <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> 113, <a id="josef-polouprutský-403545">Jos. Polouprutský</a> 163, <a id="vladislav-polouprutský-f7665f">Vlad Polouprutský</a> 145,
 Skrbek 185, <a id="josef-soukup-006cf6">Jos. Soukup</a> 111, <a id="jan-šulc-fc9b24">Jan Šulc</a> 126, <a id="josef-šmíd-ec9534">Jos. Šmíd</a> 143, <a id="bohuslav-večerník-862028">Bohusl Večerník</a> 181, <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> 184,
 <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> 152, <a id="miloslav-vodseďálek-3a0430">Mil Vodseďálek</a> 142, Věnc. Vodseďálek 117, <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek</a> 166.
 Podle výsledku voleb se stali členy Nár. výboru: <a id="antonín-skrbek-0351fb">Ant. Skrbek,</a> <a id="jaroslav-večerník-b04539">Jarosl. Večerník,</a> <a id="bohuslav-večerník-862028">Bohusl. Večerník,</a>
-<a id="stanislav-kvarda-38ca5e">Stanislav Kvarda,</a> <a id="stanislav-marek-9cb377">Stanislav Marek,</a> <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek,</a> <a id="josef-polouprutský-403545">Jos. Polouprutský,</a> <a id="františek-knížek-934029">Frant. Knížek,</a> <a id="vladislav-vodseďálek-a8e17e">Vladislav
-
-
-Vodseďálek,</a> <a id="vladislav-polouprutský-f7665f">Vladislav Poluoprutský,</a> <a id="josef-šmíd-ec9534">Josef Šmíd,</a> <a id="miloslav-vodseďálek-3a0430">Miloslav Vodseďálek</a> a náhradníky <a id="jan-šulc-fc9b24">Jan Šulc,</a> Věncesl. Vodseďálek a <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> a při volbě představenstva zas u Kvardů do dne 18. června večer k níž se nedostavil <a id="františek-knížek-934029">Frant. Knížek,</a> zvolen po delší táhanici kdy chtěli mít předsedou <a id="jaroslav-večerník-b04539">Jaroslav
+<a id="stanislav-kvarda-38ca5e">Stanislav Kvarda,</a> <a id="stanislav-marek-9cb377">Stanislav Marek,</a> <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek,</a> <a id="josef-polouprutský-403545">Jos. Polouprutský,</a> <a id="františek-knížek-934029">Frant. Knížek,</a> <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek,</a> <a id="vladislav-polouprutský-f7665f">Vladislav Poluoprutský,</a> <a id="josef-šmíd-ec9534">Josef Šmíd,</a> <a id="miloslav-vodseďálek-3a0430">Miloslav Vodseďálek</a> a náhradníky <a id="jan-šulc-fc9b24">Jan Šulc,</a> Věncesl. Vodseďálek a <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> a při volbě představenstva zas u Kvardů do dne 18. června večer k níž se nedostavil <a id="františek-knížek-934029">Frant. Knížek,</a> zvolen po delší táhanici kdy chtěli mít předsedou <a id="jaroslav-večerník-b04539">Jaroslav
 Večerníka</a> a když nepřijal, <a id="vladislav-vodseďálek-a8e17e">Vlad. Vodseďálka</a> a když ani ten nepřijal, hostinský <a id="stanislav-kvarda-38ca5e">Stanislav Kvarda,</a> místopředsedou <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> a členy <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek</a> a <a id="antonín-skrbek-0351fb">Ant. Skrbek</a> a pokladníkem <a id="bohuslav-večerník-862028">Bohuslav Večerník</a> a obecní kanceláří se stala kancelář Kampeličky u Kvardů.
 Ten den prohlídka četnického praporčíka Svobody a Věncesl. Vodseďálka u <a id="vít-martinec-ec1395">Víta Martince</a> nařčeného s kolaborantství.
 Dne 19. června na Četnické stanici ve Vysokém výslech se zatčeným Vilémem Večerníkem za přítomnosti předsedy Nár. výboru Večerníka, místopředsedy Nováka a členů: Soukupa a Věnc.
@@ -7106,11 +7136,8 @@ do Poniklé už nechodila ale byla ve spojení přímo s Gestapem v Jičíně ka
 byli placení od kusu.
 Doubková vypověděla že staroveského učitele Mecnara a <a id="stanislav-marek-9cb377">Stanislava Marka</a> č. <a id="6-167909">6</a> kteří r. <a id="1941-7af626">1941</a> chodili poslouchat cizí rozhlas do továrního domů i s mistrem Ducháčkem a <a id="jan-červinka-32fdac">Janem Červinkou,</a> udal zedník <a id="františek-žanta-8689ca">Frant. Žanta</a> německým četníkům v Semilech a zároveň její muž <a id="karel-doubek-de5559">Karel Doubek</a> německému
 četníkovi v Pasekách. Tehdy byli udáni také: Stan Marek, <a id="josef-hladík-ab82c6">Jos. Hladík,</a> <a id="josef-soukup-006cf6">Jos. Soukup</a> <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> že chodí poslouchat k Mecnarovi ale Doubková popřela že by to udělali oni.
-Potom udala že starostu Nováka a <a id="josef-soukup-006cf6">Jos. Soukupa</a> udali s Večerníkem a Novákovou a <a id="jindřich-matura-619517">Jindř Maturou</a> č. <a id="78-35f4a8">78</a> proto že „Soukup <a id="zabití-67f9ca">zabil</a> na černo prase, že má černé slepice, že přechovává zbraně, že chodil do Roprachtic ke Skrbkovi poslouchat cizí rozhlas, že přimílá na víc, že je komunista že r. <a id="1938-ad4cc1">1938</a> při nějaké národ. slavnosti v Rokytnici nesl prapor, že jeho dcera onemocněla když měla jít do
-Německa do práce a starosta že nechává živobytí ženám vysockých uvězněných četníků, že má dva
 
-
-radiopřijímače, že k němu chodí řada občanů poslouchat, že dodává málo mléka, že sice si se Soukupem předpisují nízké dodávky a jiným vysoké atd.
+Potom udala že starostu Nováka a <a id="josef-soukup-006cf6">Jos. Soukupa</a> udali s Večerníkem a Novákovou a <a id="jindřich-matura-619517">Jindř Maturou</a> č. <a id="78-35f4a8">78</a> proto že „Soukup <a id="zabití-67f9ca">zabil</a> na černo prase, že má černé slepice, že přechovává zbraně, že chodil do Roprachtic ke Skrbkovi poslouchat cizí rozhlas, že přimílá na víc, že je komunista že r. <a id="1938-ad4cc1">1938</a> při nějaké národ. slavnosti v Rokytnici nesl prapor, že jeho dcera onemocněla když měla jít do Německa do práce a starosta že nechává živobytí ženám vysockých uvězněných četníků, že má dva radiopřijímače, že k němu chodí řada občanů poslouchat, že dodává málo mléka, že sice si se Soukupem předpisují nízké dodávky a jiným vysoké atd.
 Zprávy o Soukupovi jí dodala Jandová která je měla od <a id="jindřich-matura-619517">Jindř. Matury</a> jenž byl též skrze Večerníka ve spojení s Gestapem a jenž zase leccos o Soukupovi měl od <a id="jan-šulc-fc9b24">Jana Šulce.</a> Kuřivo a máslo Doubkové dodával <a id="antonín-vitvar-7b08af">Ant. Vitvar</a> č. <a id="77-28dd2c">77.</a> Doubková, Nováková, Jandová, Matura a i asi jiní chtěli odstranit starostu a nahradit ho starostou německým ale potom se z toho vytáčeli a Nováková říkala že chtěli českého komisaře a Jandová že <a id="jaroslav-večerník-b04539">Jaroslava Večerníka.</a> Jandová se též hájila tím že věděla o pobytu
 <a id="karel-čermák-e55a29">Karla Čermáka</a> před zatčením a že ho neudala a Doubková že vysvobodila od zákopových prací:
 Jandova čeledína Janduru, <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutského</a> ml. a <a id="františek-zákoutský-96653f">Frant. Zákoutského</a> a od práce v továrně:
@@ -7127,21 +7154,17 @@ Dále vypověděla Nováková že Večerník k němuž vždy v neděli, když by
 chodí poslouchat cizinu také oba Čermácí (č 15 a 93) což byla lež, že má Soukup neohlášené slepice že jí řekla Jiřina dcera <a id="anna-ducháčková-5f7fed">Anny Ducháčkové</a> v č. <a id="49-f457c5">49</a> a že starosta <a id="zabití-67f9ca">zabil</a> na černo prase že jí řekla
 <a id="jindřiška-nesvadbová-8363a0">Jindř. Nesvadbova</a> ale potom doznala, že ty slepice počítala sama když šla od <a id="jindřich-matura-619517">Jindř. Matury</a> a o řeči
 Nesvadbové nevěděla ani dcera Slávka ani Doubková. Poslední týden června byly výslechy po 5 půldnů.
+
 Dne 29. června v pátek navečer urátila se domu z koncentráku vdova <a id="eliška-nováková-f72741">Eliška Nováková</a> č. <a id="44-f71771">44</a> jíž přivezl v autu četnický praporčík Svoboda.
 Celý ten týden pršelo a seno hnilo a i už něco jetelů a to trvalo ještě druhý týden a brambory ještě nebyli oruchané a mnohé se už oruchali jen jednou a seno se dosušilo většinou 14. července.
 Ten čas při prohlížení obecních účtu vyšlo najevo že bývalý starosta Novák počítal si za čištění a vytápění kanceláře ač to měl v kuchyni a počital si za půjčení psacího stroje ač na něm sám psát
-neuměl a psal na něm jeho zeť učitel Hušek pro jeho ulehčení a za každou cestu na okres si počítal
-
-60 K.
+neuměl a psal na něm jeho zeť učitel Hušek pro jeho ulehčení a za každou cestu na okres si počítal 60 K.
 
 Dne 6. července zde zvonili četníku <a id="antonín-slavík-4fc746">Ant. Slavíkovi</a> nevlastnímu synu <a id="josef-soukup-006cf6">Jos. Soukupa</a> č. <a id="53-d82c8d">53</a> (5) jehož jedoucího na motociklů <a id="zabití-67f9ca">zabilo</a> vojenské nákladní auto u Raspenavy.
-Dne 9. července odstěhoval se z č. <a id="96-26657d">96</a> <a id="adolf-breuer-c25896">Adolf Breuer</a> (3 osoby) někde k Liberci. Mimo nich se odstěhovali ještě: <a id="ladislav-jón-11eb38">Ladislav Jón</a> z č. <a id="61-7f39f8">61</a> (5 osob) do Hranice u Rokytnice odkudž byl, <a id="václav-týl-980146">Václav Týl</a> a jeho zeť Šumpík (6 osob) z č. <a id="98-ed3d2c">98</a> na Příchovice odkudž byli, <a id="vladimír-petrušek-e2ed46">Vladimír Petruška</a> z č. <a id="18-6f4922">18</a> (3 osoby) na Nový
+Dne 9. července odstěhoval se z č. <a id="96-26657d">96</a> <a id="adolf-breuer-c25896">Adolf Breuer</a> (3 osoby) někde k Liberci. Mimo nich se odstěhovali ještě: <a id="ladislav-jón-11eb38">Ladislav Jón</a> z č. <a id="61-7f39f8">61</a> (5 osob) do Hranice u Rokytnice odkudž byl, <a id="václav-týl-980146">Václav Týl</a> a jeho zeť Šumpík (6 osob) z č. <a id="98-ed3d2c">98</a> na Příchovice odkudž byli, <a id="vladimír-petrušek-e2ed46">Vladimír Petruška</a> z č. <a id="18-6f4922">18</a> (3 osoby) na Nový Svět a 2 kluky Doubkových si vzal jejich děd <a id="jan-fišer-b95fd7">Jan Fišera</a> do Poniklé. Celkem 19 osob ze vsi pryč ale Petruška tam dlouho nebyl nasitiv se brzo chalupy s kravou přistěhoval se za 14 dnů do Jesenného.
+Při výsleších se zvědělo že Doubková 3. května viděla <a id="miloslav-vodseďálek-3a0430">Miloslava Vodseďálka</a> ml. chodit po vsi s kulovnicí, mimo toho viděla že jeho bratr Věnceslav měl browning a že před Ducháčkovou hospodou řekl že ho měl celou <a id="válka-bfccd5">válku</a> a že by byl špatný Čech kdyby neměl zbraň. 
 
-
-Svět a 2 kluky Doubkových si vzal jejich děd <a id="jan-fišer-b95fd7">Jan Fišera</a> do Poniklé. Celkem 19 osob ze vsi pryč ale
-Petruška tam dlouho nebyl nasitiv se brzo chalupy s kravou přistěhoval se za 14 dnů do Jesenného.
-Při výsleších se zvědělo že Doubková 3. května viděla <a id="miloslav-vodseďálek-3a0430">Miloslava Vodseďálka</a> ml. chodit po vsi s kulovnicí, mimo toho viděla že jeho bratr Věnceslav měl browning a že před Ducháčkovou hospodou řekl že ho měl celou <a id="válka-bfccd5">válku</a> a že by byl špatný Čech kdyby neměl zbraň. Ježto jmenovaní
-přímo řekli Doubkové a Večerníkovi že je patří zastřelit, když potom ovládli zas Vysoké němci, přišel si Večerník do č. <a id="98-ed3d2c">98</a> a nezastihnuv nikoho z rodiny Věncesl. Vodseďálka doma, řekl jeho domácímu <a id="antonín-jodas-ca0f30">Ant. Jodasovi,</a> že ten člověk musí být potrestán a Doubková si přišla do č. <a id="10-d3d944">10</a> a nařizovala
+Ježto jmenovaní přímo řekli Doubkové a Večerníkovi že je patří zastřelit, když potom ovládli zas Vysoké němci, přišel si Večerník do č. <a id="98-ed3d2c">98</a> a nezastihnuv nikoho z rodiny Věncesl. Vodseďálka doma, řekl jeho domácímu <a id="antonín-jodas-ca0f30">Ant. Jodasovi,</a> že ten člověk musí být potrestán a Doubková si přišla do č. <a id="10-d3d944">10</a> a nařizovala
 starému <a id="miloslav-vodseďálek-3a0430">Miloslav Vodseďálkovi</a> ať se ihned synové i se zbraněmi dostaví na komando do Vysokého, že Miloslava s puškou sama viděla a co má druhý a co řekl na to že má korunního svědka a ten
 svědek byla <a id="marie-jandová-dd9b55">Marie Jandová</a> a zvěděla to od Matury.
 Mimo toho řekla Jandová že k Doubkové chodil také jeden sedlák z Dolence a <a id="slávka-nováková-c6b362">Slávka Nováková</a> která chtěla nalhat že zvěděla že Doubková je udavačka až po převratě, doznala že to byl <a id="stanislav-kvarda-38ca5e">Stanislav
@@ -7190,11 +7213,9 @@ Byly to <a id="miloslav-vodseďálek-3a0430">Miloslav Vodseďálek</a> č. <a id
 <a id="jaroslav-polouprutský-2606ab">Jaroslav Polouprutský</a> č. <a id="28-33e75f">28,</a> <a id="josef-hrádecký-145ada">Jos. Hrádecký</a> 94, <a id="jindřich-matura-619517">Jindř Matura</a> č. <a id="78-35f4a8">78,</a> <a id="jindřich-černohlávek-b0a44e">Jindř Černohlávek</a> č. <a id="70-7cbbc4">70,</a> <a id="lev-rajský-f3e254">Lev
 Rajský</a> č. <a id="64-ea5d2f">64,</a> <a id="ladislav-dachs-44ac15">Ladislav Dachs</a> č. <a id="58-66f041">58,</a> <a id="václav-pavlata-b94db8">Václav Pavlata</a> č. <a id="55-b53b3a">55,</a> <a id="josef-soukup-006cf6">Josef Soukup</a> č. <a id="53-d82c8d">53,</a> <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> č. <a id="19-1f0e3d">19,</a>
 <a id="václav-polouprutský-070419">Václ. Polouprutský</a> č. <a id="90-861398">90,</a> <a id="josef-janoušek-ed5240">Josef Janoušek</a> č. <a id="9-45c48c">9,</a> <a id="ladislav-jandura-3dd025">Ladislav Jandura</a> č. <a id="96-26657d">96</a> a odvedeni byli všichni. Samostatnými hospodáři z nich byli: Vodseďálek a Janoušek. Otci dětí z nich bylo 5: Vodseďálek, Janoušek, Matura, Černohlávek a Dachs a učitel Hušek se jím stal zrovna v den odvodu.
+
 Dne 18. srpna začala <a id="pavla-svárovská-1a5dbb">Pavla Svárovská</a> č. <a id="23-37693c">23</a> první ve vsi žnout oves. Ten den odešli odsud skauti jichž tu bylo 50 od 1. srpna z Čakovic u Prahy kteří tu byli jako na žňové povinnosti kteří ale moc
-nepomohli protože zrovna ten čas byl velmi ošklivo a zima a potom ani mnoho neuměli a jen to
-
-
-cuchali a nejvíce s nimi nespokojen školník jemuž spotřebovali cibuli a škola kde byli ubytování po nich zůstala moc ušpiněna.
+nepomohli protože zrovna ten čas byl velmi ošklivo a zima a potom ani mnoho neuměli a jen to cuchali a nejvíce s nimi nespokojen školník jemuž spotřebovali cibuli a škola kde byli ubytování po nich zůstala moc ušpiněna.
 Ježto se připravovalo na září zahájení činnosti Lidového soudu na Jilemnicku, byl zas 20. srpna
 <a id="karel-čermák-e55a29">Karel Čermák</a> a <a id="bohuslav-chlum-8a2bc1">Bohusl Chlum</a> ve Vysokém u soudu u výslechu a 24. zas.
 Dne 22. srpna se většinou dobralo žito mokré a porostlé ale ještě dosti ho po tom dni zůstalo na poli a jetel měli na poli ještě: <a id="stanislav-kobr-ea2465">Stanislav Kobr,</a> <a id="františek-soukup-2e6a7b">Frant. Soukup</a> a <a id="františek-zeman-4b3842">Frant. Zeman</a> a douklidil ho jen Soukup, kdežto ti dva ho zaruchaly.
@@ -7222,6 +7243,7 @@ Dne 1. října nastoupili nováčci: Ladisl Jandura k dělostřelectvu v Liberci
 
 
 Dne 1. října zaveden zas tak zv. zimní čas t j starý čas o 1 hodinu zpátky.
+
 Dne 4. října se odtud odstěhoval do Varnsdorfu <a id="miloslav-holubec-490c3c">Miloslav Holubec</a> z č. <a id="45-6c8349">45</a> zeť Josefy Oličové (osob v 6).
 Dne 7. října se odstěhoval do Šenvaldu u Frýdlantu <a id="václav-pičman-4d0ecc">Václ. Pičman</a> a jeho domek č. <a id="92-92cc22">92</a> převzal
 <a id="vladimír-petrušek-e2ed46">Vladimír Petruška</a> který mezitím byl už zas z Nového Světa v Jesenném.
@@ -7232,9 +7254,7 @@ Ku konci měsíce října velká nouze o sůl. Chléb byl buď málo nebo vůbec
 Tyto dny mnoho hluku s vydáváním nových československých a dáváním na vázané vklady protektorátních a starých československých peněz. Každý by si byl za staré chtěl co nejvíce něčeho nakoupit a zároveň je zas od druhého nechtěl brát. Mnozí si nakoupili poštovních známek a ty
 potom byly prohlášeny za neplatné a jiní zas kupovali za ně v pohraničí po němcích které naši odsunuli do Německa, nábytek. Z nás toho nejvíce koupil <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a> na Novém Světě za
 5000 K ale ještě na tom chtěl šetřit mysle že to bude jen za 2 000 K.
-Maloskalská mlékárna dosud majetek němce se stala družstevní a lákala členy přijímáním podílů po 100 K ve starých penězích. Od nás sehnala 7 000 K. Nejvíce si jich vzal <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> č. <a id="57-72b32a">57</a> za
-
-2000 K.
+Maloskalská mlékárna dosud majetek němce se stala družstevní a lákala členy přijímáním podílů po 100 K ve starých penězích. Od nás sehnala 7 000 K. Nejvíce si jich vzal <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> č. <a id="57-72b32a">57</a> za 2000 K.
 
 Brambory ten rok nebyli slavné a i se trochu kazili a dokopali se hlavně kolem 18. října. Zelí bylo obstojné a prodávalo se za 4 K; jablka měli ve vsi jen dva: <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a>
 ale ještě se hodně kazila jsouce potlučená od krup a prodávala se 1 kg za 10 až 12 K.
@@ -7265,6 +7285,7 @@ silnic koňmi pluhem nebylo nic platné, auta a autobusi uvázli v návějích a
 Dne 11. prosince vrátil se z <a id="vězení-9eb76f">vězení</a> a udavač a v pomahač Gestapa <a id="jindřich-matura-619517">Jindřich Matura</a> a 19. prosince zrovna takový výtečník <a id="karel-doubek-de5559">Karel Doubek</a> jenž se zrovna odhlásil do Poniklé.
 Před vánočními svátky dostal vyznamenání a pochvalné uznání od prezidenta republiky za činnost v národním odboji r. <a id="1943-c3395d">1943</a> v Griebo u Goswigu (u Wittenbergu) v Německu 31. srpna zemřelý 29 letý <a id="františek-hrádecký-2a7053">Frant. Hrádecký</a> č. <a id="94-f4b9ec">94.</a>
 Dne 23. prosince se zas odváděly součástky odstředivek a másnic do školy kde se ukládaly na domě. Přijímali je: předseda Nár. výb. Vodseďálek a <a id="bohuslav-večerník-862028">Bohuslav Večerník</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník.</a>
+
 27\. prosince večer u Kvardů schůze občanů na níž zmocněnec Koperativy z Prahy inž. <a id="metoděj-metelka-28bc8c">Metoděj
 Metelka</a> ze Třiče (jeho matka z č. <a id="77-28dd2c">77)</a> založil elektrárenské družstvo pro zdejší ves jehož předsedou zvolen <a id="vít-martinec-ec1395">Vít Martinec,</a> místopředsedou <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93,</a> pokladníkem <a id="bohuslav-večerník-862028">Bohuslav Večerník</a> a členy
 výboru: předseda Vodseďálek, <a id="bohuslav-novák-3f87fc">Bohuslav Novák</a> a <a id="stanislav-kobr-ea2465">Stanislav Kobr.</a> Podili byli 100 K z korce výměry zemědělské půdy, 3 podíli ze stavení a kdo neměl pozemek tak ještě z každé místnosti jeden podíl
@@ -7305,10 +7326,8 @@ Dne 10. března v neděli odpoledne byla na sále u Kvardů za 7. březen Masary
 Dne 15. května zemřela 86 let stará <a id="marie-vodseďálková-6e188c">Marie Vodseďálková</a> výminkářka na usedlosti č. <a id="9-45c48c">9</a> u Hajnů rozená Janouchová z Jestřabí a hlavní příčina zkažené té dosti velké usedlosti neb ona ji chtěla dát
 dceři a otec zas synovi a tak jim to prodal na polovic a syn tam ani nebydlel a syn po dceři to zas chtěl prodat protože se mu ve spolku nelíbilo.
 V tom týdnu dostal <a id="františek-chlum-66e864">Fr. Chlum</a> pochvalu za přes 100% splněnou dodávku a poukaz na střevíce.
-Dne 22. března koupil <a id="antonín-vacátko-34c060">Ant. Vacátko</a> sklářfaktor č. <a id="18-6f4922">18</a> od <a id="ladislav-kobr-4cb07e">Ladislava Kobra</a> vlastně od jeho ženy za 45 000 K dům č. <a id="18-6f4922">18</a> v němž se jeho žena <a id="vlasta-petrušková-bbeba7">Vlasta Petruškova</a> narodila a prodávající <a id="božena-kobrová-0f6cb8">Božena
+Dne 22. března koupil <a id="antonín-vacátko-34c060">Ant. Vacátko</a> sklářfaktor č. <a id="18-6f4922">18</a> od <a id="ladislav-kobr-4cb07e">Ladislava Kobra</a> vlastně od jeho ženy za 45 000 K dům č. <a id="18-6f4922">18</a> v němž se jeho žena <a id="vlasta-petrušková-bbeba7">Vlasta Petruškova</a> narodila a prodávající <a id="božena-kobrová-0f6cb8">Božena Kobrová</a> zas koupila za 75 000 K od <a id="antonín-jodas-ca0f30">Ant. Jodasa</a> dům jeho přiblblé svěřenky <a id="marie-jánová-fc5775">Marie Jánové</a> č. <a id="98-ed3d2c">98</a> pro obchod.
 
-
-Kobrová</a> zas koupila za 75 000 K od <a id="antonín-jodas-ca0f30">Ant. Jodasa</a> dům jeho přiblblé svěřenky <a id="marie-jánová-fc5775">Marie Jánové</a> č. <a id="98-ed3d2c">98</a> pro obchod.
 Dne 23. března usadil se v domku č. <a id="64-ea5d2f">64</a> nový nájemník <a id="jan-červinka-32fdac">Jan Červinka</a> z Vysokého jenž měl ženu
 Marii dceru <a id="antonín-syrovátka-dfe75d">Ant. Syrovátky</a> č. <a id="3-eccbc8">3</a> rozvedenou Krykorkovou a č. <a id="95-812b4b">95</a> obydleno zas 27. března od němců pro něž to najala vysocká továrna a zároveň Jandovu pazdernu č. <a id="96-26657d">96.</a>
 Dne 27. března odpoledne u Kvardů schůze všech zemědělců na níž se dostavili z Jilemnice okresní předseda <a id="josef-zeman-3d7dae">Josef Zeman</a> a úředník Kynčil za účelem zvýšení dodávky obilí a přidalo se:
@@ -7344,9 +7363,9 @@ Kobr</a> a majitel zaujal byt po Věncesl. Vodseďálkovi.
 Dne 5. května na den prvního výročí loňského <a id="povstání-4b65c0">povstání</a> byla odpoledne na oslavu u Kvardů dětská besídka. Ten den na večer padaly kroupy, hodně žita, které právě metalo, polámalo a 9. ráno hodný přimrazek.
 Dne 6. května zaveden zas tak zv. letní čas.
 
-Dne 8. května u odvodu ročník <a id="1924-b139e1">1924</a> <a id="stanislav-kvarda-38ca5e">Stanislav Kvarda</a> č. <a id="73-d2ddea">73</a> a <a id="václav-albrecht-0f08c2">Václav Albrecht</a> č. <a id="40-d64592">40</a> a odvedeni
+Dne 8. května u odvodu ročník <a id="1924-b139e1">1924</a> <a id="stanislav-kvarda-38ca5e">Stanislav Kvarda</a> č. <a id="73-d2ddea">73</a> a <a id="václav-albrecht-0f08c2">Václav Albrecht</a> č. <a id="40-d64592">40</a> a odvedeni oba. 
 
-oba. Ten den šel <a id="melichar-honák-8f3468">Melichar Honák</a> bydlivší u dcery <a id="růžena-vlková-cfa10f">Růženy Vlkové</a> v Jablonci této pro mléko a v koleně u kováře Marka naň vyjel na motociklu jedoucí <a id="valter-tichý-26b700">Valter Tichý</a> zeť <a id="vilém-polouprutský-877f7e">Viléma Polouprutského</a> č. <a id="28-33e75f">28,</a> člen N.V. v Rokytnici, jenž jel po nesprávné straně a dopadlo to tak že je oba odvezli do vysocké
+Ten den šel <a id="melichar-honák-8f3468">Melichar Honák</a> bydlivší u dcery <a id="růžena-vlková-cfa10f">Růženy Vlkové</a> v Jablonci této pro mléko a v koleně u kováře Marka naň vyjel na motociklu jedoucí <a id="valter-tichý-26b700">Valter Tichý</a> zeť <a id="vilém-polouprutský-877f7e">Viléma Polouprutského</a> č. <a id="28-33e75f">28,</a> člen N.V. v Rokytnici, jenž jel po nesprávné straně a dopadlo to tak že je oba odvezli do vysocké
 nemocnice kdež Honák večer ani nepřijda k vědomí ve stáří 75 let zemřel.
 Dne 10. května si nechal <a id="karel-koldovský-1a1a51">Karel Koldovský</a> na poli na závrší přes noc trhadla a někdo mu u nich rozbil vozíček.
 
@@ -7357,7 +7376,11 @@ Kolem toho dne se už vláčeli brambory a Stan Kvarda, Stan Kobr a <a id="josef
 Dne 22. května odsud vezla sběračka vajec <a id="anna-zajícová-2e8389">Anna Zajícová</a> ze Sýkařic v nákladním autu 1 <a id="800-7a5392">800</a> vajec a ve Křibě se setkali s autem Boh Čivrného z Vysokého a povozem <a id="stanislav-knížek-e7fbfa">Stanisl Knížka</a> odtamtud, jemuž se splašil kůň a ti nechtice vjeli do koně, vjeli do příkopu čímž se auto naváhlo a vejce se
 z beden vysipala až tekl bílek na zem a co zůstalo vevnitř sbírali do hrnců ve vsi vypůjčených.
 V sobotu dopoledne dne 25. května dělali v obecní kanceláři soupis osetých ploch předseda Vodseďálek a <a id="bohuslav-večerník-862028">Bohusl Večerník.</a> Neoseté zde byly chalupy č. <a id="12-c20ad4">12</a> a <a id="56-9f6140">56</a> a pole č. <a id="50-c0c7c7">50</a> v roli Vojákově.
-Dne 26. května ve škole volby do Národ shromáždění. Výsledek:
+
+Dne 26. května ve škole volby do Národ shromáždění. 
+
+Výsledek:
+
 Kandidátka č. <a id="1-c4ca42">1</a> Komunisté hlasů 115
 
 Kandidátka č. <a id="2-c81e72">2</a> Lidovci hlasů 15
@@ -7384,6 +7407,7 @@ V sobotu před Svatodušními svátky 8. června měl svatbu <a id="josef-soukup
 Svatodušní neděli odpoledne Svaz mládeže sehrál za režie <a id="vít-martinec-ec1395">Víta Martince</a> u Vláškovi stodoly
 (č 85) divadlo v přírodě „Viktorčino štěstí“ s koncertem vysocké hudby. Přijel sem i autor toho kusu H. G. Lomenský z Prahy Karlina a herce pochválil a i sám tu něco zazpíval. Návštěva veliká
 a večer u Kvardů tancovačka při níž domlouval <a id="františek-čermák-1668f0">Frant. Čermák</a> Vítu Martincovi, že se v něm zklamal, že nemyslel že je Martinec bolševik.
+
 Dne 13. června zemřela <a id="anežka-nosálová-70f7fc">Anežka Nosálová</a> roz. Vodseďálková z č. <a id="10-d3d944">10</a> vdova po pekaři z Vysokého slavná prostřednice spiritistů stará 78 let.
 Dne 16. června nalezen na plotě Kramářovy vily <a id="oběsit-97847e">oběšený</a> <a id="františek-žanta-8689ca">Frant. Žanta</a> bytník ve Vysokém chudobynci 73 let starý mládenec, rodák stanovský a před lety staroveský příslušník, zedník a za <a id="válka-bfccd5">války</a> zbožňoval Hitlera a udavač. Zjištěno, že tam visel už 48 hod.
 Ten den ve Vysokém slavnost k úctění památky 15. červ. 1944 k <a id="smrt-a332b5">smrti</a> odsouzených a ostatních obětí <a id="válka-bfccd5">války</a> z vysocka při níž popelnice s pozůstatky těchto uloženy ve sboru církve československé.
@@ -7404,9 +7428,13 @@ Komunisti:
 <a id="stanislav-marek-9cb377">Stanislav Marek</a> č. <a id="6-167909">6</a>
 
 <a id="vladislav-polouprutský-f7665f">Vladislav Polouprutský</a> č. <a id="90-861398">90</a>
+
 <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> č. <a id="75-d09bf4">75</a>
+
 <a id="josef-šmíd-ec9534">Josef Šmíd</a> č. <a id="46-d9d4f4">46</a>
+
 <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> č. <a id="20-98f137">20</a>
+
 <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> č. <a id="19-1f0e3d">19</a>
 
 
@@ -7414,10 +7442,10 @@ Lidovci:
 
 <a id="bohumil-slavík-3192da">Bohum. Slavík</a> č. <a id="85-3ef815">85</a>
 
-
 Narod. soc.
 
 <a id="antonín-skrbek-0351fb">Antonín Skrbek</a> č. <a id="52-9a1158">52</a>
+
 <a id="františek-čermák-1668f0">Frant. Čermák</a> č. <a id="93-98dce8">93</a>
 
 <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> č. <a id="57-72b32a">57</a>
@@ -7446,12 +7474,14 @@ Slovačkami zaměstnanými ve vysocké továrně a pole k tomu domku patřící 
 Dne 28. července strašné povětří jenž všecky žitné panáky rozházelo a druhý den v pondělí s deštěm podruhé a přeháňky chodili až do 1. srpna kdy se většina žita dožala.
 Ten čas se dostal do lidských řečí <a id="jaroslav-nesvadba-c040be">Jarosl Nesvadba</a> 42 letý jenž se zamiloval do 21 leté němky bytem nejdřív v č. <a id="95-812b4b">95,</a> potom v č. <a id="12-c20ad4">12</a> a nakonec ve Vysokém v hospodě u dědků a jenž s tím hodně
 ženu a 13 letou dceru potrápil a i nějaký inventář přitom rozbil a jakož je sem sám přivezl tak je při odsunu němců zas sám odvezl.
+
 Dne 1. srpna žal už <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> oves ale <a id="karel-čermák-e55a29">Karel Čermák</a> a <a id="karel-koldovský-1a1a51">Karel Koldovský</a> měli ještě na poli jetel a odvezli ho 8. srpna kdy už bylo mnoho žita odvezeno ale <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek</a> ze Skály jenž
 byl ten rok nějaký stonavý, ještě nežal ač bylo přezrálé. Denní dodávka mléka ze vsi ten čas byla
 125 – 130 l denně; nedávno ještě 150 l.
 Dne 10. srpna bylo první cvičení zdejších hasičů s motorovou stříkačkou. Ten den četnický výslech bývalé Osvětové služby v bytě bývalého starosty Nováka, totiž učitele <a id="karel-hušek-371b00">Karla Huška,</a> předsedy
 <a id="vít-martinec-ec1395">Víta Martince</a> a člena <a id="jaroslav-večerník-b04539">Jarosl. Večerníka</a> jak propagovali nacismus?
 Zjištěno že to byla služba jen pro jméno a že nedělali vlastně nic.
+
 Dne 11. srpna zdechla ve mlýně kráva po těžkém porodu přesto že u ní byl z Jilemnice zvěrolékař.
 15\. srpna dožal <a id="josef-vodseďálek-970bd1">Jos. Vodseďálek</a> poslední ve vsi žito a odvezl ho 23. srpna.
 Dne 19. srpna č. <a id="87-c7e124">87</a> na dráze na čas obydleno od majitele Adolfa Nováka a jeho bratra <a id="ladislav-václavík-3cf69e">Ladislava
@@ -7466,7 +7496,9 @@ Dne 1. října nastoupili vojenskou službu: <a id="václav-albrecht-0f08c2">Vá
 Dne 10. října dopoledne jel <a id="josef-slavík-76a4f4">Josef Slavík</a> a jeho hospodyně <a id="marie-neťuková-cae3ce">Marie Neťuková</a> vezouce s volem na voze mouku na chleba k Ladislavu Kobrovi pro roprachtického mlynáře Nováka a u č. <a id="98-ed3d2c">98</a> se mu vůl
 splašil Vodseďálka od zvonice huňatého psa a chytil ho <a id="bohuslav-kvarda-0d56c2">Bohusl Kvarda</a> v Kostnici když už vůz měl klanice ulámány a ramena zlámána, předjev ho na kole.
 Kolem 12. října se většinou vykopali brambory.
+
 Dne 20. října v neděli se rozdílely v úřadovně obce u Kvardů hadry od Unry přičemž přes napomínání a hrozby vedoucích, ženské se o to skoro popraly a 15 kabátu se ztratilo jež nikdo neohlásil že si je vzal.
+
 Dne 22. a 23. října v Kvardově výčepně kancelář pro přijímání přihlášek majetku které přijímali tři úředníci berního úřadu a nápomocni při tom byli: předseda Vodseďálek, tajemník Skrbek a absolventi hospodářské školy: Janoušek a <a id="josef-soukup-006cf6">Jos. Soukup</a> ml. Největších majetníků bylo sedmnáct
 s poplatky: 3 po 10 000, 1 do 10 000, 5 od 1 do 5000 a 8 do 1000 a všeho majetku bylo přihlášeno za
 5, 200 000 Kčs. Nejvíce peněz měli: <a id="františek-zeman-4b3842">Frant. Zeman,</a> <a id="karel-čermák-e55a29">Karel Čermák,</a> <a id="františek-zákoutský-96653f">Frant. Zákoutský</a> a <a id="antonín-vitvar-7b08af">Ant. Vitvar.</a>
@@ -7483,11 +7515,8 @@ Dne 15. listopadu v Jilemnici soud nad Františkou Doubkovou, která odsouzena n
 <a id="trest-cff246">trestu</a> byli vinni svědci: <a id="božena-přibylová-7f9e22">Božena Přibylová</a> a <a id="lidmila-večerník-6523be">Lidmila Večerníková</a> které vypovídaly že pi Doubková je hodná, s nikým se nehádala, jim pomohla od pracovního nasazení a že by byla ve spojení s gestapem o tom ony a ostatní svědci neměli žádnou vědomost, rovněž tak vypovídal <a id="františek-zákoutský-96653f">Frant. Zákoutský</a>
 jemuž pomohla od práce na zákopech, <a id="marie-jandová-dd9b55">Marie Jandová,</a> jíž zachránila čeledína Janduru od zákopu a korunu tomu nasadil <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> jenž tam nabíral na pláč „že se chtěl utopit když měl
 kluk nuzák jít na zákopy a pí Doubková ho zachránila, když starosta Novák mu hrozil, že mu proň a pro Janduru přijde gestapo“. <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> ani obeslán nebyl a aby Věncesl Vodseďálek a <a id="marie-marková-af5037">Marie
-Marková</a> k svědectví připuštěni nebyli, že prý vypovídají ze sousedské zášti o to se staral Doubkové
+Marková</a> k svědectví připuštěni nebyli, že prý vypovídají ze sousedské zášti o to se staral Doubkové obhájce katolík lidovec což ale soud zamítl ale když německé udání sem ze Semil dodané jenž na Jos.Novotného z Kopřoví poslala, popřela, tomu soud uvěřil a i tomu, že ona nechtěla, aby staroveští odevzdali zbraně na komando do Vysokého ale do Staré Vsi ke starostovi a že když je zatykali, ukrad la jí za 22 000 K šperků ač na jiném místě mluví že měla od <a id="vilém-večerník-9f2296">Viléma Večerníka</a> vypůjčených 500 K.
 
-
-obhájce katolík lidovec což ale soud zamítl ale když německé udání sem ze Semil dodané jenž na <a id="josef-novotný-3ac49b">Jos.
-Novotného</a> z Kopřoví poslala, popřela, tomu soud uvěřil a i tomu, že ona nechtěla, aby staroveští odevzdali zbraně na komando do Vysokého ale do Staré Vsi ke starostovi a že když je zatykali, ukrad la jí za 22 000 K šperků ač na jiném místě mluví že měla od <a id="vilém-večerník-9f2296">Viléma Večerníka</a> vypůjčených 500 K.
 Dne 16. listopadu zůstalo č. <a id="55-b53b3a">55</a> na Prutě prázdné ježto <a id="bohdan-pavlata-bfbc9e">Bohdan Pavlata</a> se odstěhoval do Rokytnice.
 Ten čas spatřen zde na Křibě jezevec jenž se v noci dostal u Jandů a u <a id="jaroslav-večerník-b04539">Jaroslava Večerníka</a> na kuřata a Strnádek hostinský z Ráje v Roprachticích zastřelil za č. <a id="78-35f4a8">78</a> lišku ale dopadl ji až v Tomičkově smrčí.
 
@@ -7543,11 +7572,8 @@ a 7. června začalo deštivé počasí a nebýt toho byla by to <a id="katastro
 
 31\. května ve škole soupis osetých ploch a hospodáři hlásili více osazeného brambory ježto tyto byly volné.
 Nejvíce obroka ten rok měl <a id="františek-knížek-934029">Frant. Knížek</a> jenž klidil ze dvou usedlostí z č. <a id="33-182be0">33</a> a <a id="80-f033ab">80</a> ale ostatní měli všeho málo, tak: <a id="stanislav-kvarda-38ca5e">Stanislav Kvarda</a> koupil všechen jetel na č. <a id="44-f71771">44.</a> <a id="václav-žitný-f09ee9">Václav Žitný</a> na č. <a id="87-c7e124">87,</a> <a id="jaroslav-pekař-129381">Jaroslav Pekař</a>
-(bratr <a id="anna-buzková-7399af">Anny Buzkové)</a> z Roztok mnoho na Housově a co nedobral, koupili 4 hospodáři z Komárova,
+(bratr <a id="anna-buzková-7399af">Anny Buzkové)</a> z Roztok mnoho na Housově a co nedobral, koupili 4 hospodáři z Komárova,a co nedobral Žitný na č. <a id="87-c7e124">87,</a> to dobral <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek,</a> mlynářka od <a id="oldřich-ducháček-8cc292">Oldřicha Ducháčka,</a> <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> od bratra <a id="františek-polouprutský-e22834">Frant. Polouprutského,</a> <a id="jan-šulc-fc9b24">Jan Šulc</a> od <a id="františek-liška-568223">Frant. Lišky,</a> <a id="františek-kobr-88f09f">Frant. Kobr</a> na dvou najatých drahách <a id="ladislav-kobr-4cb07e">Ladislava Kobra,</a> <a id="jindřich-matura-619517">Jindř. Matura</a> na chalupě č. <a id="56-9f6140">56</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> od Ja rosl.Heváka a dosušilo se většinou 27. června seno a jetele se hned začali a 24. června již kvetly lípy které jindy kvetly až po 6. červenci.
 
-
-a co nedobral Žitný na č. <a id="87-c7e124">87,</a> to dobral <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek,</a> mlynářka od <a id="oldřich-ducháček-8cc292">Oldřicha Ducháčka,</a> <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> od bratra <a id="františek-polouprutský-e22834">Frant. Polouprutského,</a> <a id="jan-šulc-fc9b24">Jan Šulc</a> od <a id="františek-liška-568223">Frant. Lišky,</a> <a id="františek-kobr-88f09f">Frant. Kobr</a> na dvou najatých drahách <a id="ladislav-kobr-4cb07e">Ladislava Kobra,</a> <a id="jindřich-matura-619517">Jindř. Matura</a> na chalupě č. <a id="56-9f6140">56</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> od Ja rosl.
-Heváka a dosušilo se většinou 27. června seno a jetele se hned začali a 24. června již kvetly lípy které jindy kvetly až po 6. červenci.
 Dne 28. července se urátil <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský</a> z nemocnice a ten týden tam musel jeho 15 letý syn Josef jenž se namohl u sečení a dcera <a id="milada-soukupová-a56fc4">Milada Soukupová</a> s porodem a následující týden 24 letý
 syn Bedřich na operaci slepého střeva a dcera <a id="marie-svárovská-a5feed">Marie Svárovská</a> s porodem.
 Dne 29. června o jesenské pouti jel 38 letý <a id="karel-liška-b16d02">Karel Liška</a> náš rodák z č. <a id="66-3295c7">66</a> t. č. zahradník v Jesenném na motorce s jedním občanem z Jesenného pro cosi k zahradníkovi do Rokytnice a mezi Jabloncem
@@ -7628,9 +7654,8 @@ Ten rok zde zemřeli 2 osoby a narodilo se jich 7.
 
 
 V neděli dne 4. ledna na jméno Ježíš strašlivé povětří které trvalo ještě následující den kdy schodilo komíny: na staré kovárně u č. <a id="30-34173c">30</a> <a id="julie-blažková-035a23">Julie Blažkové</a> a u baráku po <a id="karel-doubek-de5559">Karlu Doubkovi.</a>
-10\. ledna vykonala 12 letá Stanislava dcera <a id="stanislav-marek-9cb377">Stanislava Marka</a> č. <a id="6-167909">6</a> sbírku na rodiny fašismem pronásledovaných Španělů a Řeků. Sebralo se 325 Kčs. Nejvíce dal předseda Martinec 100 Kčs a nic nedal a ještě do sběracího archu napsal <a id="jan-šulc-fc9b24">Jan Šulc</a> s odůvodněním, že na chudé nedá nic, že mohou
+10\. ledna vykonala 12 letá Stanislava dcera <a id="stanislav-marek-9cb377">Stanislava Marka</a> č. <a id="6-167909">6</a> sbírku na rodiny fašismem pronásledovaných Španělů a Řeků. Sebralo se 325 Kčs. Nejvíce dal předseda Martinec 100 Kčs a nic nedal a ještě do sběracího archu napsal <a id="jan-šulc-fc9b24">Jan Šulc</a> s odůvodněním, že na chudé nedá nic, že mohou pracovat.
 
-pracovat.
 13\. ledna strašné povětří s ohromnou <a id="povodeň-971f88">povodní</a> při níž sníh téměř stál, pod školou na podzim postavenou nádrž protrhlo, za číslem 31 na jaře pracovní povinnosti občanů přestavěný mostek
 strhlo a břehy u potoků taky strhalo.
 27\. ledna kontumace psů protože se staly případy jako v Jablonci n. Jiz. a ve Studenci vztekliny lišek.
@@ -7649,9 +7674,8 @@ jen nechají!
 Nejvíce dali po 50 Kčs: předseda Martinec, <a id="ladislav-kobr-4cb07e">Ladislav Kobr,</a> <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> a <a id="miloslav-vodseďálek-3a0430">Miloslav Vodseďálek.</a>
 7\. února dodávala se z naší obce sláma 25 q mělo být dodáno 27 q ale nedodal 1 q <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> z předpisu 2 q a <a id="josef-slavík-76a4f4">Josef Slavík</a> 1 q z předpisu 1 q. O týden dříve se mělo dodat seno ale dodal jen <a id="františek-knížek-934029">Frant.
 Knížek</a> 3 q. Obilí tento rok měli nejvíce dodaného <a id="josef-soukup-006cf6">Josef Soukup</a> a <a id="františek-zeman-4b3842">Frant. Zeman.</a>
-11\. února odvedl na rozkaz <a id="františek-čermák-1668f0">Frant. Čermák</a> svého reversního koně do kasáren v Hradci Králové
+11\. února odvedl na rozkaz <a id="františek-čermák-1668f0">Frant. Čermák</a> svého reversního koně do kasáren v Hradci Králové a přivedl si vyřazeného koně vojenského a koupil si hříbě a <a id="božena-rösslerová-d3a96a">Božena Rösslerová</a> č. <a id="63-03afdb">63</a> si koupila zas nějakého koníka a vozila se s ním s dětmi na sáňkách po silnici.
 
-a přivedl si vyřazeného koně vojenského a koupil si hříbě a <a id="božena-rösslerová-d3a96a">Božena Rösslerová</a> č. <a id="63-03afdb">63</a> si koupila zas nějakého koníka a vozila se s ním s dětmi na sáňkách po silnici.
 16\. února vyurátilo strašné povětří u č. <a id="89-764796">89</a> u Krumšů cedr.
 19\. t. m. se přistěhoval <a id="jindřich-matura-619517">Jindřich Matura</a> z pohraničí, kde byl jeho statek, přidělen Volyňskému
 Čechu, do Staré Vsi ke starým, poněvadž nemohl 10% kupní ceny jak na něm bylo žádáno, zaplatit.
@@ -7686,17 +7710,15 @@ Dne 9. březn. večer v č. <a id="14-aab323">14</a> schůze honebního výboru 
 K večeru 10. března 40 ti letá Amálie žena <a id="františek-čermák-1668f0">Frant. Čermáka</a> hledajíc na patře vejce, které tam slepice zanášely, stoupla na konec nepřibitého prkna které jsouc tím prknem v prázdnu se vzadu zvedlo a sletělo i s ní na mlat z čehož úderem hlavy o mlat okamžitá smrt.
 Tyto dny na holo mrzlo a 16. t. m. napadlo mnoho sněhu jenž zůstal až do 21. března.
 16\. března zemřel v Praze na Smíchově 71 letý náš rodák z č. <a id="10-d3d944">10</a> inž. <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> ministerský řada v ministerstvu zahraničí ve výslužbě.
-17\. března dopoledne byl u výslechu u soudu jako oběť žalovaný pro týrání r. <a id="1945-2d00f4">1945</a> zatčených
+17\. března dopoledne byl u výslechu u soudu jako oběť žalovaný pro týrání r. <a id="1945-2d00f4">1945</a> zatčených „udavačů a zrádců“, <a id="jaroslav-večerník-b04539">Jaroslav Večerník.</a> 
 
-
-„udavačů a zrádců“, <a id="jaroslav-večerník-b04539">Jaroslav Večerník.</a> Také byl obeslán Věncesl. Vodseďálek z č. <a id="10-d3d944">10,</a> ale ten se nedo stavil. Odpoledne toho dne chodili po vsi členové vyživovací komise: <a id="josef-janoušek-ed5240">Josef Janoušek</a> a <a id="antonín-vacátko-34c060">Ant.
-Vacátko</a> a <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> přehlížejíce zásoby bramborů za účelem odebrání jich od sadby tak, aby na 1 ha ponecháno bylo 18 q bramborů a ostatní odevzdány pro výživu
+Také byl obeslán Věncesl. Vodseďálek z č. <a id="10-d3d944">10,</a> ale ten se nedo stavil. Odpoledne toho dne chodili po vsi členové vyživovací komise: <a id="josef-janoušek-ed5240">Josef Janoušek</a> a Ant.Vacátko a <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> přehlížejíce zásoby bramborů za účelem odebrání jich od sadby tak, aby na 1 ha ponecháno bylo 18 q bramborů a ostatní odevzdány pro výživu
 města, sehnali toho asi 50 q.
-21\. břez. na Květnou neděli odpoledne u předsedy MNV se odbývala schůze místní rolnické komise v níž projednány 3 případy ustanovení národních správců než přijde k udělení vlastnictví na usedlosti č. <a id="35-1c383c">35</a> u Marku <a id="františek-seidfied-da35cf">Fr. Seidfieda</a> v Praze <a id="josef-polouprutský-403545">Jos. Polouprutského,</a> na usedlosti č. <a id="34-e36985">34</a> u Vitošů (spáleniště) dědiců Housových, <a id="stanislav-kvarda-38ca5e">Stanisl. Kvardu</a> na usedlosti č. <a id="33-182be0">33</a> u Nováků <a id="josef-palasa-de2497">Jos. Palasa</a> v Brně, <a id="františek-knížek-934029">Frant.
-Knížka</a> č. <a id="80-f033ab">80,</a> na usedlosti č. <a id="27-02e74f">27</a> a <a id="74-ad61ab">74</a> dědiců Housových“ <a id="václav-žitný-f09ee9">Václ. Žitný</a> nájemce a na č. <a id="82-9778d5">82</a> <a id="jaroslav-hevák-256fac">Jarosl. Heváka</a> ve starobinci v Rokytnici jsoucího <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálka</a> č. <a id="75-d09bf4">75</a> a na chalupě č. <a id="50-c0c7c7">50</a> uvězněné <a id="františka-nováková-e4cc6b">Frant.
+21\. břez. na Květnou neděli odpoledne u předsedy MNV se odbývala schůze místní rolnické komise v níž projednány 3 případy ustanovení národních správců než přijde k udělení vlastnictví na usedlosti č. <a id="35-1c383c">35</a> u Marku <a id="františek-seidfied-da35cf">Fr. Seidfieda</a> v Praze <a id="josef-polouprutský-403545">Jos. Polouprutského,</a> na usedlosti č. <a id="34-e36985">34</a> u Vitošů (spáleniště) dědiců Housových, <a id="stanislav-kvarda-38ca5e">Stanisl. Kvardu</a> na usedlosti č. <a id="33-182be0">33</a> u Nováků <a id="josef-palasa-de2497">Jos. Palasa</a> v Brně, Frant.Knížka č. <a id="80-f033ab">80,</a> na usedlosti č. <a id="27-02e74f">27</a> a <a id="74-ad61ab">74</a> dědiců Housových“ <a id="václav-žitný-f09ee9">Václ. Žitný</a> nájemce a na č. <a id="82-9778d5">82</a> <a id="jaroslav-hevák-256fac">Jarosl. Heváka</a> ve starobinci v Rokytnici jsoucího <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálka</a> č. <a id="75-d09bf4">75</a> a na chalupě č. <a id="50-c0c7c7">50</a> uvězněné <a id="františka-nováková-e4cc6b">Frant.
 Novákové</a> u jejího syna <a id="jaroslav-novák-0c031a">Jaroslava Nováka</a> č. <a id="57-72b32a">57.</a>
 22\. března zemřel v Rokytnici náš občan 75 letý <a id="jaroslav-hevák-256fac">Jarosl. Hevák</a> poslední potomek rodu který sem přišel ku konci XVII. století z Havírny na dnešní č. <a id="20-98f137">20.</a> Byl svobodný a jako zahradník pracoval
 několik let v Americe odkudž si přinesl obdiv pro vše americké ať to bylo dobré nebo né a hanu na vše naše ať to bylo špatné nebo né.
+
 29\. března velikonoční pondělí <a id="václav-žitný-f09ee9">Václ. Žitný</a> poprvé vláčel. Ten den odpoledne na okrese v Jilemnici první schůze akčních výborů již se od nás sůčastnili: předseda <a id="stanislav-marek-9cb377">St Marek,</a> místopředseda
 <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> a předseda N. V. <a id="vít-martinec-ec1395">Vít Martinec.</a>
 30\. března ruchal poprvé <a id="josef-soukup-006cf6">Jos. Soukup</a> ml. pole od chalupy č. <a id="56-9f6140">56</a> které koupil od <a id="vladimír-kolodovský-be36a6">Vladimíra Kolodovského</a> vrchního berního tajemníka v Praze jenž ho koupil minulý rok pro vysázení lesem.
@@ -7793,9 +7815,8 @@ Ty dny od 21. do 1. října se většinou vykopaly brambory a sice 21. září c
 22\. září ráno zjistili u <a id="bedřich-polouprutský-9f9671">Bedř Polouprutského</a> č. <a id="19-1f0e3d">19</a> že jim někdo vyřezal v zahrádce u stodoly kapustu, 23. 9. <a id="jaroslav-večerníček-f523f9">Jarosl Večerníčkovi</a> někdo odšrouboval na poli za vrchy přes noc od ruchadla radlici i s odháňkami, 24. 9. zas Polouprutskému na poli nad domem od ruchadla jednu patku, druhá
 nešla an se v ní točil šroubek, 25.9. <a id="františek-kobr-88f09f">Frant. Kobrovi</a> č. <a id="26-4e732c">26</a> z pole u Trhovice se ztratila kůpa otavy,
 26\. 9. <a id="františek-knížek-934029">Frant. Knížkovi</a> č. <a id="80-f033ab">80</a> někdo ukradl nad domem 5 pytlů bramborů přikrytých natí, 27. 9. někdo vytrhal <a id="anna-buzková-7399af">Anně Bouzkové</a> přes 1/2 kopy tuřínu a o nějaký den dříve někdo vyřezal <a id="karel-koldovský-1a1a51">Karlu Koldovskému</a> pytel makovic a měla na jeho poli sázené brambory a nějakou zeleninu <a id="kristina-zemanová-826ef8">Kristina Zemanová</a> hostinská z Vysokého a tu zeleninu někdo vyřezal všecku.
-26\. září v neděli sem přišla <a id="bohuslav-novák-3f87fc">Bohusl Nováková</a> vulgo <a id="slávka-klepačová-844d28">Slávka Klepačová</a> se dvěma amanty očesat u č. <a id="50-c0c7c7">50</a> ovoce které už měl očesané <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> a chtěla zaň a za marnou cestu odškodné a chtěla
+26\. září v neděli sem přišla <a id="bohuslav-novák-3f87fc">Bohusl Nováková</a> vulgo <a id="slávka-klepačová-844d28">Slávka Klepačová</a> se dvěma amanty očesat u č. <a id="50-c0c7c7">50</a> ovoce které už měl očesané <a id="bohuslav-novák-3f87fc">Bohusl Novák</a> a chtěla zaň a za marnou cestu odškodné a chtěla se ujmout vlastnictví č. <a id="50-c0c7c7">50</a> na základě zápisu mezi ní a její matkou který psal sice notář za okupace ale do knih vtěleno to nebylo.
 
-se ujmout vlastnictví č. <a id="50-c0c7c7">50</a> na základě zápisu mezi ní a její matkou který psal sice notář za okupace ale do knih vtěleno to nebylo.
 1\. října se vrátili z vojny: voj. Stan Kvarda, četař aspirant <a id="václav-albrecht-0f08c2">Václav Albrecht</a> a svobodník <a id="ladislav-soukup-a33c77">Ladislav
 Soukup.</a> Poslední propuštěn po 1. roce služby do náhradní zálohy na žádost 63 letého otce jemuž starší syn Frant. před 14 dny zemřel.
 V tom týdnu přišla zpráva že <a id="josef-zeman-3d7dae">Jos. Zeman</a> od Pece ze Stanového v únoru zatčený a při nastoupení
@@ -7871,10 +7892,8 @@ V pondělí před svátky dodávali voli: <a id="karel-koldovský-1a1a51">Karel 
 Vodseďálek</a> kteří z naší obce povolání při nové úpravě soudnictví za soudce z lidu a za porotu určení: <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník.</a> Ten den připadlo trochu sněhu ale meze a drny
 z něho koukaly.
 30\. pros večer u Kvardů schůze zástupců všech složek veřejného života v obci jsoucích za účelem popularisace pětiletky.
-Začátkem roku měla naše obec 232 obyvatel, koncem (roku) 227, narodilo se 1 dítě (narodilo se jich více ale to byly případy, že ženy od jinud přišli sem k porodu a zas s dětmi odešli) a zemřelo
+Začátkem roku měla naše obec 232 obyvatel, koncem (roku) 227, narodilo se 1 dítě (narodilo se jich více ale to byly případy, že ženy od jinud přišli sem k porodu a zas s dětmi odešli) a zemřelo 6 osob. Ve škole se učilo 15 dětí. Zemědělců 49. Z těch: od 2 do 5 ha = 13, od 5 do 13 = 36 a dělníci hospodařící zároveň v malém 0 až 2 ha = 15
 
-
-6 osob. Ve škole se učilo 15 dětí. Zemědělců 49. Z těch: od 2 do 5 ha = 13, od 5 do 13 = 36 a dělníci hospodařící zároveň v malém 0 až 2 ha = 15
 Živnostníkům na počátku roku 9, koncem roku 7.
 V domáckém průmyslu (navlek koral) se zaměstnává celkem trvale 46 osob. Přechodně, hlavně po ukončení polních prací a v zimě 90. Důchodců z různých titulů je celkem 11 osob.
 Obydlených domu 72 z celkového počtu stojících 87 jest 15 prázdných a z celkového počtu popis čísel 99 schází 12 ale v obydlených jsou tři dvojčísla na jednom domě dvě čísla: 53, 5 a 54, 59 a 77,
@@ -7890,8 +7909,7 @@ Ve Staré Vsi dne 3. ledna <a id="1949-36ac8e">1949</a>
 <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a>
 
 
-K jaru v tomto roce přistoupil k sektě adventistů <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> č. <a id="81-43ec51">81</a> s rodinou. Přemluvila je jakási učitelka jsoucí na letním bytě u jeho bratrance <a id="františek-jancák-8e0fdb">Frant. Jancáka</a> u Staropánů v Roztokách tak že občan jenž nikdy předtím neděli nesvětil, teď v sobotu na práci nesáhl a vždy jednu sobotu on
-a druhou jeho žena šli na pobožnost svých souvěrců v Železném Brodě.
+K jaru v tomto roce přistoupil k sektě adventistů <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> č. <a id="81-43ec51">81</a> s rodinou. Přemluvila je jakási učitelka jsoucí na letním bytě u jeho bratrance <a id="františek-jancák-8e0fdb">Frant. Jancáka</a> u Staropánů v Roztokách tak že občan jenž nikdy předtím neděli nesvětil, teď v sobotu na práci nesáhl a vždy jednu sobotu on a druhou jeho žena šli na pobožnost svých souvěrců v Železném Brodě.
 ### **1949**
 
 
@@ -7934,13 +7952,10 @@ a museli ji donášeti od č. <a id="92-92cc22">92</a> a <a id="3-eccbc8">3.</a>
 Vysokém byli přerušením dopravy bez mléka a u nás zase zůstávalo, odvážel ho <a id="josef-vinklář-507057">Josef Vinklář</a> do
 Vysokého a také koraly došly a nebylo co navlékat.
 Ten čas zůstalo neobydleno č. <a id="68-a3f390">68</a> z něhož se majitelka <a id="růžena-nováková-43625f">Růžena Nováková</a> znovu provdaná Pekařová odstěhovala i s matkou Anežkou Soukupovou ke svému manželu do Jesenného.
-Poslední týden února zrušen Svaz brannosti protože se místy stal nebezpečným státu. U nás byl velitelem des. v zál. <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> do února 1948 a potom des. v zál. <a id="stanislav-marek-9cb377">Stanislav Marek</a> ale
-
-
-ježto velitelem měl být člen vojenskou hodnosti nejvyšší, připadla ta funkce čet. aspir. v zál. <a id="václav-albrecht-0f08c2">Václ.
-Albrechtovi</a> který nebyl jiného smýšlení než <a id="stanislav-kobr-ea2465">Stanislav Kobr.</a>
+Poslední týden února zrušen Svaz brannosti protože se místy stal nebezpečným státu. U nás byl velitelem des. v zál. <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> do února 1948 a potom des. v zál. <a id="stanislav-marek-9cb377">Stanislav Marek</a> ale ježto velitelem měl být člen vojenskou hodnosti nejvyšší, připadla ta funkce čet. aspir. v zál. Václ.Albrechtovi který nebyl jiného smýšlení než <a id="stanislav-kobr-ea2465">Stanislav Kobr.</a>
 Dne 7. března pracovní povinnost házení sněhu na silnici od č. <a id="9-45c48c">9</a> k č. <a id="9-45c48c">9</a> a dále k jatkám odkudž házeli vysočtí a potom se to protáhlo a autobus poprvé projel a 13. večer se zase rozpršelo a pršelo
 celý druhý den a potom celý týden bylo tak jako v prvním týdnu t. m.
+
 11\. března zvolen v č. <a id="73-d2ddea">73</a> předsedou místní organizace KSČ <a id="františek-liška-568223">Frant. Liška</a> namísto <a id="antonín-vacátko-34c060">Ant. Vacátka</a> a 13. břez tam schůze občanů za příčinou žádosti obce Křížlic, aby naše obec jim postoupila své
 místo v pořadí elektrisaci což zamítnuto.
 15\. břez se přistěhoval domů do č. <a id="1-c4ca42">1</a> <a id="vladimír-koldovský-cb6750">Vladimír Koldovský</a> vrchní berní tajemník z Prahy Karlína,
@@ -8006,6 +8021,7 @@ Konec června byl hodně deštivý ale od 26. každý den začal hezky a při po
 Dne 1. července prováděli: Věncesl Vodseďálek, <a id="josef-janoušek-ed5240">Josef Janoušek</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> soupis dobytka přičemž zjištěny nehlášené kusy: u <a id="karel-čermák-e55a29">Karla Čermáka</a> a <a id="anna-bouzková-18484e">Anny Bouzkové,</a> mlynářka Albrechtová před nimi zamkla kachny do boudy ale tyto se tam ozívaly a <a id="anna-bouzková-18484e">Anna Bouzková</a> se potom smála že jí
 komise v druhém chlévě nebyla. Ten den odpoledne vozili z vysockého družstva uhlí a <a id="jiří-čermák-ae7767">Jiří Čermák</a> jenž vezl toto od vrchu s traktorem nemoha v dešti na blátě zastavit, uhnul traktor ostře na stranu
 takže vůz za ním přišel tak do rejdu že na jeho předku sedícímu Bouzkové zeti Vlastimilu Albrechtovi přišla noha mezi vůz a traktor a tuto mu rozmátlo a že to neměli u traktoru v pořádku s pojištěním, nedali ho do nemocnice ale léčil mu to napravovač zlámanin Buchar z Mřičné.
+
 2\. července odpoledne přebýval <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek</a> č. <a id="42-a1d0c6">42</a> nově zvolený předseda MNV v místnosti tohoto ve škole od resignovavšího předsedy <a id="vít-martinec-ec1395">Víta Martince</a> č. <a id="46-d9d4f4">46</a> vedení obce za přítomnosti
 <a id="františek-liška-568223">Frant. Lišky</a> a <a id="jaroslav-večerník-b04539">Jarosl Večerníka.</a>
 4\. července byl první den kdy to celý den vydrželo ale dále bylo zas tak že nebylo dne, aby v něm nepopršelo.
@@ -8130,6 +8146,7 @@ Martinec.</a> Potom následující den od Krčoví níže <a id="josef-janoušek
 Už 19. odpoledne započato s vozbou materiálu na transformátor a že cesta pod č. <a id="65-fc490c">65</a> byla pro nákladní auto úzká, přikopána do potřebné šířky prácí asi 12 sousedů ale práce ta stála se marnou
 večerním lijákem, který spravenou cestu proměnil v kaši, již nemohl přijet obyčejný vůz natož nákladní auto nebo traktor a nebylo dne bez bouřky s lijákem a 21. a 26. dub <a id="kroupa-7d3aeb">kroupy</a> v 8 hod. ráno.
 Následkem tohoto počasí museli se cihly u pomníku přivezené voziti s traktorem po silnici k jatkám a odtud Trhovici a cestou č. <a id="19-1f0e3d">19</a> na stavební místo. Při nakládání a skládání výborně pomáhali děti hlavně z č. <a id="19-1f0e3d">19,</a> <a id="98-ed3d2c">98,</a> <a id="63-03afdb">63,</a> <a id="65-fc490c">65</a> a <a id="10-d3d944">10.</a>
+
 22\. dubna se manželu majitelky pozemku na němž měl být transformátor <a id="stanislav-housa-13ffe2">Stanisl Housovi</a> nelíbilo proč tento není někde u silnice a že louku pohnojil a že mu tam složili cihly.
 Mezitím 19. dubna odpoledne uhrabalo 7 zdejších děvčat všecky louky opuštěné usedlosti Elišky
 Novákové č. <a id="44-f71771">44.</a>
@@ -8179,10 +8196,8 @@ Nesvadbová.</a>
 24\. června traktor na který dal <a id="karel-čermák-e55a29">Karel Čermák</a> 100 000 Kčs a který se nemohl žádnou činností za uplinulý rok vykázati přebralo JZD v Rokytnici beze všeho zaplacení.
 26\. června přivezeny do Jablonce sloupy na naši elektriku a skládali je z vagonů: <a id="josef-soukup-006cf6">Josef Soukup</a> st.,
 <a id="bohuslav-večerník-862028">Bohusl Večerník,</a> <a id="antonín-štěpánek-f387a6">Ant. Štěpánek,</a> <a id="štěpán-hyrš-d66c87">Štěpán Hyrš</a> č. <a id="87-c7e124">87</a> a <a id="stanislav-kvarda-38ca5e">Stanislav Kvarda</a> přičemž si Soukup neodepřel ukázat své poddůstojnické schopnosti a odváženo to potom s traktorem k nám a skládáno u č. <a id="66-3295c7">66</a>
-a <a id="73-d2ddea">73</a> u čehož byli mimo traktoristů: <a id="jaroslav-večerník-b04539">Jaroslav Večerník,</a> <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek,</a> <a id="františek-zákoutský-96653f">Fr. Zákoutský;</a> <a id="josef-janoušek-ed5240">Jos.
+a <a id="73-d2ddea">73</a> u čehož byli mimo traktoristů: <a id="jaroslav-večerník-b04539">Jaroslav Večerník,</a> <a id="vladislav-vodseďálek-a8e17e">Vladislav Vodseďálek,</a> <a id="františek-zákoutský-96653f">Fr. Zákoutský;</a> <a id="josef-janoušek-ed5240">Jos. Janoušek,</a> <a id="františek-liška-568223">Fr. Liška,</a> <a id="vladislav-polouprutský-f7665f">Vladisl Polouprutský</a> a s koňmi: <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> a <a id="františek-čermák-1668f0">Fr. Čermák</a> a posledních osm dne 28. června <a id="stanislav-kvarda-38ca5e">St Kvarda</a> a s nimi <a id="josef-šmíd-ec9534">Josef Šmíd</a> a <a id="jaroslav-večerník-b04539">Jar Večerník.</a> Kvarda mimo toho přivozil skoro všecku vodu zedníkům při transformátoru.
 
-
-Janoušek,</a> <a id="františek-liška-568223">Fr. Liška,</a> <a id="vladislav-polouprutský-f7665f">Vladisl Polouprutský</a> a s koňmi: <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> a <a id="františek-čermák-1668f0">Fr. Čermák</a> a posledních osm dne 28. června <a id="stanislav-kvarda-38ca5e">St Kvarda</a> a s nimi <a id="josef-šmíd-ec9534">Josef Šmíd</a> a <a id="jaroslav-večerník-b04539">Jar Večerník.</a> Kvarda mimo toho přivozil skoro všecku vodu zedníkům při transformátoru.
 Poslední týden června začal <a id="jindřich-matura-619517">Jindřich Matura</a> st bourat domek č. <a id="69-14bfa6">69</a> u Hotovičků <a id="antonie-šaldová-e02bc8">Antonie Šaldové</a> odstěhovavší se do pohraničí.
 Dne 4. července v noci před bouřkou při neobyčejném dusnu viděli zde mnozí tak zv <a id="oheň-92b25a">oheň</a> sv
 Eliáše t. j. <a id="oheň-92b25a">ohnivé</a> koule a sloupy.
@@ -8331,10 +8346,8 @@ nesla tentokrát mládež. Na traktoru byli jako simbol spojenectví zemědělst
 
 2\. května pršelo zas a dál celý týden že nebylo možné oves na suchu uvláčet a 11. v noci krásné povětří s deštěm a hrozná zima a sníh se potenšoval.
 10\. května dopoledne kolaudace transformátoru ode dvou z Jablonce nad Nisou, dva z těch od
-ONV z Jilemnici, <a id="josef-janoušek-ed5240">Jos. Janoušek</a> za MNV a <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> co nejbližší soused a zároveň ohledání stodoly <a id="stanislav-kvarda-38ca5e">St. Kvardy</a> jemuž povolili ji přestavět když nebude požadovat stavební dělníky ani materiál
+ONV z Jilemnici, <a id="josef-janoušek-ed5240">Jos. Janoušek</a> za MNV a <a id="jaroslav-večerník-b04539">Jarosl. Večerník</a> co nejbližší soused a zároveň ohledání stodoly <a id="stanislav-kvarda-38ca5e">St. Kvardy</a> jemuž povolili ji přestavět když nebude požadovat stavební dělníky ani materiál ani peníze se nebude dlužit. Celé svatodušní svátky 13. a 14. květ. lidé sázeli brambory a vozili a rozhazovali hnůj.
 
-
-ani peníze se nebude dlužit. Celé svatodušní svátky 13. a 14. květ. lidé sázeli brambory a vozili a rozhazovali hnůj.
 25\. května se sázeli družstevní brambory na polích č. <a id="33-182be0">33</a> a č. <a id="87-c7e124">87</a> a sice s koňmi: <a id="bedřich-polouprutský-9f9671">Bedř. Polouprutský,</a> <a id="jiří-čermák-ae7767">Jiří Čermák,</a> <a id="stanislav-kvarda-38ca5e">St. Kvarda.</a> <a id="josef-šmíd-ec9534">Jos. Šmíd</a> a <a id="bohuslav-novák-3f87fc">Bohusl. Novák</a> a as 20 sazečů. Hnůj měli od různých domkařů za brambory, také dokonce od dvou z Vysokého.
 Ten čas velká svízel s přesaděním dobytkem skrze krmení i místo, poněvadž telata jalovičky se museli odstavovat a býčky nebrali také.
 1\. června zdvihání vazby na nové přístavbě u domů <a id="josef-soukup-006cf6">Jos. Soukupa</a> skrze kterouž stavbu měl četnické vyšetřování, že stavbou překročil povolení. Materiál na stavbu měl z bouračky na Černé studni.
@@ -8358,10 +8371,8 @@ to zkroutilo že řekl, že jednal podle zásady komunistů což <a id="stanisla
 Ten čas mnoho hluku s elektrikářem Veselým nápadníkem <a id="anna-martincová-48bd7a">Anny Martincové</a> jenž pro podvody a krádeže elektrického materiálů uvězněn. Jmenovaný o sobě tvrdil že je z velkého statku a má bratra důstojníka v exilu na západě což nebyla pravda a jeho rodiče žili v chudobynci jedné obce u Pardubic a na dceru z prvního rozvedeného manželství špatně platil.
 15\. června schůze skrze sušení sena které začalo při 10. červnu a stále pršelo, že žita před květem zválelo. Ustanoveny skupiny na seč a sušení které nikdy v činnost nevešly a jichž vedoucími ustanoveni: předseda Vodseďálek, <a id="jaroslav-večerník-b04539">Jar. Večerník,</a> <a id="bohuslav-večerník-862028">Boh. Večerník,</a> <a id="josef-šmíd-ec9534">Jos. Šmíd</a> a <a id="josef-soukup-006cf6">Jos. Soukup.</a>
 16\. červ. se vdávala Jarmila dcera po <a id="václav-polouprutský-070419">Václ. Polouprutském</a> č. <a id="90-861398">90.</a>
-V noci ze 17. červ. 18. k ránu při lijáku s bouřkou měla naše ves první případ že nešel elektrický proud což dáno během ranních hodin do pořádku. Té noci též nějaká <a id="kroupa-7d3aeb">kroupa</a> spadla a <a id="antonín-kobr-fac949">Ant. Kobrovi</a>
+V noci ze 17. červ. 18. k ránu při lijáku s bouřkou měla naše ves první případ že nešel elektrický proud což dáno během ranních hodin do pořádku. Té noci též nějaká <a id="kroupa-7d3aeb">kroupa</a> spadla a <a id="antonín-kobr-fac949">Ant. Kobrovi</a> ulomilo vrch u lípy pod domem. Vrch padl na dráty které vytáhly sloup u č. <a id="53-d82c8d">53.</a> Žita jenž tu dobu kvetla, dopovalilo.
 
-
-ulomilo vrch u lípy pod domem. Vrch padl na dráty které vytáhly sloup u č. <a id="53-d82c8d">53.</a> Žita jenž tu dobu kvetla, dopovalilo.
 Od 24. června celý týden pršelo, neusušilo se mělo být do poledne do posledního posečeno jinak že obrok propadne celku ale nemožno brambory proruchat.
 27\. června ráno u mléka měl předseda Vodseďálek výstup s <a id="josef-slavík-76a4f4">Josefem Slavíkem</a> jenž řekl že do stanovené lhůty seno posečené mít nebude a s <a id="bohuslav-večerník-862028">Boh. Večerníkem</a> jenž odepřel vésti skupinu a seci
 někomu jinému než sobě řka…..On by mě na louku nechtěl a sám by mě taky nepomohl a Slavík řekl Vodseďálkovi, když ten strašil složením funkce; že se o ni vůbec nemusel škrábat.
@@ -8370,6 +8381,7 @@ někomu jinému než sobě řka…..On by mě na louku nechtěl a sám by mě ta
 9\. července vedl <a id="františek-vodseďálek-3dfb48">Fr. Vodseďálek</a> na dodávku jalovou jalovici s níž mu pomahal <a id="stanislav-kvarda-38ca5e">St. Kvarda</a> a pod č. <a id="20-98f137">20</a> na silnici potkali ml. <a id="stanislav-kvarda-38ca5e">St. Kvardu</a> na motorce ale nejedoucího a jalovice se jím splašila a dala se
 před č. <a id="62-44f683">62</a> náspem dolu na cestu takže ji neudrželi; z cesty do potoka kde si zlámala nohu odkudž pomocí sousedů naložena na vůz <a id="bohuslav-novák-3f87fc">Boh. Nováka</a> a traktorem vytažena na silnici za č. <a id="21-3c59dc">21</a> kam pro ní
 přijeli s nákladním autem.
+
 13\. července dostal <a id="karel-čermák-e55a29">Karel Čermák</a> četnický zákaz používati Jandova koně anžto prý <a id="marie-jandová-dd9b55">Marii Jandové</a> málo práce oplácí. Bylať po 9 měsíců bez mužské síly an <a id="josef-janda-e4c793">Jos. Janda</a> a jeho čeledín <a id="ladislav-jandura-3dd025">Ladisl. Jandura</a> odpikávali ve <a id="vězení-9eb76f">vězení</a> Jandurovo hospodaření v pohraničí.
 14\. července se vdávala 31 letá Milena dcera po <a id="františek-albrecht-240899">Frant. Albrechtovi</a> mlynáři č. <a id="40-d64592">40</a> za Vitvara ze
 Sklenařic.
@@ -8525,14 +8537,12 @@ má uložené ale neukázal je. 19. un. hustě sněžilo, 20. začalo pršet a b
 <a id="zabití-67f9ca">zabití</a> krávu po dvou telatech již v listopadu inseminátor ohledával je li březí (a uznal že je a ona nebyla) a po tom ohledání u ní nastal částečný výhřez dělohy a hubla. Dne 1. března při vydávání
 potravinových lístku k těm co minulý měsíc cukroví nedostali přibyl <a id="josef-šmíd-ec9534">Jos. Šmíd.</a> Toho dne upadla
 <a id="vlasta-vacátková-ca79b2">Vlasta Vacátková</a> v síni při nesení vody a zlámala si ruku. Ten čas již byli na bahnech bledule a 4. břez. přiletěli špačci. Toho dne večer měl výstup <a id="františek-liška-568223">Fr. Liška</a> s předsedou obce a S. Markem když
-předseda řekl že by se mělo zařídit, aby: <a id="josef-soukup-006cf6">Jos. Soukup</a> a <a id="vít-martinec-ec1395">Vít Martinec</a> přišli do koncentračního tábora. Od začátku března trochu mrzlo že udělalo pouršek, 9. mrzlo mírněji ale prudký vítr když 8. byl největší dosud té zimi mráz. 7. března večer schůze na oslavu mezinárod. dne žen (8./III.) na níž
+předseda řekl že by se mělo zařídit, aby: <a id="josef-soukup-006cf6">Jos. Soukup</a> a <a id="vít-martinec-ec1395">Vít Martinec</a> přišli do koncentračního tábora. Od začátku března trochu mrzlo že udělalo pouršek, 9. mrzlo mírněji ale prudký vítr když 8. byl největší dosud té zimi mráz. 7. března večer schůze na oslavu mezinárod. dne žen (8./III.) na níž zvání všichni kdož si přeji, aby mír byl zachován. 
 
+Účast malá a nedostavil se také nikdo z rodiny předsedy obce ani on sám né. V té schůzi chválil <a id="stanislav-marek-9cb377">St. Marek</a> soudružku <a id="marie-červinková-899c7e">Marii Červinkovou</a> že jako závazek k tomuto dni šla dobrovolně do továrny v čemž ho srazila <a id="božena-lišková-9c38b2">Božena Lišková</a> že ježto se má lidu říkat pravda, nemá říkat že dobrovolně. Toho dne se slavívaly narozeniny našeho prvního presidenta Masaryka. 14. břez. odpoledne z vysocké nemocnice měl pohřeb 59 letý plukovník v. v. <a id="jindřich-ulman-59a9b5">Jindř. Ulman</a> syn hostinského <a id="jan-ulman-b978c6">Jana Ulmana</a> ze dvorku ve Vysokém a jeho ženy Anny dcery Jos.Pátka ze Staré Vsi č. <a id="45-6c8349">45.</a> Zesnulý se smutně proslavil v historii naší obce v době německé okupace.
+Tento týden poslala sběrna vajec v Rovensku sem zpět 4 vejce že jsou zkažená a ona zkažená nebyla. 
 
-zvání všichni kdož si přeji, aby mír byl zachován. Účast malá a nedostavil se také nikdo z rodiny předsedy obce ani on sám né. V té schůzi chválil <a id="stanislav-marek-9cb377">St. Marek</a> soudružku <a id="marie-červinková-899c7e">Marii Červinkovou</a> že jako
-závazek k tomuto dni šla dobrovolně do továrny v čemž ho srazila <a id="božena-lišková-9c38b2">Božena Lišková</a> že ježto se má lidu říkat pravda, nemá říkat že dobrovolně. Toho dne se slavívaly narozeniny našeho prvního presidenta Masaryka. 14. břez. odpoledne z vysocké nemocnice měl pohřeb 59 letý plukovník v. v.
-<a id="jindřich-ulman-59a9b5">Jindř. Ulman</a> syn hostinského <a id="jan-ulman-b978c6">Jana Ulmana</a> ze dvorku ve Vysokém a jeho ženy Anny dcery <a id="josef-pátek-88aa34">Jos.
-Pátka</a> ze Staré Vsi č. <a id="45-6c8349">45.</a> Zesnulý se smutně proslavil v historii naší obce v době německé okupace.
-Tento týden poslala sběrna vajec v Rovensku sem zpět 4 vejce že jsou zkažená a ona zkažená nebyla. Kolem 20. března pořád mrzlo a ozimi, jenž vytáli byly velmi špatné a na těch, které byly pěkné, zas plíseň.
+Kolem 20. března pořád mrzlo a ozimi, jenž vytáli byly velmi špatné a na těch, které byly pěkné, zas plíseň.
 Dne 22. břez. odpoledne začal po pěkných dnech padat sníh a přes noc foukanice a v neděli dne
 23\. břez. povětří jaké tu zimu ještě nebylo.
 21\. břez. dopoledne obesláni na M.N.V. ti co nesplnili loňskou dodávku a to byli v něčem všichni u čehož zde byly 4 úředníci a <a id="josef-janoušek-ed5240">Jos. Janoušek.</a> Jednalo se o to komu podle plnění dají šatenku, kdo
@@ -8545,9 +8555,7 @@ Stálé mrazy a ozimy jenž vytály byly buď velmi špatné samy sebou a nebo c
 ml. sbíral od členů legitimace, aby je odvedl.
 Toho roku od nás odveden k vojsku 22. břez. <a id="josef-polouprutský-403545">Jos. Polouprutský</a> č. <a id="19-1f0e3d">19</a> a.
 Sbírka na <a id="boj-1de92c">bojující</a> Koreu odbyta v neděli dopoledne dne 23. břez. třemi dvojicemi: <a id="marie-kobrová-69144e">Marie Kobrová</a> a <a id="anna-martincová-48bd7a">Anna Martincová,</a> Dana Vodseďálková a <a id="draha-večerníková-b27616">Draha Večerníková,</a> <a id="františka-nováková-e4cc6b">Frant. Nováková</a> a <a id="anna-čermáková-d2ebbf">Anna Čermáková</a> (Čermáková chodila za Jindřišku Nesvadbovou která jíti odepřela) a sebralo se 1 725 Kčs.
-Nejvíce dali po 100 Kčs: <a id="josef-soukup-006cf6">Jos. Soukup</a> a <a id="ladislav-kobr-4cb07e">Ladisl. Kobr</a> kdežto: <a id="vladimír-koldovský-cb6750">Vladimír Koldovský</a> a <a id="vladimír-šalda-1e5776">Vladimír Šalda</a> nedali nic a leckde nechtěli dát nic a měli hubu, hlavně: <a id="stanislav-housa-13ffe2">St. Housa,</a> <a id="františek-rezler-fde739">Fr. Rezler</a> a <a id="jindřich-matura-619517">Jindř. Matura</a> st. ale
-
-dali ženské.
+Nejvíce dali po 100 Kčs: <a id="josef-soukup-006cf6">Jos. Soukup</a> a <a id="ladislav-kobr-4cb07e">Ladisl. Kobr</a> kdežto: <a id="vladimír-koldovský-cb6750">Vladimír Koldovský</a> a <a id="vladimír-šalda-1e5776">Vladimír Šalda</a> nedali nic a leckde nechtěli dát nic a měli hubu, hlavně: <a id="stanislav-housa-13ffe2">St. Housa,</a> <a id="františek-rezler-fde739">Fr. Rezler</a> a <a id="jindřich-matura-619517">Jindř. Matura</a> st. ale dali ženské.
 
 Dne 30. břez. v neděli dopoledne proveden soupis dobytka jehož shledáno 190 kusů z čehož 84 krav a 15 telat: <a id="vlastimil-albrecht-816658">Vlast. Albrechtem</a> a <a id="josef-polouprutský-403545">Jos. Polouprutským</a> č. <a id="19-1f0e3d">19.</a> Odpoledne t.d. na M.N.V. přípravná
 schůze JZD k valné hromadě kde <a id="ladislav-soukup-a33c77">Ladisl. Soukup</a> přišel s tím že k traktoru minulý rok odvedenému se nepřidávalo ale přes to že prý se podílníkům jeho dělalo zadarmo, vydělal na sebe 20 000 Kčs.
@@ -8777,11 +8785,8 @@ zdejšího národně socialistické organizace a že štval proti dnešnímu re�
 Zemanem</a> ze Stanového, což vše naň vysypali: bývalý předseda MNV Vodseďálek a předseda KSČ ve Staré Vsi Janoušek. Novák se bránil, že faktořili i jiní i zde na schůzi přítomní a on sám že navlékačům nejlépe platil; čeledína že měl proto že se zaměstnával faktorstvím a ten čeledín že byl jako
 člen rodiny a že to byl skoro hospodář a předsedou národní organizace že nebyl nýbrž důvěrníkem a předsedou že byl otec bývalého předsedy MNV což musí tento sám dosvědčiti, kterýž na to odpověděl, že má dnes o svém otci jiné mínění než míval dříve; co se týče čeledína, zastal se ho <a id="josef-slavík-76a4f4">Josef
 Slavík</a> „že to bylo v době kdy to bylo dovoleno a já jsem ho měl sám na což byl napaden tajemníkem
-Markem“ Novák mu dal aspoň najíst ale ty né čemuž se napadaný bránil „to neříkám že se u mě měl
+Markem“ Novák mu dal aspoň najíst ale ty né čemuž se napadaný bránil „to neříkám že se u mě měl jako u Nováka ale hlad neměl a co jsem jedl já jedl i on“. Co se týče příslušnosti k některé politické straně zastal se ho <a id="františek-čermák-1668f0">Fr. Čermák</a> „že přeci jsou některé strany u nás povoleny a to bych já např. musel být potrestán také protože jsem byl členem agrární strany což tenkrát u zemědělců doba nesla sama sebou“ a <a id="jaroslav-večerník-b04539">Jar. Večerník</a> se tázal jak by dali dohromady JZD v takových vesnicích kde jsou samí sedláci kolem 15 ha, kteří by to byli bez čeledína nezastali a tak ta věc zatím pousnula.
 
-
-jako u Nováka ale hlad neměl a co jsem jedl já jedl i on“. Co se týče příslušnosti k některé politické straně zastal se ho <a id="františek-čermák-1668f0">Fr. Čermák</a> „že přeci jsou některé strany u nás povoleny a to bych já např. musel
-být potrestán také protože jsem byl členem agrární strany což tenkrát u zemědělců doba nesla sama sebou“ a <a id="jaroslav-večerník-b04539">Jar. Večerník</a> se tázal jak by dali dohromady JZD v takových vesnicích kde jsou samí sedláci kolem 15 ha, kteří by to byli bez čeledína nezastali a tak ta věc zatím pousnula.
 21\. prosince se celý den sypal sníh a na Štědrý den byla poleva až jel sníh se střech a že byl přimrzlý a zledovatělý trhal krytinu a žlábky a celé svátky a konec roku byl mlhavý jen na Štěpána odpoledne slunečno.
 Poslední den roku přivezen zpět náš traktor beze všeho příslušenství jako závaží apod. a uložen ve stodole č. <a id="35-1c383c">35</a> <a id="bohuslav-večerník-862028">Boh. Večerníka.</a>
 
@@ -8805,12 +8810,11 @@ _Některé dny začátku roku taktéž v kapitole Různé viz s. 72._
 Dne 11. ledna prováděli: <a id="bedřich-polouprutský-9f9671">Bedřich Polouprutský</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> soupis hospodářského zařízení pro potřebu JZD na Hrubé Straně a mladí: <a id="josef-soukup-006cf6">Josef Soukup</a> a <a id="jindřich-matura-619517">Jindřich Matura</a> na Malé Straně a shledáno na Hrubé: lehkých vozu 43, těžkých 18, saní 14, líhní na kuřata 1, pluhů 36, dvouradliční 6,
 hran železných 26, dřevěných 27, secích strojů 11, na mák 2, žacích strojů 12, odkládacích 6, vaznic
 20, mlátiček 12 čističky 3, řezaček 21, výfukových 6, sýtkových mlýnku 17, elektromotorů 25, benzínovych 6, pračka na brambory 1, váh 27, rozporek 47, válce 3, pleček 21, rádýlek 28, šrotovníků
-6, pařáků 9, strojní dojení 1, potahové pohrabáče 3, ruční 23, krouhačky 24, chomoutů 12, volských
+6, pařáků 9, strojní dojení 1, potahové pohrabáče 3, ruční 23, krouhačky 24, chomoutů 12, volských 34, řemenů hnacích 40, lis na slámu 3, kopaček 10, kultivatoru 26 ale ve skutečnosti bylo všeho toho mnohem více a zrovna se vědělo že bývalý předseda Vodseďálek zapřel elektromotor. 
 
-
-34, řemenů hnacích 40, lis na slámu 3, kopaček 10, kultivatoru 26 ale ve skutečnosti bylo všeho toho mnohem více a zrovna se vědělo že bývalý předseda Vodseďálek zapřel elektromotor. Oni to byly
-věci pro soukromé hospodaření, nehodící se pro hospodaření ve velkém a JZD z toho k potřebě byly kopačky (vyorávač bramborů) a sem tam nějakou mlátičku.
+Oni to byly věci pro soukromé hospodaření, nehodící se pro hospodaření ve velkém a JZD z toho k potřebě byly kopačky (vyorávač bramborů) a sem tam nějakou mlátičku.
 Dne 23. února se rozjasnilo a s větrem tálo a následující den pršelo a 25. překrásně a teplo a tak se střídalo počasí ještě v prvním týdnu března.
+
 1\. března valná hromada JZD v místnosti MNV ve škole odpoledne do 8 hod. večer při níž většinou ponechání staří činovníci.
 3\. března oblačno, poprvé se zde objevili špačci.
 4\. března sem přišel nový zdejší tajemník <a id="františek-doubek-a3dfca">Frant. Doubek</a> z Roztok u Jilemnice bývalý ředitel aneb vedoucí vysocké továrny a náš dosavadní <a id="stanislav-marek-9cb377">Stanislav Marek</a> č. <a id="6-167909">6</a> dosazen na tajemníka do
@@ -8861,9 +8865,7 @@ Dne 9. ráno bílo a 10. rovněž a mráz a sněhové přeháňky a 12. května 
 V úterý 12. května kontrolní shromáždění záložníku ve vysocké radnici přičemž nová klasifikace v knížkách. Od nás to byli: <a id="josef-janoušek-ed5240">Jos. Janoušek,</a> <a id="jan-hartig-4a9759">Jan Hartig,</a> <a id="jaroslav-večerník-b04539">Jar. Večerník,</a> <a id="františek-zákoutský-96653f">Fr. Zákoutský,</a> <a id="josef-šmíd-ec9534">Jos. Šmíd,</a> <a id="vít-martinec-ec1395">Vít
 Martinec,</a> <a id="josef-soukup-006cf6">Jos. Soukup,</a> <a id="ladislav-soukup-a33c77">Lad. Soukup,</a> <a id="stanislav-kvarda-38ca5e">St. Kvarda,</a> <a id="stanislav-kvarda-38ca5e">St. Kvarda,</a> <a id="stanislav-kobr-ea2465">St. Kobr,</a> <a id="františek-večerník-8718d8">Fr. Večerník,</a> <a id="václav-žitný-f09ee9">Václ. Žitný,</a> <a id="vladislav-polouprutský-f7665f">Vl.
 Polouprutský,</a> <a id="václav-albrecht-0f08c2">Václ. Albrecht,</a> <a id="miloslav-polouprutský-2c1016">Mil. Polouprutský,</a> <a id="jindřich-matura-619517">Jindř. Matura,</a> <a id="ladislav-jandura-3dd025">Lad. Jandura,</a> <a id="františek-liška-568223">Fr. Liška,</a> <a id="růžena-nesvadbová-8e8180">Růžena
-Nesvadbová.</a> Byli to od nejmladších po rok narození 1900 a poslední byla ošetřovatelka ve vysocké
-
-nemocnici.
+Nesvadbová.</a> Byli to od nejmladších po rok narození 1900 a poslední byla ošetřovatelka ve vysocké nemocnici.
 
 
 13\. května ráno né bílo ale mnoho sněhu až stromy lámalo a na dráty uhýbalo a ani do večera nestál, 14. mráz 15. jen přimrazek a 17. mráz, jaký letos ještě nebyl a po něm bouřka s lijákem.
@@ -8892,10 +8894,8 @@ Soukup</a> a <a id="jaroslav-večerník-b04539">Jar. Večerník,</a> brali ješt
 Kvarda.</a>
 Večer potom schůze před ustájením v níž <a id="jan-šulc-fc9b24">Jan Šulc</a> byl pro zachování II. typu JZD ale nikdo se k němu nepřidal ač to bylo přání všech: oba Čermáci se ani nedostavili; <a id="stanislav-kvarda-38ca5e">St. Kvarda</a> a <a id="vilém-polouprutský-877f7e">Vil. Polouprutský</a> kteří nejvíce mluvili doma, první odešli a tak se nejvíce bránila <a id="anna-slavíková-bef22b">Anna Slavíková</a> č. <a id="85-3ef815">85</a> která
 zkritizovala <a id="josef-janoušek-ed5240">Jos. Janouška</a> „že ona také může nechat v chlévě pavučiny a neomitá okna a bude to jako u něho, chlév nepěkný a tudíž nezpůsobilý pro dobytek“.
-30\. června navečer ten svod dobytka jenž se ale ten den neskončil protože mnoho jich neuposlechlo převésti sami dobytek ze svého chleba kam teď určen, jiní zas ho neuzali od jinud a opět jiní nechtěli ho dát, jako <a id="františek-zeman-4b3842">Fr. Zeman,</a> jenž první vše toto podepsal, dělaje se hodným a když na věc přišlo
+30\. června navečer ten svod dobytka jenž se ale ten den neskončil protože mnoho jich neuposlechlo převésti sami dobytek ze svého chleba kam teď určen, jiní zas ho neuzali od jinud a opět jiní nechtěli ho dát, jako <a id="františek-zeman-4b3842">Fr. Zeman,</a> jenž první vše toto podepsal, dělaje se hodným a když na věc přišlo nadal zootechnikovi B. Polouprutskému sprosťáku, nechtěl dáti s kusem vazák „že prý ho neukradl“.
 
-
-nadal zootechnikovi B. Polouprutskému sprosťáku, nechtěl dáti s kusem vazák „že prý ho neukradl“.
 Peníze za mléko za červen také již dodavatelum nevyplaceny ale zadrželo je družstvo a 7. července večer vyplácel ve škole účetní <a id="ladislav-soukup-a33c77">Lad. Soukup</a> první zálohy za odpracované jednotky po 5 K, aby měli
 lidé na pouť, jenž byla 12. července.
 Ten čas bylo neobyčejné množství chroustů že to nikdo nepamatoval. Byli to zrovna tisice, že hluk od nich byl slyšet v zavřeném domě jako od né příliš vzdáleného letadla a jen nečas v druhé
@@ -8922,10 +8922,8 @@ týden za nějž asi 20 snopu vymlátili. Mlátilo se už totiž společně v ur
 10\. září zahájili na Malé Straně seti žita a bylo většinou do posviceni, jenž bylo 22. září, doseto, ale plán splnila jen Malá Strana a střední úsek Hrubé Strany kdežto v Dolenci nedosili ani pohnojené a v Hořenci nezasili ani zrno.
 Protože dodávka obilí dosud splněna nebyla, nedostala se mlecí povolení a proto se mouka a chléb kupoval, což lidé tím více nelibě snášeli že peněz při družstevním hospodářství neměli. Ten
 čas vzata byla <a id="vladislav-koldovský-e1c1e2">Vlad. Koldovskému</a> pense pro jeho nekladný poměr k vládnoucímu režimu.
-16\. září obesláni bratranci Večerníkové na ONV v příčině udržení J. Z. D. ve Staré Vsi když se všude kolem hroutí a žádáno na nich přičiniti se o jeho udržení za to, že dostali od nového prezidenta amnestii na loňské nedodávky a obzvlášť Bohuslav jsa členem KSČ a oni se bránili že tu
+16\. září obesláni bratranci Večerníkové na ONV v příčině udržení J. Z. D. ve Staré Vsi když se všude kolem hroutí a žádáno na nich přičiniti se o jeho udržení za to, že dostali od nového prezidenta amnestii na loňské nedodávky a obzvlášť Bohuslav jsa členem KSČ a oni se bránili že tu amnestii dostali všichni zemědělci a že při příkladu z okolních vesnic a při tom, co řekl prezident, jest to těžké, na což jim řekl úředník Jech „že jsou prezidentova slova mylně vykládána“.
 
-
-amnestii dostali všichni zemědělci a že při příkladu z okolních vesnic a při tom, co řekl prezident, jest to těžké, na což jim řekl úředník Jech „že jsou prezidentova slova mylně vykládána“.
 27\. září o našem posvícení bylo velmi krásně a teplo a po velkých parnech navečer
 4\. října bouřka až z ní byla správa v transformátoru a druhý den zima a dál deštivo a 10. první silnější mráz a brambory, jenž byly společně kopány, aby s nimi nebyla zbytečná práce, byly ponechány na kůpách na poli, byly nedostatečně přikryty.
 Dne 6. října v č. <a id="79-d1fe17">79</a> četnická prohlídka anžto <a id="bohuslav-chlum-8a2bc1">Boh. Chlum</a> v Harachově, kde byl zaměstnán co zedník, nějaké trubky jenž ke koupelně potřeboval, měl odcizit.
@@ -9196,8 +9194,6 @@ Před 100 lety <a id="1880-3214a6">1880</a> měla Stará Ves ještě 465 obyvate
 Č. <a id="14-aab323">14</a> – <a id="1880-3214a6">1880</a> = 5, <a id="1910-ab7314">1910</a> = 5, <a id="1982-fb8758">1982</a> = 2
 Č. <a id="15-9bf31c">15</a> – <a id="1880-3214a6">1880</a> = 5, <a id="1910-ab7314">1910</a> = 4, <a id="1980-f80bf0">1980</a> = 6
 Č. <a id="16-c74d97">16</a> – <a id="1880-3214a6">1880</a> = 7, <a id="1910-ab7314">1910</a> = 4, <a id="1980-f80bf0">1980</a> = 1
-
-
 Č. <a id="17-70efdf">17</a> – <a id="1880-3214a6">1880</a> = 5, <a id="1910-ab7314">1910</a> = 6, <a id="1980-f80bf0">1980</a> = 2
 Č. <a id="18-6f4922">18</a> – <a id="1880-3214a6">1880</a> = 3, <a id="1910-ab7314">1910</a> = 8, <a id="1980-f80bf0">1980</a> = obýváno přechodně.
 Č. <a id="19-1f0e3d">19</a> – <a id="1880-3214a6">1880</a> = 7, <a id="1910-ab7314">1910</a> = 9, <a id="1980-f80bf0">1980</a> = 4
@@ -9300,10 +9296,8 @@ Třešně byly ten rok tak tři na jednom stromě. 77 letý <a id="františek-š
 prý se k němu nezachovala, jak on si to představoval. A tak to odkázala rodině své sestry provdané za <a id="petr-krafek-142f54">Petra Krafka</a> ve Vysokém a když ti to teď chtěli prodat, sháněl Štěpánek podpisy sousedů na to,
 že ty opravy na domech platil sám maje na koupený materiál potvrzení: a koupil ho <a id="jindřich-chaloupek-e59c9e">Jindřich Chaloupek</a> z Mladé Boleslavi.
 Deštivo dál, potok velmi stoupl; 22. na <a id="maří-magdalena-992829">Maří Magdalenu</a> kteréhož jména tu bylo 12 osob byla hustá mlha; 24. v 10 hod. večer dvě bouřky s lijákem až elektrika dvakrát zhasla a 26. o sklenářské
-pouti na Annu kteréhož jmena tu byla stále bydlívší jedna osoba, ale ten čas náhodou tři, hustá
+pouti na Annu kteréhož jmena tu byla stále bydlívší jedna osoba, ale ten čas náhodou tři, hustá mlha až tma. Jestli některá jabloň ovoce měla, a těch mnoho nebylo, tak to bylo tak tři jablka na jednom stromě.
 
-
-mlha až tma. Jestli některá jabloň ovoce měla, a těch mnoho nebylo, tak to bylo tak tři jablka na jednom stromě.
 2\. srpna o vysocké pouti ráno husté přízemní podymí, den slušný ale celou noc se blýskalo a bouřilo a v 11 hod. 2 lijáky s hromobitím; při prvním padaly <a id="kroupa-7d3aeb">kroupy</a> jako velké ořechy, mládiče stromů otlučené, nať u bramborů přitlučená a otlučená, zelenina prosekaná a listy od ní osekané a u obilí
 výsevek vytlučen a také nějaká okna přitom za své vzala a místy pod okapem ještě ráno shrnuté <a id="kroupa-7d3aeb">kroupy</a> byly.
 9\. žár, mračilo se a pátou hodinu odpoledne hrozná bouřka bez deště až byla porucha s elektrikou takže v kravíně skončili směnu až v 1 hod. po půlnoci.
@@ -9313,9 +9307,8 @@ výsevek vytlučen a také nějaká okna přitom za své vzala a místy pod okap
 4\. umřel v trutnovské nemocnici 55 letý <a id="františek-kobr-88f09f">Frant. Kobr</a> rodák z Dušnice jenž se přiženil do Staré Vsi č. <a id="77-28dd2c">77</a> k Marii dceři <a id="antonín-kobr-fac949">Antonína Kobra</a> jehož rod sem přišel <a id="1812-5b6ba1">1812</a> z Brna nad Jabloncem.
 5\. první přimrazek kterýž den a druhý byly zas na Vojákův kopec nějaké motociklové závody.
 13\. o vysockém a třičském posvícení vlaštovky pryč a začínalo žloutnout listí ale deště to žloutnutí zarazily a 20. o sklenařském posvícení přeháňky a až tma.
-27\. o posvícení bez muziky bylo krásně ale vítr; u Večerníka č. <a id="20-98f137">20</a> dokopali brambory a sklidil oves. S ozimím setím začal Státní statek 7. září na Krčovském a Novákově nade vsí a na Vláškově
+27\. o posvícení bez muziky bylo krásně ale vítr; u Večerníka č. <a id="20-98f137">20</a> dokopali brambory a sklidil oves. S ozimím setím začal Státní statek 7. září na Krčovském a Novákově nade vsí a na Vláškově bylo řiště po žních zelené od vytlučeného zrní od krup a také od toho že bylo žito než ho požali, přezralé.
 
-bylo řiště po žních zelené od vytlučeného zrní od krup a také od toho že bylo žito než ho požali, přezralé.
 6\. října zvolení do Občanského výboru: <a id="otakar-polouprutský-8ce1dd">Otakar Polouprutský</a> č. <a id="90-861398">90,</a> <a id="josef-polouprutský-403545">Josef Polouprutský</a> č. <a id="19-1f0e3d">19,</a> <a id="jiří-čermák-ae7767">Jiří
 Čermák</a> ml. č. <a id="93-98dce8">93,</a> <a id="václav-šída-2ced24">Václav Šída</a> č. <a id="9-45c48c">9,</a> <a id="františek-svatý-74869a">Frant. Svatý</a> č. <a id="14-aab323">14,</a> <a id="marie-babcová-5ce9e7">Marie Babcová</a> č. <a id="26-4e732c">26,</a> <a id="ludmila-haasová-e71b81">Lidmila Haasová</a> č. <a id="65-fc490c">65</a> a ing <a id="pavel-svatý-e09abf">Pavel Svatý</a> č. <a id="83-fe9fc2">83.</a>
 11\. o roprachtickém posvícení, mlha, od půlnoci špláchalo, na celý den bouřilo přičemž se trousil sníh na což se hodí pranostyka „v říjnu li blýská, je zima a v zimě pak plíská“.
@@ -9360,8 +9353,6 @@ smrti. Nejstarší občankou po něm byla jeho 90 letá žena Lidmila. Zemřelý
 Č. <a id="66-3295c7">66</a> – <a id="1880-3214a6">1880</a> = 2, <a id="1910-ab7314">1910</a> = 3, <a id="1980-f80bf0">1980</a> = 0
 Č. <a id="67-735b90">67</a> – <a id="1880-3214a6">1880</a> = 12, <a id="1910-ab7314">1910</a> = 2, <a id="1980-f80bf0">1980</a> = 0
 Č. <a id="68-a3f390">68</a> – <a id="1880-3214a6">1880</a> = 4, <a id="1910-ab7314">1910</a> = 5, <a id="1980-f80bf0">1980</a> = 0
-
-
 Č. <a id="69-14bfa6">69</a> – <a id="1880-3214a6">1880</a> = 5, <a id="1910-ab7314">1910</a> = 5, <a id="1980-f80bf0">1980</a> = 0
 Č. <a id="70-7cbbc4">70</a> – <a id="1880-3214a6">1880</a> = 5, <a id="1910-ab7314">1910</a> = 2, <a id="1980-f80bf0">1980</a> = 0
 Č. <a id="71-e2c420">71</a> – <a id="1880-3214a6">1880</a> = 6, <a id="1910-ab7314">1910</a> = 5, <a id="1980-f80bf0">1980</a> = 1
@@ -9370,7 +9361,6 @@ smrti. Nejstarší občankou po něm byla jeho 90 letá žena Lidmila. Zemřelý
 Č. <a id="74-ad61ab">74</a> – <a id="1880-3214a6">1880</a> = 0, <a id="1910-ab7314">1910</a> = 2, 19 80 = 0
 Č. <a id="88-2a38a4">88</a> – <a id="1880-3214a6">1880</a> = 9, <a id="1910-ab7314">1910</a> = 0, <a id="1980-f80bf0">1980</a> = 0
 Č. <a id="89-764796">89</a> – <a id="1880-3214a6">1880</a> = 6, <a id="1910-ab7314">1910</a> = 4, <a id="1980-f80bf0">1980</a> = 0
-
 C <a id="90-861398">90</a> – <a id="1880-3214a6">1880</a> = 8, <a id="1910-ab7314">1910</a> = 2, <a id="1980-f80bf0">1980</a> = 5
 Č. <a id="91-54229a">91</a> – <a id="1880-3214a6">1880</a> = 4, <a id="1910-ab7314">1910</a> = 3, <a id="1980-f80bf0">1980</a> = 0
 Č. <a id="92-92cc22">92</a> – <a id="1880-3214a6">1880</a> = 3, <a id="1910-ab7314">1910</a> = 4, <a id="1980-f80bf0">1980</a> = 0
@@ -9486,9 +9476,8 @@ Janda zpět a který se vdově po něm, po vyhoření č. <a id="80-f033ab">80,<
 
 
 V roce <a id="1981-b3b4d2">1981</a> zemřel též <a id="jiří-čermák-ae7767">Jiří Čermák</a> č. <a id="93-98dce8">93</a> jeden z nejstaršího staroveského rodu jenž byl nejdříve u Čermáků, to je u dnešní zvoničky a to v dnešním č. <a id="22-b6d767">22</a> odkud koupil v roce <a id="1610-a14ac5">1610</a> <a id="petr-čermák-cfae4d">Petr Čermák</a>
-v dolním konci vesnice grunt od Matěje Brouka grunt jenž od té chvíle až do dneška nazýván už
+v dolním konci vesnice grunt od Matěje Brouka grunt jenž od té chvíle až do dneška nazýván už Petrovo.
 
-Petrovo.
 <a id="1654-9d2682">1654</a> měl Petrovo s dnešním domem č. <a id="35-1c383c">35</a> Petrův syn <a id="matěj-čermák-c18416">Matěj Čermák</a> a po jeho <a id="smrt-a332b5">smrti</a> <a id="1689-7c4ede">1689</a> ho ujal tohoto syn <a id="daniel-čermák-411726">Daniel Čermák</a> přesto že podle poslední vůle ho měl ujmout syn <a id="mikuláš-čermák-65dfc2">Mikuláš Čermák</a> jenž
 se ho však zřekl a vystavěl si nejdřív na ukoupené obci roku <a id="1708-c59b46">1708</a> dnešní chalupu č. <a id="14-aab323">14</a> a později si koupil chalupu č. <a id="32-6364d3">32.</a> <a id="daniel-čermák-411726">Daniel Čermák</a> rozdělil statek dvěma synům a to Adamu Čermákovi 1/2 s domem č. <a id="35-1c383c">35</a> a Danielovi Čermákovi jenž si na své 1/2 vystavěl dům č. <a id="36-19ca14">36,</a> vyhořelý <a id="1907-77369e">1907</a> <a id="josef-slavík-76a4f4">Josefu Slavíkovi.</a> Od <a id="adam-čermák-1ca0fd">Adama Čermáka</a> koupil 1/2 jeho polovice bratr <a id="václav-čermák-cde03a">Václav Čermák</a> jehož syn <a id="josef-čermák-dac615">Josef Čermák</a> se
 přiženil do č. <a id="34-e36985">34</a> k Marii dceři <a id="pavel-vodseďálek-bc7053">Pavla Vodseďálka</a> a ujal 1/2 Vitošova gruntu se stavením, zatím co druhou 1/2 z téhož gruntu bez stavení ujal manžel druhé Vodseďálkovy dcery Veroniky <a id="václav-polouprutský-070419">Václ. Polouprutský</a> č. <a id="15-9bf31c">15</a> na kteréž polovici vystavěl jeho syn Jan dům č. <a id="73-d2ddea">73.</a>
@@ -9546,9 +9535,8 @@ V neděli 24. oslavila vedoucí staroveské rozdělovny koral <a id="eva-zemanov
 <a id="václav-večerník-a9ecb2">Václ. Večerník</a> ze Staré Vsi č. <a id="9-45c48c">9.</a> Kremaci měl v neděli 4. unora přičemž se s ním rozloučil mimo semilskeho faráře čskoslovenské církve učitel v. v. <a id="josef-knob-0a406d">Jos. Knob</a> též jako se svým bývalým žákem.
 30\. přišlo zdražení masa, lihovin, rýže, rybyn, kuřiva, s čimž se lidé plašili už nějaký čas nakupujíce to. Úměrně ke zvýšení cen, zvýšil také stát důchody přestárlým.
 Byly s tím dlouho ležicím sněhem a površkem na něm obavy o osud ozimů a včelaři měli starost o svá včelstva na něž přicházela nemoc zvaná varrasna (varroáza). Ve Staré Vsi byl jediný včelař
-<a id="ladislav-ducháček-3cb824">Ladislav Ducháček</a> č. <a id="49-f457c5">49.</a> Ten čas to bylo tak sorganisováno s chlebem, že ho vozili nejen z Jablonce nad Jiz odkud ho vozit měli, ale: z Lomnice, Semil, Jičína, Trutnova, Hradce Kralové a Bílé
+<a id="ladislav-ducháček-3cb824">Ladislav Ducháček</a> č. <a id="49-f457c5">49.</a> Ten čas to bylo tak sorganisováno s chlebem, že ho vozili nejen z Jablonce nad Jiz odkud ho vozit měli, ale: z Lomnice, Semil, Jičína, Trutnova, Hradce Kralové a Bílé Třemošné.
 
-Třemošné.
 8\. unora odzvonil <a id="josef-babec-c90561">Jos. Babec</a> č. <a id="25-8e296a">25,</a> <a id="78-35f4a8">78</a> letému <a id="františek-štěpánek-4f433f">Františku Štěpánkovi</a> z č. <a id="96-26657d">96</a> na zprávu kterou přinesla <a id="milena-vitvarová-a776fa">Milena Vitvarová</a> ze Sklenařic k Lidmile Vodseďalkové č. <a id="75-d09bf4">75,</a> že týž v nemocnici zemřel 5. t. m.
 mu přišla říci nějaká pracovnice sociální péče ze Semil, že jeho žádosti o přijetí do domova důchodců je vyhověno a obratem přišla zděšeně do č. <a id="14-aab323">14</a> kde se předtím ptala, kde bydlí, že ho našla potlučeného a nemluvícího ležet na zemi. Albrechtovi č. <a id="65-fc490c">65</a> telefonovala pro dra Kavána jenž zjistiv
 ochrnutí pravé strany těla, dal ho odvézt do nemocnice kde týž přišel k řeči ale zatím ještě nezemřel.
@@ -9591,11 +9579,8 @@ Velikonoci vrátila do č. <a id="73-d2ddea">73</a> do Staré Vsi. Připomenuti 
 cestě, umřel, který byl ze silnice dobře viditelný maje pole pod sebou i nad sebou, nebyl už s roští ani vidět. Spáleniště toho hořeního mlýna č. <a id="41-3416a7">41</a> nebylo též k najití pro stromy a našlo se konečně
 podle toho že v něm byla hromada plechovek a střepů snošených tam z celého dolence a možná i z Helkovic. Zbořeniště č. <a id="39-d67d8a">39</a> (Smetalovo) rovněž bylo celé v roští a našlo se jen podle lípy jenž
 čněla nad tím roštím. Spáleniště č. <a id="38-a5771b">38</a> a zbořeniště č. <a id="90-861398">90</a> bylo také zarostlé. Ještě že č. <a id="58-66f041">58</a> se postavil znovu a ze stodoly č. <a id="42-a1d0c6">42</a> byla také předělaná nějaká rekreace. Ono i výše ve vsi toho hodně pustlo. Tak zbořeniště č. <a id="51-283802">51</a> (bývalý chudobinec) a č. <a id="52-9a1158">52</a> z něhož zbývala stodůlka, bylo také už
-v háji. Za stodolou č. <a id="12-c20ad4">12</a> kde bývala družstevní slepičárna také celé pole zarostlo březím. To jaro
+v háji. Za stodolou č. <a id="12-c20ad4">12</a> kde bývala družstevní slepičárna také celé pole zarostlo březím. To jaro koupili manželé Miloš a <a id="marie-hejduková-f76e2f">Marie Hejdukovi</a> z Prahy 3 Vinohrady Čáslavská 6 spáleniště č. <a id="80-f033ab">80</a> u Jandů od manželů Ladislava a Miloslavy Svobodových rovněž z Prahy. Všichni to kupovali pro stavbu a nestavěl žádný.
 
-
-koupili manželé Miloš a <a id="marie-hejduková-f76e2f">Marie Hejdukovi</a> z Prahy 3 Vinohrady Čáslavská 6 spáleniště č. <a id="80-f033ab">80</a> u Jandů od manželů Ladislava a Miloslavy Svobodových rovněž z Prahy. Všichni to kupovali pro stavbu
-a nestavěl žádný.
 1\. dubna po hrozném mraze krásně kterýž den nastoupil činnou vojenskou službu <a id="josef-polouprutský-403545">Josef Polouprutský</a> ml. č. <a id="19-1f0e3d">19</a> v Chomutově.
 Státní statek nevěda si jiné rady s balíky slámy ve své staroveské stodole, nedal je zaorat, aby se uplatnili co hnůj, ale dal je dovézt do Končin do Vršťalova bahna.
 6\. po přimrazku krásně, na den horko a okolo slunce byli dva kruhy.
@@ -9620,10 +9605,8 @@ prasečila divoká prasata.
 už jen v háji za stodolou č. <a id="77-28dd2c">77.</a> 6. státní statek dosil.
 8\. po mrazech krásně, javory zelené a břízy rozpouštěly; v neděli 9. zamračené, jen spustit dešť ale přesto že už stříkalo, odložilo ho až na noc takže nechalo sázet brambory. 8. večer po západu
 slunce pobyla krátce severní zář.
-10\. začal Státní statek sázet na Vláškově brambory a staroveský kravín počal pásti; navečer toho dne kdo byl na vrších při západu slunce, viděl že když klesalo k obzoru clonou mraků které nahoře
+10\. začal Státní statek sázet na Vláškově brambory a staroveský kravín počal pásti; navečer toho dne kdo byl na vrších při západu slunce, viděl že když klesalo k obzoru clonou mraků které nahoře jsouce hustší, zakrývaly asi 1/8 slunečního kotouče a co viděti bylo, vypadalo (obrázek) a v té podobě slunce zapadlo.
 
-
-jsouce hustší, zakrývaly asi 1/8 slunečního kotouče a co viděti bylo, vypadalo (obrázek) a v té podobě slunce zapadlo.
 12\. se velmi pařila země; 13. přiletěly vlaštovky; 15. rané třešně v plném květu a pozdní začínaly a prvně se ozvala kukačka. <a id="josef-janoušek-ed5240">Jos. Janoušek</a> první ve vsi síkl trávu ke krmení; 17. hrušně a slívy v plném květu; 18. ve 4 hod. ráno důkladná bouřka s důkladným lijákem; 20. začínaly jabloně kvést.
 Tráva po těch deštích velmi rostla a Státní statek měl nade vsí na Krčovském nádherné žito. 22. odpoledne <a id="zabití-67f9ca">zabil</a> pod domem <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> vidlemi tchoře.
 27\. <a id="josef-janoušek-ed5240">Jos. Janoušek</a> první ve vsi začal sušit seno a hned po něm <a id="josef-babec-c90561">Jos. Babec</a> č. <a id="25-8e296a">25</a> ale ten neměl sušit co. 28. překrásně až parno a v 16 hod. se zamračilo až byla tma z čehož přišla důkladná bouřka
@@ -9645,10 +9628,8 @@ K 1. červenci bylo ve Staré Vsi krom toho co měl Státní statek: slepičí d
 v bývalé králíkárně po <a id="josef-kovalský-0f7430">Jos. Kovalském</a> u níž spodek prokopal, aby se mu tam vešli a byla otázka, kam poteče hnojnice když příkopem silnice teče voda z pramene před č. <a id="1-c4ca42">1</a> kteráž někdy tekla do
 studny domů č. <a id="15-9bf31c">15,</a> <a id="16-c74d97">16,</a> <a id="65-fc490c">65</a> a <a id="93-98dce8">93</a> a do hasičské nádrže před č. <a id="65-fc490c">65,</a> a která v přítomné době podtekouc u č. <a id="11-6512bd">11</a> silnici, tekla přes cestu do potoka a do té vody musela hnojnice natéci a to bylo blíže než jiná
 hospodářství stíhána zákazem pronikání hnojnice do země kvůli semilskému vodovodu. 1. července ráno zima, mraky se honily po obloze a vydrželo to bez deště kterýž den se zastřelil 56 letý vedoucí prodejny stavebniny ve Vysokém č. <a id="60-072b03">60</a> <a id="františek-žanta-8689ca">Frant. Žanta</a> potomek staroveských Žantů z č. <a id="15-9bf31c">15</a> a sice koupil usedlost č. <a id="15-9bf31c">15</a> ve 30 tých letech minulého století <a id="františek-žanta-8689ca">Frant. Žanta</a> ze Stanového z č. <a id="26-4e732c">26</a> (z chalupy
-zvané u Přidanů pod Zemanovým statkem č. <a id="25-8e296a">25</a> proti škole) a měl 2 syny: Frant. v č. <a id="15-9bf31c">15</a> Antonína
+zvané u Přidanů pod Zemanovým statkem č. <a id="25-8e296a">25</a> proti škole) a měl 2 syny: Frant. v č. <a id="15-9bf31c">15</a> Antonína nejprve v č. <a id="67-735b90">67</a> a později v č. <a id="14-aab323">14</a> jehož syn Antonín byl profesorem v Telči na Moravě. Po Františkovi v č. <a id="15-9bf31c">15</a> syn Josef jenž se zakoupil ve Vysokém.
 
-
-nejprve v č. <a id="67-735b90">67</a> a později v č. <a id="14-aab323">14</a> jehož syn Antonín byl profesorem v Telči na Moravě. Po Františkovi v č. <a id="15-9bf31c">15</a> syn Josef jenž se zakoupil ve Vysokém.
 Od 7. začali zas žáry až se hlava točila a když jiní dosoušeli seno, Janoušek a Babec u zvoničky už sušily otavu s tím rozdílem že Babec neměl co.
 10\. <a id="jarmila-babec-a77d52">Jarmila Babcová</a> č. <a id="26-4e732c">26</a> ukončila studium na strojní fakultě Vysoké školy strojní a textilní v Liberci a byl jí ve Státním divadle F. X. Šaldy v Liberci udělen titul strojní inženýr.
 11\. staroveská Národní pouť tentokrát bez taneční zábavy ale s Československou mší odpoledne ve škole. Lípy v plném květu. Ten čas byly cesty a volná potřebná prostranství okolo kravína vyasfaltovány, což velmi slušelo ale mimo toho bylo všecko ostatní zarostlé bodláčím, lebedou a jiným
@@ -9670,11 +9651,7 @@ Ti docela staří vzpomínali že 5. před 80ti lety, to jest před vysockou pou
 u bramborů takže se ukopalo asi co se vsadilo jenže malých a co se shrabalo košů mládičů otlučených se stromů a starší šindel na střechách protlučený a co ptáků se našlo ubitých.
 Obec se potom starala o slevu na daních na to neštěstí a bylo jí vyhověno ale jen v těch případech byl li postižený dlužen na což se vyslovil tehdejší starosta <a id="antonín-koldovský-88b47c">Ant. Koldovský</a> „to bych se byl také o nic
 nestaral, oni pro to h…. dali“ a on sám měl za doli kus žita na který ani jedna <a id="kroupa-7d3aeb">kroupa</a> nespadla.
-Listí na stromech žloutlo a opadávalo, nať u bramborů ležela sežloutlá, brázdy rozpukané a hlína jako popel. Že nebyla vláha, vykopávaly se staré vsaděné brambory celé a u nich narostlého nic
-
-
-a nejen listnaté stromy ale i sem tam nějaký smrk usychal a to hlavně ten stoletý nad starou školou pod Jednotou do něhož minulý rok hrom uhodil. Potok skoro žádný netekl. Staroveské žně zahájil
-16\. sečením ovsa na záhumence <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> s dcerou a Státní statek je zahájil žnutím ječmena nad Kalifornií dne 18.
+Listí na stromech žloutlo a opadávalo, nať u bramborů ležela sežloutlá, brázdy rozpukané a hlína jako popel. Že nebyla vláha, vykopávaly se staré vsaděné brambory celé a u nich narostlého nic a nejen listnaté stromy ale i sem tam nějaký smrk usychal a to hlavně ten stoletý nad starou školou pod Jednotou do něhož minulý rok hrom uhodil. Potok skoro žádný netekl. Staroveské žně zahájil 16\. sečením ovsa na záhumence <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> s dcerou a Státní statek je zahájil žnutím ječmena nad Kalifornií dne 18.
 
 U bramborů neobyčejně tvrdo takže je obyčejnou motykou neukopal, to musela být kohačka neboli poseční a ještě řádně ostrá. Jediný staroveský včelař <a id="ladislav-ducháček-3cb824">Ladislav Ducháček</a> omezil pro nemoc
 a neschopnost svoji zálibu na 4 včelstva.
@@ -9704,10 +9681,8 @@ toho dne zas návrat k normálnímu času, to je, zas o 1 hod. zpátky. V neděl
 1\. října zamračené a dopoledne porosilo a 4. po prvním přimrazku krásně ale větrno a ten vítr byl až do 8. čímž mnoho ovoce spadlo. 7. v noci se blýskalo a 10. o roprachtickém posvícení byla
 krásná neděle.
 
-16\. na Havla se vdávala ing <a id="jarmila-babec-a77d52">Jarmila Babcová</a> č. <a id="26-4e732c">26</a> za <a id="vladimír-valenta-94b734">Vladimíra Valentu.</a> přišli rok prý Mudr., z Nové Vsi č. <a id="6-167909">6</a> Chotěšic a 23. se ženil její polobratranec <a id="františek-kobr-88f09f">Frant. Kobr</a> č. <a id="77-28dd2c">77</a> s <a id="jana-janoušková-58f866">Janou Janouškovou</a>
+16\. na Havla se vdávala ing <a id="jarmila-babec-a77d52">Jarmila Babcová</a> č. <a id="26-4e732c">26</a> za <a id="vladimír-valenta-94b734">Vladimíra Valentu.</a> přišli rok prý Mudr., z Nové Vsi č. <a id="6-167909">6</a> Chotěšic a 23. se ženil její polobratranec <a id="františek-kobr-88f09f">Frant. Kobr</a> č. <a id="77-28dd2c">77</a> s <a id="jana-janoušková-58f866">Janou Janouškovou</a> z Buřan. Listí se stromů začínalo doopravdy padat a zelí celé léto ničemné se začalo po deštích s chladnem teprv teď mít k světu.
 
-
-z Buřan. Listí se stromů začínalo doopravdy padat a zelí celé léto ničemné se začalo po deštích s chladnem teprv teď mít k světu.
 10\. ten měsíc přestal Státní statek pásti.
 28\. po přimrazku překrásně a na obloze ani mráčku kterýž den před 60 lety večer byl <a id="jaroslav-večerník-b04539">Jaroslav
 Večerník</a> zvolen ve schůzi obecního zástupitelstva na návrh <a id="václav-večerník-a9ecb2">Václava Večerníka</a> č. <a id="39-d67d8a">39</a> obecním kronykářem.
@@ -9798,13 +9773,8 @@ také stavěl novou stodolu a do žní ji ponechal bez střechy a na patře se t
 stávala chalupa č. <a id="7-8f14e4">7</a> na pozemku <a id="josef-vodseďálek-970bd1">Jos. Vodseďálka</a> č. <a id="9-45c48c">9,</a> starosty. Ředitelem byl tehdy <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> č. <a id="79-d1fe17">79</a> nejstarší syn <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálka</a> č. <a id="75-d09bf4">75.</a> Rozepisovatelem úloh či jak tomu říkali role byl <a id="josef-polouprutský-403545">Josef
 Polouprutský</a> č. <a id="94-f4b9ec">94.</a> Zkoušky se konaly v č. <a id="10-d3d944">10</a> u Starů. Prkna obstaral ředitel a vybíralo se na všeliká vydání, k stání pěták k sezení 10 kr. a na první místo 20 grejc. kdežto dříve se bralo co kdo dal.
 Lavice stály nahoře co je dnes zahrada a nad sochou bylo vyvýšené jeviště. Poněvadž se hráli samé biblické příběhy, byli herci většinou stále tou samou osobou. Tak ředitel byl Bohem, měl na sobě
-nádobu v podobě dlouhého sudu zlatým papírem polepenou jenž představovala ten <a id="oheň-92b25a">ohnivý</a> sloup v němž Hospodin předcházel Židy do zaslíbené země. Jeho bratr Pavel byl Samsonem, <a id="josef-polouprutský-403545">Josef Polouprutský</a> č. <a id="89-764796">89</a> Davidem, <a id="josef-hotovička-22d834">Jos. Hotovička</a> č. <a id="69-14bfa6">69</a> Goliášem, <a id="josef-novák-475dbc">Josef Novák</a> č. <a id="84-68d30a">84</a> Mojžíšem. Františka
+nádobu v podobě dlouhého sudu zlatým papírem polepenou jenž představovala ten <a id="oheň-92b25a">ohnivý</a> sloup v němž Hospodin předcházel Židy do zaslíbené země. Jeho bratr Pavel byl Samsonem, <a id="josef-polouprutský-403545">Josef Polouprutský</a> č. <a id="89-764796">89</a> Davidem, <a id="josef-hotovička-22d834">Jos. Hotovička</a> č. <a id="69-14bfa6">69</a> Goliášem, <a id="josef-novák-475dbc">Josef Novák</a> č. <a id="84-68d30a">84</a> Mojžíšem. Františka dcera <a id="františek-polouprutský-e22834">Frant. Polouprutská</a> č. <a id="88-2a38a4">88</a> provdaná Svárovská č. <a id="23-37693c">23</a> byla Dalilou a z těch stejných úloh vyniklo mezi Samsonem a Dalilou Nněco hodně více než pouhé divadlo. K veselejšímu kusu měli i ty dva šašky a sice: <a id="josef-hladík-ab82c6">Josef Hladíka</a> č. <a id="47-67c6a1">47</a> a <a id="antonín-novák-28f915">Antonína Nováka</a> č. <a id="61-7f39f8">61</a> jenž měl kalhoty modře a bílé pruhované, klobouk špičatý a zahnutý a na kabátě našité červené flíčky kdež to Kucheláček (Hladík) měl mezi nohami pověšený velký mosazný zvonec jaké se věšeli na potah do saní. Jinak v divadle upotře byli i všelijak se ve <a id="válka-bfccd5">válkách</a> a ve vojenské službě získané dragounské a kyrysnické přilby, šavle a kordy a pěšácké čáky. Jména osob jež herci hráli jim většinou zůstala co příslotky. V přestávkách se opona z plátna spustila a staroveská kapela hrála a sice: <a id="jan-mňuk-949e28">Jan Mňuk</a> č. <a id="38-a5771b">38</a> na harfu, jeho syn Edvard na housle, <a id="jan-karlas-761508">Jan Karlas</a> č. <a id="91-54229a">91</a> na klarinet a Rechcigel z Vysokého na koňskou nohu (nástroj o jedné struně).
 
-
-dcera <a id="františek-polouprutský-e22834">Frant. Polouprutská</a> č. <a id="88-2a38a4">88</a> provdaná Svárovská č. <a id="23-37693c">23</a> byla Dalilou a z těch stejných úloh vyniklo mezi Samsonem a Dalilou Nněco hodně více než pouhé divadlo. K veselejšímu kusu měli i ty dva šašky a sice: <a id="josef-hladík-ab82c6">Josef Hladíka</a> č. <a id="47-67c6a1">47</a> a <a id="antonín-novák-28f915">Antonína Nováka</a> č. <a id="61-7f39f8">61</a> jenž měl kalhoty modře a bílé pruhované,
-klobouk špičatý a zahnutý a na kabátě našité červené flíčky kdež to Kucheláček (Hladík) měl mezi nohami pověšený velký mosazný zvonec jaké se věšeli na potah do saní. Jinak v divadle upotřebyli
-i všelijak se ve <a id="válka-bfccd5">válkách</a> a ve vojenské službě získané dragounské a kyrysnické přilby, šavle a kordy a pěšácké čáky. Jména osob jež herci hráli jim většinou zůstala co příslotky. V přestávkách se opona
-z plátna spustila a staroveská kapela hrála a sice: <a id="jan-mňuk-949e28">Jan Mňuk</a> č. <a id="38-a5771b">38</a> na harfu, jeho syn Edvard na housle, <a id="jan-karlas-761508">Jan Karlas</a> č. <a id="91-54229a">91</a> na klarinet a Rechcigel z Vysokého na koňskou nohu (nástroj o jedné struně).
 První ředitel byl vyučen krejčím ve Vídni od čehož mu do <a id="smrt-a332b5">smrti</a> říkali „krejčí Čermáků“ od skupiny domů Čermáků kde jeho dům č. <a id="75-d09bf4">75</a> stál ale potom vyučen zedníkem a byl dokonce mistrem a byl brán od vrchnostenských úřadů vedle tesařských mistrů co přísežný znalec k obhadům zděných staveb.
 Roku <a id="1803-3fab58">1803</a> dne 10. února koupil od France Čermáka 1/2 jeho usedlosti č. <a id="23-37693c">23</a> za 809 zl. na níž si dům č. <a id="75-d09bf4">75</a> vystavěl a jemuž starší lidé po dnes „u Krejčů“ říkají. Za nedlouho potom se vrátil Čermákovi půl stavení č. <a id="23-37693c">23</a> za plnění výměnku.
 Byl třikrát ženatý; z první ženou rozenou Polouprutskou vyženil domek č. <a id="21-3c59dc">21,</a> druhá byla Nováková od Vojáků z č. <a id="46-d9d4f4">46</a> a třetí ta ho už přečkala, Nečásková z Vysokého a měl asi 20 dětí a je to ku podivu jak to všecko zastal: hospodářství, zedničinu a divadlo. Děti mu všecky nezůstaly každé
@@ -9878,10 +9848,7 @@ Majitelka hoření 1/2 domu č. <a id="54-a684ec">54</a> na Skále <a id="anna-k
 15\. vsadil <a id="vladimír-šalda-1e5776">Vladimír Šalda</a> poslední ve vsi brambory a 18. je začal sázet Státní statek nade vsí na
 Novákově a Krčovském mezi cestami Krčovskou a Vitošovou a 16. začal <a id="václav-žitný-f09ee9">Václav Žitný</a> první ve vsi sušit seno. 18. hasičská schůze z 10 účastníky a s jednáním o soutěži družstev ve Sklenařicích, o zájezdu do Českého ráje o poutní taneční zábavě a o poslání pozdravu Vladislavu Polouprutskému st.
 do léčebny v Horním Maršově.
-19\. přes loňskou přeúrodu jablek, jabloně v plném květu, ale byla obava, že když ve vsi ani jedna včela nebyla, že ostatní hmyz na to nestačí, aby ovoce bylo. Obava ta se ukázala zbytečnou, jablek
-
-
-se urodilo snad ještě více než minulý rok. 22. Svatodušní neděli začali jasany rozpouštět a šeřík kvést.
+19\. přes loňskou přeúrodu jablek, jabloně v plném květu, ale byla obava, že když ve vsi ani jedna včela nebyla, že ostatní hmyz na to nestačí, aby ovoce bylo. Obava ta se ukázala zbytečnou, jablek se urodilo snad ještě více než minulý rok. 22. Svatodušní neděli začali jasany rozpouštět a šeřík kvést.
 
 29\. o roprachtické pouti odpoledne asi třikrát zahřmělo a pár krup spadlo.
 30\. odpoledne v II. poschodí semilské radnice schůze kronikářů semilského okresu za účelem soutěže kronik.
@@ -9970,20 +9937,11 @@ péro, nejhorší bylo se dvěma péry i to obyčejně přes zimu zašlo.
 
 A že **před sto lety postavila se škola nová** u nás, připomeňme si, jak se to všechno sběhlo.
 Jelikož nevyhovovala školní budova č. <a id="49-f457c5">49,</a> bylo usneseno místní školní radou, aby na ni byly provedemy některé opravy, ale c. k. okresní hejtman Kostial co předseda okresní školní rady nepřipustil opravu, protože stará budova nevyhovuje zdravotním požadavkům. Usneseno tedy 14. července
-<a id="1878-dc5d63">1878,</a> aby se přikročilo ke stavbě nové školy s tou podmínkou, když dostane obec subvenci ze zemského fondu. Usneseni to vzbudilo u občanů velikou nevoli, takže obecni výbor požádal okresní
-
-
-školní radu, aby bylo od stavby upuštěno. Ta na to odpověděla, že bylo již 7. července sděleno, že nezdravá poloha a špatný stav tamní školní budovy ji nedovoluje nadále užívati a že k účelu a ke
-správě není. Ale obec se ještě vytáčela a chtěla starou skolu upravovat, ale konečně 16. unora <a id="1879-44a2e0">1879</a> odhlasováno v obecním zástupitelstvu 4 proti 3 hlasům, aby usnesení o stavbě nové školy z minulého roku zůstalo v platnosti a byly zařízeny potřebné kroky k jeho uskutečnění. Pozemek pro novou školu vyhledán 26. června <a id="1879-44a2e0">1879</a> č. parcely <a id="531-0fcbc6">531</a> patříci <a id="františka-svárovská-cf6497">Frant. Svárovské</a> č. <a id="23-37693c">23</a> a jednalo se o pozemek s pozdějším sadem pod vnějnou (?) cestou od č. <a id="94-f4b9ec">94</a> ke zvoničce. Ale z koupě tohoto sešlo
-a r. <a id="1880-3214a6">1880</a> se usneslo, že nová škola se postavi na pozemku <a id="františek-liška-568223">Frant. Lišky</a> č. <a id="17-70efdf">17</a> a že majitel vyměni tento pozemek za obecni louku pod ním ležici a tak louka o 1/3 větší se za to dala. Z toho zas poustaly různice a zástupitelstvo chtělo odstoupiti. To se viděla jen ta třetina ač to bylo větší ale né ten
-svah a ty důli po bývalem hlinovníku. 17. března došel z Trutnova rozpočet který upraven na 5 443 zl. 96 krejc. Stavbu měl <a id="josef-vodseďálek-970bd1">Josef Vodseďálek</a> z Vysokého. Základy se začaly kopat 17. července <a id="1882-e1314f">1882.</a>
-Při obecnich volbách 11. června zvoleni skoro sami odpůrci stavby. Nová skola byla přijata 13. srpna 1883 a posvěcena 28. záři P. <a id="josef-holý-b8c028">Josefem Holým</a> farářem vysockým způsobem jednoduchým. Přítomen byl okresni hejtman Košťál a z nového výboru staroveského: starosta <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> č. <a id="79-d1fe17">79</a> a rádní: <a id="josef-housa-783a9f">Josef Housa</a> č. <a id="26-4e732c">26</a> a <a id="vít-polouprutský-f99ded">Vit Polouprutský</a> č. <a id="28-33e75f">28,</a> dále <a id="josef-novák-475dbc">Josef Novak</a> č. <a id="2-c81e72">2,</a> <a id="josef-polouprutskyý-1883ad">Jos. Polouprutskyý</a> č. <a id="78-35f4a8">78,</a>
-<a id="františek-janda-fdc7e0">Frant. Janda</a> č. <a id="80-f033ab">80</a> a <a id="josef-ducháček-10f93b">Jos. Duchaček</a> č. <a id="14-aab323">14.</a> Na novou staroveskou školu povolil zemský výbor subvenci
-1 500 zl. a císař <a id="františek-josef-a3a7cc">František Josef</a> I. na ni daroval 200 zl., 50 zl. na ni odkázal 7. června <a id="1882-e1314f">1882</a> zemřelý
-67 letý kramář a trafikant <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> č. <a id="66-3295c7">66</a> vulgo Skalák. Ostatní peníze si obec vypůjčila ve spořitelně v České Lípě.
-Po vysvěcení se v nové školní budově, jenž domovní č. <a id="97-e2ef52">97</a> dostala, začalo hned vyučovat. Stará školní budova č. <a id="49-f457c5">49</a> v níž také spisovatel <a id="josef-šír-51d99d">Josef Šír</a> poučil, prodala se s povolením hostinské živnosti
-která tam byla už před školou. Koupila ji <a id="anna-vedralová-d96abe">Anna Vedralová,</a> žena <a id="františek-vedral-3a5d14">Frant. Vedrala</a> z č. <a id="84-68d30a">84</a> obchodního cestujícího a mnohokrát <a id="trest-cff246">trestaného</a> podvodnika. Jejich syn ing. <a id="bohuslav-vedral-f1b841">Bohusl Vedral</a> byl zaměstnán ve
-Škodových závodech v Plzni. Ale živnost hostinskou v č. <a id="49-f457c5">49</a> neprovozovali, až jejich nástupce <a id="josef-nepolský-e28029">Josef
+<a id="1878-dc5d63">1878,</a> aby se přikročilo ke stavbě nové školy s tou podmínkou, když dostane obec subvenci ze zemského fondu. Usneseni to vzbudilo u občanů velikou nevoli, takže obecni výbor požádal okresní školní radu, aby bylo od stavby upuštěno. Ta na to odpověděla, že bylo již 7. července sděleno, že nezdravá poloha a špatný stav tamní školní budovy ji nedovoluje nadále užívati a že k účelu a ke správě není. Ale obec se ještě vytáčela a chtěla starou skolu upravovat, ale konečně 16. unora <a id="1879-44a2e0">1879</a> odhlasováno v obecním zástupitelstvu 4 proti 3 hlasům, aby usnesení o stavbě nové školy z minulého roku zůstalo v platnosti a byly zařízeny potřebné kroky k jeho uskutečnění. Pozemek pro novou školu vyhledán 26. června <a id="1879-44a2e0">1879</a> č. parcely <a id="531-0fcbc6">531</a> patříci <a id="františka-svárovská-cf6497">Frant. Svárovské</a> č. <a id="23-37693c">23</a> a jednalo se o pozemek s pozdějším sadem pod vnějnou (?) cestou od č. <a id="94-f4b9ec">94</a> ke zvoničce. Ale z koupě tohoto sešlo
+a r. <a id="1880-3214a6">1880</a> se usneslo, že nová škola se postavi na pozemku <a id="františek-liška-568223">Frant. Lišky</a> č. <a id="17-70efdf">17</a> a že majitel vyměni tento pozemek za obecni louku pod ním ležici a tak louka o 1/3 větší se za to dala. Z toho zas poustaly různice a zástupitelstvo chtělo odstoupiti. To se viděla jen ta třetina ač to bylo větší ale né ten svah a ty důli po bývalem hlinovníku. 17. března došel z Trutnova rozpočet který upraven na 5 443 zl. 96 krejc. Stavbu měl <a id="josef-vodseďálek-970bd1">Josef Vodseďálek</a> z Vysokého. Základy se začaly kopat 17. července <a id="1882-e1314f">1882.</a>
+Při obecnich volbách 11. června zvoleni skoro sami odpůrci stavby. Nová skola byla přijata 13. srpna 1883 a posvěcena 28. záři P. <a id="josef-holý-b8c028">Josefem Holým</a> farářem vysockým způsobem jednoduchým. Přítomen byl okresni hejtman Košťál a z nového výboru staroveského: starosta <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> č. <a id="79-d1fe17">79</a> a rádní: <a id="josef-housa-783a9f">Josef Housa</a> č. <a id="26-4e732c">26</a> a <a id="vít-polouprutský-f99ded">Vit Polouprutský</a> č. <a id="28-33e75f">28,</a> dále <a id="josef-novák-475dbc">Josef Novak</a> č. <a id="2-c81e72">2,</a> <a id="josef-polouprutskyý-1883ad">Jos. Polouprutskyý</a> č. 78,Frant. Janda č. <a id="80-f033ab">80</a> a <a id="josef-ducháček-10f93b">Jos. Duchaček</a> č. <a id="14-aab323">14.</a> Na novou staroveskou školu povolil zemský výbor subvenci
+1 500 zl. a císař <a id="františek-josef-a3a7cc">František Josef</a> I. na ni daroval 200 zl., 50 zl. na ni odkázal 7. června <a id="1882-e1314f">1882</a> zemřelý 67 letý kramář a trafikant <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> č. <a id="66-3295c7">66</a> vulgo Skalák. Ostatní peníze si obec vypůjčila ve spořitelně v České Lípě.
+Po vysvěcení se v nové školní budově, jenž domovní č. <a id="97-e2ef52">97</a> dostala, začalo hned vyučovat. Stará školní budova č. <a id="49-f457c5">49</a> v níž také spisovatel <a id="josef-šír-51d99d">Josef Šír</a> poučil, prodala se s povolením hostinské živnosti která tam byla už před školou. Koupila ji <a id="anna-vedralová-d96abe">Anna Vedralová,</a> žena <a id="františek-vedral-3a5d14">Frant. Vedrala</a> z č. <a id="84-68d30a">84</a> obchodního cestujícího a mnohokrát <a id="trest-cff246">trestaného</a> podvodnika. Jejich syn ing. <a id="bohuslav-vedral-f1b841">Bohusl Vedral</a> byl zaměstnán ve Škodových závodech v Plzni. Ale živnost hostinskou v č. <a id="49-f457c5">49</a> neprovozovali, až jejich nástupce <a id="josef-nepolský-e28029">Josef
 Nepolský</a> z Jilemnice. <a id="anna-vedralová-d96abe">Anna Vedralová</a> rozená Hásková z Vysokého tu provozovala jen jakési cukrářstvi.
 
 Naopak zase <a id="františek-polouprutský-e22834">Frant. Polouprutský</a> č. <a id="19-1f0e3d">19</a> odhlasil živnost hostinskou obávaje se že zadlužením obce se stavbou školy by naň přišlo velké placeni. Kamení na stavbu se lámalo na Vojákově skále
@@ -9995,11 +9953,7 @@ Kde všude se dříve poučilo ani snad doopravdy nevíme. Vypravuje se že tak�
 a světnice přehrazená nebyla. Tam učil vysloužilý voják Kaneček ze Semil a <a id="antonín-vodseďálek-553917">Ant. Vodseďálek</a> č. <a id="10-d3d944">10</a> o něm napsal, že psal předlohy křidou na stěny a že sám mnoho neuměl. V č. <a id="14-aab323">14</a> se učilo dvakrát
 a to byl učitel ve svém. Poprvé též “ausgedienter soldat a podruhé už skutečný vyškolený učitel ale mezitím poučilo v č. <a id="18-6f4922">18,</a> když majitel <a id="václav-hevák-7e20a6">Václ. Hevák</a> bydlel v Praze a domek pronajal obci pro školu
 a potom když <a id="františek-vodseďálek-3dfb48">Frant. Vodseďálek</a> koupil usedlost č. <a id="79-d1fe17">79</a> u Holánů, než mu syn dospěl, aby mohl sám hospodařit, pronajal tam světnici též pro školu. Staří vzpomínali jak učitel <a id="josef-neťuk-8c8ae4">Jos. Neťuka</a> v č. <a id="14-aab323">14</a> se
-svojí ženou při vyučování předli a když ten samý umřel, dědicové hned školu nevypověděli ale musel jeho nástupce <a id="josef-kysela-197bd6">Jos. Kysela</a> ve světnici, kde vyučovali, i bydlet a spát a v č. <a id="34-e36985">34</a> u Vitošů, že se zas
-
-
-několikrát stalo, že hospodář přijda z pole a vida učení ještě v plném proudu, rozzlobil se „a vy tu jste zatracená bando ještě? Už koukejte mazat!“ Když už potom dědicové učitele Neťuky prodali,
-koupila v 50tých letech obec č. <a id="49-f457c5">49</a> do té chvíle hospodu od <a id="antonín-slavík-4fc746">Ant. Slavíka.</a>
+svojí ženou při vyučování předli a když ten samý umřel, dědicové hned školu nevypověděli ale musel jeho nástupce <a id="josef-kysela-197bd6">Jos. Kysela</a> ve světnici, kde vyučovali, i bydlet a spát a v č. <a id="34-e36985">34</a> u Vitošů, že se zas několikrát stalo, že hospodář přijda z pole a vida učení ještě v plném proudu, rozzlobil se „a vy tu jste zatracená bando ještě? Už koukejte mazat!“ Když už potom dědicové učitele Neťuky prodali,koupila v 50tých letech obec č. <a id="49-f457c5">49</a> do té chvíle hospodu od <a id="antonín-slavík-4fc746">Ant. Slavíka.</a>
 
 
 První týden září odletěla většina vlaštovek ale v kravíně jích několik bylo ještě 10.
@@ -10026,11 +9980,8 @@ Ten podzim postavil Státní statek u svého staroveského skladu směrem k lomu
 Mezi <a id="stanisl-kobr-f6a7e5">Stanislavem Kobrem</a> č. <a id="81-43ec51">81</a> a majiteli staré stodoly č. <a id="35-1c383c">35</a> vznikli hraniční spory o čemž se
 Kobr vyjádřil, že toho mají ti noví sousedé pořád málo.
 28\. na Václava a 29. krásně a takový žár že se venku nedalo být v kabátě nebo blúze.
-1\. října po přimrazku krásně, 2. po přimrazku větším, po němž zčernala tráva a omrzly jiřiny se na den čím dál více mračilo což vyvrcholilo 9. o roprachatickém posvícení deštěm s hrozným větrem
+1\. října po přimrazku krásně, 2. po přimrazku větším, po němž zčernala tráva a omrzly jiřiny se na den čím dál více mračilo což vyvrcholilo 9. o roprachatickém posvícení deštěm s hrozným větrem jenž stloukl spoustu jablek. Těch vůbec bylo všude rozšlapaných a rozježděných a nikdo o ně nestál a odbyt na ně nebyl a s hruškami to samé. Pokorní č. <a id="95-812b4b">95</a> ze dvou jabloní spadlou úlohu dovozili do lomu. U bramborů se v mnoha případech vykopávali staré, na jaře vsaděné brambory, tvrdé, nevytrávené, takže se daly ještě skrmit.
 
-
-jenž stloukl spoustu jablek. Těch vůbec bylo všude rozšlapaných a rozježděných a nikdo o ně nestál a odbyt na ně nebyl a s hruškami to samé. Pokorní č. <a id="95-812b4b">95</a> ze dvou jabloní spadlou úlohu dovozili do
-lomu. U bramborů se v mnoha případech vykopávali staré, na jaře vsaděné brambory, tvrdé, nevytrávené, takže se daly ještě skrmit.
 10\. po přimrazku zamračené a na den deštivo, kterýž den bylo na horách prvně bílo, tedy né do
 Václava. 12. odpoledne zemřel v jilemnické nemocnici, kde byl od 9. <a id="josef-babec-c90561">Josef Babec</a> č. <a id="25-8e296a">25</a> jemuž by bývalo bylo příští měsíc 85 let.
 17\. prvně ordinovala <a id="eva-zemanová-5edd98">Eva Zemanová</a> v nové rozdělovně koral v síni domů č. <a id="98-ed3d2c">98</a> <a id="ladislav-kobr-4cb07e">Ladislava Kobra</a> s nímž na to byla smlouva do 10. listopadu.
@@ -10180,11 +10131,8 @@ Založeno od Pana Baumajstra <a id="petr-kramář-b64bb5">Petra Kramáře</a> a 
 <a id="josef-zemánek-c9623e">Josef Zemánek,</a> <a id="matěj-marek-0fe7f8">Matěj Marek,</a> <a id="josef-zemánek-c9623e">Josef Zemánek,</a> <a id="františek-slavík-c9ac8f">Franc Slavík,</a> <a id="hinek-zemánek-90e19b">Hinek Zemánek,</a> dostavěno <a id="1873-d4b2ae">1873.</a> Že v letopočtu psáno „tato lomenice jest vyzdvížena“ oni ji skutečně udělali na zemi a teprv hotovou
 zvedli a podepřenou přibíjeli na přední pár krovů.
 Kdy původní stavení vystavěno, nám už nikdo nepoví, ono patří k těm dvacíti jichž majitelé jsou zapsáni v popise Semilskonavarovského panství z roku <a id="1562-92af93">1562</a> když to tu všecko kolem vlastnil panský rod Smiřických ze Smiřic a majitel jmenované usedlosti byl jistý Kaffrenk a patřil k ní lán né
-snad ve vsi nejůrodnější, ale nejlepší polohou o výměře 70 korců nebo 35 jiter a bývalou výstavnost
+snad ve vsi nejůrodnější, ale nejlepší polohou o výměře 70 korců nebo 35 jiter a bývalou výstavnost (?) udává neůřední kronykář obce <a id="františek-housa-f31931">Frant. Housa</a> č. <a id="21-3c59dc">21,</a> že výše nad domem stála stodola se dvěma mlaty a třemi přístodolky a ještě výše pazdernou a blíže domu byl ještě jeden sklep nad domem ve břehu jehož zbytky byly znát ještě nedávno. Bylo to vše ohrazeno zdí do níž byl klenutý vjezd.
 
-
-(?) udává neůřední kronykář obce <a id="františek-housa-f31931">Frant. Housa</a> č. <a id="21-3c59dc">21,</a> že výše nad domem stála stodola se dvěma mlaty a třemi přístodolky a ještě výše pazdernou a blíže domu byl ještě jeden sklep nad domem ve
-břehu jehož zbytky byly znát ještě nedávno. Bylo to vše ohrazeno zdí do níž byl klenutý vjezd.
 Někdy po roce <a id="1770-e5a4d6">1770</a> vyhořelo staré č. <a id="53-d82c8d">53</a> Vodseďálkovo, po němž se posud říká tomu dílu pozemku mezi Vodseďálkovými a Vláškovým hájem „Spáleniště“ a od toho chytlo i nebo které od kterého, ale shořela i ta Vláškova stodola s pazdernou. Pazderna už nepostavena a stodola postavena na
 dnešním místě a z té ohradní zdi postaveny zděné části domu č. <a id="85-3ef815">85</a> když se grunt rozdělil.
 O Vláškově si také staří vypravovali takové nějaké zmatené pověsti “že tam jeden sedlák shodil nějakého panského funkcionáře se stupní na hnůj a potom že ze statku i s rodinou utekl a zas že tam
@@ -10236,10 +10184,8 @@ Jeho děd <a id="františek-hajna-da7b65">Frant. Hajna</a> měl před 100 lety s
 a koupil si něco menšího ve Sklenařicích a potom maje co dělat ve Vysokém, popošel vždy u Božích muk kousek k Peci, aby se mohl podívat na své bývalé starovesko na něž nemohl zapomenout.
 16\. března se tu prvně objevili špačci, asi třetina trávníku byla vytálá, krtičiny vyschlé a sypké a ze silnice se každým přejetím vozidla prášilo daleko do terénu a hlavně na okna.
 19\. na Josefa kteréhož jmena tu bylo 5 osob bylo po mrazy krásně ale zima a 21. na první jarní den polojasno mrazivo až zakvětovaná okna.
-27\. února byla snacha <a id="františek-svatý-74869a">Frant. Svatého</a> pro něco ve Vkusu ve Vysokém majíc sebou 5 letou dcerku která vyšla ven, když už matka platila. Ta ji však již na ulici nezastihla a ta malá se dala místo ke vsi,
+27\. února byla snacha <a id="františek-svatý-74869a">Frant. Svatého</a> pro něco ve Vkusu ve Vysokém majíc sebou 5 letou dcerku která vyšla ven, když už matka platila. Ta ji však již na ulici nezastihla a ta malá se dala místo ke vsi, k Roprachticům a považujíc vysocký kravín za staroveský, pustila se sněhem do rokle a byla konečně nalezena celá vysílená na lavičce u Vojákova mlýna když přitom ztratila ve sněhu botu a to bylo už večer.
 
-
-k Roprachticům a považujíc vysocký kravín za staroveský, pustila se sněhem do rokle a byla konečně nalezena celá vysílená na lavičce u Vojákova mlýna když přitom ztratila ve sněhu botu a to bylo už večer.
 24\. března odbývali prohlídku komínů dvě dvojice hasičů velitel <a id="václav-šída-2ced24">Václav Šída</a> a <a id="otakar-polouprutský-8ce1dd">Otakar Polouprutský</a> a <a id="jiří-čermák-ae7767">Jiří Čermák</a> a <a id="vladislav-polouprutský-f7665f">Vladisl Polouprutský</a> ml. Večer toho dne hasiči pořádaný ples, jenž se vydařil.
 V neděli 25. na jarní Mariánský svátek, o němž se říká, že naň začíná táti, byla většina sněhu pryč, nastal zas letní čas, to je o jednu hodinu dříve.
 26\. hasičská schůze z deseti účastníky, v níž mimo jiné jednáno o oslavě 80 ti letého trvání zdejšího sboru, proti čemuž byly námitky, že od oslavy 70 letého trvání, členů ubylo a pouze jeden přibyl a ti zbylí že jsou o 10 let starší a tudíž neschopnější na nějaké přípravy.
@@ -10307,10 +10253,7 @@ bramborové brázdy ale tráva se zvedla, jenže řídká zůstala.
 V tom týdnu podpisová akce kdo je pro setrvalý stav s pojízdnou prodejnou a kdo pro stavbu nové prodejny v místě ale celá věc nějak usnula. 24. na <a id="jan-křtitel-ed9454">Jana Křtitele</a> deštivo, zima, tma a v dešti se
 rozléval sníh 25. byli zákaznici pojízdné prodejny na tuto čekající, zimně oblečení a zábly je ruce.
 Usušit seno nebylo možné a co toho bylo posečeného a stojatá tráva od dešťů přivalená. Sem tam někdo našel na bramborách mandelinku ale nerozmohla se tím počasím.
-Ten měsíc se sem z Červeného Kostelce vrátili manželé <a id="helmuth-stilter-26d752">Helmuth Stilter</a> a <a id="stanislava-stillerová-8aedac">Stanislava Stillerová</a>
-
-a tchán a otec <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> jim postoupil dům č. <a id="81-43ec51">81,</a> stodolu a co z bývalé usedlosti po záboru
-Státním statkem zbylo.
+Ten měsíc se sem z Červeného Kostelce vrátili manželé <a id="helmuth-stilter-26d752">Helmuth Stilter</a> a <a id="stanislava-stillerová-8aedac">Stanislava Stillerová</a> a tchán a otec <a id="stanislav-kobr-ea2465">Stanislav Kobr</a> jim postoupil dům č. <a id="81-43ec51">81,</a> stodolu a co z bývalé usedlosti po záboru Státním statkem zbylo.
 
 
 K 1. červenci bylo ve Staré Vsi zvířectva a drůbeže: 12 koz a 1 kozel, 1 prase, do 50 kg váhy a 9 býčků, 173 slepic a 16 kohoutů přičemž skupina hospodářů s výměrou nad 50 arů neměla žádný
@@ -10340,10 +10283,8 @@ Tam stál starý železný transformátor kus od silnice v sadě za starou stodo
 U hořeního, kde nový železný postaven hned vedle starého zděného, nevzal za své žádný ovocný strom jen několik jasanu, dva doubky a lipka <a id="břetislav-pokorný-b3d826">Břetislava Pokorného</a> č. <a id="95-812b4b">95</a> a velký javorový keř <a id="jaroslav-večerník-b04539">Jaroslava Večerníka.</a>
 
 1\. srpna krásně, žár, v 6 hod. k večeru důkladný déšť s důkladnou bouřkou dlouho do noci a 5.
-o vysocké letní pouti krásně ale odpoledne se zamračilo a v 6 hod. hrozný liják s důkladnou bouřkou
+o vysocké letní pouti krásně ale odpoledne se zamračilo a v 6 hod. hrozný liják s důkladnou bouřkou při níž se setmělo až se muselo svítit a slepice se té bouřky a té tmy děsili a cpali se do dveří. Leckdo sušil otavu, jiní dosoušeli seno a dalo se do deště ale začaly růst houby.
 
-
-při níž se setmělo až se muselo svítit a slepice se té bouřky a té tmy děsili a cpali se do dveří. Leckdo sušil otavu, jiní dosoušeli seno a dalo se do deště ale začaly růst houby.
 8\. odešel 69 letý <a id="karel-novák-fa6cb2">Karel Novák</a> č. <a id="13-c51ce4">13</a> do domova důchodců v Rokytnici čímž zůstalo zas jedno stavení prázdné a nezůstalo prázdné jen č. <a id="13-c51ce4">13,</a> ale také č. <a id="98-ed3d2c">98</a> anžto <a id="ladislav-kobr-4cb07e">Ladislava Kobra</a> odvezli do nemocnice a Kobrovou si vzal k sobě syn Jiří v Jablonci nad Nisou, ale netrvalo to dlouho.
 13\. přivezli a umístili první díly transformátorů a druhý den odpojili elektriku od starých transformátoru. V polou srpna zkoušel sem tam někdo kopat brambory k jídlu a ty ukazovali na neúrodu. Státní statek začal se sklizni bramboru, 25. ale přerušily mu to deště a šlo to nakonec jen starým způsobem, to je kopačkami, poněvadž těžší mechanizace do bláta nešla a nebylo ji možné utáhnout.
 
@@ -10460,10 +10401,7 @@ a roku <a id="1869-68c694">1869</a> se vystěhoval do Ameriky.
 <a id="františek-šalda-5244f5">Franta Šalda</a> č. <a id="13-c51ce4">13</a> měl ženu Alžbětu dceru <a id="antonín-patočka-89245f">Ant. Patočky</a> z Vysokého č. <a id="129-d1f491">129</a> a syny: Františka rolníka č. <a id="72-32bb90">72,</a> Čeňka JUDr. soudce v Jičíně jenž však ani advokátem nesměl být, Antonína jenž zemřel za <a id="válka-bfccd5">války</a> <a id="1914-07a4e2">1914</a> – 18 ve <a id="vězení-9eb76f">vězení</a> v Terezíně, odepřev vzíti zbraň a Jaroslava zvaného „arcišalda“ jenž
 rovněž zemřel ve válce a dcery: Karlu provdanou za <a id="josef-polouprutský-403545">Josefa Polouprutského</a> č. <a id="20-98f137">20</a> a potom č. <a id="78-35f4a8">78</a> a Annu provdanou za <a id="jan-novotný-8a95b7">Jana Novotného</a> na Jestřabí. Starý <a id="františek-šalda-5244f5">Frant. Šalda</a> hospodařil na č. <a id="13-c51ce4">13</a> a na č. <a id="72-32bb90">72</a>
 u Hajnů jeho žena, synové byli s ní a práci dělali dohromady a trhavě také v obou místech. Jako vdovec nechal usedlost č. <a id="13-c51ce4">13</a> u Pátku Hospodářské záložně na dluhy a přiženil se jsa přes 70 let
-starý k nějaké vdově pod Bozkov, ale obec Spálov, kde měl ještě dceru ale nemoha to s nevlastními
-
-
-syny vydržet, oběsil se tam někdy po roce <a id="1902-fc4ddc">1902.</a> Hospodářská záložna rozprodala usedlost č. <a id="13-c51ce4">13</a> na kusy.
+starý k nějaké vdově pod Bozkov, ale obec Spálov, kde měl ještě dceru ale nemoha to s nevlastními syny vydržet, oběsil se tam někdy po roce <a id="1902-fc4ddc">1902.</a> Hospodářská záložna rozprodala usedlost č. <a id="13-c51ce4">13</a> na kusy.
 Zatím <a id="františek-šalda-5244f5">Frant. Šalda</a> ml. na č. <a id="72-32bb90">72</a> chtě si pomoci od dluhů, nechal si přijít Hodkovickou záložnou do dražby, v níž to vydražila jeho žena Anna, že však ale z Hodkovic si přivezli zájemce jenž přihazoval, nechtěli li Šaldovi se stěhovat, nepřišlo jim to nijak lacino a byla potom Šaldová nucena
 prodat kus louky a za jeden kus pole u Trhovice nedostala ani krejcar, ten dostal vysocký pekař <a id="jan-prajzler-1eabbd">Jan
 Prajzler</a> za samou na dluh vylovanou (?)„forotu“.
@@ -10684,10 +10622,8 @@ jen o prázdninách a obilí jde špatně na odbyt, aby si ho dávali semílat a
 druhým <a id="josef-večerník-1fdbf4">Josef Večerník</a> z č. <a id="20-98f137">20</a> a třetím, a ten byl až do konce, <a id="štěpán-hrádecký-fbe6f4">Štěpán Hrádecký</a> od Kašparů z Roprachtic. U Pecnářského spolku nebyly jen členové ze vsi ale i z Roprachtic a ze Stanového.
 Zatím pan rada 28. října <a id="1918-e74c0d">1918</a> maje velkou radost ze samostatnosti, náhle zemřel ve stáří 54 let a vdova po něm se sem nastěhovala <a id="1920-44968a">1920,</a> když se stala Praha hlavním městem a měla najednou
 nedostatek bytů a paní radová se neopatrně přiznala že tu má prázdnou místnost čímž přišla o pražský byt. Tady ji měli brzo všichni dosti, nechávala si říkat „milostpaní“ a kdo jí tak netituloval byl u ní hrubec, ona byla dáma a zdejší lidé byli otroci, najala si služku, přihlouplou <a id="anežka-kobrová-044269">Anežku Kobrovou</a>
-z č. <a id="64-ea5d2f">64</a> a tu i fackovala a říkala, že jí proto má, že si do ní může uhodit. Jednou tu měla na návštěvě
+z č. <a id="64-ea5d2f">64</a> a tu i fackovala a říkala, že jí proto má, že si do ní může uhodit. Jednou tu měla na návštěvě nějakou slečnu z Prahy a šla s ní do Kalifornie (k Hevákovi do Končin) a tu ta návštěvnice našla v cestě ztracenou volskou podkovu a ptala se jí co to je a ta jí hned napomenula zahoďte to to ztratil některý z těch hnojařů.
 
-
-nějakou slečnu z Prahy a šla s ní do Kalifornie (k Hevákovi do Končin) a tu ta návštěvnice našla v cestě ztracenou volskou podkovu a ptala se jí co to je a ta jí hned napomenula zahoďte to to ztratil některý z těch hnojařů.
 Povídalo se že Slavík se s ní oženil proto, že za její peníze dostudoval a v Praze že se jí říkalo
 „Francka od Primasů“. A tak byla brzy na štírů se sousedy, s Hrádeckým a s celým Pecnářským spolkem, který <a id="1923-414e77">1923</a> zanikl, Hrádecký ten rok koupil č. <a id="94-f4b9ec">94</a> a z jejího se vystěhoval.
 Zemřela v roce <a id="1936-11108a">1936</a> v stáří 68 let a byla dcera mlynáře Javůrka ze Zálohů u Jičína a odvezena k pohřbení do hrobky v Praze a dům č. <a id="98-ed3d2c">98</a> odkázala Ústavu slepců v Praze kterýž ho prodal. Mimo
@@ -10783,10 +10719,8 @@ noc se mračilo ale nepřišlo zas nic. 20. bouřilo odpoledne zas, ale tentokr�
 v trubkách, že vyleze snětivé.
 21\. horko ale navečer se silně ostudenilo a v neděli 22. po přimrazku krásně. Bylo ty dny velmi dohledno, hrozně modrá obloha a ta ranní chladna, že to vypadalo spíše na září nebo aspoň na
 srpen z čehož mnozí usuzovali na brzký příchod zimy.
-Okolo 24. již kvetly lípy o dva týdny dříve než jiná leta a 29. o semilské a jesenské pouti odpoledne se mračilo až do června ale nepřišlo nic. Sucho. Přes ten deštěm a zimou zmařený první týden června se pokud paměť lidská sahá, neusušilo seno tak lehce, krátce a brzo jako ten rok. Ten čas
+Okolo 24. již kvetly lípy o dva týdny dříve než jiná leta a 29. o semilské a jesenské pouti odpoledne se mračilo až do června ale nepřišlo nic. Sucho. Přes ten deštěm a zimou zmařený první týden června se pokud paměť lidská sahá, neusušilo seno tak lehce, krátce a brzo jako ten rok. Ten čas bylo ve Staré Vsi při asi 90 obyvatelích a 28 stále obydlených domech a 37 obydlených občas, 4 neobydlených a 30 již nestálo, 29 radiopřijímačů a 26 televizorů.
 
-
-bylo ve Staré Vsi při asi 90 obyvatelích a 28 stále obydlených domech a 37 obydlených občas, 4 neobydlených a 30 již nestálo, 29 radiopřijímačů a 26 televizorů.
 První dny července schla nať na bramborách, na zelenině byla prašivina (rušice), třešně ten rok vůbec nebyly a rovněž né višně a slivy, zato jablka byla a hrušek mnoho.
 Nedostatek vody vynutil zákaz kropení prádla a zalevaní zahrádek. 5. navečer čistili staroveští nádrž pod školou. 9. v pravé poledne dlouhá bouřka s lijákem a kroupami.
 13\. o staroveské Národní pouti která byla jen připomínkou protože při ní vůbec nic poutního nebylo, ani taneční zábava, ani mše, bylo slabě zamračené a zima.
@@ -10841,8 +10775,8 @@ Medaile za věrnost 10 let: <a id="otakar-polouprutský-8ce1dd">Otakar Polouprut
 Medaile za 20 let: <a id="miroslav-vodseďálek-102d26">Miroslav Vodseďálek</a> č. <a id="15-9bf31c">15.</a>
 Medaile za 30 let: <a id="vlastimil-albrecht-816658">Vlast. Albrecht</a> č. <a id="65-fc490c">65,</a> <a id="marie-babcová-5ce9e7">Marie Babcová</a> č. <a id="26-4e732c">26,</a> <a id="josef-polouprutský-403545">Jos. Polouprutský</a> č. <a id="19-1f0e3d">19</a> a <a id="josef-šmíd-ec9534">Jos. Šmíd</a> č. <a id="46-d9d4f4">46.</a>
 Medaile za 40 let: <a id="ladislav-kobr-4cb07e">Ladislav Kobr</a> 98
-
 Medaile za věrnost 60 let: <a id="františek-liška-568223">František Liška</a> č. <a id="17-70efdf">17</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník</a> č. <a id="20-98f137">20.</a>
+
 Všichni za příkladnou a obětavou práci.
 Na táhací harmoniku jim zahrál <a id="josef-babec-c90561">Josef Babec</a> č. <a id="26-4e732c">26.</a> Přítomní také uctili <a id="povstání-4b65c0">povstáním</a> památku zemřelé členky Boženy Albrechtové.
 16\. prvně bílo a hned důkladně takže 18. už protahovali prvně silnici a 19. první foukanice jako uprostřed zimy a 20. už nadělalo návěje; 22. prvně zamrzlá okna a sníh se hrnul a napadlo ho mnoho a foukalo s nim a na Štědrý den už ho leckdo shazoval se střechy a copak 29., kdy do té spousty
@@ -10891,10 +10825,8 @@ V lednu mnoho slunečna nebylo a sníh se zrovna hrnul, že ho bylo že to žád
 1\. unora překrásně a rovněž tak 2. na Hromnice což podle pranostyky nemá být, že není brzo skutečné jaro což také ten rok uhodl. Po 10. unoru obleva, mnoho mokrého sněhu připadlo a vezl
 se se střech ale také ho museli lidé shazovat a po 20. udělalo površek a důkladný.
 Březen byl samá mlha a sněhu ještě připadlo. 22. prohlídka komínu kterouž vykonal předseda
-Občanského výboru <a id="jiří-čermák-ae7767">Jiří Čermák</a> a <a id="otakar-polouprutský-8ce1dd">Otakar Polouprutský,</a> kterýž den umřel v nemocnici staroveský soused 75 letý <a id="josef-petřina-b69b77">Josef Petřina,</a> rodák roprachtický, chalupník v Helkovicích č. <a id="52-9a1158">52</a> kteráž chalupa před
+Občanského výboru <a id="jiří-čermák-ae7767">Jiří Čermák</a> a <a id="otakar-polouprutský-8ce1dd">Otakar Polouprutský,</a> kterýž den umřel v nemocnici staroveský soused 75 letý <a id="josef-petřina-b69b77">Josef Petřina,</a> rodák roprachtický, chalupník v Helkovicích č. <a id="52-9a1158">52</a> kteráž chalupa před lety měla staroveské č. <a id="82-9778d5">82.</a> On tam ale už nebydlel, nýbrž od podzimu se ženou ve Vysokém zrovna jako 83 letý starý mládenec <a id="františek-zákoutský-96653f">František Zákoutský,</a> čímž zas č. <a id="31-c16a53">31</a> zůstalo prázdné.
 
-
-lety měla staroveské č. <a id="82-9778d5">82.</a> On tam ale už nebydlel, nýbrž od podzimu se ženou ve Vysokém zrovna jako 83 letý starý mládenec <a id="františek-zákoutský-96653f">František Zákoutský,</a> čímž zas č. <a id="31-c16a53">31</a> zůstalo prázdné.
 Do konce března pořád ještě připadávalo sněhu takže se zdálo že bude ještě v máji a i špačci přiletěli teprv první dny dubna.
 1\. dubna zamračené a chvílemi hustě sněžilo. 5. deštivo, tma, břehy vytálé a rychlým táním sněhu velmi stoupl potok. 10. sníh téměř pryč že to bylo kupodivu, kam se ho ta spousta mohla podět
 a 12. až na nepatrné zbytky na Malé Straně byl sníh pryč a rozkvetly bledule.
@@ -10995,9 +10927,6 @@ Majitelé domů:
 Č. <a id="20-98f137">20</a> <a id="adam-hevák-0d7365">Adam Hevák</a>
 Č. <a id="21-3c59dc">21</a> <a id="vít-polouprutský-f99ded">Vít Polouprutský</a>
 Č. <a id="22-b6d767">22</a> <a id="václav-čermák-cde03a">Václav Čermák</a>
-
-
-
 Č. <a id="23-37693c">23</a> <a id="josef-čermák-dac615">Josef Čermák</a>
 Č. <a id="24-1ff1de">24</a> <a id="vít-novák-d000ea">Vít Novák</a>
 Č. <a id="25-8e296a">25</a> <a id="jan-novák-5eaffb">Jan Novák</a>
@@ -11020,9 +10949,6 @@ Majitelé domů:
 Č. <a id="42-a1d0c6">42</a> <a id="josef-novák-475dbc">Josef Novák</a>
 Č. <a id="43-17e621">43</a> <a id="františek-novák-8834ba">František Novák</a>
 Č. <a id="44-f71771">44</a> <a id="josef-novák-475dbc">Josef Novák</a>
-
-
-
 Č. <a id="45-6c8349">45</a> <a id="adam-novák-904301">Adam Novák</a>
 Č. <a id="46-d9d4f4">46</a> <a id="jakub-novák-f9b5d1">Jakub Novák</a>
 Č. <a id="47-67c6a1">47</a> <a id="adam-novák-904301">Adam Novák</a>
@@ -11085,17 +11011,16 @@ zahřmělo. 27. začal zas „letní čas“ to je o 1 hodinu do předu. Břehy 
 3\. a 4. dubna Velikonoční svátky, polovička sněhu pryč, jak neobyčejně ubýval, že ho 7. bylo pryč většina. Ty dny sem přiletěli špačci. Dům č. <a id="75-d09bf4">75</a> u Krejčů s tím, co po záboru Státním statkem z usedlosti zbylo, ujal po <a id="smrt-a332b5">smrti</a> Lidmily Vodseďálkové manžel její dcery Blaženy zeť <a id="václav-albrecht-0f08c2">Václav Albrecht,</a> rodák z bývalého mlýna č. <a id="40-d64592">40.</a>
 10\. dubna když byl již sníh téměř pryč, bylo ráno znova bílo ale do večera nový sníh stál ale padal ještě 13. a 23. 26. až 30. polojasno, ale mrazy; sníh pryč. Roku <a id="1920-44968a">1920</a> kukala již 20. dubna kukačka. Hlavní jarní práce Státního statku jako zasetí zrní, ošetření a pohnojení víceletých pícnin, pastvin a luk a sázení bramborů se odbylo ve dnech 18. dubna do 6. května. Pomalé tání té spousty
 sněhu se projevilo velice nepříznivě na ozimech a jetelích, takže byl Státní statek nucen zaorat přes
-98 ha žita, přes 11 ha ječmene a přes 55 ha víceletých pícnin. Sníh se sypal ještě 23. dubna. To jaro
+98 ha žita, přes 11 ha ječmene a přes 55 ha víceletých pícnin. Sníh se sypal ještě 23. dubna. To jaro létali první motýli barevní což je podle pranostyky předpověď roku více úrodného na obilí než na pícniny a byly to samé babočky osikové, ani jeden jiný. Když se nová majitelka č. <a id="20-98f137">20</a> Kudrová chtěla zbavit dvou koz, které její otec s matkou již obsluhovati nemohli a sama bydlela ve Vysokém,musela být ráda, když je jistý <a id="františek-babec-4f5e2b">František Babec</a> z Roztok vzal zadarmo. Tak zbývaly kozy už jen v č. <a id="9-45c48c">9</a> u <a id="josef-janoušek-ed5240">Josefa Janouška</a> v č. <a id="65-fc490c">65,</a> u <a id="vlastimil-albrecht-816658">Vlastimil Albrechta</a> a v č. <a id="27-02e74f">27</a> u <a id="václav-žitný-f09ee9">Václava Žitného.</a>
 
-
-létali první motýli barevní což je podle pranostyky předpověď roku více úrodného na obilí než na pícniny a byly to samé babočky osikové, ani jeden jiný. Když se nová majitelka č. <a id="20-98f137">20</a> Kudrová chtěla zbavit dvou koz, které její otec s matkou již obsluhovati nemohli a sama bydlela ve Vysokém,
-musela být ráda, když je jistý <a id="františek-babec-4f5e2b">František Babec</a> z Roztok vzal zadarmo. Tak zbývaly kozy už jen v č. <a id="9-45c48c">9</a> u <a id="josef-janoušek-ed5240">Josefa Janouška</a> v č. <a id="65-fc490c">65,</a> u <a id="vlastimil-albrecht-816658">Vlastimil Albrechta</a> a v č. <a id="27-02e74f">27</a> u <a id="václav-žitný-f09ee9">Václava Žitného.</a>
 7\. května nasázel traktorista Albrecht těm svým záhumenkářům brambory které pro sucho ještě za měsíc puštěno neměli. Pořád krásně a větry, 9. začaly kvést třešně a místy začalo vypalovat trávník. 9. začali dělat s cestou ten úsek od lomu k transformátoru jenž měla být vyasfaltována.
 17\. se konečně začalo mračit; 19. po noci s deštíkem odpoledne asi třikrát zahřmělo; kol 20. kvetly jabloně a šeřík začal. 21. tu přes ves na Vojákovo byly motocyklové závody a v neděli 22. po silnici nahoru. 27. celé odpoledne hřmělo ale teprv na večer skropilo trochu prach.
 29\. odpoledne ve 4 hod. odešla dobrovolně na věčnost, né pro nemoc ale pro myšlení na skutečnosti, které vůbec nebyly, 79 letá Marie manželka <a id="jaroslav-večerník-b04539">Jaroslava Večerníka</a> č. <a id="20-98f137">20</a> dcera <a id="františek-soukup-2e6a7b">Františka Soukupa</a> č. <a id="53-d82c8d">53.</a>
 30\. přes den trochu rosilou, 31. půlnoci s deštíkem zamračené a odpoledne asi dvakrát zahřmělo.
 Lidé začali sázet zeleninu. Jak byla odejítá zima, zemědělství nepříznivá, vidno z toho že vysocký
-Státní statek byl nucen zaorat a znovu zasít přes 98 ha žita, 11 ha ječmene a přes 55 ha pícnin. Pásti začal staroveský kravín 4. května.
+Státní statek byl nucen zaorat a znovu zasít přes 98 ha žita, 11 ha ječmene a přes 55 ha pícnin. Pásti začal staroveský kravín 
+
+4. května.
 První týden června se teprve ozvala kukačka; lidé začali sušit seno, tráva byla řídká od zimy umořená. Polouprutský č. <a id="19-1f0e3d">19</a> nemohl sušit, poněvadž ta úprava cesty nad jeho stodolu nebyla ještě dodělána a dokončili to 10., přičemž spravili ten úsek cesty od domu do silnice, vytlučených vinou
 Státního statku. Při té úpravě cesty, porazili také starou jabloň v rohu č. <a id="95-812b4b">95</a> Pokorných nad č. <a id="19-1f0e3d">19,</a> proti č. <a id="79-d1fe17">79</a> která bývala předmětem sváru když měli č. <a id="95-812b4b">95</a> Hlouškovi. Tehdy Polouprutský č. <a id="19-1f0e3d">19</a>
 a Chlum č. <a id="79-d1fe17">79</a> vozivše fůry obilí z pole domů, drhli jimi do cesty visící větve i s jablky a Hlouškovi nadávali že schválně vozili velké fůry, aby jim dělali škodu. Polouprutský k tomu mlčel ale né Chlum
@@ -11176,14 +11101,9 @@ Potom počátkem roku <a id="1923-414e77">1923</a> <a id="josef-novák-475dbc">J
 zemřelého <a id="ladislav-novák-29358c">Ladislav Novák.</a> Vdova by si byla dala říci ale né on a odmítl i nabízenou mu Boženu, sestru <a id="oldřich-novák-d3f052">Oldřicha Nováka</a> č. <a id="37-a5bfc9">37.</a> Oženil se sice nakonec s jistou Kaprasovou z rodiště jeho matky
 Stromkové, ale ta se s ním rozvedla za Protektorátu, že nechtěl děti, ona je stejně neměla i když se znovu provdala.
 A tak když to takto dopadlo, měli synové otce k tomu, aby č. <a id="94-f4b9ec">94</a> prodal a šel k Františkovi do č. <a id="87-c7e124">87</a> který na to nejvíce naléhal a on poslechl.
-Na dráze však dlouho nebyl, kde naň i syn ruku vztáhl a vdova po Josefovi jenž tam též vybíti nemohla, si ho vzala sebou do Tesařova a nakonec ho nechtěl nikdo a on umřel <a id="1929-139f08">1929</a> v chudobinci (č 51)
+Na dráze však dlouho nebyl, kde naň i syn ruku vztáhl a vdova po Josefovi jenž tam též vybíti nemohla, si ho vzala sebou do Tesařova a nakonec ho nechtěl nikdo a on umřel <a id="1929-139f08">1929</a> v chudobinci (č 51) „Dědek myslím zmrz“, jak se vyjádřil syn Antonín z Roztok, jsoucí mu na pohřbu. Po <a id="smrt-a332b5">smrti</a> otce narozený Adolf se vyučil pekařem a měl šikovné ruce ke všemu a když dospěl a stal se pekařem ve Vysokém, přestavěl při tom zatím po dědovi a babičce zděděné č. <a id="87-c7e124">87</a> a to hodně obtížně. Že se v takových vesnicích tenkrát znovu stavěti nesmělo, nemohl nejdřív staré rozbourati ale obezdíval je zvenčí škvárovkami jež si dělal sám a cihlami okolo dřevěných stěn a ty potom za zdmi vyřezával a tak pracně přestavěli dům i stodolu jen sami s bratrem bez cizí pomoci.
+Že to stavěli s bratrem. Ona si totiž vdova namluvila jistého Ukrajince jménem <a id="ivan-fal-7c33bc">Ivan Fal</a> jenž tu jako mnozí jeho národnosti našel útočiště když tam u nich doma v <a id="boj-1de92c">boji</a> za samostatnou Ukrajinu neuspěli a s ním měla syna Ladislava jenž příjmení Václavík jenž měl po matce rozené Václavíková ze Stanového, změnil na Novák, aby měli s bratrem stejné.
 
-
-„Dědek myslím zmrz“, jak se vyjádřil syn Antonín z Roztok, jsoucí mu na pohřbu. Po <a id="smrt-a332b5">smrti</a> otce narozený Adolf se vyučil pekařem a měl šikovné ruce ke všemu a když dospěl a stal se pekařem ve
-Vysokém, přestavěl při tom zatím po dědovi a babičce zděděné č. <a id="87-c7e124">87</a> a to hodně obtížně. Že se v takových vesnicích tenkrát znovu stavěti nesmělo, nemohl nejdřív staré rozbourati ale obezdíval je zvenčí škvárovkami jež si dělal sám a cihlami okolo dřevěných stěn a ty potom za zdmi vyřezával
-a tak pracně přestavěli dům i stodolu jen sami s bratrem bez cizí pomoci.
-Že to stavěli s bratrem. Ona si totiž vdova namluvila jistého Ukrajince jménem <a id="ivan-fal-7c33bc">Ivan Fal</a> jenž tu jako mnozí jeho národnosti našel útočiště když tam u nich doma v <a id="boj-1de92c">boji</a> za samostatnou Ukrajinu
-neuspěli a s ním měla syna Ladislava jenž příjmení Václavík jenž měl po matce rozené Václavíková ze Stanového, změnil na Novák, aby měli s bratrem stejné.
 Fal se potom mohl vrátit a nemoha se rozhodnout „tam domov, tady rodina“ oběsil se a a <a id="emilie-nováková-8e0b71">Emilie
 Nováková</a> poměla ještě <a id="jindřich-hásek-258d4d">Jindřicha Háska</a> eskamotra z Vysokého <a id="štěpána-hyrš-b699f9">Štěpána Hyrše</a> z Příchovic, který když umřel, vzal si ji syn k sobě do Vysokého, kdež umřela. Tehdy měl chalupu č. <a id="87-c7e124">87</a> najatou <a id="václav-žitný-f09ee9">Václav
 Žitný</a> než koupil po Čeňku Housovi č. <a id="27-02e74f">27.</a>
@@ -11238,10 +11158,8 @@ Co bylo koncem ledna vytálé, zase první dny února sníh přikryl a dál zas 
 1\. března připadlo mokrého sněhu ale 4. až 5. pršelo, takže sněhu zůstalo málo, rozkvetly již bledule. 6. krásně a létali motýlí a to barevní; 13. večer na západě bouřka a 15. ráno sněhový poprašek ale že svítilo slunce, během dopoledne stál a odpoledne pršelo. 10. v kulturním domě v Jablonci
 slavnostní konference na oslavu 25. let trvání vysockého Státního statku.
 19\. na Květnou neděli a na Josefa kteréhož jména tu byli 4 občané, bylo po mraze krásně.
-14\. odpoledne ve škole školení CO, na které přišli dva důchodci. 19. bylo po mraze krásně a o sněhu se mohlo říci, že je pryč a lidé uhrabovali okolo domu, 23. na Zelený čtvrtek dešť jenž přešel v sníh až bílo zůstalo a druhý den ještě sněhové přeháňky, ale Velkonoce 26. a 27. byly pěkné. Velikonoční pondělí zas začal Letní čas, to je o jednu hodinu dopředu. Koncem března se začalo projevovat sucho. Vedoucí zdejší rozdělovny koral <a id="eva-zemanová-5edd98">Eva Zemanová</a> z Jesenného měla jen 4 navlékačky a to
+14\. odpoledne ve škole školení CO, na které přišli dva důchodci. 19. bylo po mraze krásně a o sněhu se mohlo říci, že je pryč a lidé uhrabovali okolo domu, 23. na Zelený čtvrtek dešť jenž přešel v sníh až bílo zůstalo a druhý den ještě sněhové přeháňky, ale Velkonoce 26. a 27. byly pěkné. Velikonoční pondělí zas začal Letní čas, to je o jednu hodinu dopředu. Koncem března se začalo projevovat sucho. Vedoucí zdejší rozdělovny koral <a id="eva-zemanová-5edd98">Eva Zemanová</a> z Jesenného měla jen 4 navlékačky a to Stanislavu Chlumovou, Boženu Koublovou a 2 z Roztok: Chlumovou a Hlaváčovu, <a id="božena-lišková-9c38b2">Božena Lišková</a> byla v nemocnici a <a id="marie-kvardová-48fc52">Marie Kvardová</a> navlékala vysocké rozdělovně.
 
-
-Stanislavu Chlumovou, Boženu Koublovou a 2 z Roztok: Chlumovou a Hlaváčovu, <a id="božena-lišková-9c38b2">Božena Lišková</a> byla v nemocnici a <a id="marie-kvardová-48fc52">Marie Kvardová</a> navlékala vysocké rozdělovně.
 První dny dubna se začalo dělat na poli, začali se ozívat ptáci a přiletěly vlaštovky.
 4\. dešť se sněhem ale trávník se zelenal, 5. po žlutém východu slunce se zvětšilo a odpoledne pršelo se sněhem kterýž den zemřel v lomnické nemocnici 78 letý bývalý obchodník, potom vedoucí prodejny Jednoty <a id="ladislav-kobr-4cb07e">Ladislav Kobr,</a> bývalý hasičský velitel, rodák z č. <a id="81-43ec51">81</a> jenž měl takovou sklerosu
 že nevěděl že je v nemocnici a že neni doma. Pohřeb na vysocký hřbytov 10. dubna.
@@ -11251,6 +11169,7 @@ V neděli 16. po dešti v noci odpoledne na severovýchodě důkladná bouřka p
 21\. odpoledne traktorista <a id="vlastimil-albrecht-816658">Vlastimil Albrecht</a> vsadil brambory sobě a těm jimž to již řadu let dělal za pěkného počasí, ale sotva to měl, popršelo.
 16\. hory a paseky hrozná zima; 19. odpoledne dešť a sněhové přeháňky; 20. v noci bouřka;
 22\. celý den zamračené a tma ale jaká tma; 24. stromoví zelené a rané třešně začínaly kvést a v noci
+
 26\. bouřka zas a 27. odpoledne zas pršelo se sněhem když už předtím ochlazením létali čmeláci a korunu tomu počasí dalo 29. když už kvetly třešně, slivy a byla vysoká tráva a ráno bylo bílo a sníh
 se hrnul celé dopoledne, což odpoledne přešlo v déšť.
 Ten den se v Liberci vdávala třetí vnučka kronikáře Večerníka dr <a id="irena-kudrová-12bec8">Irena Kudrová</a> z Vysokého za
@@ -11293,14 +11212,13 @@ a pod pěšinu jdoucí od č. <a id="9-45c48c">9</a> do silnice a pod silnici od
 nebyla v údolí nýbrž až nad statky a její role (lánek) sahal jen k Trhovici a měl výměru 12 korců což je právě výměra staročeské polní míry „prutu“ a tvořila do scelení pozemku polovici šířky Krčovské
 role od domu po Trhovici. Podle toho musí být Trhovice starší nežli staroveské rozměření. Na soutoku hlavního potoka s potůčkem, tekoucím od Krčoví, stála další chalupa č. <a id="29-6ea9ab">29</a> v Potocích neb u Potockých a to na té straně potůčku k dolenci a odtud vznikla a o pozemky se rozdělili okolo roku
 <a id="1750-6a5dfa">1750</a> chalupa č. <a id="30-34173c">30</a> v hořeních Potocích, také u Šmídů neb u Zámečníků. Další byla č. <a id="31-c16a53">31</a> (dnes Zákoutský) a vedlejší č. <a id="32-6364d3">32</a> dnes Přibáň. Tyto dvě chalupy svými pozemky vypadají tak jako by vznikla jedna od druhé. Ale která od které? To už dnes nikde nenajdeme.
+
 A další nejstarší jsou **statky (grunty)** a tak první na řadě od Vysokého je č. <a id="10-d3d944">10</a> u Starů (dnes
 <a id="jana-vodseďálek-18554b">Jana Vodseďálková),</a> druhý č. <a id="13-c51ce4">13</a> u Pátku (dnes <a id="karel-novák-fa6cb2">Karel Novák);</a> třetí č. <a id="15-9bf31c">15</a> (Miroslav Vodseďálek) u Sedláků, u Přidanů. Čtvrtý jest č. <a id="19-1f0e3d">19</a> u Holanů, u Berků (Josef Polouprutský). Pátý č. <a id="20-98f137">20</a> (Jaroslav Večerník) u Vršťalů. Šestý č. <a id="22-b6d767">22</a> u Čermáku (dnes rekreant <a id="erich-hubáček-7e3d71">Erich Hubáček).</a> Sedmý č. <a id="26-4e732c">26</a>
-v dolním (předním) Krčoví (1989 zemřelá <a id="marie-babcová-5ce9e7">Marie Babcová).</a> Osmý č. <a id="33-182be0">33</a> u Nováků, u Palasů zbořenina pod č. <a id="76-fbd793">76.</a> Devátý č. <a id="34-e36985">34</a> u Vitošů od roku <a id="1907-77369e">1907</a> spáleniště pod cestou od č. <a id="76-fbd793">76</a> v křoví. Desátý č. <a id="35-1c383c">35</a> u Petrů, nověji u Marků (Václav Potměšil rekreant). Jedenáctý zbořeniště č. <a id="39-d67d8a">39</a> u Smetalu (rekreant <a id="zdeněk-danděra-320262">Zdeněk Danděra).</a> Dvanáctý Mlynářovo, hoření mlýn č. <a id="41-3416a7">41</a> spáleniště z roku <a id="1892-ca4603">1892</a>
-
-
-(Josef Strnádek Roprachtice Ráj). Třináctý Vojákovo č. <a id="43-17e621">43,</a> <a id="45-6c8349">45,</a> <a id="46-d9d4f4">46</a> a zbořeniště č. <a id="44-f71771">44.</a> Čtrnáctý
+v dolním (předním) Krčoví (1989 zemřelá <a id="marie-babcová-5ce9e7">Marie Babcová).</a> Osmý č. <a id="33-182be0">33</a> u Nováků, u Palasů zbořenina pod č. <a id="76-fbd793">76.</a> Devátý č. <a id="34-e36985">34</a> u Vitošů od roku <a id="1907-77369e">1907</a> spáleniště pod cestou od č. <a id="76-fbd793">76</a> v křoví. Desátý č. <a id="35-1c383c">35</a> u Petrů, nověji u Marků (Václav Potměšil rekreant). Jedenáctý zbořeniště č. <a id="39-d67d8a">39</a> u Smetalu (rekreant <a id="zdeněk-danděra-320262">Zdeněk Danděra).</a> Dvanáctý Mlynářovo, hoření mlýn č. <a id="41-3416a7">41</a> spáleniště z roku <a id="1892-ca4603">1892</a> (Josef Strnádek Roprachtice Ráj). Třináctý Vojákovo č. <a id="43-17e621">43,</a> <a id="45-6c8349">45,</a> <a id="46-d9d4f4">46</a> a zbořeniště č. <a id="44-f71771">44.</a> Čtrnáctý
 Vláškovo č. <a id="48-642e92">48</a> spáleniště z roku <a id="1984-1b36ea">1984</a> (rekreant Sova) a patnácté Vodseďálkovo č. <a id="53-d82c8d">53</a> (rekreant
 Pařík).
+
 **Třetí skupina je dělení statků** a to je první od Vysokého č. <a id="9-45c48c">9</a> u Hajnů (Josef Janoušek) oddělené od č. <a id="10-d3d944">10,</a> č. <a id="72-32bb90">72</a> oddělené od č. <a id="9-45c48c">9</a> (předposlední majitel <a id="vladimír-šalda-1e5776">Vladimír Šalda).</a> č. <a id="83-fe9fc2">83</a> (Svatí) oddělení ještě od
 č. <a id="10-d3d944">10.</a> č. <a id="80-f033ab">80</a> (u Jandů) oddělení od č. <a id="13-c51ce4">13</a> a na jeho pozemku postavená pazderna č. <a id="96-26657d">96</a> dnes na domek přestavěna. č. <a id="16-c74d97">16</a> u Javůrku (rekreant Karlas) oddělené od č. <a id="15-9bf31c">15</a> a č. <a id="65-fc490c">65</a> (Albrecht) oddělené od č. <a id="16-c74d97">16</a>
 a č. <a id="93-98dce8">93</a> ještě oddělené od č. <a id="15-9bf31c">15</a> (Jiří Čermák). č. <a id="63-03afdb">63</a> u Holánů oddělené od č. <a id="19-1f0e3d">19</a> (spáleniště v majetku č. <a id="74-ad61ab">74)</a> a č. <a id="79-d1fe17">79</a> oddělené od č. <a id="63-03afdb">63</a> a č. <a id="95-812b4b">95</a> pazderna se 4 kusy pole oddělená od č. <a id="19-1f0e3d">19.</a> č. <a id="79-d1fe17">79</a> Chlum, č. <a id="95-812b4b">95</a>
@@ -11309,8 +11227,9 @@ zbourané chalupy Prutu jenž stála nad č. <a id="26-4e732c">26</a> kde stař�
 stálo proti staré stodole č. <a id="35-1c383c">35</a> a odděleno od č. <a id="34-e36985">34.</a> č. <a id="36-19ca14">36</a> stálo na místě novější hospody č. <a id="35-1c383c">35</a> a měl přezdívku u Petrů a bylo odděleno od č. <a id="35-1c383c">35</a> a od něho odděleno zas č. <a id="81-43ec51">81</a> u hořeních Petrů (Stanislava Stillerová) č. <a id="59-093f65">59</a> u doleních Smetalu, u Jodasů, stálo do roku <a id="1899-6be533">1899</a> na svahu nade mlýnem č. <a id="40-d64592">40</a>
 pod cestou a bylo odděleno od č. <a id="39-d67d8a">39.</a> č. <a id="42-a1d0c6">42</a> původní barák (domek) u Přezáků ale byl koupen majitelem polovice pozemku od hořeního mlýna č. <a id="41-3416a7">41</a> a stal se tak usedlostí.
 U Vojáků postaveny všechny čtyři domy najednou po vyhoření společného; č. <a id="44-f71771">44</a> u Březováků rozbořeno a č. <a id="46-d9d4f4">46</a> před rokem <a id="1914-07a4e2">1914</a> přestavěno z cihel. č. <a id="85-3ef815">85</a> u Vlášků oddělenou <a id="1821-596ded">1821</a> od č. <a id="48-642e92">48</a> (rekreant Böhm). č. <a id="54-a684ec">54</a> na Skále (Božena Koublová a <a id="anna-kvardová-224f86">Anna Kvardová)</a> odděleno od č. <a id="53-d82c8d">53</a> a od č. <a id="54-a684ec">54</a>
-oddělené č. <a id="78-35f4a8">78</a> u Svatů (Matura) a č. <a id="77-28dd2c">77</a> u Březáků (M. Kobrová a V. Jancák rekreanti) oddělené od č. <a id="53-d82c8d">53.</a> A teď tu máme **chalupy vzniklé do roku 1700 a brzo po něm na pozemcích od obce ukou-**
-**pených do neomezeného vlastnictví** . Obec měla pozemku také za jeden né malý statek. První od shora byla chalupa č. <a id="7-8f14e4">7</a> dnes už nejsoucí kde se v chalupě nebo u Chalupenských říkalo a k níž patřil pozemek mezi struhou a č. <a id="6-167909">6</a> a <a id="67-735b90">67,</a> pod silnici pod čekárnou a za potokem, to co do kolektivisace vlastnil vysocký Junek. Stavení stálo pod struhou nad sochou <a id="jan-nepomucký-750e14">Jana Nepomuckého</a> a byl z něho
+oddělené č. <a id="78-35f4a8">78</a> u Svatů (Matura) a č. <a id="77-28dd2c">77</a> u Březáků (M. Kobrová a V. Jancák rekreanti) oddělené od č. <a id="53-d82c8d">53.</a> 
+
+A teď tu máme **chalupy vzniklé do roku 1700 a brzo po něm na pozemcích od obce ukoupených do neomezeného vlastnictví** . Obec měla pozemku také za jeden né malý statek. První od shora byla chalupa č. <a id="7-8f14e4">7</a> dnes už nejsoucí kde se v chalupě nebo u Chalupenských říkalo a k níž patřil pozemek mezi struhou a č. <a id="6-167909">6</a> a <a id="67-735b90">67,</a> pod silnici pod čekárnou a za potokem, to co do kolektivisace vlastnil vysocký Junek. Stavení stálo pod struhou nad sochou <a id="jan-nepomucký-750e14">Jana Nepomuckého</a> a byl z něho
 ten zakladatel těch nadací Vodseďálek.
 
 Druhá byla č. <a id="11-6512bd">11</a> na Dolení Krumpešti vystavena <a id="1713-464d82">1713</a> na pozemku od č. <a id="7-8f14e4">7</a> až pod č. <a id="66-3295c7">66.</a>
@@ -11346,12 +11265,7 @@ Polouprutský jenž ho <a id="1825-ed519d">1825</a> postavil, byl dřív na podr
 pod cestou z rokle ke Smetalovem a sice první č. <a id="38-a5771b">38</a> vyhořelé <a id="1908-656997">1908</a> na Podrybníku (od toho, že náhon na hoření mlýn byl výše než domek) nebo u Kvintusů a hned za ním, zadkem do břehu cesty č. <a id="91-54229a">91</a> Karlasů, zbouraný posledním majitelem Špidlenem. Dál je až na konci katastru č. <a id="90-861398">90</a> <a id="otakar-polouprutský-8ce1dd">Otakara
 Polouprutského</a> Chalupa u doleního mlýna.
 Potom je na Malé Straně bývalý domek č. <a id="42-a1d0c6">42</a> u Přezáků jenž se však připojením pozemku od mlýna, stal zemědělskou usedlostí. Další domek byl č. <a id="61-7f39f8">61</a> u Blažtičků, jenž stál před okny č. <a id="30-34173c">30</a>
-a v letech 50 tých zbourán byl. Potom pod starou návesní cestou č. <a id="57-72b32a">57</a> u Holinků, jenž však ve 20 tých letech Bohuslavem Novákem na hospodářství přestavěn (rekreantů Kluc). Potom je stará škola <a id="ladislav-ducháček-3cb824">Ladislava Ducháčka</a> č. <a id="49-f457c5">49</a> a nad ní cestou do silnice Kelnerová č. <a id="50-c0c7c7">50</a> u Procházku. A na Malé
-
-
-Straně poslední pod hájem č. <a id="52-9a1158">52</a> z něhož zbývá stodůlka u Adámků, řečený od <a id="adam-vodseďálek-3875bc">Adama Vodseďálka</a> jenž ho někdy v polovici předminulého století vystavěl. Proto všecky na obci, že se na selském domky stavět nesměly. A málem bychom zapomněli na domek č. <a id="69-14bfa6">69</a> u Hotovičků zbouraný po roce <a id="1945-2d00f4">1945</a>
-jenž stál mezi cestami, tou do rokle a nad č. <a id="38-a5771b">38</a> a tou nad č. <a id="58-66f041">58</a> a <a id="42-a1d0c6">42.</a> Poslední majitelka byla vdova
-<a id="antonie-šaldová-e02bc8">Antonie Šaldová.</a>
+a v letech 50 tých zbourán byl. Potom pod starou návesní cestou č. <a id="57-72b32a">57</a> u Holinků, jenž však ve 20 tých letech Bohuslavem Novákem na hospodářství přestavěn (rekreantů Kluc). Potom je stará škola <a id="ladislav-ducháček-3cb824">Ladislava Ducháčka</a> č. <a id="49-f457c5">49</a> a nad ní cestou do silnice Kelnerová č. <a id="50-c0c7c7">50</a> u Procházku. A na Malé Straně poslední pod hájem č. <a id="52-9a1158">52</a> z něhož zbývá stodůlka u Adámků, řečený od <a id="adam-vodseďálek-3875bc">Adama Vodseďálka</a> jenž ho někdy v polovici předminulého století vystavěl. Proto všecky na obci, že se na selském domky stavět nesměly. A málem bychom zapomněli na domek č. <a id="69-14bfa6">69</a> u Hotovičků zbouraný po roce <a id="1945-2d00f4">1945</a> jenž stál mezi cestami, tou do rokle a nad č. <a id="38-a5771b">38</a> a tou nad č. <a id="58-66f041">58</a> a <a id="42-a1d0c6">42.</a> Poslední majitelka byla vdova <a id="antonie-šaldová-e02bc8">Antonie Šaldová.</a>
 
 
 1\. října ráno a k večeru krásně a zdálo se že po pěkném září, říjen zle se tváří, neb 2. bylo zamračené až tma a větrno a rosilo a 3. po noci s bouřkou ráno na stopu sněhu jenž sice ještě týž den stál. 4. první mráz. 5. a 6. po mrazech sice krásně, zato 7. deštivo hustá mlha a tma celý den a další
@@ -11396,9 +11310,7 @@ To začalo už s německou okupací; německá se nesmělo říkat, protože lid
 <a id="1968-98c724">1968</a> říkali II. okupace. Za té I. okupace byly obecní kroniky uloženy v Praze a tudíž se do nich psalo až potom a tak se do nich mělo psát podle nově vydaných knížek, že všechen odboj měli
 hlavně komunisté a ostatní že jen trpěli nebo byli pro Hitlera.
 Už o tom roce <a id="1945-2d00f4">1945</a> se národu lhalo, že když vypuklo v Praze <a id="povstání-4b65c0">povstání</a> a Praha volala o pomoc, měli lidé strach, aby to s Prahou nedopadlo jako s Varšavou, kterou nechali Rusové rozbít a vyvraždit stojíce nedaleko. A nám se říkalo že spojenci jsouce v západních Čechách nepřišli schválně na
-pomoc a oni jim to Rusové nedovolili chtíce Prahu osvobodit sami a prišli až se Praha osvobodila
-
-sama.
+pomoc a oni jim to Rusové nedovolili chtíce Prahu osvobodit sami a prišli až se Praha osvobodila sama.
 
 Po tom Vítězném unoru jsme měli dvoje úřady; statní a komunistycké a to tak, že strana byla napřed a stát až na druhém místě. Když se řeklo strana, bylo myšleno komunistická a říkalo se naše
 rodná strana, jakož byl někdo dřív komunistou a pak se teprv narodil. Občan byl až na druhém místě, vždyť i hlava státu byl generální tajemník ústředního výboru Komunisticke strany Československa a president republiky. Měli jsme i dvě armády: státní a komunistickou zvanou lidová milice.
@@ -11443,12 +11355,7 @@ padal dál takže 28. ho bylo zas už jako v zimě a padal mokrý dál a trochu 
 25\. jubileum toho vítězství československého pracujícího lidu nad reakcí jenž připravovala puč k návratu poměru jaké byly za té proklínané I. republiky. Přitom tehdy **v roce <a id="1948-7ca57a">1948</a> byl v Praze**
 **sjezd rolnických komisí** jehož se zúčastnili 4 staroveští občané a to <a id="josef-soukup-006cf6">Josef Soukup</a> ml, <a id="václav-žitný-f09ee9">Václav Žitný,</a> jeho švakr <a id="františek-knížek-934029">František Knížek</a> a <a id="jaroslav-večerník-b04539">Jaroslav Večerník.</a> Na noc byli u Žitného bratra v Čakovicích. Soukup
 tam tehdy koupil od berního úředníka <a id="vladimír-koldovský-cb6750">Vladimíra Koldovského</a> kus pole zvaný Okrouhlík o čemž už byli psaním dohodnoti podle tehdejšího hesla „půdu těm kdož na ní pracuji!“ Žitný a Knížek
-nájemci usedlosti se také domáhali vlastnictví půdy a Večerník tam byl ze zvědavosti a byla to první jeho cesta do Prahy. Tehdy před museem jeden řečnících k plnému Václavského náměstí mezi
-
-
-jiným pravil „chtějí vám namluvit, že vám chceme nadělat kolchozu, i nenechte si to namluvit, <a id="kolchoz-560a0a">kolchozy</a> se na poměry u nás nehodí“. Už dopoledne vyvolávali prodávači novin „Drtina skočil
-z okna!“ a daleko li bylo do skočení z okna <a id="jan-masaryk-978aac">Jana Masaryka.</a> Když šli staroveští domu od nádraží, vyslovil Knížek obavu „já jen aby nám z toho nechtěli nadělat kolchozů“ a Soukup mu odpověděl
-„kdepak Frantiku, vždyť jsi to slyšel“.
+nájemci usedlosti se také domáhali vlastnictví půdy a Večerník tam byl ze zvědavosti a byla to první jeho cesta do Prahy. Tehdy před museem jeden řečnících k plnému Václavského náměstí mezi jiným pravil „chtějí vám namluvit, že vám chceme nadělat kolchozu, i nenechte si to namluvit, <a id="kolchoz-560a0a">kolchozy</a> se na poměry u nás nehodí“. Už dopoledne vyvolávali prodávači novin „Drtina skočil z okna!“ a daleko li bylo do skočení z okna <a id="jan-masaryk-978aac">Jana Masaryka.</a> Když šli staroveští domu od nádraží, vyslovil Knížek obavu „já jen aby nám z toho nechtěli nadělat kolchozů“ a Soukup mu odpověděl „kdepak Frantiku, vždyť jsi to slyšel“.
 O tom vítězství pracujícího lidu se tehdy vyjádřil <a id="rudolf-skrbek-b7c3fc">Rudolf Skrbek</a> z Roztok „odstrčili od žlábku zažraná prasata a táhle nezažraná sežerou i žlábek“.
 
 
@@ -11473,10 +11380,8 @@ Poslední týden března <a id="josef-polouprutský-403545">Josef Polouprutský<
 Celý první týden dubna byly přimrazky, v noci 3. se blýskalo; 4. kterýž den oslavovali ještě vloni soudruzi státní svátek maďarské lidové republiky který teď už ani Maďaři neslavili… se řídce trousil sníh a bylo mrazivo; 11. na Škaredou středu zamračené az tma a padal sníh až bílo zůstalo až do
 večera kdy přišel důkladný dešť. Na Velkou neděli přešel dešť odpoledne v troušení sněhu; jak stoupalo náboženské uvědomnění po 40 let potlačované, vidno z toho, že Velkou neděli bylo ve Sboru
 Československé církve ve Vysokém pokřtěno 11 nejen děti ale i dospělých.
-První brambory ve vsi sázel <a id="václav-žitný-f09ee9">Václav Žitný</a> ještě do Velikonoc; šťovík, pampelišky a jiné již kvetly a byly krátké což velkou úrodu krmení neslibovalo. Velikonoční pondělí (16.) krásně ale odpoledne
+První brambory ve vsi sázel <a id="václav-žitný-f09ee9">Václav Žitný</a> ještě do Velikonoc; šťovík, pampelišky a jiné již kvetly a byly krátké což velkou úrodu krmení neslibovalo. Velikonoční pondělí (16.) krásně ale odpoledne se zamračilo; děti po koledě chodily ale čekaly patrně že dostanou cukroví, čokoládu nebo peníze, protože vařená vejce zahazovaly.
 
-
-se zamračilo; děti po koledě chodily ale čekaly patrně že dostanou cukroví, čokoládu nebo peníze, protože vařená vejce zahazovaly.
 17\. se ještě v dešti rozléval sníh kterýž den uřízla hoblovačka <a id="josef-polouprutský-403545">Josefu Polouprutskému</a> st. 3 prsty pravé ruky z nichž mu 2 v nemocnici nasadili ale třetí nalezen nebyl.
 21\. k večeru bouřka s deštěm kdy do Prahy na pozvání presidenta Havla přiletěl papež <a id="jan-pavel-63dc55">Jan Pavel</a> II., který by sem byl chtěl už na tisícileté oslavy arcibiskupa Metoděje což tehdejší mocipáni odmítli. Druhý den byl na Moravě a na Slovensku kterýž den slavili soudruzi 120. narozeniny svého mesiáše Lenina.
 23\. začaly rané třešně kvést a pozdní a višně až 1. května proto že přišlo deštivo a zima a zároveň se zazelenaly buky a jiné lesní listnaté stromy. Při té papežově návštěvě Prahy byla ze Staré Vsi přítomna <a id="marta-čermáková-6d4aec">Marta Čermáková</a> č. <a id="93-98dce8">93.</a>
@@ -11722,15 +11627,12 @@ _Od potomků kronikářů z rodu rodiny Večerníků ze Staré Vsi jsem dostala 
 _několik knih a sešitů Kroniky Staré Vsi. Jedná se o vzácnou historickou památku, kterou poskytli_
 _potomci <a id="jaroslav-večerník-b04539">Jaroslava Večerníka,</a> stále žijící ve Staré Vsi._
 _V knize, kterou držíte ve svých rukách, jsou přepsané původní rukopisy z této kroniky. Nejstarší_
-_části obsahují záznamy ze starých gruntovních knih ze semilského a navarovského panství z let ko lem_
+_části obsahují záznamy ze starých gruntovních knih ze semilského a navarovského panství z let kolem_
 _roku <a id="1600-9e984c">1600.</a> Rukopisy pokračují až do roku 1953 a potom volně navazují záznamy z let <a id="1979-798ceb">1979</a> – <a id="1991-96055f">1991._</a>
 _Autor, mimo jiné, čerpal i z pamětí <a id="jana-hous-65c743">Jana Housy._</a>
-_Některá období v originále této kroniky vůbec zaznamenána nebyla anebo jsou zaznamenána jin-_
-_de. Text je místy obtížně čitelný pro drobnost písma nebo sešlost časem, někde jsou rozmazaná nebo_
-_nečitelná slova, čísla nebo jména. Text je většinou psaný inkoustem nebo obyčejnou tužkou._
+_Některá období v originále této kroniky vůbec zaznamenána nebyla anebo jsou zaznamenána jinde. Text je místy obtížně čitelný pro drobnost písma nebo sešlost časem, někde jsou rozmazaná nebo nečitelná slova, čísla nebo jména. Text je většinou psaný inkoustem nebo obyčejnou tužkou._
 _Při čtení kroniky bylo zřejmé, že česká gramatika v minulých dvou staletích ještě nebyla ustálená,_
-_což komplikovalo srozumitelnost textu, a navíc bylo jasné, že mnohé výrazy už zanikly. Další kompli-_
-_kace s porozuměním textu vznikla tím, že na posledních stranách kroniky pan kronikář dopisoval text_
+_což komplikovalo srozumitelnost textu, a navíc bylo jasné, že mnohé výrazy už zanikly. Další komplikace s porozuměním textu vznikla tím, že na posledních stranách kroniky pan kronikář dopisoval text_
 _zvláštním způsobem. Následující dva roky po konci záznamů (roky 1952 a <a id="1953-a38b16">1953)</a> vepsal na přeskáčku_
 _do všech předchozích stránek podle toho, kde zbývalo na stránce volné místo._
 _Cílem mého přepisu (tištěného vydání nebo textu v elektronické podobě) bylo zachování této vzácné_
@@ -11741,14 +11643,11 @@ _Snažila jsme se co nejvěrněji zachovat původní text, což může čtenář
 _Jedná se například o tyto výrazy: hnojnice (močůvka), sníh stál (sníh roztál), může (muže), resoluce_
 _cis (císařská rezoluce), šešel (jetel na uzrání na semeno), dumlik (tuřín), čkalo se (čekalo se), Jáchim_
 _(Jáchym), poustání (povstání), němci (Němci), urány (vrány), freimarčil/frejmarčil, krunt (grunt),_
-_švakr (švagr), vednevnoci (ve dne v noci), sůčastnil se (zúčastnil se), obhad/obhádnut (odhad/odhad-_
-_nut) atd. Používání uvozovek bývalo jen na začátku citace, zápis dat je často formou 16_ [24/12] _88_
+_švakr (švagr), vednevnoci (ve dne v noci), sůčastnil se (zúčastnil se), obhad/obhádnut (odhad/odhadnut) atd. Používání uvozovek bývalo jen na začátku citace, zápis dat je často formou 16_ [24/12] _88_
 _(24. 12. <a id="1688-ae614c">1688)._</a>
-_Při čtení původního textu jsem se často setkala s nekonečně dlouhými souvětími, s neobvyklým řa-_
-_zením slov v souvětích a občas s náhodným používáním čárek, čímž se mnohdy ztrácel smysl vět. Při_
+_Při čtení původního textu jsem se často setkala s nekonečně dlouhými souvětími, s neobvyklým řazením slov v souvětích a občas s náhodným používáním čárek, čímž se mnohdy ztrácel smysl vět. Při_
 _přepisu textu jsem proto někde čárky přidávala, nicméně většina jich stejně chybí. Některé pasáže se_
-_opakují, protože byly zřejmě vícekrát přepisované. Z tohoto důvodu bylo problematické dělat závěreč-_
-_nou korekturu přepsaného textu. Zájemci o historii obce Stará Ves si ale jistě s textem poradí._
+_opakují, protože byly zřejmě vícekrát přepisované. Z tohoto důvodu bylo problematické dělat závěrečnou korekturu přepsaného textu. Zájemci o historii obce Stará Ves si ale jistě s textem poradí._
 
 
 _Všem přeji radost z nahlédnutí do dávných i relativně nedávných časů._
@@ -11757,13 +11656,14 @@ _Všem přeji radost z nahlédnutí do dávných i relativně nedávných časů
 _Ludmila Böhmová_
 
 _ludmila.bohmova@gmail.com_
+
 _Čeněk Pova_
 
 _cenek.pova@gmail.com_
+
 _červen 2024_
 
 
 _fotografie ze sbirky <a id="jaroslav-večerník-b04539">Jaroslava Večernika</a> a <a id="zdeněk-kudr-7df6fa">Zdeňka Kudra_</a>
 _grafická úprava textu, <a id="petra-grulichová-dfe0f3">Petra Grulichová_</a>
-
 

@@ -23,12 +23,6 @@ cd docs-site
 uv run mkdocs serve
 ```
 
-### Deploy to GitHub Pages 
-```
-cd docs-site
-uv run mkdocs gh-deploy
-```
-
 ## Data Files
 The processing pipeline consumes and generates several data files located in the `data/` directory.
 
@@ -59,16 +53,28 @@ The processing pipeline consumes and generates several data files located in the
 
 ## Workflows
 
-### 1. Regenerate All Content
-To run the entire data processing pipeline from scratch, execute the `full_cycle.bat` script. This will:
-1.  Convert the PDF to markdown (`md_create.py`).
-2.  Process the markdown and extract entities (`md_process.py`).
-3.  Split the content into chapters and generate indexes (`md_split.py`).
-4.  Generate the website navigation (`md_generate_nav.py`).
-5.  Copy the generated files to the `docs-site/docs` directory.
+### 1. Regenerate from source data changes (typical workflow)
+When `data/kronika.md` or any supporting data file (`chapter_mapping.jsonl`, `name_base_form.jsonl`, etc.) is modified, run:
+```bat
+run.bat
+```
+This will:
+1. Clear the generated `output/chapters/`, `output/indexes/`, `docs-site/docs/chapters/`, `docs-site/docs/indexes/` directories.
+2. Run `md_process.py` — entity recognition, generates `kronika_plus.md` and `index_data.jsonl`.
+3. Run `md_split.py` — splits content into chapter and index files in `output/`.
+4. Copy generated files to `docs-site/docs/chapters/` and `docs-site/docs/indexes/`.
+5. Run `md_generate_nav.py` — updates `docs-site/mkdocs.yml` navigation.
 
-### 2. Handling Source Content Changes
-When the source `data/kronika.md` or any of the supporting data files (`chapter_mapping.jsonl`, `name_base_form.jsonl`, etc.) are modified, you should run the `run.bat` script. This script executes the main processing steps to update the website content:
-1.  `md_process.py`
-2.  `md_split.py`
-3.  `md_generate_nav.py`
+> Manually maintained files (`docs-site/docs/index.md`, `about.md`, `images/`) are not touched.
+
+### 2. Serve the site locally
+```bat
+cd docs-site
+uv run mkdocs serve
+```
+
+### 3. Deploy to GitHub Pages
+```bat
+cd docs-site
+uv run mkdocs gh-deploy
+```

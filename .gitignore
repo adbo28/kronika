@@ -22,3 +22,4 @@ _*.py
 
 .env
 CLAUDE.md
+data/kronika_old.md
